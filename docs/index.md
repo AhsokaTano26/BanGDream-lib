@@ -55,17 +55,27 @@ hide:
 <div class="grid cards" markdown>
 
 <div class="card" markdown>
-  :material-star-circle:{ .xxl } **Poppin'Party**
+
+  <div class="card-afterglow-img">
+    <img src="https://tano.asia/upload/Poppin_Party1.jpg" alt="Poppin'Party Logo">
+  </div>
+
+**Poppin'Party**
   ---
   **关键词：** 初心、羁绊、闪耀。
 
 以户山香澄为中心，带来积极、清新、充满希望的音乐。
 
-[:octicons-arrow-right-24: 探索 PoPiPa](bands/poppin-party.md)
+[:octicons-arrow-right-24: 探索 PoPiPa](https://tano.asia/bangdream/poppin-party.html)
 </div>
 
 <div class="card" markdown>
-  :material-flower-tulip:{ .xxl } **Roselia**
+
+  <div class="card-afterglow-img">
+    <img src="https://tano.asia/upload/Roselia_v2.jpg" alt="Roselia Logo">
+  </div>
+
+**Roselia**
   ---
   **关键词：** 约定、高傲、技术流。
 
@@ -75,7 +85,12 @@ hide:
 </div>
 
 <div class="card" markdown>
-  :material-diamond-stone:{ .xxl } **Raise A Suilen (RAS)**
+
+  <div class="card-afterglow-img">
+    <img src="https://tano.asia/upload/Poppin_Party1.jpg" alt="Raise A Suilen Logo">
+  </div>
+
+**Raise A Suilen (RAS)**
   ---
   **关键词：** 力量、电子、冲击力。
 
@@ -85,7 +100,12 @@ hide:
 </div>
 
 <div class="card" markdown>
-  :material-guitar-acoustic:{ .xxl } **Afterglow**
+
+  <div class="card-afterglow-img">
+    <img src="https://tano.asia/upload/Afterglow_er_v2.jpg" alt="Afterglow Logo">
+  </div>
+
+**Afterglow**
   ---
   **关键词：** 青梅竹马、不变、纯粹摇滚。
 
@@ -95,7 +115,12 @@ hide:
 </div>
 
 <div class="card" markdown>
-  :material-clown:{ .xxl } **Hello, Happy World! (HHW)**
+
+  <div class="card-afterglow-img">
+    <img src="https://tano.asia/upload/Hello,_Happy_World!_v2.jpg" alt="Hello, Happy World! Logo">
+  </div>
+
+**Hello, Happy World!**
   ---
   **关键词：** 幸福、笑容、世界和平。
 
@@ -105,7 +130,12 @@ hide:
 </div>
 
 <div class="card" markdown>
-  :material-palette:{ .xxl } **Pastel＊Palettes**
+
+  <div class="card-afterglow-img">
+    <img src="https://tano.asia/upload/Pastel_Palettes_v2.jpg" alt="Pastel＊Palettes Logo">
+  </div>
+
+**Pastel＊Palettes**
   ---
   **关键词：** 偶像、闪光、纯粹。
 
@@ -115,7 +145,12 @@ hide:
 </div>
 
 <div class="card" markdown>
-  :material-butterfly:{ .xxl } **Morfonica**
+
+  <div class="card-afterglow-img">
+    <img src="https://tano.asia/upload/Poppin_Party1.jpg" alt="Morfonica Logo">
+  </div>
+
+**Morfonica**
   ---
   **关键词：** 大小姐、小提琴、蜕变。
 
@@ -125,7 +160,12 @@ hide:
 </div>
 
 <div class="card" markdown>
-  :material-microphone-variant:{ .xxl } **MyGO!!!!!**
+
+  <div class="card-afterglow-img">
+    <img src="https://tano.asia/upload/Poppin_Party1.jpg" alt="MyGO!!!!! Logo">
+  </div>
+
+**MyGO!!!!!**
   ---
   **关键词：** 迷失、彷徨、真实。
 
@@ -135,7 +175,12 @@ hide:
 </div>
 
 <div class="card" markdown>
-  :material-chess-queen:{ .xxl } **Ave Mujica**
+
+  <div class="card-afterglow-img">
+    <img src="https://tano.asia/upload/Poppin_Party1.jpg" alt="Ave Mujica Logo">
+  </div>
+
+**Ave Mujica**
   ---
   **关键词：** 面具、虚妄、命运。
 
@@ -145,7 +190,12 @@ hide:
 </div>
 
 <div class="card" markdown>
-  :material-dots-horizontal:{ .xxl } **更多内容**
+
+  <div class="card-afterglow-img">
+    <img src="https://tano.asia/upload/Poppin_Party1.jpg" alt="Afterglow Logo">
+  </div>
+
+**更多内容**
   ---
   **期待：** 角色介绍、剧情回顾、曲目列表等...
 

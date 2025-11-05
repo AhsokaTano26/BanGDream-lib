@@ -18,17 +18,17 @@ theme:
     - content.code.annotate
   palette:
     - scheme: default
-      primary: #4CAAF8
+      primary: indigo
       accent: pink
       toggle:
-        icon: material/toggle-switch-off-outline
-        name: 切换到深色模式
+          icon: material/toggle-switch-off-outline
+          name: 切换到深色模式
     - scheme: slate
-      primary: red
+      primary: indigo
       accent: pink
       toggle:
-        icon: material/toggle-switch
-        name: 切换到浅色模式
+          icon: material/toggle-switch
+          name: 切换到浅色模式
   language: zh
 
 markdown_extensions:
@@ -43,3 +43,15 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/AhsokaTano26/BanGDream-lib
+      name: GitHub 仓库
+    - icon: fontawesome/brands/bilibili
+      link: https://www.bilibili.com/
+      name: Bilibili 官方
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/bang_dream_gbp
+      name: 官方 Twitter

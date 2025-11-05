@@ -1,0 +1,20 @@
+/* docs/stylesheets/extra.css */
+
+/* 针对 Afterglow 卡片的自定义样式 */
+.card-afterglow-img {
+    /* 强制居中 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* 设定高度，确保和图标一样高 */
+    min-height: 4.8rem; /* XXL 图标的高度 */
+    margin-bottom: 0.2rem;
+}
+
+.card-afterglow-img img {
+    /* 图片最大宽度和高度 */
+    max-width: 4.8rem;
+    max-height: 4.8rem;
+    /* 让图片看起来更像图标（可选） */
+    border-radius: 50%;
+}
