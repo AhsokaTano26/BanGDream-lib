@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: BangDream
+site_url: https://bangdream.tano.asia/
+site_description: 重庆大学资源共享计划（CQU-openlib）
+
+repo_url: https://github.com/AhsokaTano26/BanGDream-lib
+repo_name: BanGDream-lib
+
+copyright: Copyright &copy; 2024 - 2025 AhsokaTano26
+
+theme:
+  name: material
+  language: zh
