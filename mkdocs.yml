@@ -6,7 +6,40 @@ repo_url: https://github.com/AhsokaTano26/BanGDream-lib
 repo_name: BanGDream-lib
 
 copyright: Copyright &copy; 2024 - 2025 AhsokaTano26
+nav:
+  - Home: index.md
+  - About: about.md
 
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - search.suggest
+    - content.code.annotate
+  palette:
+    - scheme: default
+      primary: #4CAAF8
+      accent: pink
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: 切换到深色模式
+    - scheme: slate
+      primary: red
+      accent: pink
+      toggle:
+        icon: material/toggle-switch
+        name: 切换到浅色模式
   language: zh
+
+markdown_extensions:
+  - meta
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - md_in_html
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
