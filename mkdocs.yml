@@ -9,6 +9,7 @@ copyright: Copyright &copy; 2024 - 2025 AhsokaTano26
 nav:
   - Home: index.md
   - About: about.md
+  - Live/Event: live/index.md
 
 theme:
   name: material
