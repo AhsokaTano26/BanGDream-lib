@@ -58,7 +58,8 @@ extra:
           name: 没帮助
           data: 0
           note: >-
-            感谢反馈T_T<br>您可以提交issue或<a href="mailto:public@tano.asia">邮件联系</a>来反馈问题，帮助我们改进！<br>拜托了
+            感谢反馈T_T<br>您可以<a href="https://github.com/AhsokaTano26/BanGDream-lib/issues/new">提交 issue</a>
+            或<a href="mailto:public@tano.asia">邮件联系</a>来反馈问题，帮助我们改进！<br>拜托了
   generator: false
   social:
     - icon: fontawesome/brands/github
