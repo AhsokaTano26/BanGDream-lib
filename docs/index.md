@@ -10,7 +10,7 @@ hide:
 # 🎼 BanG Dream! 女子乐队派对
 
 <figure>
-  <img src="https://tano.asia/upload/BanG_Dream.jpg" alt="BanG Dream! 主视觉图" width="100%" />
+  <img src="https://image.tano.asia/BanGDream/BanG_Dream.jpg" alt="BanG Dream! 主视觉图" width="100%" />
   <figcaption>
     “想要更闪耀！想要更心动！”—— BanG Dream!
   </figcaption>
