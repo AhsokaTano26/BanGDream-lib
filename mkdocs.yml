@@ -1,15 +1,11 @@
-site_name: BangDream
+site_name: BanGDream
 site_url: https://bangdream.tano.asia/
-site_description: 重庆大学资源共享计划（CQU-openlib）
+site_description: BanGDream应援站
 
 repo_url: https://github.com/AhsokaTano26/BanGDream-lib
 repo_name: BanGDream-lib
 
 copyright: Copyright &copy; 2024 - 2025 AhsokaTano26
-nav:
-  - Home: index.md
-  - About: about.md
-  - Live/Event: events/index.md
 
 theme:
   name: material
@@ -44,9 +40,26 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - pymdownx.superfences # 支持自定义容器 (Grids)
+  - pymdownx.superfences
 
 extra:
+  analytics:
+    provider: google
+    property: G-VT413TW5MF
+    feedback:
+      title: 页面是否还符合您心意？
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: 有帮助
+          data: 1
+          note: >-
+            感谢反馈>_<！
+        - icon: material/emoticon-sad-outline
+          name: 没帮助
+          data: 0
+          note: >-
+            感谢反馈T_T<br>您可以提交issue或<a href="mailto:public@tano.asia">邮件联系</a>来反馈问题，帮助我们改进！<br>拜托了
+  generator: false
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/AhsokaTano26/BanGDream-lib
@@ -57,3 +70,338 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/bang_dream_gbp
       name: 官方 Twitter
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Live/Event:
+    - events/index.md
+    - 2026:
+        - Q3:
+            - MyGO!!!!! 9th LIVE: events/2026/Q3/mygo_9th.md
+        - Q2:
+            - MyGO!!!!!の「迷子集会」出張版 第三弾: events/2026/Q2/maigocenter-event3.md
+            - Poppin'Party×Roselia 合同ライブ: events/2026/Q2/ppp-roselia2026.md
+            - Ave Mujica LIVE TOUR 2026「Exitus」: events/2026/Q2/avemujica_livetour.md
+        - Q1:
+            - MEGA VEGAS 2026 : events/2026/Q1/megavegas2026.md
+            - MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」: events/2026/Q1/mygo-avemujica2026.md
+            - BanG Dream! 10th Anniversary LIVE「In the name of BanG Dream!」: events/2026/Q1/bangdream-10th-anniversary-live.md
+            - Morfonica トークイベント「モニ会へようこそ♪～放課後のお茶会～」: events/2026/Q1/morfonica_talk_2026.md
+            - Poppin'Party New Year LIVE「Happy BanG Year!!」: events/2026/Q1/ppp_live2026.md
+            - リスアニ！LIVE 2026: events/2026/Q1/lisani2026.md
+            - RAISE A SUILEN×Fear, and Loathing in Las Vegas「Drown Out the Noise」: events/2026/Q1/ras-vegas2026.md
+            - カードファイト!! ヴァンガード 15th Anniversary ブシロード新春大発表会2026: events/2026/Q1/2026newyear_launch_event.md
+            - Ave Mujica トークイベント「UNMASQUERADE」: events/2026/Q1/avemujica_talkevent_2026.md
+    - 2025:
+        - Q4:
+            - RAISE A SUILEN×トゲナシトゲアリ「RAISE MY CATHARSIS」 : events/2025/Q4/ras-togetoge.md
+            - MyGO!!!!! 8th LIVE「想いのかたちが積もるとき」: events/2025/Q4/mygo_8th.md
+            - Morfonica 5th Anniversary LIVE「Maestoso」: events/2025/Q4/morfonica_live_2025.md
+            - 千石ユノ主催DJイベント「YUNO’s PARTY Lv.2」: events/2025/Q4/yumemita_yunos_party_lv2.md
+            - Ave Mujica 6th LIVE「Ulterius Procedere」: events/2025/Q4/avemujica_6th_osaka.md
+            - 集え！ゆめみた筋トレ部 ～君も部員にならないか？～: events/2025/Q4/yumemita_kinntorebu.md
+            - JR東海 presents 出発進行！バンドリ！10周年記念トークジャーニー！: events/2025/Q4/bangdream-10th-talkjourney.md
+            - 夢限大みゅーたいぷ 47都道府県制覇の旅 「スーパーポジション 〜夢限大編〜」@石川: events/2025/Q4/yumemita_superposition_mugendai_ishikawa.md
+            - Roselia ASIA TOUR「Neuweltfahrt」: events/2025/Q4/neuweltfahrt-taipei.md
+            - 夢限大みゅーたいぷ デビュー2周年記念配信！ 公開収録: events/2025/Q4/yumemita_secondanniversary.md
+            - RAISE A SUILEN 2DAYS LIVE「RUMBLEHEADZ」: events/2025/Q4/ras_2025live.md
+            - ARALE Acoustic LIVE ～Copal～: events/2025/Q4/arale_acousticlive2025.md
+            - MyGO!!!!!×Ave Mujica 合同ライブ「わかれ道の、その先へ」上海追加公演: events/2025/Q4/mygo-avemujica2025_shanghai.md
+            - RoseliaのRADIO SHOUT! -rede weiter-: events/2025/Q4/radioshout_rede_weiter.md
+        - Q3:
+            - 夢限大みゅーたいぷ 4th LIVE「アンロック・ザ・フューチャー」 : events/2025/Q3/yumemita_4th.md
+            - rockin'on presents ROCK IN JAPAN FESTIVAL 2025: events/2025/Q3/rijf2025.md
+            - ナガノアニエラフェスタ2025: events/2025/Q3/anierafesta2025.md
+            - Roselia 16th・17th Single 購入者限定抽選式フリーライブ「Stolz」: events/2025/Q3/roselia_2025free.md
+            - LuckyFes'25: events/2025/Q3/luckyfes2025.md
+            - Animelo Summer Live 2025 “ThanXX!”: events/2025/Q3/asl2025.md
+            - Poppin'Party Global LIVE 2025「Shiny High-Five!!」: events/2025/Q3/ppp_live2025_shanghai.md
+            - SUMMER SONIC 2025: events/2025/Q3/summersonic2025.md
+            - MyGO!!!!!の「迷子集会」出張版 第二弾 - 日常の欠片 -: events/2025/Q3/maigocenter-event2.md
+            - Ave Mujica 5th LIVE「Nova Historia」: events/2025/Q3/avemujica_5th.md
+            - MyGO!!!!! ZEPP TOUR 2025「心のはしを辿って」: events/2025/Q3/mygo_tour2025_sapporo.md
+            - BILIBILI MACRO LINK 2025 (BML2025: events/2025/Q3/bml2025.md
+            - BilibiliWorld 2025（BW2025）: events/2025/Q3/bw2025.md
+        - Q2:
+            - ANISAMA WORLD 2025 in MANILA : events/2025/Q2/asl-manila2025.md
+            - Roselia「Sei stark」: events/2025/Q2/roselia2025live.md
+            - RAISE A SUILEN LIVE 2025「REBEL SOUNDWAVE」: events/2025/Q2/ras_2025.md
+            - 夢限大みゅーたいぷ 3rd LIVE「ふりーてぃんぐ もーめんと」: events/2025/Q2/yumemita_3rd.md
+            - Poppin'Party 10th Anniversary LIVE「ホシノコドウ」: events/2025/Q2/ppp_live2025.md
+            - ANISAMA WORLD 2025 in TAOYUAN: events/2025/Q2/asl-taoyuan2025.md
+            - マチ★アソビvol.28: events/2025/Q2/machiasobi2025.md
+            - 夢限大みゅーたいぷ 対バンライブ「えんかうんた～」: events/2025/Q2/yumemita_encounter_vol5.md
+            - JAPAN JAM 2025: events/2025/Q2/japanjam2025.md
+            - MyGO!!!!!×Ave Mujica 合同ライブ「わかれ道の、その先へ」: events/2025/Q2/mygo-avemujica2025.md
+            - Morfonica LIVE「Rubato」: events/2025/Q2/morfonica_live2025.md
+        - Q1:
+            -  AnimeJapan 2025 : events/2025/Q1/animejapan2025.md
+            -  MEGA VEGAS 2025 : events/2025/Q1/megavegas2025.md
+            -  Poppin'Partyトークイベント「ポピパの新学期！」 : events/2025/Q1/pp_event_2025.md
+            -  Ave Mujica「KiLLKiSS」購入者限定フリーライブ : events/2025/Q1/avemujica_2025free.md
+            -  Pastel＊Palettes Special Event「Together!!」 : events/2025/Q1/psplsp2025.md
+            -  RoseliaのRADIO SHOUT! -Spaß- : events/2025/Q1/radioshout_event2025.md
+            -  リスパレ！LIVE vol.2 : events/2025/Q1/lispale2.md
+            -  夢限大みゅーたいぷ 2nd LIVE「でぃすかばりー☆じゃーにー」 : events/2025/Q1/yumemita_2nd.md
+            -  Roselia「Stille Nacht, Rosen Nacht」上海追加公演 : events/2025/Q1/rosen-nacht_shanghai.md
+            -  リスアニ！LIVE 2025 : events/2025/Q1/lisani2025.md
+            -  NANIMONO × 夢限大みゅーたいぷ 『新人類は何者かになる夢を見るか？』 : events/2025/Q1/yumemita_nanimono_taiban.md
+            -  ブシロード新春大発表会 2025 : events/2025/Q1/2025newyear_launch_event.md
+            -  MyGO!!!!!×トゲナシトゲアリ「Avoid Note」 : events/2025/Q1/mygo-togetoge.md
+    - 2024:
+        - Q4:
+            -  RAISE A SUILEN ZEPP TOUR 2024-2025「PANDEMONIUM」 : events/2024/Q4/ras-tour2024-2025.md
+            -  夢限大みゅーたいぷ　千石ユノ主催DJイベント「YUNO’s PARTY Lv.1」 : events/2024/Q4/yumemita_yunos_party_lv1.md
+            -  MyGO!!!!! 7th LIVE「こたえなんてなくても」 : events/2024/Q4/mygo_7th.md
+            -  MyGO!!!!! 7th LIVE「こたえなんてなくても」事前/当日物販 : events/2024/Q4/20241221_jizenbuppan.md
+            -  TVアニメ「BanG Dream! Ave Mujica」グローバル先行上映会 : events/2024/Q4/avemujica_global.md
+            -  TVアニメ「BanG Dream! Ave Mujica」#1 世界最速同時上映会 : events/2024/Q4/avemujica_20241201.md
+            -  Ave Mujica 4th LIVE「Adventus」 : events/2024/Q4/avemujica_4th.md
+            -  Roselia「Stille Nacht, Rosen Nacht」 : events/2024/Q4/roselia2024winter.md
+            -  バンドリ！とれたてカラフル♪収穫祭 feat. Dreamer's Tunes : events/2024/Q4/bang-dream-talk2024.md
+            -  ANIMAX MUSIX 2024 FALL : events/2024/Q4/animax2024.md
+            -  夢限大みゅーたいぷ 定期公演「ぷれぱれ〜しょん！」 : events/2024/Q4/yumemita_preparation.md
+            -  Poppin'Party LIVE 2024「Poppin'Canvas 〜芸術の秋、音楽の秋！〜」 : events/2024/Q4/ppp2024.md
+            -  Ave Mujica 3rd LIVE「Veritas」 : events/2024/Q4/avemujica_3rd.md
+            -  Morfonica Concept LIVE「ff」 : events/2024/Q4/morfonica_ff2024.md
+        - Q3:
+            -  ナガノアニエラフェスタ2024 : events/2024/Q3/anierafesta2024.md
+            -  MyGO!!!!! 6th LIVE「見つけた景色、たずさえて」上海追加公演 : events/2024/Q3/mygo_6th_shanghai.md
+            -  Harezaの日 4th Anniversary SUMMER FESTIVAL 2024 : events/2024/Q3/hareza_4thanniv.md
+            -  rockin'on presents ROCK IN JAPAN FESTIVAL 2024 : events/2024/Q3/rijf2024.md
+            -  Animelo Summer Live 2024 -Stargazer- : events/2024/Q3/asl2024.md
+            -  夢限大みゅーたいぷ 1st LIVE「めたもるふぉーぜ」 : events/2024/Q3/yumemita_1st.md
+            -  コミックマーケット104 : events/2024/Q3/comiket104.md
+            -  MyGO!!!!! 6th LIVE「見つけた景色、たずさえて」 : events/2024/Q3/mygo_6th.md
+            -  LuckyFes'24 : events/2024/Q3/luckyfes2024.md
+            -  Bilibili World 2024 : events/2024/Q3/bw2024.md
+            -  RAISE A SUILEN ASIA TOUR 2024 : events/2024/Q3/ras-asiatour2024.md
+            -  BILIBILI MACRO LINK 2024 (BML2024 : events/2024/Q3/bml2024.md
+        - Q2:
+            -  Ave Mujica 2nd LIVE「Quaerere Lumina」 : events/2024/Q2/avemujica_2nd.md
+            -  MyGO!!!!!の「迷子集会」出張版 -奏字音という日常- : events/2024/Q2/maigocenter-event.md
+            -  RAISE A SUILEN LIVE 2024「ESSENTIALS」 : events/2024/Q2/ras_2024.md
+            -  上海·申放送-Virtual Super Live-2024 in Shanghai : events/2024/Q2/virtualsuperlive2024.md
+            -  Afterglow「After School Event 夕景の一頁」 : events/2024/Q2/afterglow_after_school_event.md
+            -  Poppin'Party×MyGO!!!!! 合同ライブ「Divide/Unite」 : events/2024/Q2/pp_mygo.md
+            -  JAPAN JAM 2024 : events/2024/Q2/japanjam2024.md
+            -  Morfonica Concept LIVE「forte」 : events/2024/Q2/morfonica_forte2024.md
+        - Q1:
+            -  MEGA VEGAS 2024 : events/2024/Q1/megavegas2024.md
+            -  2Roselia LIVE TOUR「Rosenchor」 : events/2024/Q1/rosenchor-shanghai.md
+            -  MyGO!!!!! ZEPP TOUR 2024「彷徨する渇望」 : events/2024/Q1/mygo_tour2024.md
+            -  ブシロード新春大発表会 2024 : events/2024/Q1/2024newyear_launch_event.md
+            -  リスアニ！LIVE 2024 : events/2024/Q1/lisani2024.md
+            -  Ave Mujica 1st LIVE「Perdere Omnia」 : events/2024/Q1/avemujica_1st.md
+    - 2023:
+        - Q4:
+            -  コミックマーケット103 : events/2023/Q4/comiket103.md
+            -  COUNTDOWN JAPAN 23/24 : events/2023/Q4/cdj2024.md
+            -  BanG Dream! 12th☆LIVE DAY3 RAISE A SUILEN 「REVEAL」 : events/2023/Q4/12th-live.md
+            -  BanG Dream! 12th☆LIVE DAY2 MyGO!!!!!「ちいさな一瞬」 : events/2023/Q4/12th-live.md
+            -  BanG Dream! 12th☆LIVE DAY1 Poppin'Party 「Welcome to Poppin'Land」 : events/2023/Q4/12th-live.md
+            -  ヴァイスシュヴァルツ15周年記念ライブ : events/2023/Q4/ws15th-live.md
+            -  中之島アニメBOX「BanG Dream! It's MyGO!!!!!スペシャルトークショー」 : events/2023/Q4/osaka-kitena.md
+            -  ANIMAX MUSIX 2023 : events/2023/Q4/animax2023.md
+            -  Morfonica トークイベント「モニ会へようこそ♪〜ZEPP TOUR 2023 forte お疲れ会〜」 : events/2023/Q4/morfonica_talk_2023.md
+        - Q3:
+            -  ハロー、ハッピーワールド！ スペシャルイベント「ハッピー！ラッキー！スマイル！フェスティバル！」 : events/2023/Q3/hhw_2023.md
+            -  TOKYO GAME SHOW 2023 : events/2023/Q3/tgs2023.md
+            -  Roselia「Farbe」 : events/2023/Q3/roselia_2023.md
+            -  3rd Anniversary SUMMER FESTIVAL 2023 : events/2023/Q3/hareza_3rdanniv.md
+            -  Animelo Summer Live 2023 -AXEL- : events/2023/Q3/asl2023.md
+            -  コミックマーケット102 : events/2023/Q3/comiket102.md
+            -  MyGO!!!!! 5th LIVE「迷うことに迷わない」 : events/2023/Q3/mygo_5th.md
+            -  ぽぴばん！のおでかけin SUMMER : events/2023/Q3/ppp_202308.md
+            -  BILIBILIWORLD 2023 (BW2023 : events/2023/Q3/bw2023.md
+            -  Morfonica ZEPP TOUR 2023「forte」 : events/2023/Q3/morfonica_tour_forte.md
+            -  LuckyFes : events/2023/Q3/luckyfes.md
+        - Q2:
+            -  Ave Mujica 0th LIVE「Primo die in scaena」 : events/2023/Q2/avemujica_0th.md
+            -  RAISE A SUILEN LIVE 2023「EXCLAMATION HIGHLAND」 : events/2023/Q2/ras_2023.md
+            -  BUSHIROAD ROCK FESTIVAL 2023 : events/2023/Q2/brfes2023.md
+            -  アニメ「BanG Dream! It's MyGO!!!!!」制作発表会 : events/2023/Q2/1562.md
+            -  MyGO!!!!! 4th LIVE「前へ進む音の中で」 : events/2023/Q2/mygo_4th.md
+            -  JAPAN JAM 2023 : events/2023/Q2/japanjam2023.md
+        - Q1:
+            -  ガルパ6周年記念ファンフェスタ in 秋葉原 : events/2023/Q1/gbp6th_akihabara.md
+            -  MEGA VEGAS 2023 : events/2023/Q1/megavegas2023.md
+            -  ガルパ6周年記念ファンフェスタ : events/2023/Q1/gbp6th_fanfesta.md
+            -  BanG Dream! 11th☆LIVE : events/2023/Q1/11th-live.md
+            -  オダイバ‼︎超次元音楽祭  ヨコハマからハッピーバレンタインフェス2023 : events/2023/Q1/choujigen2023.md
+            -  ブシロード新春大発表会 2023 : events/2023/Q1/2023newyear_launch_event.md
+    - 2022:
+        - Q4:
+            -  COUNTDOWN JAPAN 22/23 : events/2022/Q4/cdj2023.md
+            -  MyGO!!!!! 3rd LIVE「声を抱えて生きる」 : events/2022/Q4/mygo_3rd.md
+            -  ブシロード15周年記念ライブ in ベルーナドーム : events/2022/Q4/bushiroad_15thlive.md
+            -  BanG Dream! Special☆LIVE Girls Band Party! 2020→2022 : events/2022/Q4/gbp2022.md
+            -  BanG Dream! RADIO TALK FES vol.2 ～ハロー、ハッピーワールド！×Morfonica～ : events/2022/Q4/talk_hhw_morfonica.md
+        - Q3:
+            -  BanG Dream! 10th☆LIVE DAY4 RAISE A SUILEN「SOUL ROAR」 : events/2022/Q3/10th-live.md
+            -  BanG Dream! 10th☆LIVE DAY3 Poppin'Party「Hoppin'☆Poppin'☆Dreamin'!!」 : events/2022/Q3/10th-live.md
+            -  BanG Dream! 10th☆LIVE 開催記念　バンドリ！シアター : events/2022/Q3/10th_theater.md
+            -  BanG Dream! 10th☆LIVE DAY2 Morfonica「Reverberation」 : events/2022/Q3/10th-live.md
+            -  BanG Dream! 10th☆LIVE DAY1 Roselia「Sonnenschein」 : events/2022/Q3/10th-live.md
+            -  MyGO!!!!! 2nd LIVE「そのままを抱きしめて」 : events/2022/Q3/mygo_2nd.md
+            -  【公演中止】rockin'on presents ROCK IN JAPAN FESTIVAL 2022 : events/2022/Q3/rijf2022.md
+            -  BanG Dream! RADIO TALK FES vol.1 ～Roselia×RAISE A SUILEN～ : events/2022/Q3/talk_roselia_ras.md
+            -  Animelo Summer Live 2022 -Sparkle- : events/2022/Q3/asl2022.md
+            -  SUMMER SONIC 2022 : events/2022/Q3/summersonic2022.md
+            -  MyGO!!!!! 1st LIVE「僕たちはここで叫ぶ」 : events/2022/Q3/mygo_1st.md
+            -  バンドリ！ときめく夏祭り！2022 : events/2022/Q3/bangdream_summer2022.md
+            -  コカ・コーラ　SUMMER STATION 音楽LIVE : events/2022/Q3/summerstation2022.md
+        - Q2:
+            -  RAISE A SUILEN LIVE 2022「OVERKILL」 : events/2022/Q2/ras_2022.md
+            -  RAISE A SUILEN×Morfonica「Mythology Chapter 2」 : events/2022/Q2/mythology2.md
+            -  Roselia単独ライブ「Episode of Roselia」 : events/2022/Q2/live_eor.md
+            -  JAPAN JAM 2022 : events/2022/Q2/japanjam2022.md
+            -  Morfonica Concept LIVE「Resonance」 : events/2022/Q2/resonance.md
+        - Q1:
+            -  ガルパ5周年記念ファンフェスタ : events/2022/Q1/gbp5th_fanfesta.md
+            -  ガルパ5周年記念ファンフェスタ in 秋葉原 : events/2022/Q1/gbp5th_akihabara.md
+            -  RAISE A SUILEN SPECIAL LIVE「Repaint」 : events/2022/Q1/ras_repaint.md
+            -  バンドリ！ ガールズニューイヤーパーティ！2022 : events/2022/Q1/gnp2022.md
+            -  「バンドリ！TV LIVE インフォメーションコーナー出張版」 : events/2022/Q1/bdinfo_event.md
+    - 2021:
+        - Q4:
+            -  Morfonica トークイベント「モニ会へようこそ♪」 : events/2021/Q4/morfonica_talk.md
+            -  Roselia「Edelstein」 : events/2021/Q4/roselia2021.md
+            -  ANIMAX MUSIX 2021 : events/2021/Q4/animax2021.md
+            -  RAISE A SUILEN ZEPP TOUR 2021「BE LIGHT」追加公演 : events/2021/Q4/ras-tour2021-encore.md
+            -  Morfonica ZEPP TOUR 2021「Amabile」 : events/2021/Q4/morfonica-tour2021.md
+            -  香澄とたえの放課後居残りツアー : events/2021/Q4/inokori-tours.md
+        - Q3:
+            -  Animelo Summer Live 2021 -COLORS- : events/2021/Q3/asl2021.md
+            -  9th☆LIVE直前！富士急de決起会！ : events/2021/Q3/9th_kekkikai.md
+            -  BanG Dream! 9th☆LIVE : events/2021/Q3/9th-live-mythology.md
+            -  ブシロードゲームフェス2021 : events/2021/Q3/bushifes2021.md
+            -  Pastel＊Palettes Special Live 「TITLE DREAM」 : events/2021/Q3/psplsp2.md
+            -  ANIME EXPO LITE 2021 × LisAni！LIVE L.A. : events/2021/Q3/animeexpolite2021.md
+            -  バンドリーマー感謝キャラバン 2021 : events/2021/Q3/caravan2021.md
+            -  Bilibili Macro Link – Star Phase 2021(BML-SP2021 : events/2021/Q3/bml-sp2021.md
+        - Q2:
+            -  BanG Dream! Girls Talk Party! 2021 : events/2021/Q2/gtp2021.md
+            -  【開催延期】BanG Dream! Special☆LIVE Girls Band Party! 2020→2021 : events/2021/Q2/gbp2021.md
+            -  JAPAN JAM 2021 : events/2021/Q2/japanjam2021.md
+            -  RAISE A SUILEN ZEPP TOUR 2021「BE LIGHT」 : events/2021/Q2/ras-tour2021.md
+            -  Morfonica Special Live「Andante」 : events/2021/Q2/morfonica-andante.md
+            -  Poppin’Party×SILENT SIREN 対バンライブ「NO GIRL NO CRY -Round 2-」 : events/2021/Q2/ngnc2.md
+            -  ハロー、ハッピーワールド！ Sound Only Live「うぇるかむ to OUR MUSIC♪」 : events/2021/Q2/welcome_to_our_music.md
+            -  ぽぴばん！のおでかけin神戸 : events/2021/Q2/popibang_koube.md
+            -  JAPAN ONLINE FESTIVAL 2021 Spring : events/2021/Q2/jof2021.md
+            -  RAISE A SUILEN SPECIAL ONLINE LIVE 2021 : events/2021/Q2/ras-pwst.md
+        - Q1:
+            -  ガルパ4周年記念展 in Gallery AaMo : events/2021/Q1/gbp_4th_exhibition.md
+            -  【開催延期】BUSHIROAD ROCK FESTIVAL 2021 : events/2021/Q1/brfes2021.md
+            -  Pastel＊Palettes Sound Only Live「Flowerful＊」 : events/2021/Q1/sol_flowerful.md
+            -  Poppin'Party×Morfonica Friendship LIVE「Astral Harmony」 : events/2021/Q1/astralharmony.md
+            -  Roselia×RAISE A SUILEN合同ライブ「Rausch und/and Craziness Ⅱ」 : events/2021/Q1/ruc2.md
+            -  オダイバ!!超次元音楽祭－ヨコハマからハッピーバレンタインフェス2021－ : events/2021/Q1/choujigen-ongakusai.md
+            -  ANIMAX MUSIX 2021 ONLINE supported by U-NEXT : events/2021/Q1/animaxmusix.md
+            -  バンドリ！スペシャルイベント「らうくれ！」＆「あすはも！」 : events/2021/Q1/ruc_asharmo.md
+    - 2020:
+        - Q4:
+            -  【開催中止】COUNTDOWN JAPAN 20/21 : events/2020/Q4/cdj2021.md
+            -  Afterglow Sound Only Live「As ever」 : events/2020/Q4/sol_asever.md
+            -  Roselia×RAISE A SUILEN合同オンラインライブ「Rausch und/and Craziness -interlude-」 : events/2020/Q4/ruc_interlude.md
+            -  Poppin'Party JOYFUL PARTY, FUN TIME! : events/2020/Q4/ppp-pwst.md
+            -  BanG Dream! 8th☆LIVE「Breakthrough!」 : events/2020/Q4/8th-live-oct.md
+            -  Morfonica 1st Live「Cantabile」 : events/2020/Q4/morfonica_aut_2020.md
+            -  第8回アニ玉祭 TBSラジオ presents Roseliaトークライブ from バンドリ！ : events/2020/Q4/anitama-tbs-roselia.md
+        - Q3:
+            -  バンドリ！ミュージアム : events/2020/Q3/PARCOFACTORY.md
+            -  BanG Dream! 8th☆LIVE 夏の野外3DAYS : events/2020/Q3/8th-live-aug.md
+            -  バンドリ！＆スタァライト展 in Gallery AaMo : events/2020/Q3/gbp_exhibition.md
+            -  We are RAISE A SUILEN〜BanG Dream! The Stage〜 : events/2020/Q3/ras_2020.md
+        - Q2:
+            -  BanG Dream! Special☆LIVE Girls Band Party! 2020 後日祭 : events/2020/Q2/gbp2020lf.md
+            -  rockin'on presents JAPAN JAM 2020 : events/2020/Q2/ras_japanjam2020.md
+            -  【開催延期】BanG Dream! Special☆LIVE Girls Band Party! 2020 : events/2020/Q2/gbp2020.md
+            -  BanG Dream! Special☆LIVE Girls Band Party! 2020 前日物販 : events/2020/Q2/gbp2020goods.md
+            -  【開催中止】Morfonica Debut Event「Prelude」 : events/2020/Q2/morfonica_prelude.md
+        - Q1:
+            -  Anime Japan 2020 : events/2020/Q1/aj2020.md
+            -  2RAISE A SUILEN 「Craziness」 : events/2020/Q1/ras_craziness.md
+            -  Afterglowスペシャルイベント　いつも通りの放課後デイズ : events/2020/Q1/afterglow-sp.md
+            -  Roselia 「Rausch」 : events/2020/Q1/roselia_rausch.md
+            -  RADIO EXPO ～TBSラジオ万博2020～ : events/2020/Q1/roselia_radioexpo.md
+            -  Pastel＊Palettes特別公演 〜まんまるお山に彩りスペシャル☆〜 : events/2020/Q1/psplsp.md
+            -  RoseliaのRADIO SHOUT! -Lachen- in Tokyo : events/2020/Q1/rsl-tokyo.md
+            -  RoseliaのRADIO SHOUT! -Lachen- in Nagoya : events/2020/Q1/rsl-nagoya.md
+    - 2019:
+        - Q4:
+            -  rockin'on presents COUNTDOWN JAPAN 19/20 : events/2019/Q4/popipa_cdj1920.md
+            -  THE CREATION～We are RAISE A SUILEN～ : events/2019/Q4/the_creation.md
+            -  BanG Dream! Xmas Party 2019 : events/2019/Q4/xmas2019.md
+            -  「BanG Dream! 3rd Season」制作発表会 : events/2019/Q4/3rdxmas.md
+            -  Roselia×RAISE A SUILEN合同ライブ「Rausch und/and Craziness」 : events/2019/Q4/ruc.md
+            -  Galaxy×バンドリ！ ガールズバンドパーティ！ : events/2019/Q4/jp_links_bd-official_bangdream_20191101.md
+            -  Roselia×RAISE A SUILEN合同ライブ「Rausch und/and Craziness」前日祭 : events/2019/Q4/ruc_fes.md
+            -  マグロック2019 : events/2019/Q4/magurock2019.md
+            -  ANIMAX MUSIX 2019 KOBE : events/2019/Q4/animax2019.md
+        - Q3:
+            -  Poppin'Party Fan Meeting Tour 2019! : events/2019/Q3/popipa-fm2019.md
+            -  山小屋・ばさらかpresents 阿蘇ロックフェスティバル 2019 in北九州 : events/2019/Q3/ras_asorock.md
+            -  Roselia 「Flamme」/「Wasser」 : events/2019/Q3/rose_sp.md
+            -  Animelo Summer Live 2019 -STORY- : events/2019/Q3/asl2019.md
+            -  rockin'on presents ROCK IN JAPAN FESTIVAL 2019 : events/2019/Q3/rockinjapan_popipa.md
+            -  Poppin’Party×SILENT SIREN「NO GIRL NO CRY」発売記念お渡し会 : events/2019/Q3/ngnc_release.md
+            -  WONDERFUL HOBBY LIFE FOR YOU!!『RAISE A SUILEN』ステージ : events/2019/Q3/whl4u_ras.md
+            -  BILIBILI MACRO LINK-STAR PHASE 2019 : events/2019/Q3/bml2019.md
+            -  RAISE A SUILEN「Heaven and Earth」特別追加公演　UNSTOPPABLE LIVE : events/2019/Q3/ras_d4dj1st.md
+            -  RAISE A SUILEN 単独ライブ「Heaven and Earth」 : events/2019/Q3/ras_sp.md
+        - Q2:
+            -  ガルパーティ！＆スタリラ祭 2019 in池袋 : events/2019/Q2/gbp_srl2019.md
+            -  Poppin’Party×SILENT SIREN 対バンライブ「NO GIRL NO CRY」 : events/2019/Q2/popi_sp.md
+            -  バンドリ！ウィーク！ : events/2019/Q2/bangdreamweek.md
+        - Q1:
+            -  Poppin'Party 12th Single「キズナミュージック♪」＆ 1st Album「Poppin’on!」発売記念 連動スペシャルトークイベント : events/2019/Q1/popipa0317.md
+            -  バンドリ！ ラジオ祭り！ : events/2019/Q1/radio-fes.md
+            -  TOKYO MX presents「BanG Dream! 7th☆LIVE」 : events/2019/Q1/7th-live.md
+            -  ANIMAX MUSIX 2019 OSAKA supported byひかりTV : events/2019/Q4/animax-2019.md
+    - 2018:
+        - Q4:
+            -  BanG Dream! 6th☆LIVE : events/2018/Q4/6th-live.md
+            -  Roselia Live 「Vier」 : events/2018/Q4/vier.md
+            -  「バンドリ！」＆「レヴュースタァライト」STORE vol.2 : events/2018/Q4/bd_starlight_store_vol02.md
+        - Q3:
+            - バンドリーマー感謝キャラバン : events/2018/Q3/caravan.md
+            - Roselia Fan Meeting 2018 : events/2018/Q3/roselia-fm2018.md
+            - コカ･コーラ SUMMER STATION 音楽LIVE : events/2018/Q3/summerstation2018.md
+            - Animelo Summer Live 2018 “OK!” : events/2018/Q3/asl2018.md
+            - ガルパ×パシフィック・リーグ6球団コラボ : events/2018/Q3/pa-gbp.md
+            - ガルパなつやすみin秋葉原 : events/2018/Q3/natsuyasumi.md
+            - ラジオ大阪開局60周年記念ライブイベント「V-STATION THE LIVE Passion」 : events/2018/Q3/radio_osaka.md
+            - BiliBIli Macro Link – Star Phase × Anisong World Matsuri 2018 : events/2018/Q3/bmlsp2018.md
+            - THE THIRD(仮 2nd ライブ : events/2018/Q3/thethird2nd.md
+        - Q2:
+            - Poppin’Party 2015-2017 LIVE BEST発売記念スペシャルトークイベント : events/2018/Q2/popipa0630.md
+            - Roselia 1stアルバム発売記念スペシャルトークイベント : events/2018/Q2/rose0624.md
+            - BanG Dream! 5th☆LIVE : events/2018/Q2/bang-dream-5thlive.md
+        - Q1:
+            - THE THIRD（仮）1st ライブ : events/2018/Q1/the-third1strive.md
+            - Poppin’Party 9th Single・Roselia 5th Singleリリース記念連動お渡し会 : events/2018/Q1/nagaokaevent.md
+            - ガルパライブ＆ガルパーティ！in東京 : events/2018/Q1/girlsbandliveandparty.md
+    - 2017:
+        - Q4:
+            - Poppin’Party Fan Meeting 2017! : events/2017/Q4/fan-meeting2017.md
+            - Roselia 2nd Live「Zeit」 : events/2017/Q4/roselia-2nd-live.md
+            - ガルパーティ！in大阪 : events/2017/Q4/girlsbandparty-osaka.md
+        - Q3:
+            - BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 : events/2017/Q3/bang-dream-4th2017.md
+            - BanG Dream! 4th☆LIVE Miracle PARTY 2017!～前日祭～ : events/2017/Q3/pre-bang-dream-4th2017.md
+            - バンドリ！ ガールズバンドパーティ！カフェ : events/2017/Q3/bgd-cafe.md
+            - 完全新作OVA舞台挨拶付先行上映会 : events/2017/Q3/ova.md
+            - Roselia 1st Live「Rosenlied」追加公演 : events/2017/Q3/roselia-1st-live-rosenlied-add.md
+        - Q2:
+            - Roselia 1st Live「Rosenlied」: events/2017/Q2/roselia-1st-live.md
+        - Q1:
+            - BanG Dream! 3rd☆LIVE Sparklin' PARTY 2017!: events/2017/Q1/bang-dream-3rd-live.md
+    - 2016:
+        - Q4:
+            - 「BanG Dream!」プロジェクト発表会 : events/2016/Q4/project.md
+            - BanG Dream! Second☆LIVE Starrin' PARTY 2016! : events/2016/Q4/bang-dream-2nd-live.md
+        - Q3:
+            - Animelo Summer Live 2016 刻-TOKI-: events/2016/Q3/anisama2016.md
