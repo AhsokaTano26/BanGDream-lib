@@ -136,6 +136,7 @@ const LUMINANCE_THRESHOLD = 0.6
 const DARK_TEXT_COLOR = '#111827'
 const LIGHT_TEXT_COLOR = '#ffffff'
 const HEX_COLOR_PATTERN = /^[0-9a-fA-F]{6}$/
+const getOrgStyleWithFallback = (orgId) => getTagStyle('org', orgId) || getTagStyle('org', 'other')
 
 // 获取组织数据 (使用唯一 Key 确保刷新)
 const { data: rawOrgs } = await useAsyncData('content-orgs-directory', async () => {
@@ -155,7 +156,7 @@ const { data: rawOrgs } = await useAsyncData('content-orgs-directory', async () 
  */
 const orgs = computed(() => {
   return rawOrgs.value?.map((item) => {
-    const orgStyle = getTagStyle('org', item.orgs_id) || getTagStyle('org', 'other')
+    const orgStyle = getOrgStyleWithFallback(item.orgs_id)
     const bandColor = item?.theme?.primaryColor
     const isBandColorChip = orgStyle?.isBand && bandColor
     return {
@@ -188,7 +189,7 @@ const getContrastTextColor = (hexColor) => {
   const r = parseInt(hex.slice(0, 2), 16)
   const g = parseInt(hex.slice(2, 4), 16)
   const b = parseInt(hex.slice(4, 6), 16)
-  // ITU-R BT.601 luma coefficients
+  // 使用 BT.601 线性亮度近似，并归一化到 [0,1] 区间用于阈值判断。
   const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255
   return luminance > LUMINANCE_THRESHOLD ? DARK_TEXT_COLOR : LIGHT_TEXT_COLOR
 }

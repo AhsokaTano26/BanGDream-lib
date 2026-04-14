@@ -65,7 +65,7 @@
 
 <script setup>
 import { computed } from 'vue'
-import { getTagStyle, mapOrgStyles } from "~~/utils/tag-registry.js";
+import { getTagStyle, mapOrgStyles } from "~~/utils/tag-registry";
 
 const props = defineProps({
   post: {
