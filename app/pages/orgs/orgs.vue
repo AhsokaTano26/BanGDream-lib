@@ -187,7 +187,7 @@ const orgs = computed(() => {
  */
 const getContrastTextColor = (hexColor) => {
   const hex = String(hexColor || '').replace('#', '').trim()
-  if (!/^[0-9a-fA-F]{6}$/.test(hex)) return LIGHT_TEXT_COLOR
+  if (!/^[0-9a-fA-F]{6}$/.test(hex)) return DARK_TEXT_COLOR
   const r = parseInt(hex.slice(0, 2), 16)
   const g = parseInt(hex.slice(2, 4), 16)
   const b = parseInt(hex.slice(4, 6), 16)
