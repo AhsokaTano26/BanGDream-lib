@@ -128,6 +128,7 @@ export const getTagStyle = (category, value) => {
  * @returns {Array<{value:string,label:string,icon:string,class:string,isBand?:boolean}>}
  */
 export const mapOrgStyles = (rawValue) => {
+    if (rawValue === null || rawValue === undefined) return [];
     const arr = Array.isArray(rawValue) ? rawValue : [rawValue];
     return arr.reduce((acc, value) => {
         const normalizedValue = String(value || '').toLowerCase().trim();
