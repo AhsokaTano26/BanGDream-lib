@@ -1,9 +1,9 @@
 <template>
   <div class="space-y-12 pb-24 px-4 py-8">
     <PageHeader
-        title="Organization Directory"
+        title="Band"
         :count="orgs?.length || 0"
-        subTitle="核心成员与协作协议 · ACTIVE NODES"
+        subTitle="各色乐团的风格志与色彩印记 · COLORFUL VIBES"
         :themeColor="themeConfig.primaryColor"
     />
 

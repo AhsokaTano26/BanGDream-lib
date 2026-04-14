@@ -1,9 +1,9 @@
 <template>
   <div class="space-y-12 pb-24">
     <PageHeader
-        title="Live / Event"
+        title="News"
         :count="allBlogs?.length|| 0"
-        subTitle="舞台上的闪耀瞬间与现场纪实 · ON STAGE"
+        subTitle="实时同步的企划动态与情报 · SYNC UPDATES"
         :themeColor="themeConfig.primaryColor"
     />
 
@@ -28,8 +28,8 @@ const themeConfig = useState('themeConfig')
 const currentPage = ref(1)
 const pageSize = 10
 
-const { data: allBlogs } = await useAsyncData('all-blogs', () =>
-    queryCollection('blog')
+const { data: allBlogs } = await useAsyncData('all-news', () =>
+    queryCollection('news')
         .order('date', 'DESC') // 按时间倒序
         .all()
 )
