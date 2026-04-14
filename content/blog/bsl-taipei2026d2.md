@@ -4,7 +4,7 @@ date: 2026-04-12
 description: BanG Dream! Special LIVE in TAIPEI
 author: Tano
 type: docu
-status: "on_site "
+status: on_site
 org:
   - ppp
   - R
