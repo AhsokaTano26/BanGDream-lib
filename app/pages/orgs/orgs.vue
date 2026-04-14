@@ -157,7 +157,7 @@ const { data: rawOrgs } = await useAsyncData('content-orgs-directory', async () 
 const orgs = computed(() => {
   return rawOrgs.value?.map((item) => {
     const orgStyle = getOrgStyleWithFallback(item.orgs_id)
-    const bandColor = item?.theme?.primaryColor
+    const bandColor = orgStyle?.color || item?.theme?.primaryColor
     const isBandColorChip = orgStyle?.isBand && bandColor
     return {
       ...item,

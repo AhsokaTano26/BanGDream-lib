@@ -81,19 +81,19 @@ const REGISTRY = {
         official: { label: '官方', icon: 'lucide:check-circle', class: 'bg-blue-600 text-white border-blue-700' }
     },
     org: {
-        ppp: { label: "Poppin'Party", icon: 'lucide:music-2', class: 'bg-pink-50 text-pink-600 border-pink-100', isBand: true },
-        a: { label: 'Afterglow', icon: 'lucide:flame', class: 'bg-red-50 text-red-600 border-red-100', isBand: true },
-        pp: { label: 'Pastel*Palettes', icon: 'lucide:sparkles', class: 'bg-sky-50 text-sky-600 border-sky-100', isBand: true },
-        r: { label: 'Roselia', icon: 'lucide:flower-2', class: 'bg-indigo-50 text-indigo-800 border-indigo-100', isBand: true },
-        hhp: { label: 'Hello, Happy World!', icon: 'lucide:smile', class: 'bg-yellow-50 text-yellow-800 border-yellow-100', isBand: true },
-        m: { label: 'Morfonica', icon: 'lucide:music-3', class: 'bg-cyan-50 text-cyan-700 border-cyan-100', isBand: true },
-        ras: { label: 'RAISE A SUILEN', icon: 'lucide:zap', class: 'bg-lime-50 text-lime-700 border-lime-200', isBand: true },
-        mygo: { label: 'MyGO!!!!!', icon: 'lucide:audio-waveform', class: 'bg-teal-50 text-teal-700 border-teal-200', isBand: true },
-        ave: { label: 'Ave Mujica', icon: 'lucide:masks', class: 'bg-violet-50 text-violet-700 border-violet-200', isBand: true },
-        mxd: { label: '梦限大MIX', icon: 'lucide:orbit', class: 'bg-fuchsia-50 text-fuchsia-700 border-fuchsia-200', isBand: true },
-        millsage: { label: 'MILLSAGE', icon: 'lucide:leaf', class: 'bg-emerald-50 text-emerald-700 border-emerald-200', isBand: true },
-        dumb: { label: '夢遊', icon: 'lucide:moon', class: 'bg-slate-100 text-slate-700 border-slate-200', isBand: true },
-        shuffle: { label: 'BanG Dream! Shuffle', icon: 'lucide:shuffle', class: 'bg-orange-50 text-orange-700 border-orange-200', isBand: true },
+        ppp: { label: "Poppin'Party", icon: 'lucide:music-2', class: 'bg-pink-50 text-pink-600 border-pink-100', isBand: true, color: '#FF3377' },
+        a: { label: 'Afterglow', icon: 'lucide:flame', class: 'bg-red-50 text-red-600 border-red-100', isBand: true, color: '#E53344' },
+        pp: { label: 'Pastel＊Palettes', icon: 'lucide:sparkles', class: 'bg-sky-50 text-sky-600 border-sky-100', isBand: true, color: '#33DDAA' },
+        r: { label: 'Roselia', icon: 'lucide:flower-2', class: 'bg-indigo-50 text-indigo-800 border-indigo-100', isBand: true, color: '#3344AA' },
+        hhp: { label: 'Hello Happy World', icon: 'lucide:smile', class: 'bg-yellow-50 text-yellow-800 border-yellow-100', isBand: true, color: '#FFDD00' },
+        m: { label: 'Morfonica', icon: 'lucide:music-3', class: 'bg-cyan-50 text-cyan-700 border-cyan-100', isBand: true, color: '#87CEEB' },
+        ras: { label: 'RAISE A SUILEN', icon: 'lucide:zap', class: 'bg-lime-50 text-lime-700 border-lime-200', isBand: true, color: '#33CCCC' },
+        mygo: { label: 'MyGO!!!!!', icon: 'lucide:audio-waveform', class: 'bg-teal-50 text-teal-700 border-teal-200', isBand: true, color: '#3388BB' },
+        ave: { label: 'Ave Mujica', icon: 'lucide:masks', class: 'bg-violet-50 text-violet-700 border-violet-200', isBand: true, color: '#881144' },
+        mxd: { label: '夢限大みゅーたいぷ', icon: 'lucide:orbit', class: 'bg-fuchsia-50 text-fuchsia-700 border-fuchsia-200', isBand: true, color: '#FF7788' },
+        millsage: { label: 'millsage', icon: 'lucide:leaf', class: 'bg-emerald-50 text-emerald-700 border-emerald-200', isBand: true, color: '#AA22EE' },
+        dumb: { label: '一家Dumb Rock!', icon: 'lucide:moon', class: 'bg-slate-100 text-slate-700 border-slate-200', isBand: true, color: '#FFAA33' },
+        shuffle: { label: 'シャッフルユニット', icon: 'lucide:shuffle', class: 'bg-orange-50 text-orange-700 border-orange-200', isBand: true },
         other: { label: '其他组织', icon: 'lucide:building-2', class: 'bg-gray-100 text-gray-600 border-gray-200', isBand: false }
     }
 };
