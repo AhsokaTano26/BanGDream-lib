@@ -1,6 +1,6 @@
 <template>
   <NuxtLink
-    :to="props.post._path"
+    :to="props.post.path"
     class="group block p-6 bg-white/10 backdrop-blur-xl border border-white/20 rounded-2xl hover:bg-white/20 hover:border-blue-400/50 hover:shadow-2xl hover:shadow-blue-500/10 transition-all duration-300"
   >
     <div class="flex flex-wrap justify-between items-start gap-2 mb-4">

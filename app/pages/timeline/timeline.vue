@@ -34,14 +34,6 @@
             {{ p.date }}
             <span v-if="p.isToday" class="ml-1 text-[8px] uppercase">Today</span>
           </time>
-
-          <span
-              v-if="p.statusStyle"
-              :class="['flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 rounded-sm border transition-colors', p.statusStyle.class]"
-          >
-            <Icon :name="p.statusStyle.icon" class="w-2.5 h-2.5" />
-            {{ p.statusStyle.label }}
-          </span>
         </div>
 
         <h4 :class="[

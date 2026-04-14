@@ -12,9 +12,9 @@
         isOpen ? 'translate-x-0' : '-translate-x-full md:translate-x-0'
       ]"
     >
-      <div class="hidden md:block mb-10 px-0 py-6">
+      <div class="hidden md:block mb-6 px-0 py-6">
         <NuxtLink to="/" class="block group">
-          <img src="/logo/logo.png" alt="Logo" class="h-auto w-80 opacity-90 group-hover:opacity-100 transition-all group-hover:scale-125 " />
+          <img src="/logo/logo.png" alt="Logo" class="h-auto w-80 opacity-100 group-hover:opacity-100 transition-all group-hover:scale-125 " />
         </NuxtLink>
       </div>
 
@@ -89,7 +89,7 @@ const nav = [
       },
       {
         name: '关于我们',
-        path: '/docs/about_us'
+        path: '/docs/about'
       },
       {
         name: '官方公告',
@@ -111,10 +111,13 @@ const nav = [
         name: 'Discographies',
         path: '/discographies/discographies'
       },
-
       {
         name: 'Media',
         path: '/media/media'
+      },
+      {
+        name: '个人存档',
+        path: '/personal/personal'
       },
     ]
   },

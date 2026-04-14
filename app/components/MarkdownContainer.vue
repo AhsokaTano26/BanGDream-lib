@@ -105,13 +105,15 @@
                 Leader: {{ page.leader }}
               </span>
 
-              <span
-                  v-if="page.location"
-                  :class="['flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 rounded-sm uppercase border', locationStyle.class]"
+              <div
+                v-if="page.location"
+                class="flex items-center gap-1.5 mt-2 text-blue-400/90"
               >
-                <Icon :name="locationStyle.icon" class="w-2.5 h-2.5" />
-                {{ locationStyle.label }}
-              </span>
+                <Icon name="lucide:map-pin" class="w-3.5 h-3.5" />
+                <span class="text-[11px] font-semibold tracking-wide truncate">
+                  {{ page.location }}
+                </span>
+              </div>
 
               <a v-if="page.link || page.website" :href="page.link || page.website" target="_blank" class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-sky-50 text-sky-600 hover:bg-sky-100 transition-colors rounded-sm cursor-pointer">
                 <Icon name="lucide:external-link" class="w-2.5 h-2.5" />

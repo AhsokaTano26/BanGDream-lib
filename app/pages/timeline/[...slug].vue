@@ -2,8 +2,8 @@
   <MarkdownContainer
       collection="timeline"
       backTo="/timeline/timeline"
-      backLabel="Back to Progress"
-      backBtnLabel="返回官方进度"
-      archiveName="Progress Logs"
+      backLabel="Back to Timeline"
+      backBtnLabel="返回Timeline"
+      archiveName="Timeline Logs"
   />
 </template>
