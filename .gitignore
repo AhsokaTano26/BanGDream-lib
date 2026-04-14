@@ -29,3 +29,4 @@ coverage/
 
 # 构建生成的静态文件 (如果是通过 generate 生成的)
 .github/
+/.data/
