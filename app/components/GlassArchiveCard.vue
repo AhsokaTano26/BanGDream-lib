@@ -37,11 +37,14 @@
 
     <div class="mt-5 pt-4 border-t border-white/10 flex items-center justify-between">
       <div class="flex gap-2 flex-wrap">
-        <template v-if="formattedOrgs.length">
-          <span v-for="o in formattedOrgs" :key="o"
-                class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-slate-100 text-slate-600 rounded-sm border border-slate-200">
-            <Icon name="lucide:building-2" class="w-2.5 h-2.5" />
-            {{ o }}
+        <template v-if="orgStyles.length">
+          <span
+              v-for="o in orgStyles"
+              :key="o.value"
+              :class="['flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 rounded-sm border', o.class]"
+          >
+            <Icon :name="o.icon" class="w-2.5 h-2.5" />
+            {{ o.label }}
           </span>
         </template>
 
@@ -78,9 +81,15 @@ const typeStyle = computed(() => getTagStyle('type', props.post.type))
 const statusStyle = computed(() => getTagStyle('status', props.post.status))
 
 // 组织信息归一化处理
-const formattedOrgs = computed(() => {
+const orgStyles = computed(() => {
   const raw = props.post.orgs || props.post.org || []
   const arr = Array.isArray(raw) ? raw : [raw]
-  return arr.map(id => String(id).toLowerCase()).filter(Boolean)
+  return arr
+      .map(value => String(value || '').toLowerCase().trim())
+      .filter(Boolean)
+      .map(value => ({
+        value,
+        ...getTagStyle('org', value)
+      }))
 })
 </script>
