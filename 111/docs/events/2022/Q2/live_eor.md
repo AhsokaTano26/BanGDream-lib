@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2022年5月21日(土)、22日(日)
 
-![封面图](../../../assets/images/live_eor.png)
+![封面图](../../../../../public/assets/images/live_eor.png)
 
 ## 活动正文
 

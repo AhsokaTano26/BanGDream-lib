@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2020年2月2日
 
-![封面图](../../../assets/images/afterglow-sp.png)
+![封面图](../../../../../public/assets/images/afterglow-sp.png)
 
 ## 活动正文
 

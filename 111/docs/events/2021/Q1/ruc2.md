@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2021年2月22日(月)
 
-![封面图](../../../assets/images/ruc2.png)
+![封面图](../../../../../public/assets/images/ruc2.png)
 
 ## 活动正文
 

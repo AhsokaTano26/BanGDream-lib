@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2018年5月12日(土)･13日(日)
 
-![封面图](../../../assets/images/bang-dream-5thlive.png)
+![封面图](../../../../../public/assets/images/bang-dream-5thlive.png)
 
 ## 活动正文
 

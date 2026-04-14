@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2022年8月6日(土)
 
-![封面图](../../../assets/images/talk_roselia_ras.png)
+![封面图](../../../../../public/assets/images/talk_roselia_ras.png)
 
 ## 活动正文
 

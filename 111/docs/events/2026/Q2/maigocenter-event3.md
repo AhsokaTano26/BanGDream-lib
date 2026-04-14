@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2026年5月9日(土)、8月8日(土)
 
-![封面图](../../../assets/images/maigocenter-event3.jpg)
+![封面图](../../../../../public/assets/images/maigocenter-event3.jpg)
 
 ## 活动正文
 

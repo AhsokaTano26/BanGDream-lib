@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2021年10月28日(木)、11月5日(金)
 
-![封面图](../../../assets/images/morfonica-tour2021.png)
+![封面图](../../../../../public/assets/images/morfonica-tour2021.png)
 
 ## 活动正文
 

@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2024年12月27日(金)
 
-![封面图](../../../assets/images/yumemita_yunos_party_lv1.png)
+![封面图](../../../../../public/assets/images/yumemita_yunos_party_lv1.png)
 
 ## 活动正文
 

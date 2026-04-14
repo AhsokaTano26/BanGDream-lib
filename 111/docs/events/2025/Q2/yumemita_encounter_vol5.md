@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年4月5日(土)・5月31日(土)・6月28日(土)・7月13日(日)・8月10日(日)
 
-![封面图](../../../assets/images/yumemita_encounter_vol5.png)
+![封面图](../../../../../public/assets/images/yumemita_encounter_vol5.png)
 
 ## 活动正文
 

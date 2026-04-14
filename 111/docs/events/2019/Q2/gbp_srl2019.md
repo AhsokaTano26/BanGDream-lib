@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2019年6月8日(土)・9日(日)
 
-![封面图](../../../assets/images/gbp_srl2019.jpg)
+![封面图](../../../../../public/assets/images/gbp_srl2019.jpg)
 
 ## 活动正文
 

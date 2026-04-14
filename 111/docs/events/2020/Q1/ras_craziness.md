@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2020年2月9日(日)
 
-![封面图](../../../assets/images/ras_craziness.png)
+![封面图](../../../../../public/assets/images/ras_craziness.png)
 
 ## 活动正文
 

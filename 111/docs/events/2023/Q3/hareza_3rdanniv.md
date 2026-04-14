@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2023年8月3日(木)～8月6日(日)
 
-![封面图](../../../assets/images/hareza_3rdanniv.png)
+![封面图](../../../../../public/assets/images/hareza_3rdanniv.png)
 
 ## 活动正文
 

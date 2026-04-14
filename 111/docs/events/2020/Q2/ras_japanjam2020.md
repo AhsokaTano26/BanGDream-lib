@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2020年5月6日(水)
 
-![封面图](../../../assets/images/ras_japanjam2020.png)
+![封面图](../../../../../public/assets/images/ras_japanjam2020.png)
 
 ## 活动正文
 

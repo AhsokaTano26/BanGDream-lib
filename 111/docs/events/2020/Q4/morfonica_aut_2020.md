@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2020年10月7日(水)
 
-![封面图](../../../assets/images/morfonica_aut_2020.png)
+![封面图](../../../../../public/assets/images/morfonica_aut_2020.png)
 
 ## 活动正文
 

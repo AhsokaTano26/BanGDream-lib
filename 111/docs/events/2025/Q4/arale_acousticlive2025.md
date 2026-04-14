@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年10月24日(金)
 
-![封面图](../../../assets/images/arale_acousticlive2025.png)
+![封面图](../../../../../public/assets/images/arale_acousticlive2025.png)
 
 ## 活动正文
 

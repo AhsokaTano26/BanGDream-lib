@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 7/30(火) ・31(水)
 
-![封面图](../../../assets/images/ngnc_release.jpg)
+![封面图](../../../../../public/assets/images/ngnc_release.jpg)
 
 ## 活动正文
 

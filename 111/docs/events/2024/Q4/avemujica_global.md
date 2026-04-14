@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2024年12月1日(日)～
 
-![封面图](../../../assets/images/avemujica_global.png)
+![封面图](../../../../../public/assets/images/avemujica_global.png)
 
 ## 活动正文
 

@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2021年2月27日(土)・28日(日)
 
-![封面图](../../../assets/images/sol_flowerful.png)
+![封面图](../../../../../public/assets/images/sol_flowerful.png)
 
 ## 活动正文
 

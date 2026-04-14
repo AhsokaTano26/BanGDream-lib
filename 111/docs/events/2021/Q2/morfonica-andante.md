@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2021年5月21日(金)
 
-![封面图](../../../assets/images/morfonica-andante.png)
+![封面图](../../../../../public/assets/images/morfonica-andante.png)
 
 ## 活动正文
 

@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2023年1月9日(月・祝)
 
-![封面图](../../../assets/images/2023newyear_launch_event.jpg)
+![封面图](../../../../../public/assets/images/2023newyear_launch_event.jpg)
 
 ## 活动正文
 

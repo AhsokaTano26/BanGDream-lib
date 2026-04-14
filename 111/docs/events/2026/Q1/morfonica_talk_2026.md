@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2026年1月7日(水)
 
-![封面图](../../../assets/images/morfonica_talk_2026.png)
+![封面图](../../../../../public/assets/images/morfonica_talk_2026.png)
 
 ## 活动正文
 

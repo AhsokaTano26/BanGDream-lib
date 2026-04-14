@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2024年9月21日(土)
 
-![封面图](../../../assets/images/mygo_6th_shanghai.png)
+![封面图](../../../../../public/assets/images/mygo_6th_shanghai.png)
 
 ## 活动正文
 

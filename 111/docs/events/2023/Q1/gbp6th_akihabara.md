@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2023年3月18日(土)・3月19日(日)
 
-![封面图](../../../assets/images/gbp6th_akihabara.png)
+![封面图](../../../../../public/assets/images/gbp6th_akihabara.png)
 
 ## 活动正文
 

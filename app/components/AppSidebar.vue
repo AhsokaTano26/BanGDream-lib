@@ -88,7 +88,7 @@ const nav = [
         path: '/'
       },
       {
-        name: '关于同好会',
+        name: '关于我们',
         path: '/docs/about_us'
       },
       {
@@ -96,38 +96,39 @@ const nav = [
         path: '/notice/notice'
       },
       {
-        name: '官方博客',
+        name: 'News',
+        path: '/news/news'
+      },
+      {
+        name: 'Live/Event',
         path: '/blog/blog'
       },
       {
-        name: '官方进度',
+        name: '时间线',
         path: '/timeline/timeline'
+      },
+      {
+        name: 'Discographies',
+        path: '/discographies/discographies'
+      },
+
+      {
+        name: 'Media',
+        path: '/media/media'
       },
     ]
   },
   {
-    title: '联协印象',
+    title: '乐队印象',
     links: [
       {
-        name: '关于联协',
-        path: '/docs/about'
-      },
-      {
-        name: '联协组织',
+        name: 'Band',
         path: '/orgs/orgs'
       },
       {
-        name: '项目公招',
-        path: '/projects/projects'
+        name: 'Artist',
+        path: '/artist/artist'
       },
-      {
-        name: '联协映像',
-        path: '/archive/archive'
-      },
-      {
-        name: '联协活动',
-        path: '/activities/activities'
-      }
     ]
   },
   {

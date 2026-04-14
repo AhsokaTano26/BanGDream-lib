@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2020年8月21日(金)、22日(土)、23日(日)ほか
 
-![封面图](../../../assets/images/8th-live-aug.png)
+![封面图](../../../../../public/assets/images/8th-live-aug.png)
 
 ## 活动正文
 

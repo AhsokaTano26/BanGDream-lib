@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2024年10月25日(金)、11月17日(日)、12月20日(金)
 
-![封面图](../../../assets/images/yumemita_preparation.png)
+![封面图](../../../../../public/assets/images/yumemita_preparation.png)
 
 ## 活动正文
 

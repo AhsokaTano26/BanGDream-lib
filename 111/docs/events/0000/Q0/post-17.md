@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 0000.00.00
 
-![封面图](../../../assets/images/post-17.png)
+![封面图](../../../../../public/assets/images/post-17.png)
 
 ## 活动正文
 

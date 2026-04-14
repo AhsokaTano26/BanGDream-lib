@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2018年7月7日（土）OPEN15:00　START16:00
 
-![封面图](../../../assets/images/radio_osaka.png)
+![封面图](../../../../../public/assets/images/radio_osaka.png)
 
 ## 活动正文
 

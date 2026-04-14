@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2021年12月5日(日)
 
-![封面图](../../../assets/images/morfonica_talk.png)
+![封面图](../../../../../public/assets/images/morfonica_talk.png)
 
 ## 活动正文
 

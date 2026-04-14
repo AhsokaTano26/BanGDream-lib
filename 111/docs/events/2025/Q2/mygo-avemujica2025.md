@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年4月26日(土)・27日(日)
 
-![封面图](../../../assets/images/mygo-avemujica2025.jpg)
+![封面图](../../../../../public/assets/images/mygo-avemujica2025.jpg)
 
 ## 活动正文
 

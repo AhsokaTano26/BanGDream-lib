@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2024年3月9日(土)・10日(日)
 
-![封面图](../../../assets/images/megavegas2024.png)
+![封面图](../../../../../public/assets/images/megavegas2024.png)
 
 ## 活动正文
 

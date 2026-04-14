@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年2月16日(日)
 
-![封面图](../../../assets/images/yumemita_2nd.png)
+![封面图](../../../../../public/assets/images/yumemita_2nd.png)
 
 ## 活动正文
 

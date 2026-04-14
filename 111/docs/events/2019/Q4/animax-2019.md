@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2019年1月19日（土）
 
-![封面图](../../../assets/images/animax-2019.jpg)
+![封面图](../../../../../public/assets/images/animax-2019.jpg)
 
 ## 活动正文
 

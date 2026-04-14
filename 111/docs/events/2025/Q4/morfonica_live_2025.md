@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年12月30日(火)
 
-![封面图](../../../assets/images/morfonica_live_2025.png)
+![封面图](../../../../../public/assets/images/morfonica_live_2025.png)
 
 ## 活动正文
 

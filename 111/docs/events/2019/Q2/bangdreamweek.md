@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2019年5月14日(火)～20日(月)
 
-![封面图](../../../assets/images/bangdreamweek.jpg)
+![封面图](../../../../../public/assets/images/bangdreamweek.jpg)
 
 ## 活动正文
 

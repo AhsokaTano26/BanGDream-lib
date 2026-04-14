@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2017年10月8日（日）
 
-![封面图](../../../assets/images/roselia-2nd-live.jpg)
+![封面图](../../../../../public/assets/images/roselia-2nd-live.jpg)
 
 ## 活动正文
 

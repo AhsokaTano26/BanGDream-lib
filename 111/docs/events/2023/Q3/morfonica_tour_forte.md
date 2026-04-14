@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2023年7月20日(木)、9月6日(水)、10月5日(木)
 
-![封面图](../../../assets/images/morfonica_tour_forte.jpg)
+![封面图](../../../../../public/assets/images/morfonica_tour_forte.jpg)
 
 ## 活动正文
 

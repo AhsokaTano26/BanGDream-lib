@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2019年11月29日(金)
 
-![封面图](../../../assets/images/ruc_fes.jpg)
+![封面图](../../../../../public/assets/images/ruc_fes.jpg)
 
 ## 活动正文
 

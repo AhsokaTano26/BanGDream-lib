@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2025年10月11日(土)
 
-![封面图](../../../assets/images/radioshout_rede_weiter.png)
+![封面图](../../../../../public/assets/images/radioshout_rede_weiter.png)
 
 ## 活动正文
 

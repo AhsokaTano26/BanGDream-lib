@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2020年1月20日
 
-![封面图](../../../assets/images/rsl-tokyo.png)
+![封面图](../../../../../public/assets/images/rsl-tokyo.png)
 
 ## 活动正文
 

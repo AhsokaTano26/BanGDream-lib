@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2022年3月19日(土)・3月20日(日)
 
-![封面图](../../../assets/images/gbp5th_akihabara.png)
+![封面图](../../../../../public/assets/images/gbp5th_akihabara.png)
 
 ## 活动正文
 

@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2026年1月31日(土)・2月1日(日)
 
-![封面图](../../../assets/images/lisani2026.jpg)
+![封面图](../../../../../public/assets/images/lisani2026.jpg)
 
 ## 活动正文
 

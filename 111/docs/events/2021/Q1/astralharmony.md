@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2021年2月23日(火・祝)
 
-![封面图](../../../assets/images/astralharmony.png)
+![封面图](../../../../../public/assets/images/astralharmony.png)
 
 ## 活动正文
 

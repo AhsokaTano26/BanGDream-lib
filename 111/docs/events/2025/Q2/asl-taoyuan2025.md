@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年5月24日(土)
 
-![封面图](../../../assets/images/asl-taoyuan2025.png)
+![封面图](../../../../../public/assets/images/asl-taoyuan2025.png)
 
 ## 活动正文
 

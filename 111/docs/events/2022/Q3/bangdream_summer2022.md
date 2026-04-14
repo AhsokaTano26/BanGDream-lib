@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2022年7月30日(土)
 
-![封面图](../../../assets/images/bangdream_summer2022.png)
+![封面图](../../../../../public/assets/images/bangdream_summer2022.png)
 
 ## 活动正文
 

@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2022年11月13日(日)
 
-![封面图](../../../assets/images/bushiroad_15thlive.png)
+![封面图](../../../../../public/assets/images/bushiroad_15thlive.png)
 
 ## 活动正文
 

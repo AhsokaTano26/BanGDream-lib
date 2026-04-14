@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2026年5月3日(日)
 
-![封面图](../../../assets/images/ppp-roselia2026.png)
+![封面图](../../../../../public/assets/images/ppp-roselia2026.png)
 
 ## 活动正文
 

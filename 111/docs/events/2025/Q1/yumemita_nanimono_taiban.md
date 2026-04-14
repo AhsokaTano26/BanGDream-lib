@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年1月23日(木)
 
-![封面图](../../../assets/images/yumemita_nanimono_taiban.png)
+![封面图](../../../../../public/assets/images/yumemita_nanimono_taiban.png)
 
 ## 活动正文
 

@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2019年8月3日(土)・4日(日)
 
-![封面图](../../../assets/images/rose_sp.jpg)
+![封面图](../../../../../public/assets/images/rose_sp.jpg)
 
 ## 活动正文
 

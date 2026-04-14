@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2023年5月27日(土)
 
-![封面图](../../../assets/images/brfes2023.png)
+![封面图](../../../../../public/assets/images/brfes2023.png)
 
 ## 活动正文
 

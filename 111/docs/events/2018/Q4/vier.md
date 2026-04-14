@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2018年11月7日（水)
 
-![封面图](../../../assets/images/vier.jpg)
+![封面图](../../../../../public/assets/images/vier.jpg)
 
 ## 活动正文
 

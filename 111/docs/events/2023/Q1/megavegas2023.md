@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2023年3月11日(土)・12日(日)
 
-![封面图](../../../assets/images/megavegas2023.jpg)
+![封面图](../../../../../public/assets/images/megavegas2023.jpg)
 
 ## 活动正文
 

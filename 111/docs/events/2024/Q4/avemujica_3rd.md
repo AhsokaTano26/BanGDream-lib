@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2024年10月13日(日)
 
-![封面图](../../../assets/images/avemujica_3rd.png)
+![封面图](../../../../../public/assets/images/avemujica_3rd.png)
 
 ## 活动正文
 

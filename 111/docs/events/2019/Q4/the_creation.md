@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2019年12月29日(日)
 
-![封面图](../../../assets/images/the_creation.png)
+![封面图](../../../../../public/assets/images/the_creation.png)
 
 ## 活动正文
 

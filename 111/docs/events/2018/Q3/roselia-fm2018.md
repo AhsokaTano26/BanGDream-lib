@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2018年9月17日（月・祝）
 
-![封面图](../../../assets/images/roselia-fm2018.JPG)
+![封面图](../../../../../public/assets/images/roselia-fm2018.JPG)
 
 ## 活动正文
 

@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2026年1月12日(月・祝)
 
-![封面图](../../../assets/images/2026newyear_launch_event.png)
+![封面图](../../../../../public/assets/images/2026newyear_launch_event.png)
 
 ## 活动正文
 

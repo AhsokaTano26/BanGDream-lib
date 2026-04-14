@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2026年3月1日(日)
 
-![封面图](../../../assets/images/mygo-avemujica2026.png)
+![封面图](../../../../../public/assets/images/mygo-avemujica2026.png)
 
 ## 活动正文
 

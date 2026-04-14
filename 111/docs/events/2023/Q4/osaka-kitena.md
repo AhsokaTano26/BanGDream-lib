@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2023年11月26日(日)
 
-![封面图](../../../assets/images/osaka-kitena.png)
+![封面图](../../../../../public/assets/images/osaka-kitena.png)
 
 ## 活动正文
 

@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2020年5月1日(金)
 
-![封面图](../../../assets/images/morfonica_prelude.png)
+![封面图](../../../../../public/assets/images/morfonica_prelude.png)
 
 ## 活动正文
 

@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2023年10月22日(日)
 
-![封面图](../../../assets/images/morfonica_talk_2023.png)
+![封面图](../../../../../public/assets/images/morfonica_talk_2023.png)
 
 ## 活动正文
 

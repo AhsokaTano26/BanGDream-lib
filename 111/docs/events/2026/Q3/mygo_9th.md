@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2026年7月18日(土)・19日(日)
 
-![封面图](../../../assets/images/mygo_9th.png)
+![封面图](../../../../../public/assets/images/mygo_9th.png)
 
 ## 活动正文
 

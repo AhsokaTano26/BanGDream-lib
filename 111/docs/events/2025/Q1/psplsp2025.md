@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年2月24日(月･祝)
 
-![封面图](../../../assets/images/psplsp2025.jpg)
+![封面图](../../../../../public/assets/images/psplsp2025.jpg)
 
 ## 活动正文
 

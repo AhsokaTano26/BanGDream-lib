@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2024年1月27日(土)・28日(日)
 
-![封面图](../../../assets/images/lisani2024.png)
+![封面图](../../../../../public/assets/images/lisani2024.png)
 
 ## 活动正文
 

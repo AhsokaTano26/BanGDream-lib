@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2020年12月12日(土)18時
 
-![封面图](../../../assets/images/ruc_interlude.png)
+![封面图](../../../../../public/assets/images/ruc_interlude.png)
 
 ## 活动正文
 

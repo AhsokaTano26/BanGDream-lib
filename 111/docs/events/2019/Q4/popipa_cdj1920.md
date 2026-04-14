@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2019年12月30日(月)
 
-![封面图](../../../assets/images/popipa_cdj1920.png)
+![封面图](../../../../../public/assets/images/popipa_cdj1920.png)
 
 ## 活动正文
 

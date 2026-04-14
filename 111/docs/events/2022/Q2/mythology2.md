@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2022年6月18日(土)
 
-![封面图](../../../assets/images/mythology2.png)
+![封面图](../../../../../public/assets/images/mythology2.png)
 
 ## 活动正文
 

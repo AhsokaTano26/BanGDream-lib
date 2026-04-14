@@ -114,13 +114,6 @@
 
     <AppPagination v-model="currentPage" :total="totalPages" />
 
-    <div class="mt-12 p-8 border-2 border-dashed border-gray-200 rounded-xl text-center">
-      <h3 class="text-sm font-black uppercase tracking-widest text-gray-100 mb-2">想要加入组织名录？</h3>
-      <p class="text-xs text-gray-200 mb-6">提交你的组织档案至 Github Pull Request 以完成收录。</p>
-      <NuxtLink to="/docs/about" class="inline-block px-8 py-3 bg-gray-900 text-white text-[10px] font-black uppercase tracking-widest hover:bg-blue-600 transition-all rounded-full shadow-lg">
-        了解准入规范
-      </NuxtLink>
-    </div>
   </div>
 </template>
 

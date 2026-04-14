@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2026年1月22日(木)
 
-![封面图](../../../assets/images/ras-vegas2026.png)
+![封面图](../../../../../public/assets/images/ras-vegas2026.png)
 
 ## 活动正文
 

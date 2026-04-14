@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2019年10月26日(土)、27日(日)
 
-![封面图](../../../assets/images/animax2019.jpg)
+![封面图](../../../../../public/assets/images/animax2019.jpg)
 
 ## 活动正文
 

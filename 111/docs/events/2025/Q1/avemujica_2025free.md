@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年2月2日(日)
 
-![封面图](../../../assets/images/avemujica_2025free.png)
+![封面图](../../../../../public/assets/images/avemujica_2025free.png)
 
 ## 活动正文
 

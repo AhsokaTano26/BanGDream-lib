@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2022年4月24日(日)
 
-![封面图](../../../assets/images/resonance.png)
+![封面图](../../../../../public/assets/images/resonance.png)
 
 ## 活动正文
 

@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2023年3月10日(金)～3月26日(日)
 
-![封面图](../../../assets/images/gbp6th_fanfesta.png)
+![封面图](../../../../../public/assets/images/gbp6th_fanfesta.png)
 
 ## 活动正文
 

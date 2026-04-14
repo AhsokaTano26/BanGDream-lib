@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2020年5月9日(土)、10日(日)
 
-![封面图](../../../assets/images/gbp2020lf.png)
+![封面图](../../../../../public/assets/images/gbp2020lf.png)
 
 ## 活动正文
 

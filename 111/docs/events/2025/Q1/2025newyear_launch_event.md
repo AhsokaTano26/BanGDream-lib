@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2025年1月13日(月・祝)
 
-![封面图](../../../assets/images/2025newyear_launch_event.png)
+![封面图](../../../../../public/assets/images/2025newyear_launch_event.png)
 
 ## 活动正文
 

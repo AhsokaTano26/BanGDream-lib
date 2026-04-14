@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2019年8月11日(日・祝)
 
-![封面图](../../../assets/images/rockinjapan_popipa.jpg)
+![封面图](../../../../../public/assets/images/rockinjapan_popipa.jpg)
 
 ## 活动正文
 

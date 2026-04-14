@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2019年11月2日(土)・11月16日(土)・11月24日(日)
 
-![封面图](../../../assets/images/?cid=jp_links_bd-official_bangdream_20191101.png)
+![封面图](../../../../../public/assets/images/?cid=jp_links_bd-official_bangdream_20191101.png)
 
 ## 活动正文
 
