@@ -143,7 +143,7 @@
 </template>
 
 <script setup>
-import { getTagStyle } from '~~/utils/tag-registry'
+import { getTagStyle, mapOrgStyles } from '~~/utils/tag-registry'
 /**
  * @component PostDetailLayout
  * @description 万能详情页渲染引擎。采用“协议式”开发模式，通过 Props 传入集合名称，自动匹配 UI 主题、图标及元数据标签。
@@ -190,17 +190,8 @@ const typeStyle = computed(() => getTagStyle('type', page.value?.type))
 const statusStyle = computed(() => getTagStyle('status', page.value?.status))
 const locationStyle = computed(() => getTagStyle('location', page.value?.location))
 const orgStyles = computed(() => {
-  const raw = page.value?.orgs ?? page.value?.org ?? []
-  const arr = Array.isArray(raw) ? raw : [raw]
-  return arr.reduce((acc, value) => {
-    const normalizedValue = String(value || '').toLowerCase().trim()
-    if (!normalizedValue) return acc
-    acc.push({
-      value: normalizedValue,
-      ...getTagStyle('org', normalizedValue)
-    })
-    return acc
-  }, [])
+  const raw = page.value?.orgs ?? page.value?.org
+  return mapOrgStyles(raw)
 })
 
 /**
