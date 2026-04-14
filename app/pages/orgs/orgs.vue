@@ -135,6 +135,7 @@ const pageSize = 10
 const LUMINANCE_THRESHOLD = 0.6
 const DARK_TEXT_COLOR = '#111827'
 const LIGHT_TEXT_COLOR = '#ffffff'
+const HEX_COLOR_PATTERN = /^[0-9a-fA-F]{6}$/
 
 // 获取组织数据 (使用唯一 Key 确保刷新)
 const { data: rawOrgs } = await useAsyncData('content-orgs-directory', async () => {
@@ -154,7 +155,7 @@ const { data: rawOrgs } = await useAsyncData('content-orgs-directory', async () 
  */
 const orgs = computed(() => {
   return rawOrgs.value?.map((item) => {
-    const orgStyle = getTagStyle('org', item.orgs_id)
+    const orgStyle = getTagStyle('org', item.orgs_id) || getTagStyle('org', 'other')
     const bandColor = item?.theme?.primaryColor
     const isBandColorChip = orgStyle?.isBand && bandColor
     return {
@@ -183,7 +184,7 @@ const orgs = computed(() => {
  */
 const getContrastTextColor = (hexColor) => {
   const hex = String(hexColor || '').replace('#', '').trim()
-  if (!/^[0-9a-fA-F]{6}$/.test(hex)) return DARK_TEXT_COLOR
+  if (!HEX_COLOR_PATTERN.test(hex)) return DARK_TEXT_COLOR
   const r = parseInt(hex.slice(0, 2), 16)
   const g = parseInt(hex.slice(2, 4), 16)
   const b = parseInt(hex.slice(4, 6), 16)

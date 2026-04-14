@@ -65,7 +65,7 @@
 
 <script setup>
 import { computed } from 'vue'
-import {getTagStyle} from "~~/utils/tag-registry.js";
+import { getTagStyle, mapOrgStyles } from "~~/utils/tag-registry.js";
 
 const props = defineProps({
   post: {
@@ -82,16 +82,7 @@ const statusStyle = computed(() => getTagStyle('status', props.post.status))
 
 // 组织信息归一化处理
 const orgStyles = computed(() => {
-  const raw = props.post.orgs || props.post.org || []
-  const arr = Array.isArray(raw) ? raw : [raw]
-  return arr.reduce((acc, value) => {
-    const normalizedValue = String(value || '').toLowerCase().trim()
-    if (!normalizedValue) return acc
-    acc.push({
-      value: normalizedValue,
-      ...getTagStyle('org', normalizedValue)
-    })
-    return acc
-  }, [])
+  const raw = props.post.orgs ?? props.post.org
+  return mapOrgStyles(raw)
 })
 </script>

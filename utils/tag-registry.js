@@ -122,5 +122,23 @@ export const getTagStyle = (category, value) => {
     return source[val];
 };
 
+/**
+ * 将 org/orgs 字段归一化为带样式的小组件数据
+ * @param {string|string[]|null|undefined} rawValue
+ * @returns {Array<{value:string,label:string,icon:string,class:string,isBand?:boolean}>}
+ */
+export const mapOrgStyles = (rawValue) => {
+    const arr = Array.isArray(rawValue) ? rawValue : [rawValue];
+    return arr.reduce((acc, value) => {
+        const normalizedValue = String(value || '').toLowerCase().trim();
+        if (!normalizedValue) return acc;
+        acc.push({
+            value: normalizedValue,
+            ...getTagStyle('org', normalizedValue)
+        });
+        return acc;
+    }, []);
+};
+
 // 导出原始数据以便在选择器/下拉框中使用
 export const TAG_MAPS = REGISTRY;
