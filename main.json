@@ -1,0 +1,50 @@
+{
+  "category_config": {
+    "type": [
+      { "value": "official", "label": "官方", "icon": "lucide:award", "color": "bg-blue-600" },
+      { "value": "anniversary", "label": "纪念日", "icon": "lucide:cake", "color": "bg-rose-500" },
+      { "value": "nexus", "label": "联协", "icon": "lucide:network", "color": "bg-indigo-500" },
+      { "value": "docu", "label": "文件", "icon": "lucide:file-text", "color": "bg-slate-700" },
+      { "value": "artic", "label": "推文", "icon": "lucide:hash", "color": "bg-sky-500" },
+      { "value": "rese", "label": "研究成果", "icon": "lucide:microscope", "color": "bg-emerald-600" },
+      { "value": "regula", "label": "条例", "icon": "lucide:gavel", "color": "bg-amber-500" },
+      { "value": "event", "label": "官方活动", "icon": "lucide:calendar", "color": "bg-blue-500" },
+      { "value": "notice", "label": "公告", "icon": "lucide:megaphone", "color": "bg-orange-500" },
+      { "value": "gallery", "label": "图册", "icon": "lucide:images", "color": "bg-purple-500" },
+      { "value": "tweet", "label": "社交推文", "icon": "lucide:twitter", "color": "bg-sky-400" },
+      { "value": "fc", "label": "应援团", "icon": "lucide:heart", "color": "bg-pink-400" },
+      { "value": "dkk", "label": "同好会", "icon": "lucide:sparkles", "color": "bg-orange-500" }
+    ],
+    "status": [
+      { "value": "prog", "label": "进度", "icon": "lucide:loader" ,"class": "bg-blue-500/10 text-blue-400 border-blue-400/30" },
+      { "value": "changes", "label": "更改", "icon": "lucide:refresh-cw", "class": "bg-amber-500/10 text-amber-400 border-amber-400/30"},
+      { "valus": "record", "label": "记录", "icon": "lucide:clipboard-list", "class": "bg-emerald-500/10 text-emerald-400 border-emerald-400/30"},
+      { "value": "funding", "label": "众筹中", "icon": "lucide:coins" },
+      { "value": "need_creator", "label": "招募中", "icon": "lucide:brush" },
+      { "value": "finding_resonance", "label": "寻求共鸣", "icon": "lucide:heart-handshake" },
+      { "value": "online", "label": "Online", "icon": "lucide:globe" },
+      { "value": "in_person", "label": "In Person", "icon": "lucide:map-pin" },
+      { "value": "regional", "label": "Regional", "icon": "lucide:map" },
+      { "value": "others", "label": "公招", "icon": "lucide:users" }
+    ],
+    "collection": [
+      { "value": "activities", "label": "活动", "icon": "lucide:sparkles" },
+      { "value": "blog", "label": "博客", "icon": "lucide:pen-tool" },
+      { "value": "notice", "label": "公告", "icon": "lucide:megaphone" },
+      { "value": "timeline", "label": "时间轴", "icon": "lucide:git-branch" },
+      { "value": "project", "label": "项目", "icon": "lucide:briefcase" },
+      { "value": "archive", "label": "映像存档", "icon": "lucide:clapperboard" },
+      { "value": "orgs", "label": "组织名录", "icon": "lucide:network" }
+    ],
+    "org": {
+      "locations": [
+        { "value": "regional", "label": "地区性", "icon": "lucide:map-pin" },
+        { "value": "global", "label": "全球性", "icon": "lucide:globe" }
+      ],
+      "tags": [
+        { "value": "branch", "label": "分支", "color": "bg-gray-800" },
+        { "value": "official", "label": "官方", "color": "bg-blue-600" }
+      ]
+    }
+  }
+}
