@@ -73,7 +73,7 @@
         </div>
 
         <div class="flex flex-wrap justify-center items-center gap-2">
-          <span>&copy; 2026 跨世界同好会项目组</span>
+          <span>&copy; 2026 BanG Dream! 同好会网站项目组</span>
           <span class="hidden sm:inline mx-1">/</span>
           <a
               href="https://opensource.org/licenses/MIT"
