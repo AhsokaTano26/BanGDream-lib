@@ -1,9 +1,9 @@
 <template>
   <MarkdownContainer
-      collection="blog"
-      backTo="/blog/blog"
-      backLabel="Back to Blog"
-      backBtnLabel="返回官方博客"
-      archiveName="Blog Logs"
+      collection="media"
+      backTo="/media/media"
+      backLabel="Back to Media"
+      backBtnLabel="返回Media"
+      archiveName="Media Logs"
   />
 </template>

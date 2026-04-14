@@ -4,7 +4,11 @@ date: 2026-04-12
 description: BanG Dream! Special LIVE in TAIPEI
 author: Tano
 type: docu
-org: ppp
+status: "on_site "
+org:
+  - ppp
+  - R
+location: Taipei
 ---
 # BanG Dream! Special LIVE in TAIPEI DAY2 : Poppin'Party×Roselia「DREAMS GO ON」
 

@@ -4,7 +4,10 @@ date: 2026-04-11
 description: BanG Dream! Special LIVE in TAIPEI
 author: Tano
 type: docu 
-org: ppp
+status: "on_site "
+org: 
+  - "mygo"
+  - "Ave"
 location: Taipei
 ---
 # BanG Dream! Special LIVE in TAIPEI DAY1 : MyGO!!!!!×Ave Mujica「"moment / memory"」

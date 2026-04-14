@@ -78,7 +78,7 @@ const { data: upcomingPosts } = await useAsyncData('upcoming-combined', async ()
         .order('date', 'ASC')
         .limit(5) // 先各自限额，减少传输量
         .all(),
-    queryCollection('activities')
+    queryCollection('blog')
         .where('date', '>=', today)
         .order('date', 'ASC')
         .limit(5)

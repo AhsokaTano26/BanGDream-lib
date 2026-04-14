@@ -102,7 +102,7 @@
             "description": "新闻类型",
             "enum": [
               "notice",
-              "on_site ",
+              "on_site",
               "publish",
               "product",
               "media"

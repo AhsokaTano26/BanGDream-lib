@@ -15,7 +15,7 @@ export default defineContentConfig({
         title: z.string(),
         description: z.string(),
         date: z.string(),
-        status: z.enum(["on_site ", "activity", "other"]), // 注意文件中有个空格
+        status: z.enum(["on_site", "activity", "other"]),
         author: z.string(),
         location: z.string(),
         org: z.array(orgEnum),
@@ -120,6 +120,17 @@ export default defineContentConfig({
         author: z.string(),
         org: z.array(orgEnum),
         url: z.string().url()
+      })
+    }),
+    personal: defineCollection({
+      type: 'page',
+      source: 'personal/**',
+      schema: z.object({
+        title: z.string(),
+        description: z.string(),
+        date: z.string(),
+        author: z.string(),
+        status: z.enum(["yes", "no"]),
       })
     })
   }
