@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2018年12月7日(金)・8日(土)
 
-![封面图](../../../assets/images/6th-live.jpg)
+![封面图](../../../../../public/assets/images/6th-live.jpg)
 
 ## 活动正文
 

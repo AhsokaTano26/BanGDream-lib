@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2025年11月3日(月・祝)
 
-![封面图](../../../assets/images/yumemita_kinntorebu.jpg)
+![封面图](../../../../../public/assets/images/yumemita_kinntorebu.jpg)
 
 ## 活动正文
 

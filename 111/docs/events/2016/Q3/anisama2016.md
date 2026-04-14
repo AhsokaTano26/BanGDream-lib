@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2016年8月27日（土）
 
-![封面图](../../../assets/images/anisama2016.jpg)
+![封面图](../../../../../public/assets/images/anisama2016.jpg)
 
 ## 活动正文
 

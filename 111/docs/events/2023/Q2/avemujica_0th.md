@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2023年6月4日(日)
 
-![封面图](../../../assets/images/avemujica_0th.png)
+![封面图](../../../../../public/assets/images/avemujica_0th.png)
 
 ## 活动正文
 

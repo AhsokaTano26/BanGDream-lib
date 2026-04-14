@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 0000.00.00
 
-![封面图](../../../assets/images/yumemita_superposition_spinup_hen.png)
+![封面图](../../../../../public/assets/images/yumemita_superposition_spinup_hen.png)
 
 ## 活动正文
 

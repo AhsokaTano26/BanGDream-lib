@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年2月15日(土)
 
-![封面图](../../../assets/images/rosen-nacht_shanghai.png)
+![封面图](../../../../../public/assets/images/rosen-nacht_shanghai.png)
 
 ## 活动正文
 

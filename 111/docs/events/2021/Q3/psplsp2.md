@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2021年7月8日(木)
 
-![封面图](../../../assets/images/psplsp2.png)
+![封面图](../../../../../public/assets/images/psplsp2.png)
 
 ## 活动正文
 

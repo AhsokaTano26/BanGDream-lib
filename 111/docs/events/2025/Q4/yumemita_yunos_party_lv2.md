@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2025年12月29日(月)
 
-![封面图](../../../assets/images/yumemita_yunos_party_lv2.png)
+![封面图](../../../../../public/assets/images/yumemita_yunos_party_lv2.png)
 
 ## 活动正文
 

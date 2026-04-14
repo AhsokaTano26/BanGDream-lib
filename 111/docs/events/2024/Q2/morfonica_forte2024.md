@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2024年4月14日(日)
 
-![封面图](../../../assets/images/morfonica_forte2024.png)
+![封面图](../../../../../public/assets/images/morfonica_forte2024.png)
 
 ## 活动正文
 

@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年7月26日(土)・27日(日)
 
-![封面图](../../../assets/images/avemujica_5th.jpg)
+![封面图](../../../../../public/assets/images/avemujica_5th.jpg)
 
 ## 活动正文
 

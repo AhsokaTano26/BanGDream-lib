@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2018年7月21日（⼟）
 
-![封面图](../../../assets/images/bmlsp2018.jpg)
+![封面图](../../../../../public/assets/images/bmlsp2018.jpg)
 
 ## 活动正文
 

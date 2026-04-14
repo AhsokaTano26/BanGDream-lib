@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2021年7月3日(土)～
 
-![封面图](../../../assets/images/caravan2021.png)
+![封面图](../../../../../public/assets/images/caravan2021.png)
 
 ## 活动正文
 

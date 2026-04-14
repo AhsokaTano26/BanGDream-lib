@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年11月15日(土)・16日(日)
 
-![封面图](../../../assets/images/ras_2025live.png)
+![封面图](../../../../../public/assets/images/ras_2025live.png)
 
 ## 活动正文
 

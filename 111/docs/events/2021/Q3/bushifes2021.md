@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2021年8月14日(土)～15日(日)
 
-![封面图](../../../assets/images/bushifes2021.png)
+![封面图](../../../../../public/assets/images/bushifes2021.png)
 
 ## 活动正文
 

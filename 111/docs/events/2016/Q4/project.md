@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2016年12月7日（水）
 
-![封面图](../../../assets/images/project.jpg)
+![封面图](../../../../../public/assets/images/project.jpg)
 
 ## 活动正文
 

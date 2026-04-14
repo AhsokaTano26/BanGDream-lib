@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2021年12月11日(土)、12日(日)
 
-![封面图](../../../assets/images/roselia2021.png)
+![封面图](../../../../../public/assets/images/roselia2021.png)
 
 ## 活动正文
 

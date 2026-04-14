@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2019年7月28日(日)
 
-![封面图](../../../assets/images/whl4u_ras.jpg)
+![封面图](../../../../../public/assets/images/whl4u_ras.jpg)
 
 ## 活动正文
 

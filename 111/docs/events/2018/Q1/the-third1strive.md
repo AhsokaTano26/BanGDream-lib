@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2018年3月25日（日）
 
-![封面图](../../../assets/images/the-third1strive.jpg)
+![封面图](../../../../../public/assets/images/the-third1strive.jpg)
 
 ## 活动正文
 

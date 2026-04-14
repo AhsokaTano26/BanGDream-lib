@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2024年4月29日(月・祝)
 
-![封面图](../../../assets/images/pp_mygo.png)
+![封面图](../../../../../public/assets/images/pp_mygo.png)
 
 ## 活动正文
 

@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年7月1日(火)、7月12日(土)、7月30日(水)、8月7日(木)
 
-![封面图](../../../assets/images/mygo_tour2025_sapporo.jpg)
+![封面图](../../../../../public/assets/images/mygo_tour2025_sapporo.jpg)
 
 ## 活动正文
 

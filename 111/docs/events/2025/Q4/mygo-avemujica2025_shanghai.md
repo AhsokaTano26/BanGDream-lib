@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年10月11日(土)・12日(日)
 
-![封面图](../../../assets/images/mygo-avemujica2025_shanghai.png)
+![封面图](../../../../../public/assets/images/mygo-avemujica2025_shanghai.png)
 
 ## 活动正文
 

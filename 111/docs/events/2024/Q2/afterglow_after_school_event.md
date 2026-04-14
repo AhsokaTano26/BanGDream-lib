@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2024年4月6日(土)
 
-![封面图](../../../assets/images/afterglow_after_school_event.png)
+![封面图](../../../../../public/assets/images/afterglow_after_school_event.png)
 
 ## 活动正文
 

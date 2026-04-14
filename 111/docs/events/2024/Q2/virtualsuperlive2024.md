@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2024年5月3日(金・祝)
 
-![封面图](../../../assets/images/virtualsuperlive2024.png)
+![封面图](../../../../../public/assets/images/virtualsuperlive2024.png)
 
 ## 活动正文
 

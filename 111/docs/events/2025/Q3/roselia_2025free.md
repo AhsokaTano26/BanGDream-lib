@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年9月12日(金)
 
-![封面图](../../../assets/images/roselia_2025free.png)
+![封面图](../../../../../public/assets/images/roselia_2025free.png)
 
 ## 活动正文
 

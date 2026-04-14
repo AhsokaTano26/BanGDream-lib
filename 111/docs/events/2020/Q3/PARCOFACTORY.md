@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2020年9月26日(土)～2021年1月11日(月・祝)
 
-![封面图](../../../assets/images/www.bang-dream-museum.com.png)
+![封面图](../../../../../public/assets/images/www.bang-dream-museum.com.png)
 
 ## 活动正文
 

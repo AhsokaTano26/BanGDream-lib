@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2023年9月16日(土)、17日(日)
 
-![封面图](../../../assets/images/roselia_2023.png)
+![封面图](../../../../../public/assets/images/roselia_2023.png)
 
 ## 活动正文
 

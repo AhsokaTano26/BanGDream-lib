@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2021年8月7日(土)・8日(日)
 
-![封面图](../../../assets/images/9th_kekkikai.png)
+![封面图](../../../../../public/assets/images/9th_kekkikai.png)
 
 ## 活动正文
 

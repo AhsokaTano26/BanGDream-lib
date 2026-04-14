@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2023年11月3日(金・祝)
 
-![封面图](../../../assets/images/12th-live.png)
+![封面图](../../../../../public/assets/images/12th-live.png)
 
 ## 活动正文
 

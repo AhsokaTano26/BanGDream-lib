@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2019年5月18日(土)・19日(日)
 
-![封面图](../../../assets/images/popi_sp.jpg)
+![封面图](../../../../../public/assets/images/popi_sp.jpg)
 
 ## 活动正文
 

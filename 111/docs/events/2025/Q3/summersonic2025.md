@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年8月16日(土)・17日(日)
 
-![封面图](../../../assets/images/summersonic2025.jpg)
+![封面图](../../../../../public/assets/images/summersonic2025.jpg)
 
 ## 活动正文
 

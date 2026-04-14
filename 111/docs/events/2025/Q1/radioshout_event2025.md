@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2025年2月23日(日)
 
-![封面图](../../../assets/images/radioshout_event2025.png)
+![封面图](../../../../../public/assets/images/radioshout_event2025.png)
 
 ## 活动正文
 

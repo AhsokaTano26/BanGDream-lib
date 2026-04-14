@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2026年1月10日(土)・2月21日(土)
 
-![封面图](../../../assets/images/avemujica_talkevent_2026.jpg)
+![封面图](../../../../../public/assets/images/avemujica_talkevent_2026.jpg)
 
 ## 活动正文
 

@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2019年9月29日(日)
 
-![封面图](../../../assets/images/ras_asorock.png)
+![封面图](../../../../../public/assets/images/ras_asorock.png)
 
 ## 活动正文
 

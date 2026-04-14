@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2024年1月6日(土）
 
-![封面图](../../../assets/images/2024newyear_launch_event.png)
+![封面图](../../../../../public/assets/images/2024newyear_launch_event.png)
 
 ## 活动正文
 

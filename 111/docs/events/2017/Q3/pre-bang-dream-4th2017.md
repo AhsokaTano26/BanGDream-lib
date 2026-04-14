@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2017年8月20日（日）12:00～17:00（最終入場16:30）
 
-![封面图](../../../assets/images/pre-bang-dream-4th2017.jpg)
+![封面图](../../../../../public/assets/images/pre-bang-dream-4th2017.jpg)
 
 ## 活动正文
 

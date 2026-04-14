@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2020年11月23日(月・祝)
 
-![封面图](../../../assets/images/ppp-pwst.png)
+![封面图](../../../../../public/assets/images/ppp-pwst.png)
 
 ## 活动正文
 

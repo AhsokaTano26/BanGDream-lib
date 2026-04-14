@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2021年8月21日(土)、22日(日)、9月4日(土)、5日(日)
 
-![封面图](../../../assets/images/9th-live-mythology.png)
+![封面图](../../../../../public/assets/images/9th-live-mythology.png)
 
 ## 活动正文
 

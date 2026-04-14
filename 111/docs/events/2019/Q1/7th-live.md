@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2019年2月21日(木)～23日(土)
 
-![封面图](../../../assets/images/7th-live.jpg)
+![封面图](../../../../../public/assets/images/7th-live.jpg)
 
 ## 活动正文
 

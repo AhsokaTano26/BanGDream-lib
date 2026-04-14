@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2021年4月3日(土)
 
-![封面图](../../../assets/images/ras-pwst.png)
+![封面图](../../../../../public/assets/images/ras-pwst.png)
 
 ## 活动正文
 

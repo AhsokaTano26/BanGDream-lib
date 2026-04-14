@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2021年10月17日(日)、11月7日(日)、11月17日(水)
 
-![封面图](../../../assets/images/inokori-tours.png)
+![封面图](../../../../../public/assets/images/inokori-tours.png)
 
 ## 活动正文
 

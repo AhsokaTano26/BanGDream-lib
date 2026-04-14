@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年12月6日(土)
 
-![封面图](../../../assets/images/mygo_8th.png)
+![封面图](../../../../../public/assets/images/mygo_8th.png)
 
 ## 活动正文
 

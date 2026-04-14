@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2019年12月12日(木)
 
-![封面图](../../../assets/images/3rdxmas.png)
+![封面图](../../../../../public/assets/images/3rdxmas.png)
 
 ## 活动正文
 

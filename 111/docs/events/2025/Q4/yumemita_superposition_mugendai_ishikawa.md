@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2025年11月29日(土)・11月30日(日)
 
-![封面图](../../../assets/images/yumemita_superposition_mugendai_ishikawa.png)
+![封面图](../../../../../public/assets/images/yumemita_superposition_mugendai_ishikawa.png)
 
 ## 活动正文
 

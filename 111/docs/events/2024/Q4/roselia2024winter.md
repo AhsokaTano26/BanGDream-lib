@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2024年12月14日(土)
 
-![封面图](../../../assets/images/roselia2024winter.png)
+![封面图](../../../../../public/assets/images/roselia2024winter.png)
 
 ## 活动正文
 

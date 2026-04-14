@@ -44,7 +44,7 @@
 
     <div class="mt-12 p-4 rounded-xl bg-gray-50 border border-dashed border-gray-200">
       <p class="text-[10px] text-gray-400 leading-relaxed text-center">
-        计划内容仅供参考<br>具体以官方群发布为准
+        计划内容仅供参考<br>具体以官方发布为准
       </p>
     </div>
   </aside>

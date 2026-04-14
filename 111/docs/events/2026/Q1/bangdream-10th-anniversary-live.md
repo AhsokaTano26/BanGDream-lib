@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2026年2月28日(土)
 
-![封面图](../../../assets/images/bangdream-10th-anniversary-live.png)
+![封面图](../../../../../public/assets/images/bangdream-10th-anniversary-live.png)
 
 ## 活动正文
 

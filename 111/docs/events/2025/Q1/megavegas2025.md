@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年3月22日(土)・23日(日)
 
-![封面图](../../../assets/images/megavegas2025.png)
+![封面图](../../../../../public/assets/images/megavegas2025.png)
 
 ## 活动正文
 

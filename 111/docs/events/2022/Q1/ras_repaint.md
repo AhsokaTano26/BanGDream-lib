@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2022年2月7日(月)
 
-![封面图](../../../assets/images/ras_repaint.png)
+![封面图](../../../../../public/assets/images/ras_repaint.png)
 
 ## 活动正文
 

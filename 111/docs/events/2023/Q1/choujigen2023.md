@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2023年2月12日(日)
 
-![封面图](../../../assets/images/choujigen2023.png)
+![封面图](../../../../../public/assets/images/choujigen2023.png)
 
 ## 活动正文
 

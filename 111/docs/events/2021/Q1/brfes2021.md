@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2021年2月6日(土),7日(日)
 
-![封面图](../../../assets/images/brfes2021.png)
+![封面图](../../../../../public/assets/images/brfes2021.png)
 
 ## 活动正文
 

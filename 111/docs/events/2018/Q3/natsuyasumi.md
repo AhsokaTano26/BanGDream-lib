@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2018年8月11日(土)、12日(日)
 
-![封面图](../../../assets/images/natsuyasumi.jpg)
+![封面图](../../../../../public/assets/images/natsuyasumi.jpg)
 
 ## 活动正文
 

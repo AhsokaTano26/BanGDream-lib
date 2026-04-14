@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2022年3月6日(日)～3月21日(月・祝)
 
-![封面图](../../../assets/images/gbp5th_fanfesta.png)
+![封面图](../../../../../public/assets/images/gbp5th_fanfesta.png)
 
 ## 活动正文
 

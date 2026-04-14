@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2023年2月4日(土)、5日(日)
 
-![封面图](../../../assets/images/11th-live.png)
+![封面图](../../../../../public/assets/images/11th-live.png)
 
 ## 活动正文
 

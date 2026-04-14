@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2024年11月30日(土)
 
-![封面图](../../../assets/images/bang-dream-talk2024.jpg)
+![封面图](../../../../../public/assets/images/bang-dream-talk2024.jpg)
 
 ## 活动正文
 

@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2020年7月4日(土)～8月9日(日)
 
-![封面图](../../../assets/images/gbp_exhibition.jpg)
+![封面图](../../../../../public/assets/images/gbp_exhibition.jpg)
 
 ## 活动正文
 

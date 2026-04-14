@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2023年12月30日(土)～31日(日)
 
-![封面图](../../../assets/images/comiket103.png)
+![封面图](../../../../../public/assets/images/comiket103.png)
 
 ## 活动正文
 

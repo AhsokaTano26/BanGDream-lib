@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年5月26日(月)
 
-![封面图](../../../assets/images/ppp_live2025.png)
+![封面图](../../../../../public/assets/images/ppp_live2025.png)
 
 ## 活动正文
 

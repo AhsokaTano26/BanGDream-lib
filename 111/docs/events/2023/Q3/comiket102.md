@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2023年8月12日(土)～13日(日)
 
-![封面图](../../../assets/images/comiket102.png)
+![封面图](../../../../../public/assets/images/comiket102.png)
 
 ## 活动正文
 

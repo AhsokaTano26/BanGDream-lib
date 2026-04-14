@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2025年5月10日(土)・5月11日(日)
 
-![封面图](../../../assets/images/machiasobi2025.png)
+![封面图](../../../../../public/assets/images/machiasobi2025.png)
 
 ## 活动正文
 

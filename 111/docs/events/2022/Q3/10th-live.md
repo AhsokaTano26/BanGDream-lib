@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2022年9月22日(木)
 
-![封面图](../../../assets/images/10th-live.png)
+![封面图](../../../../../public/assets/images/10th-live.png)
 
 ## 活动正文
 

@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2021年11月12日(金)、11月26日(金)、12月4日(土)
 
-![封面图](../../../assets/images/ras-tour2021-encore.png)
+![封面图](../../../../../public/assets/images/ras-tour2021-encore.png)
 
 ## 活动正文
 

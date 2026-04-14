@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2025年2月22日(土)・23日(日)
 
-![封面图](../../../assets/images/lispale2.png)
+![封面图](../../../../../public/assets/images/lispale2.png)
 
 ## 活动正文
 

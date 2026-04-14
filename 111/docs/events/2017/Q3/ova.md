@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2017年7月～8月
 
-![封面图](../../../assets/images/ova.jpg)
+![封面图](../../../../../public/assets/images/ova.jpg)
 
 ## 活动正文
 

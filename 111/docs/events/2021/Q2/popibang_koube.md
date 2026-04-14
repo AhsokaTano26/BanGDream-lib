@@ -3,7 +3,7 @@
 - **分类**: `Event`
 - **原始日期**: 2021年4月4日(日)
 
-![封面图](../../../assets/images/popibang_koube.png)
+![封面图](../../../../../public/assets/images/popibang_koube.png)
 
 ## 活动正文
 

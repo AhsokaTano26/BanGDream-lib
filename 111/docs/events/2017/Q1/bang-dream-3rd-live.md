@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2017年2月5日（日）
 
-![封面图](../../../assets/images/bang-dream-3rd-live.jpg)
+![封面图](../../../../../public/assets/images/bang-dream-3rd-live.jpg)
 
 ## 活动正文
 

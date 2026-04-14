@@ -3,7 +3,7 @@
 - **分类**: `Live`
 - **原始日期**: 2022年7月24日(日)～8月21日(日)
 
-![封面图](../../../assets/images/summerstation2022.jpg)
+![封面图](../../../../../public/assets/images/summerstation2022.jpg)
 
 ## 活动正文
 
