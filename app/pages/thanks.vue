@@ -200,8 +200,8 @@ const organizers = [
     link: "https://www.tano.asia/"
   },
   {
-    name: "跨世界同好会网站管理委员会",
-    link: "https://example.com"
+    name: "BanG Dream! Project",
+    link: "https://bang-dream.com"
   }
 ];
 
