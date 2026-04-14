@@ -84,12 +84,14 @@ const statusStyle = computed(() => getTagStyle('status', props.post.status))
 const orgStyles = computed(() => {
   const raw = props.post.orgs || props.post.org || []
   const arr = Array.isArray(raw) ? raw : [raw]
-  return arr
-      .map(value => String(value || '').toLowerCase().trim())
-      .filter(Boolean)
-      .map(value => ({
-        value,
-        ...getTagStyle('org', value)
-      }))
+  return arr.reduce((acc, value) => {
+    const normalizedValue = String(value || '').toLowerCase().trim()
+    if (!normalizedValue) return acc
+    acc.push({
+      value: normalizedValue,
+      ...getTagStyle('org', normalizedValue)
+    })
+    return acc
+  }, [])
 })
 </script>
