@@ -132,6 +132,9 @@ import { getTagStyle } from '~~/utils/tag-registry'; // 引入工具函数
 const themeConfig = useState('themeConfig')
 const currentPage = ref(1)
 const pageSize = 10
+const LUMINANCE_THRESHOLD = 0.6
+const DARK_TEXT_COLOR = '#111827'
+const LIGHT_TEXT_COLOR = '#ffffff'
 
 // 获取组织数据 (使用唯一 Key 确保刷新)
 const { data: rawOrgs } = await useAsyncData('content-orgs-directory', async () => {
@@ -177,14 +180,19 @@ const orgs = computed(() => {
   }))
 })
 
+/**
+ * 根据十六进制背景色返回可读文本色（深色或浅色）。
+ * @param {string} hexColor 形如 #RRGGBB 的颜色值
+ * @returns {string}
+ */
 const getContrastTextColor = (hexColor) => {
   const hex = String(hexColor || '').replace('#', '').trim()
-  if (!/^[0-9a-fA-F]{6}$/.test(hex)) return '#ffffff'
+  if (!/^[0-9a-fA-F]{6}$/.test(hex)) return LIGHT_TEXT_COLOR
   const r = parseInt(hex.slice(0, 2), 16)
   const g = parseInt(hex.slice(2, 4), 16)
   const b = parseInt(hex.slice(4, 6), 16)
   const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255
-  return luminance > 0.6 ? '#111827' : '#ffffff'
+  return luminance > LUMINANCE_THRESHOLD ? DARK_TEXT_COLOR : LIGHT_TEXT_COLOR
 }
 
 // 分页逻辑
