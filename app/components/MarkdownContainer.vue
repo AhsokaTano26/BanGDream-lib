@@ -74,6 +74,7 @@
                   v-for="org in orgStyles"
                   :key="org.value"
                   :class="['flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 rounded-sm border', org.class]"
+                  :style="org.badgeStyle"
               >
                 <Icon :name="org.icon" class="w-2.5 h-2.5" />
                 {{ org.label }}
@@ -167,6 +168,8 @@ const props = defineProps({
 })
 
 const route = useRoute()
+const HEX_COLOR_PATTERN = /^[0-9a-fA-F]{6}$/
+const LUMINANCE_THRESHOLD = 0.6
 
 // 1. 获取数据
 const { data: page } = await useAsyncData(`doc-${route.path}`, () => {
@@ -191,8 +194,29 @@ const statusStyle = computed(() => getTagStyle('status', page.value?.status))
 const locationStyle = computed(() => getTagStyle('location', page.value?.location))
 const orgStyles = computed(() => {
   const raw = page.value?.orgs ?? page.value?.org
-  return mapOrgStyles(raw)
+  return mapOrgStyles(raw).map((item) => {
+    const color = item?.color
+    if (!color) return { ...item, badgeStyle: {} }
+    return {
+      ...item,
+      badgeStyle: {
+        backgroundColor: color,
+        borderColor: color,
+        color: getContrastTextColor(color)
+      }
+    }
+  })
 })
+
+const getContrastTextColor = (hexColor) => {
+  const hex = String(hexColor || '').replace('#', '').trim()
+  if (!HEX_COLOR_PATTERN.test(hex)) return '#111827'
+  const r = parseInt(hex.slice(0, 2), 16)
+  const g = parseInt(hex.slice(2, 4), 16)
+  const b = parseInt(hex.slice(4, 6), 16)
+  const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255
+  return luminance > LUMINANCE_THRESHOLD ? '#111827' : '#ffffff'
+}
 
 /**
  * 核心：将 Collection 属性也进行小写处理
