@@ -153,31 +153,27 @@ const { data: rawOrgs } = await useAsyncData('content-orgs-directory', async () 
  * 数据加工：注入映射样式
  */
 const orgs = computed(() => {
-  return rawOrgs.value?.map((item) => ({
-    ...item,
-    // 分别注入三个分类的样式
-    locationStyle: getTagStyle('location', item.location),
-    typeStyle: getTagStyle('type', item.type),
-    tagStyle: getTagStyle('tag', item.tag),
-    orgStyle: getTagStyle('org', item.orgs_id),
-    orgChipClass: (() => {
-      const style = getTagStyle('org', item.orgs_id)
-      const bandColor = item?.theme?.primaryColor
-      return style?.isBand && bandColor ? '' : style.class
-    })(),
-    orgChipStyle: (() => {
-      const style = getTagStyle('org', item.orgs_id)
-      const bandColor = item?.theme?.primaryColor
-      if (style?.isBand && bandColor) {
-        return {
-          backgroundColor: bandColor,
-          borderColor: bandColor,
-          color: getContrastTextColor(bandColor)
-        }
-      }
-      return {}
-    })()
-  }))
+  return rawOrgs.value?.map((item) => {
+    const orgStyle = getTagStyle('org', item.orgs_id)
+    const bandColor = item?.theme?.primaryColor
+    const isBandColorChip = orgStyle?.isBand && bandColor
+    return {
+      ...item,
+      // 分别注入三个分类的样式
+      locationStyle: getTagStyle('location', item.location),
+      typeStyle: getTagStyle('type', item.type),
+      tagStyle: getTagStyle('tag', item.tag),
+      orgStyle,
+      orgChipClass: isBandColorChip ? '' : orgStyle.class,
+      orgChipStyle: isBandColorChip
+          ? {
+            backgroundColor: bandColor,
+            borderColor: bandColor,
+            color: getContrastTextColor(bandColor)
+          }
+          : {}
+    }
+  })
 })
 
 /**
@@ -191,6 +187,7 @@ const getContrastTextColor = (hexColor) => {
   const r = parseInt(hex.slice(0, 2), 16)
   const g = parseInt(hex.slice(2, 4), 16)
   const b = parseInt(hex.slice(4, 6), 16)
+  // ITU-R BT.601 luma coefficients
   const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255
   return luminance > LUMINANCE_THRESHOLD ? DARK_TEXT_COLOR : LIGHT_TEXT_COLOR
 }
