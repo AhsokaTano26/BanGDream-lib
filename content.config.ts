@@ -1,105 +1,126 @@
 import { defineContentConfig, defineCollection, z } from '@nuxt/content'
 
+// 定义通用的组织枚举
+const orgEnum = z.enum([
+  "ppp", "a", "pp", "R", "HHP", "M", "RAS", "mygo", "Ave", "mxd", "millsage", "dumb", "Shuffle", "other"
+])
+
 export default defineContentConfig({
-    collections: {
-        blog: defineCollection({
-            type: 'page',
-            // 默认指向 content/blog/**
-            source: 'blog/**',
-            schema: z.object({
-                title: z.string(),
-                date: z.string(),
-                description: z.string(),
-                author: z.string(),
-                type: z.string(),
-            })
-        }),
-        timeline: defineCollection({
-            type: 'page',
-            source: 'timeline/**',
-            schema: z.object({
-                title: z.string(),
-                date: z.string(),
-                description: z.string(),
-                author: z.string(),
-                status: z.string(),
-            })
-        }),
-        projects: defineCollection({
-            type: 'page',
-            source: 'projects/**',
-            schema: z.object({
-                title: z.string(),
-                description: z.string(),
-                orgs: z.string(),
-                date: z.string(),
-                author: z.string(),
-                status: z.string(),
-                link: z.string().optional(),
-            })
-        }),
-        orgs: defineCollection({
-            type: 'page',
-            source: 'orgs/**',
-            schema: z.object({
-                orgs_id: z.string(),
-                title: z.string(),
-                description: z.string(),
-                founded: z.string(),
-                joined_at: z.string(),
-                members_count: z.string(),
-                website: z.string().optional(),
-                github: z.string().optional(),
-                status: z.string(),
-                leader: z.string(),
-                location: z.string(),
-                type: z.string(),
-                tag: z.string(),
-                theme: z.object({
-                    logo: z.string().optional(),
-                    primaryColor: z.string().optional(),
-                    bgImage: z.string().optional(),
-                    bgOverlayOpacity: z.number().optional(),
-                    sidebarOpacity: z.number().optional(),
-                    mainOpacity: z.number().optional(),
-                    rightTickOpacity: z.number().optional(),
-                })
-            })
-        }),
-        notice: defineCollection({
-            type: 'page',
-            source: 'notice/**',
-            schema: z.object({
-                title: z.string(),
-                date: z.string(),
-                description: z.string(),
-                author: z.string(),
-                type: z.string(),
-            })
-        }),
-        activities: defineCollection({
-            type: 'page',
-            source: 'activities/**',
-            schema: z.object({
-                title: z.string(),
-                date: z.string(),
-                status: z.string(),
-                org: z.string(),
-                author: z.string(),
-                type: z.string(),
-            })
-        }),
-        archive: defineCollection({
-            type: 'page',
-            source: 'archive/**',
-            schema: z.object({
-                title: z.string(),
-                description: z.string(),
-                orgs: z.string(),
-                date: z.string(),
-                author: z.string(),
-                type: z.string(),
-            })
-        }),
-    }
+  collections: {
+    // 对应 Blog(Live/Event)
+    blog: defineCollection({
+      type: 'page',
+      source: 'blog/**',
+      schema: z.object({
+        title: z.string(),
+        description: z.string(),
+        date: z.string(),
+        status: z.enum(["on_site ", "activity", "other"]), // 注意文件中有个空格
+        author: z.string(),
+        location: z.string(),
+        org: z.array(orgEnum),
+        url: z.string().url()
+      })
+    }),
+
+    // 对应 News(News)
+    news: defineCollection({
+      type: 'page',
+      source: 'news/**',
+      schema: z.object({
+        title: z.string(),
+        description: z.string(),
+        date: z.string(),
+        status: z.enum(["notice", "on_site ", "publish", "product", "media"]),
+        org: z.array(orgEnum),
+        url: z.string().url()
+      })
+    }),
+
+    // 对应 Notice(官方公告)
+    notice: defineCollection({
+      type: 'page',
+      source: 'notice/**',
+      schema: z.object({
+        title: z.string(),
+        description: z.string(),
+        date: z.string(),
+        author: z.string()
+      })
+    }),
+
+    // 对应 Timeline(timeline)
+    timeline: defineCollection({
+      type: 'page',
+      source: 'timeline/**',
+      schema: z.object({
+        title: z.string(),
+        description: z.string(),
+        date: z.string(),
+        author: z.string(),
+        type: z.enum(["official", "anniversary", "daily", "other"])
+      })
+    }),
+
+    // 对应 Discographies(Discographies)
+    discographies: defineCollection({
+      type: 'page',
+      source: 'discographies/**',
+      schema: z.object({
+        title: z.string(),
+        description: z.string(),
+        date: z.string(),
+        status: z.enum(["cd", "bd", "bp", "music", "mj"]),
+        author: z.string(),
+        org: z.array(orgEnum),
+        url: z.string().url()
+      })
+    }),
+
+    // 对应 Media(Media)
+    media: defineCollection({
+      type: 'page',
+      source: 'media/**',
+      schema: z.object({
+        title: z.string(),
+        description: z.string(),
+        date: z.string(),
+        type: z.enum(["radio", "online", "tv", "article", "comic"]),
+        author: z.string(),
+        org: z.array(orgEnum),
+        url: z.string().url(),
+        status: z.enum(["finish", "stop"])
+      })
+    }),
+
+    // 对应 Org(Band)
+    orgs: defineCollection({
+      type: 'page',
+      source: 'orgs/**',
+      schema: z.object({
+        title: z.string(),
+        description: z.string(),
+        founded: z.string(),
+        theme: z.object({
+          logo: z.string().nullable().optional(),
+          bgImage: z.string().nullable().optional(),
+          primaryColor: z.string()
+        })
+      })
+    }),
+
+    // 对应 Artist(Artist)
+    artist: defineCollection({
+      type: 'page',
+      source: 'artist/**',
+      schema: z.object({
+        title: z.string(),
+        description: z.string(),
+        date: z.string(),
+        author: z.string(),
+        org: z.array(orgEnum),
+        url: z.string().url()
+      })
+    })
+  }
 })
