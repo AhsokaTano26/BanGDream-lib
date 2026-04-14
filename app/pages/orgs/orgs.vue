@@ -43,6 +43,14 @@
                   <h2 class="text-lg md:text-2xl font-black text-gray-800 tracking-tight group-hover:text-blue-600 transition-colors truncate">
                     {{ org.title }}
                   </h2>
+                  <span
+                      v-if="org.orgStyle"
+                      class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 rounded-sm shadow-sm border text-white"
+                      :style="org.orgChipStyle"
+                  >
+                    <Icon :name="org.orgStyle.icon" class="w-2.5 h-2.5" />
+                    {{ org.orgStyle.label }}
+                  </span>
                   <span v-if="org.typeStyle" :class="['flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 rounded-sm shadow-sm border', org.typeStyle.class]">
                     <Icon :name="org.typeStyle.icon" class="w-2.5 h-2.5" />
                     {{ org.typeStyle.label }}
@@ -147,7 +155,19 @@ const orgs = computed(() => {
     // 分别注入三个分类的样式
     locationStyle: getTagStyle('location', item.location),
     typeStyle: getTagStyle('type', item.type),
-    tagStyle: getTagStyle('tag', item.tag)
+    tagStyle: getTagStyle('tag', item.tag),
+    orgStyle: getTagStyle('org', item.orgs_id),
+    orgChipStyle: (() => {
+      const style = getTagStyle('org', item.orgs_id)
+      const bandColor = item?.theme?.primaryColor
+      if (style?.isBand && bandColor) {
+        return {
+          backgroundColor: bandColor,
+          borderColor: bandColor
+        }
+      }
+      return {}
+    })()
   }))
 })
 
