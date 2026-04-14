@@ -1,0 +1,557 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "默认模块",
+    "description": "",
+    "version": "1.0.0"
+  },
+  "tags": [],
+  "paths": {},
+  "webhooks": {},
+  "components": {
+    "schemas": {
+      "Blog(Live/Event)": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "演出标题"
+          },
+          "description": {
+            "type": "string",
+            "description": "简要介绍"
+          },
+          "date": {
+            "type": "string",
+            "description": "演出举办时间"
+          },
+          "status": {
+            "type": "string",
+            "description": "演出类型",
+            "enum": [
+              "on_site ",
+              "activity",
+              "other"
+            ]
+          },
+          "author": {
+            "type": "string",
+            "description": "编写人名称"
+          },
+          "location": {
+            "type": "string",
+            "description": "演出地点"
+          },
+          "org": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "ppp",
+                "a",
+                "pp",
+                "R",
+                "HHP",
+                "M",
+                "RAS",
+                "mygo",
+                "Ave",
+                "mxd",
+                "millsage",
+                "dumb",
+                "Shuffle",
+                "other"
+              ]
+            },
+            "description": "所属组织名称"
+          },
+          "url": {
+            "type": "string",
+            "description": "原文链接"
+          }
+        },
+        "required": [
+          "title",
+          "description",
+          "date",
+          "author",
+          "status",
+          "location",
+          "url",
+          "org"
+        ],
+        "title": ""
+      },
+      "News(News)": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "新闻标题"
+          },
+          "description": {
+            "type": "string",
+            "description": "简要介绍"
+          },
+          "date": {
+            "type": "string",
+            "description": "新闻举办时间"
+          },
+          "status": {
+            "type": "string",
+            "description": "新闻类型",
+            "enum": [
+              "notice",
+              "on_site ",
+              "publish",
+              "product",
+              "media"
+            ]
+          },
+          "org": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "ppp",
+                "a",
+                "pp",
+                "R",
+                "HHP",
+                "M",
+                "RAS",
+                "mygo",
+                "Ave",
+                "mxd",
+                "millsage",
+                "dumb",
+                "Shuffle",
+                "other"
+              ]
+            },
+            "description": "所属组织名称"
+          },
+          "url": {
+            "type": "string",
+            "description": "原文链接"
+          }
+        },
+        "required": [
+          "title",
+          "description",
+          "date",
+          "status",
+          "url",
+          "org"
+        ],
+        "title": ""
+      },
+      "Notice(官方公告) ": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "公告标题"
+          },
+          "description": {
+            "type": "string",
+            "description": "简要介绍"
+          },
+          "date": {
+            "type": "string",
+            "description": "通知时间"
+          },
+          "author": {
+            "type": "string",
+            "description": "编写人名称"
+          }
+        },
+        "required": [
+          "title",
+          "description",
+          "date",
+          "author"
+        ],
+        "title": ""
+      },
+      "Timeline(timeline)": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "时间线标题"
+          },
+          "description": {
+            "type": "string",
+            "description": "简要介绍"
+          },
+          "date": {
+            "type": "string",
+            "description": "编写时间"
+          },
+          "author": {
+            "type": "string",
+            "description": "编写人名称"
+          },
+          "type": {
+            "type": "string",
+            "description": "文章类型",
+            "enum": [
+              "official",
+              "anniversary",
+              "daily",
+              "other"
+            ]
+          }
+        },
+        "required": [
+          "title",
+          "description",
+          "date",
+          "author",
+          "type"
+        ],
+        "title": ""
+      },
+      "Discographies(Discographies)": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "唱片标题"
+          },
+          "description": {
+            "type": "string",
+            "description": "简要介绍"
+          },
+          "date": {
+            "type": "string",
+            "description": "唱片发布时间"
+          },
+          "status": {
+            "type": "string",
+            "description": "唱片类型",
+            "enum": [
+              "cd",
+              "bd",
+              "bp",
+              "music",
+              "mj"
+            ]
+          },
+          "author": {
+            "type": "string",
+            "description": "编写人名称"
+          },
+          "org": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "ppp",
+                "a",
+                "pp",
+                "R",
+                "HHP",
+                "M",
+                "RAS",
+                "mygo",
+                "Ave",
+                "mxd",
+                "millsage",
+                "dumb",
+                "Shuffle",
+                "other"
+              ]
+            },
+            "description": "所属组织名称"
+          },
+          "url": {
+            "type": "string",
+            "description": "原文链接"
+          }
+        },
+        "required": [
+          "title",
+          "description",
+          "date",
+          "author",
+          "status",
+          "url",
+          "org"
+        ],
+        "title": ""
+      },
+      "Media(Media)": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "媒体标题"
+          },
+          "description": {
+            "type": "string",
+            "description": "简要介绍"
+          },
+          "date": {
+            "type": "string",
+            "description": "媒体开始时间"
+          },
+          "type": {
+            "type": "string",
+            "description": "媒体类型",
+            "enum": [
+              "radio",
+              "online",
+              "tv",
+              "article",
+              "comic"
+            ]
+          },
+          "author": {
+            "type": "string",
+            "description": "编写人名称"
+          },
+          "org": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "ppp",
+                "a",
+                "pp",
+                "R",
+                "HHP",
+                "M",
+                "RAS",
+                "mygo",
+                "Ave",
+                "mxd",
+                "millsage",
+                "dumb",
+                "Shuffle",
+                "other"
+              ]
+            },
+            "description": "所属组织名称"
+          },
+          "url": {
+            "type": "string",
+            "description": "原文链接"
+          },
+          "status": {
+            "type": "string",
+            "description": "状态",
+            "enum": [
+              "finish",
+              "stop"
+            ]
+          }
+        },
+        "required": [
+          "title",
+          "description",
+          "date",
+          "author",
+          "type",
+          "url",
+          "status",
+          "org"
+        ],
+        "title": ""
+      },
+      "Org(Band)": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "组织名称"
+          },
+          "description": {
+            "type": "string",
+            "description": "介绍"
+          },
+          "founded": {
+            "type": "string",
+            "description": "成立时间"
+          },
+          "theme": {
+            "type": "object",
+            "properties": {
+              "logo": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "description": "组织logo，可选组件库或者头像图片。可从url传入\n",
+                "examples": [
+                  "lucide:shrub",
+                  "/orgs/aimi.jpg",
+                  "https://img.tano.asia/i/596e5fe8-ba31-426d-a252-3fab758ac886.jpg"
+                ]
+              },
+              "bgImage": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "description": "组织背景图。可从url传入",
+                "examples": [
+                  "/orgs/test.jpg",
+                  "https://img.tano.asia/i/f28c0f86-67bd-41e1-981b-cfee6a6c353b.jpg"
+                ]
+              },
+              "primaryColor": {
+                "type": "string",
+                "examples": [
+                  "#7c3aed"
+                ],
+                "description": "组织主题色"
+              }
+            },
+            "required": [
+              "primaryColor"
+            ]
+          }
+        },
+        "required": [
+          "title",
+          "description",
+          "founded",
+          "theme"
+        ]
+      },
+      "Artist(Artist)": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "艺术家标题"
+          },
+          "description": {
+            "type": "string",
+            "description": "简要介绍"
+          },
+          "date": {
+            "type": "string",
+            "description": "编写时间"
+          },
+          "author": {
+            "type": "string",
+            "description": "编写人名称"
+          },
+          "org": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "ppp",
+                "a",
+                "pp",
+                "R",
+                "HHP",
+                "M",
+                "RAS",
+                "mygo",
+                "Ave",
+                "mxd",
+                "millsage",
+                "dumb",
+                "Shuffle",
+                "other"
+              ]
+            },
+            "description": "所属组织名称"
+          },
+          "url": {
+            "type": "string",
+            "description": "原文链接"
+          }
+        },
+        "required": [
+          "title",
+          "description",
+          "date",
+          "author",
+          "url",
+          "org"
+        ],
+        "title": ""
+      },
+      "orgs(所有的组织）": {
+        "type": "object",
+        "properties": {
+          "org": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "ppp",
+                "a",
+                "pp",
+                "R",
+                "HHP",
+                "M",
+                "RAS",
+                "mygo",
+                "Ave",
+                "mxd",
+                "millsage",
+                "dumb",
+                "Shuffle",
+                "other"
+              ]
+            },
+            "description": "所属组织名称"
+          }
+        },
+        "required": [
+          "org"
+        ],
+        "title": ""
+      },
+      "Theme（组织主题）": {
+        "type": "object",
+        "properties": {
+          "logo": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "组织logo，可选组件库或者头像图片。可从url传入\n",
+            "examples": [
+              "lucide:shrub",
+              "/orgs/aimi.jpg",
+              "https://img.tano.asia/i/596e5fe8-ba31-426d-a252-3fab758ac886.jpg"
+            ]
+          },
+          "bgImage": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "组织背景图。可从url传入",
+            "examples": [
+              "/orgs/test.jpg",
+              "https://img.tano.asia/i/f28c0f86-67bd-41e1-981b-cfee6a6c353b.jpg"
+            ]
+          },
+          "primaryColor": {
+            "type": "string",
+            "examples": [
+              "#7c3aed"
+            ],
+            "description": "组织主题色"
+          }
+        },
+        "required": [
+          "primaryColor"
+        ]
+      }
+    },
+    "responses": {},
+    "securitySchemes": {}
+  },
+  "servers": [],
+  "security": []
+}
