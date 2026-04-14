@@ -97,6 +97,10 @@ const REGISTRY = {
         other: { label: '其他组织', icon: 'lucide:building-2', class: 'bg-gray-100 text-gray-600 border-gray-200', isBand: false }
     }
 };
+const HEX_COLOR_PATTERN = /^[0-9a-fA-F]{6}$/;
+const LUMINANCE_THRESHOLD = 0.6;
+const DARK_TEXT_COLOR = '#111827';
+const LIGHT_TEXT_COLOR = '#ffffff';
 
 /**
  * 获取标签配置
@@ -120,6 +124,22 @@ export const getTagStyle = (category, value) => {
     }
 
     return source[val];
+};
+
+/**
+ * 根据十六进制背景色返回可读文本色（深色或浅色）。
+ * 使用 BT.601 亮度近似，并归一化到 [0,1] 区间进行阈值判断。
+ * @param {string} hexColor 形如 #RRGGBB 的颜色值
+ * @returns {string}
+ */
+export const getContrastTextColor = (hexColor) => {
+    const hex = String(hexColor || '').replace('#', '').trim();
+    if (!HEX_COLOR_PATTERN.test(hex)) return DARK_TEXT_COLOR;
+    const r = parseInt(hex.slice(0, 2), 16);
+    const g = parseInt(hex.slice(2, 4), 16);
+    const b = parseInt(hex.slice(4, 6), 16);
+    const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
+    return luminance > LUMINANCE_THRESHOLD ? DARK_TEXT_COLOR : LIGHT_TEXT_COLOR;
 };
 
 /**
