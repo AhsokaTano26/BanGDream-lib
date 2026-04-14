@@ -61,7 +61,7 @@ const REGISTRY = {
         regional: { label: 'Regional', icon: 'lucide:map', class: 'bg-cyan-50 text-cyan-600 border-cyan-100' },
 
         // API Models
-        on_site: { label: '线下', icon: 'lucide:map-pin', class: 'bg-orange-50 text-orange-600 border-orange-100' },
+        on_site: { label: '现场演出', icon: 'lucide:map-pin', class: 'bg-orange-50 text-orange-600 border-orange-100' },
         activity: { label: '活动', icon: 'lucide:sparkles', class: 'bg-blue-50 text-blue-600 border-blue-100' },
         notice: { label: '通知', icon: 'lucide:megaphone', class: 'bg-amber-50 text-amber-700 border-amber-200' },
         publish: { label: '发布', icon: 'lucide:send', class: 'bg-violet-50 text-violet-700 border-violet-200' },
@@ -89,7 +89,7 @@ const REGISTRY = {
         m: { label: 'Morfonica', icon: 'lucide:music-3', class: 'bg-cyan-50 text-cyan-700 border-cyan-100', isBand: true, color: '#87CEEB' },
         ras: { label: 'RAISE A SUILEN', icon: 'lucide:zap', class: 'bg-lime-50 text-lime-700 border-lime-200', isBand: true, color: '#33CCCC' },
         mygo: { label: 'MyGO!!!!!', icon: 'lucide:audio-waveform', class: 'bg-teal-50 text-teal-700 border-teal-200', isBand: true, color: '#3388BB' },
-        ave: { label: 'Ave Mujica', icon: 'lucide:masks', class: 'bg-violet-50 text-violet-700 border-violet-200', isBand: true, color: '#881144' },
+        ave: { label: 'Ave Mujica', icon: 'boxicons:mask', class: 'bg-violet-50 text-violet-700 border-violet-200', isBand: true, color: '#881144' },
         mxd: { label: '夢限大みゅーたいぷ', icon: 'lucide:orbit', class: 'bg-fuchsia-50 text-fuchsia-700 border-fuchsia-200', isBand: true, color: '#FF7788' },
         millsage: { label: 'millsage', icon: 'lucide:leaf', class: 'bg-emerald-50 text-emerald-700 border-emerald-200', isBand: true, color: '#AA22EE' },
         dumb: { label: '一家Dumb Rock!', icon: 'lucide:moon', class: 'bg-slate-100 text-slate-700 border-slate-200', isBand: true, color: '#FFAA33' },
