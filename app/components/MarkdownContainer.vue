@@ -44,14 +44,20 @@
 
             <div class="flex flex-wrap gap-2 pt-3">
 
-              <span v-if="page.type" :class="['flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 rounded-sm text-white shadow-sm', getTypeColor]">
-                <Icon name="lucide:tag" class="w-2.5 h-2.5" />
-                {{ formatLabel(page.type) }}
+              <span
+                  v-if="page.type"
+                  :class="['flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 rounded-sm border shadow-sm', typeStyle.class]"
+              >
+                <Icon :name="typeStyle.icon" class="w-2.5 h-2.5" />
+                {{ typeStyle.label }}
               </span>
 
-              <span v-if="page.status" class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-amber-50 text-amber-600 rounded-sm uppercase">
-                <Icon name="lucide:activity" class="w-2.5 h-2.5" />
-                {{ formatLabel(page.status) }}
+              <span
+                  v-if="page.status"
+                  :class="['flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 rounded-sm uppercase border', statusStyle.class]"
+              >
+                <Icon :name="statusStyle.icon" class="w-2.5 h-2.5" />
+                {{ statusStyle.label }}
               </span>
 
               <span v-if="page.date" class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-blue-50 text-blue-600 rounded-sm">
@@ -64,9 +70,14 @@
                 {{ page.author }}
               </span>
 
-              <span v-if="page.org || page.orgs" class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-indigo-50 text-indigo-600 rounded-sm">
-                <Icon name="lucide:building-2" class="w-2.5 h-2.5" />
-                {{ Array.isArray(page.orgs) ? page.orgs.join(' / ') : (page.orgs || page.org) }}
+              <span
+                  v-for="org in orgStyles"
+                  :key="org.value"
+                  :class="['flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 rounded-sm border', org.class]"
+                  :style="org.badgeStyle"
+              >
+                <Icon :name="org.icon" class="w-2.5 h-2.5" />
+                {{ org.label }}
               </span>
 
               <span v-if="page.orgs_id" class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-slate-50 text-slate-600 rounded-sm">
@@ -94,9 +105,12 @@
                 Leader: {{ page.leader }}
               </span>
 
-              <span v-if="page.location" class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-red-50 text-red-600 rounded-sm uppercase">
-                <Icon name="lucide:map-pin" class="w-2.5 h-2.5" />
-                {{ formatLabel(page.location) }}
+              <span
+                  v-if="page.location"
+                  :class="['flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 rounded-sm uppercase border', locationStyle.class]"
+              >
+                <Icon :name="locationStyle.icon" class="w-2.5 h-2.5" />
+                {{ locationStyle.label }}
               </span>
 
               <a v-if="page.link || page.website" :href="page.link || page.website" target="_blank" class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-sky-50 text-sky-600 hover:bg-sky-100 transition-colors rounded-sm cursor-pointer">
@@ -130,6 +144,7 @@
 </template>
 
 <script setup>
+import { getTagStyle, mapOrgStyles, getContrastTextColor } from '~~/utils/tag-registry'
 /**
  * @component PostDetailLayout
  * @description 万能详情页渲染引擎。采用“协议式”开发模式，通过 Props 传入集合名称，自动匹配 UI 主题、图标及元数据标签。
@@ -172,45 +187,30 @@ const normalizedType = computed(() => {
   return String(rawType).toLowerCase().trim()
 })
 
+const typeStyle = computed(() => getTagStyle('type', page.value?.type))
+const statusStyle = computed(() => getTagStyle('status', page.value?.status))
+const locationStyle = computed(() => getTagStyle('location', page.value?.location))
+const orgStyles = computed(() => {
+  const raw = page.value?.orgs ?? page.value?.org
+  return mapOrgStyles(raw).map((item) => {
+    const color = item?.color
+    if (!color) return { ...item, badgeStyle: {} }
+    return {
+      ...item,
+      badgeStyle: {
+        backgroundColor: color,
+        borderColor: color,
+        color: getContrastTextColor(color)
+      }
+    }
+  })
+})
+
 /**
  * 核心：将 Collection 属性也进行小写处理
  */
 const normalizedCollection = computed(() => {
   return String(props.collection || '').toLowerCase().trim()
-})
-
-// 1. 格式化标签文字 (去掉下划线，美化显示)
-const formatLabel = (text) => {
-  if (!text) return ''
-  // 统一转字符串处理，并替换下划线
-  return String(text).replace(/_/g, ' ')
-}
-
-// 2. Type 颜色映射 (基于归一化后的 normalizedType)
-const getTypeColor = computed(() => {
-  const val = normalizedType.value
-  const colorMap = {
-    // 官方/活动/公告
-    official: 'bg-blue-600',
-    anniversary: 'bg-purple-600',
-    nexus: 'bg-indigo-500',
-    regula: 'bg-zinc-800',
-    event: 'bg-rose-500',
-    notice: 'bg-amber-500',
-    // 博客内容
-    docu: 'bg-slate-700',
-    artic: 'bg-sky-500',
-    rese: 'bg-emerald-600',
-    // 映像
-    gallery: 'bg-pink-500',
-    tweet: 'bg-blue-400',
-    // 组织类型
-    fc: 'bg-pink-400',
-    dkk: 'bg-orange-500',
-    // 默认回退
-    default: 'bg-gray-500'
-  }
-  return colorMap[val] || colorMap.default
 })
 
 // 3. 标签逻辑 (保持数组输出)

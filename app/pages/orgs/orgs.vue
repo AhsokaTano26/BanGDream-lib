@@ -43,6 +43,14 @@
                   <h2 class="text-lg md:text-2xl font-black text-gray-800 tracking-tight group-hover:text-blue-600 transition-colors truncate">
                     {{ org.title }}
                   </h2>
+                  <span
+                      v-if="org.orgStyle"
+                      :class="['flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 rounded-sm shadow-sm border', org.orgChipClass]"
+                      :style="org.orgChipStyle"
+                  >
+                    <Icon :name="org.orgStyle.icon" class="w-2.5 h-2.5" />
+                    {{ org.orgStyle.label }}
+                  </span>
                   <span v-if="org.typeStyle" :class="['flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 rounded-sm shadow-sm border', org.typeStyle.class]">
                     <Icon :name="org.typeStyle.icon" class="w-2.5 h-2.5" />
                     {{ org.typeStyle.label }}
@@ -119,11 +127,12 @@
 
 <script setup>
 import { computed, ref } from 'vue';
-import { getTagStyle } from '~~/utils/tag-registry'; // 引入工具函数
+import { getTagStyle, getContrastTextColor } from '~~/utils/tag-registry'; // 引入工具函数
 
 const themeConfig = useState('themeConfig')
 const currentPage = ref(1)
 const pageSize = 10
+const getOrgStyleWithFallback = (orgId) => getTagStyle('org', orgId) || getTagStyle('org', 'other')
 
 // 获取组织数据 (使用唯一 Key 确保刷新)
 const { data: rawOrgs } = await useAsyncData('content-orgs-directory', async () => {
@@ -142,13 +151,27 @@ const { data: rawOrgs } = await useAsyncData('content-orgs-directory', async () 
  * 数据加工：注入映射样式
  */
 const orgs = computed(() => {
-  return rawOrgs.value?.map((item) => ({
-    ...item,
-    // 分别注入三个分类的样式
-    locationStyle: getTagStyle('location', item.location),
-    typeStyle: getTagStyle('type', item.type),
-    tagStyle: getTagStyle('tag', item.tag)
-  }))
+  return rawOrgs.value?.map((item) => {
+    const orgStyle = getOrgStyleWithFallback(item.orgs_id)
+    const bandColor = orgStyle?.color || item?.theme?.primaryColor
+    const isBandColorChip = orgStyle?.isBand && bandColor
+    return {
+      ...item,
+      // 分别注入三个分类的样式
+      locationStyle: getTagStyle('location', item.location),
+      typeStyle: getTagStyle('type', item.type),
+      tagStyle: getTagStyle('tag', item.tag),
+      orgStyle,
+      orgChipClass: isBandColorChip ? '' : orgStyle.class,
+      orgChipStyle: isBandColorChip
+          ? {
+            backgroundColor: bandColor,
+            borderColor: bandColor,
+            color: getContrastTextColor(bandColor)
+          }
+          : {}
+    }
+  })
 })
 
 // 分页逻辑
