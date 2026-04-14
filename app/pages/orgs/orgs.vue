@@ -45,7 +45,7 @@
                   </h2>
                   <span
                       v-if="org.orgStyle"
-                      class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 rounded-sm shadow-sm border text-white"
+                      :class="['flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 rounded-sm shadow-sm border', org.orgChipClass]"
                       :style="org.orgChipStyle"
                   >
                     <Icon :name="org.orgStyle.icon" class="w-2.5 h-2.5" />
@@ -157,19 +157,35 @@ const orgs = computed(() => {
     typeStyle: getTagStyle('type', item.type),
     tagStyle: getTagStyle('tag', item.tag),
     orgStyle: getTagStyle('org', item.orgs_id),
+    orgChipClass: (() => {
+      const style = getTagStyle('org', item.orgs_id)
+      const bandColor = item?.theme?.primaryColor
+      return style?.isBand && bandColor ? '' : style.class
+    })(),
     orgChipStyle: (() => {
       const style = getTagStyle('org', item.orgs_id)
       const bandColor = item?.theme?.primaryColor
       if (style?.isBand && bandColor) {
         return {
           backgroundColor: bandColor,
-          borderColor: bandColor
+          borderColor: bandColor,
+          color: getContrastTextColor(bandColor)
         }
       }
       return {}
     })()
   }))
 })
+
+const getContrastTextColor = (hexColor) => {
+  const hex = String(hexColor || '').replace('#', '').trim()
+  if (!/^[0-9a-fA-F]{6}$/.test(hex)) return '#ffffff'
+  const r = parseInt(hex.slice(0, 2), 16)
+  const g = parseInt(hex.slice(2, 4), 16)
+  const b = parseInt(hex.slice(4, 6), 16)
+  const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255
+  return luminance > 0.6 ? '#111827' : '#ffffff'
+}
 
 // 分页逻辑
 const totalPages = computed(() => Math.ceil((orgs.value?.length || 0) / pageSize))
