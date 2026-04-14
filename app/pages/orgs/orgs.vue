@@ -127,15 +127,11 @@
 
 <script setup>
 import { computed, ref } from 'vue';
-import { getTagStyle } from '~~/utils/tag-registry'; // 引入工具函数
+import { getTagStyle, getContrastTextColor } from '~~/utils/tag-registry'; // 引入工具函数
 
 const themeConfig = useState('themeConfig')
 const currentPage = ref(1)
 const pageSize = 10
-const LUMINANCE_THRESHOLD = 0.6
-const DARK_TEXT_COLOR = '#111827'
-const LIGHT_TEXT_COLOR = '#ffffff'
-const HEX_COLOR_PATTERN = /^[0-9a-fA-F]{6}$/
 const getOrgStyleWithFallback = (orgId) => getTagStyle('org', orgId) || getTagStyle('org', 'other')
 
 // 获取组织数据 (使用唯一 Key 确保刷新)
@@ -177,22 +173,6 @@ const orgs = computed(() => {
     }
   })
 })
-
-/**
- * 根据十六进制背景色返回可读文本色（深色或浅色）。
- * @param {string} hexColor 形如 #RRGGBB 的颜色值
- * @returns {string}
- */
-const getContrastTextColor = (hexColor) => {
-  const hex = String(hexColor || '').replace('#', '').trim()
-  if (!HEX_COLOR_PATTERN.test(hex)) return DARK_TEXT_COLOR
-  const r = parseInt(hex.slice(0, 2), 16)
-  const g = parseInt(hex.slice(2, 4), 16)
-  const b = parseInt(hex.slice(4, 6), 16)
-  // 使用 BT.601 线性亮度近似，并归一化到 [0,1] 区间用于阈值判断。
-  const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255
-  return luminance > LUMINANCE_THRESHOLD ? DARK_TEXT_COLOR : LIGHT_TEXT_COLOR
-}
 
 // 分页逻辑
 const totalPages = computed(() => Math.ceil((orgs.value?.length || 0) / pageSize))

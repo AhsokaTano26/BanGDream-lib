@@ -144,7 +144,7 @@
 </template>
 
 <script setup>
-import { getTagStyle, mapOrgStyles } from '~~/utils/tag-registry'
+import { getTagStyle, mapOrgStyles, getContrastTextColor } from '~~/utils/tag-registry'
 /**
  * @component PostDetailLayout
  * @description 万能详情页渲染引擎。采用“协议式”开发模式，通过 Props 传入集合名称，自动匹配 UI 主题、图标及元数据标签。
@@ -168,8 +168,6 @@ const props = defineProps({
 })
 
 const route = useRoute()
-const HEX_COLOR_PATTERN = /^[0-9a-fA-F]{6}$/
-const LUMINANCE_THRESHOLD = 0.6
 
 // 1. 获取数据
 const { data: page } = await useAsyncData(`doc-${route.path}`, () => {
@@ -207,16 +205,6 @@ const orgStyles = computed(() => {
     }
   })
 })
-
-const getContrastTextColor = (hexColor) => {
-  const hex = String(hexColor || '').replace('#', '').trim()
-  if (!HEX_COLOR_PATTERN.test(hex)) return '#111827'
-  const r = parseInt(hex.slice(0, 2), 16)
-  const g = parseInt(hex.slice(2, 4), 16)
-  const b = parseInt(hex.slice(4, 6), 16)
-  const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255
-  return luminance > LUMINANCE_THRESHOLD ? '#111827' : '#ffffff'
-}
 
 /**
  * 核心：将 Collection 属性也进行小写处理
