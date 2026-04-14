@@ -1,0 +1,31 @@
+# Nuxt 自动生成的目录
+.nuxt/
+.output/
+dist/
+
+# Nuxt Content 缓存 (重要：避免索引缓存冲突)
+.cache/
+.data/content-cache/
+
+# 依赖库
+node_modules/
+
+# 环境变量
+.env
+.env.*
+!.env.example
+
+# 系统文件
+*.log
+.DS_Store
+thumbs.db
+
+# 编辑器配置
+.vscode/
+.idea/
+
+# 单元测试/覆盖率
+coverage/
+
+# 构建生成的静态文件 (如果是通过 generate 生成的)
+.github/

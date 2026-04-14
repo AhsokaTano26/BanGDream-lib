@@ -70,6 +70,6 @@ description: BanG Dream! 企划的起点，Poppin'Party 吉他手兼主唱爱美
 ---
 
 <p align="center">
-  <a href="../../">返回声优列表</a> | 
-  <a href="./sae_otsuka.md">下一位声优：大塚纱英</a>
+  <a href="../..">返回声优列表</a> | 
+  <a href="sae_otsuka.md">下一位声优：大塚纱英</a>
 </p>
