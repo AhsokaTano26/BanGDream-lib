@@ -85,13 +85,41 @@ const proseClass = `
 
          /* 行内代码 */
          prose-code:bg-black/60
-         prose-code:text-blue-300
+         prose-code:text-blue-600
          prose-code:px-1.5
          prose-code:py-0.5
          prose-code:rounded
 
          /* 表格 */
-         prose-th:text-gray-800
-         prose-td:text-gray-700
+         prose-th:text-gray-300
+         prose-td:text-gray-200
+
+         /* 序号颜色 */
+         prose-ol:list-decimal
+         prose-li:marker:text-blue-200
+         prose-li:marker:font-black
 `
 </script>
+
+<style>
+/* app.vue 的 style 块中 */
+
+/* 防止 Tailwind Prose 给公式添加多余的引号或边距 */
+.prose .katex-display {
+  margin: 1.5em 0;
+  padding: 0.5em 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+/* 修正行内公式可能被压缩的问题 */
+.prose .katex {
+  font-size: 1.05em;
+  text-indent: 0;
+}
+
+/* 如果公式里的字符看不清，可以强制显示颜色 */
+.katex {
+  color: inherit;
+}
+</style>
