@@ -18,8 +18,8 @@
     </Transition>
 
     <div
-        class="lg:hidden fixed top-2 left-0 right-0 h-16 flex items-center justify-end px-4 z-[110] bg-transparent"
-        :style="{ paddingTop: 'env(safe-area-inset-top)' }"
+        class="lg:hidden fixed top-0 left-0 right-0 h-16 flex items-center justify-end px-4 z-[110] bg-transparent"
+        :style="{ paddingTop: 'calc(env(safe-area-inset-top) + 0.5rem)' }"
     >
       <button
           @click="isOpen = !isOpen"
