@@ -1,6 +1,6 @@
 <template>
   <div
-      class="min-h-screen text-[#333] font-sans selection:bg-blue-100 selection:text-blue-900 bg-cover bg-center bg-fixed transition-all duration-700"
+      class="min-h-screen text-[#333] font-sans selection:bg-blue-100 selection:text-blue-900 bg-cover bg-center lg:bg-fixed transition-all duration-700"
       :style="containerStyle"
   >
     <div
@@ -17,10 +17,10 @@
       </div>
     </Transition>
 
-    <div class="lg:hidden fixed top-0 left-0 right-0 h-16 flex items-center justify-end px-4 z-[80] bg-transparent">
+    <div class="lg:hidden fixed top-[max(env(safe-area-inset-top),0.5rem)] left-0 right-0 h-16 flex items-center justify-end px-4 z-[110] bg-transparent pointer-events-none">
       <button
           @click="isOpen = !isOpen"
-          class="p-3 text-gray-600 hover:text-blue-500 transition-colors bg-white/20 backdrop-blur-sm rounded-full shadow-sm"
+          class="p-3 text-gray-600 hover:text-blue-500 transition-colors bg-white/75 border border-white/80 backdrop-blur-sm rounded-full shadow-sm pointer-events-auto"
       >
         <Icon v-if="!isOpen" name="lucide:menu" class="w-6 h-6" />
         <Icon v-else name="lucide:x" class="w-6 h-6" />
@@ -36,7 +36,7 @@
 
       <div class="flex-1 flex flex-col lg:flex-row lg:ml-64">
         <main
-            class="flex-1 p-4 md:p-8 lg:p-12 backdrop-blur-sm transition-all duration-700"
+            class="flex-1 p-4 pt-20 md:p-8 md:pt-24 lg:p-12 lg:pt-12 backdrop-blur-sm transition-all duration-700"
             :style="!isOpen
             ? { backdropFilter: `blur(${themeConfig.blurRadius})` }
             : { backdropFilter: 'none' }"
