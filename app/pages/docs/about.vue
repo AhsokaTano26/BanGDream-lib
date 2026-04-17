@@ -86,7 +86,7 @@
             </p>
             <div class="flex flex-col items-center">
               <div class="w-8 h-1 bg-gradient-to-r from-pink-500 to-yellow-500 rounded-full mb-4"></div>
-              <span class="text-[10px] font-mono tracking-widest text-gray-500 uppercase">Est. 2026.04.14 / Created by Tano</span>
+              <span class="text-[10px] font-mono tracking-widest text-gray-200 uppercase">Est. 2026.04.14 / Created by Tano</span>
             </div>
           </div>
 
