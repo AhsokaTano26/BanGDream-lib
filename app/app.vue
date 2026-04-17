@@ -17,7 +17,10 @@
       </div>
     </Transition>
 
-    <div class="lg:hidden fixed top-[max(env(safe-area-inset-top),0.5rem)] left-0 right-0 h-16 flex items-center justify-end px-4 z-[110] bg-transparent">
+    <div
+        class="lg:hidden fixed top-2 left-0 right-0 h-16 flex items-center justify-end px-4 z-[110] bg-transparent"
+        :style="{ paddingTop: 'env(safe-area-inset-top)' }"
+    >
       <button
           @click="isOpen = !isOpen"
           class="p-3 text-gray-600 hover:text-blue-500 transition-colors bg-white/75 border border-white/80 backdrop-blur-sm rounded-full shadow-sm"
@@ -36,7 +39,7 @@
 
       <div class="flex-1 flex flex-col lg:flex-row lg:ml-64">
         <main
-            class="flex-1 p-4 pt-20 md:p-8 md:pt-24 lg:p-12 lg:pt-12 backdrop-blur-sm transition-all duration-700"
+            class="flex-1 p-4 md:p-8 lg:p-12 mobile-main-offset backdrop-blur-sm transition-all duration-700"
             :style="!isOpen
             ? { backdropFilter: `blur(${themeConfig.blurRadius})` }
             : { backdropFilter: 'none' }"
@@ -186,5 +189,21 @@ html {
 .page-leave-to {
   opacity: 0;
   filter: blur(1rem);
+}
+
+.mobile-main-offset {
+  padding-top: calc(env(safe-area-inset-top) + 4.5rem);
+}
+
+@media (min-width: 768px) {
+  .mobile-main-offset {
+    padding-top: calc(env(safe-area-inset-top) + 5rem);
+  }
+}
+
+@media (min-width: 1024px) {
+  .mobile-main-offset {
+    padding-top: 3rem;
+  }
 }
 </style>
