@@ -182,7 +182,7 @@ html {
   --mobile-menu-height: 4rem;
   --mobile-menu-offset: 0.5rem;
   --mobile-menu-offset-md: 1rem;
-  --mobile-main-extra: var(--mobile-menu-offset);
+  --mobile-main-offset: var(--mobile-menu-offset);
 }
 /* app.vue */
 .page-enter-active,
@@ -196,12 +196,12 @@ html {
 }
 
 .mobile-main-offset {
-  padding-top: calc(env(safe-area-inset-top) + var(--mobile-menu-height) + var(--mobile-main-extra));
+  padding-top: calc(env(safe-area-inset-top) + var(--mobile-menu-height) + var(--mobile-main-offset));
 }
 
 @media (min-width: 768px) {
   :root {
-    --mobile-main-extra: var(--mobile-menu-offset-md);
+    --mobile-main-offset: var(--mobile-menu-offset-md);
   }
 }
 
