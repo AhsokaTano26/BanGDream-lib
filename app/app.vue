@@ -50,7 +50,7 @@
         </main>
 
         <AppRightTick
-            class="w-full lg:w-80 "
+            class="hidden lg:block lg:w-80"
             :style="{ backgroundColor: `rgba(255, 255, 255, ${themeConfig.rightTickOpacity})` }"
         />
       </div>
