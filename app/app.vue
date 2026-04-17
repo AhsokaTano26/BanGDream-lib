@@ -23,7 +23,7 @@
     >
       <button
           @click="isOpen = !isOpen"
-          aria-label="Toggle navigation menu"
+          :aria-label="isOpen ? 'Close navigation menu' : 'Open navigation menu'"
           class="p-3 text-gray-600 hover:text-blue-500 transition-colors bg-white/75 border border-white/80 backdrop-blur-sm rounded-full shadow-sm"
       >
         <Icon v-if="!isOpen" name="lucide:menu" class="w-6 h-6" />
