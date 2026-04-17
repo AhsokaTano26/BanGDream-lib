@@ -8,7 +8,7 @@
     <div class="max-w-4xl mx-auto space-y-8 pb-20">
 
       <div class="bg-white/5 backdrop-blur-xl border border-white/5 rounded-2xl shadow-sm overflow-hidden transition-all duration-500 hover:shadow-xl hover:shadow-blue-500/5">
-        <div class="bg-white/30 p-8 flex flex-col gap-3 border-b border-white/10">
+        <div class="bg-white/30 p-5 sm:p-8 flex flex-col gap-3 border-b border-white/10">
           <div class="flex items-center gap-3">
             <div class="flex items-center gap-1.5 bg-blue-500 text-white px-2 py-0.5 rounded-lg shadow-sm">
               <Icon name="lucide:award" class="w-3 h-3" />
@@ -19,7 +19,7 @@
               <span class="text-xs font-mono">V2.0.0-STABLE</span>
             </div>
           </div>
-          <h1 class="text-4xl font-bold text-gray-800 tracking-tighter flex items-center gap-3">
+          <h1 class="text-2xl sm:text-4xl font-bold text-gray-800 tracking-tighter flex items-center gap-3">
             致谢与鸣谢
           </h1>
           <p class="text-sm text-gray-200 font-medium leading-relaxed max-w-2xl">
@@ -30,10 +30,10 @@
 
         <div class="grid grid-cols-1 md:grid-cols-2">
           <div v-for="(blue, index) in contributors" :key="index"
-               class="p-6 transition-all duration-300 group
-                      /* 毛玻璃配置 */
-                      bg-white/10 backdrop-blur-lg border-r border-b border-white/10
-                      hover:bg-white/40">
+               class="p-4 sm:p-6 transition-all duration-300 group
+                       /* 毛玻璃配置 */
+                       bg-white/10 backdrop-blur-lg border-r border-b border-white/10
+                       hover:bg-white/40">
 
             <div class="flex items-center justify-between mb-4">
               <div class="flex items-center gap-2">
@@ -81,7 +81,7 @@
         />
       </div>
 
-      <div class="bg-gray-900/80 backdrop-blur-xl border border-white/10 rounded-2xl p-6 text-white group overflow-hidden relative shadow-2xl">
+      <div class="bg-gray-900/80 backdrop-blur-xl border border-white/10 rounded-2xl p-4 sm:p-6 text-white group overflow-hidden relative shadow-2xl">
         <Icon name="lucide:scale" class="absolute -right-4 -bottom-6 w-32 h-32 opacity-10 -rotate-12 text-blue-400 group-hover:rotate-0 transition-transform duration-700" />
 
         <div class="relative z-10 flex flex-col md:flex-row md:items-center justify-between gap-6">
