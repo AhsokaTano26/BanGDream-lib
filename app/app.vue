@@ -1,6 +1,6 @@
 <template>
   <div
-      class="min-h-screen text-[#333] font-sans selection:bg-blue-100 selection:text-blue-900 bg-cover bg-center bg-fixed transition-all duration-700"
+      class="min-h-screen text-[#333] font-sans selection:bg-blue-100 selection:text-blue-900 bg-cover bg-center lg:bg-fixed transition-all duration-700"
       :style="containerStyle"
   >
     <div
@@ -17,10 +17,14 @@
       </div>
     </Transition>
 
-    <div class="lg:hidden fixed top-0 left-0 right-0 h-16 flex items-center justify-end px-4 z-[80] bg-transparent">
+    <div
+        class="lg:hidden fixed top-0 left-0 right-0 h-16 flex items-center justify-end px-4 z-[110] bg-transparent"
+        :style="{ paddingTop: 'calc(env(safe-area-inset-top) + var(--mobile-menu-offset))' }"
+    >
       <button
           @click="isOpen = !isOpen"
-          class="p-3 text-gray-600 hover:text-blue-500 transition-colors bg-white/20 backdrop-blur-sm rounded-full shadow-sm"
+          :aria-label="isOpen ? 'Close navigation menu' : 'Open navigation menu'"
+          class="p-3 text-gray-600 hover:text-blue-500 transition-colors bg-white/75 border border-white/80 backdrop-blur-sm rounded-full shadow-sm"
       >
         <Icon v-if="!isOpen" name="lucide:menu" class="w-6 h-6" />
         <Icon v-else name="lucide:x" class="w-6 h-6" />
@@ -36,7 +40,7 @@
 
       <div class="flex-1 flex flex-col lg:flex-row lg:ml-64">
         <main
-            class="flex-1 p-4 md:p-8 lg:p-12 backdrop-blur-sm transition-all duration-700"
+            class="flex-1 p-4 md:p-8 lg:p-12 mobile-main-offset backdrop-blur-sm transition-all duration-700"
             :style="!isOpen
             ? { backdropFilter: `blur(${themeConfig.blurRadius})` }
             : { backdropFilter: 'none' }"
@@ -47,7 +51,7 @@
         </main>
 
         <AppRightTick
-            class="w-full lg:w-80 "
+            class="hidden lg:block lg:w-80"
             :style="{ backgroundColor: `rgba(255, 255, 255, ${themeConfig.rightTickOpacity})` }"
         />
       </div>
@@ -176,6 +180,11 @@ html {
 /* 定义 CSS 变量方便在其他组件调用 */
 :root {
   --brand-primary: var(--theme-primary);
+  --mobile-menu-height: 4rem;
+  --mobile-menu-offset: 0.5rem;
+  --mobile-menu-offset-md: 1rem;
+  --mobile-main-offset: var(--mobile-menu-offset);
+  --desktop-main-offset: 3rem;
 }
 /* app.vue */
 .page-enter-active,
@@ -186,5 +195,21 @@ html {
 .page-leave-to {
   opacity: 0;
   filter: blur(1rem);
+}
+
+.mobile-main-offset {
+  padding-top: calc(env(safe-area-inset-top) + var(--mobile-menu-height) + var(--mobile-main-offset));
+}
+
+@media (min-width: 768px) {
+  :root {
+    --mobile-main-offset: var(--mobile-menu-offset-md);
+  }
+}
+
+@media (min-width: 1024px) {
+  .mobile-main-offset {
+    padding-top: var(--desktop-main-offset);
+  }
 }
 </style>

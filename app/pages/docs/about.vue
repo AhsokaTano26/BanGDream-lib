@@ -12,7 +12,7 @@
         <span class="text-pink-400">关于我们</span>
       </div>
 
-      <article class="bg-white/[0.03] backdrop-blur-3xl border border-white/10 rounded-[2.5rem] p-8 md:p-14 shadow-[0_0_50px_rgba(236,72,153,0.1)] relative">
+      <article class="bg-white/[0.03] backdrop-blur-3xl border border-white/10 rounded-3xl md:rounded-[2.5rem] p-5 sm:p-8 md:p-14 shadow-[0_0_50px_rgba(236,72,153,0.1)] relative">
 
         <div class="absolute top-8 right-10 text-white/5 text-8xl font-black italic select-none">☆</div>
 
@@ -78,7 +78,7 @@
             </div>
           </div>
 
-          <div class="mt-20 p-10 bg-gradient-to-br from-pink-500/10 to-blue-500/10 border border-white/10 rounded-[2rem] text-center relative overflow-hidden">
+          <div class="mt-20 p-6 sm:p-10 bg-gradient-to-br from-pink-500/10 to-blue-500/10 border border-white/10 rounded-2xl sm:rounded-[2rem] text-center relative overflow-hidden">
             <Icon name="lucide:music-2" class="absolute -left-4 -bottom-4 w-24 h-24 text-white/5 -rotate-12" />
             <p class="text-gray-300 text-sm italic mb-6 leading-loose">
               「 人生最浪漫的时刻，莫过于在此相遇。<br>
@@ -94,7 +94,7 @@
       </article>
 
       <div class="flex justify-center pt-8 mb-20">
-        <NuxtLink to="/" class="group flex items-center gap-3 px-10 py-4 bg-pink-500 text-white rounded-full text-xs font-black tracking-widest hover:scale-105 hover:shadow-[0_0_30px_rgba(236,72,153,0.4)] transition-all active:scale-95">
+        <NuxtLink to="/" class="group flex items-center gap-3 px-6 sm:px-10 py-4 bg-pink-500 text-white rounded-full text-xs font-black tracking-widest hover:scale-105 hover:shadow-[0_0_30px_rgba(236,72,153,0.4)] transition-all active:scale-95">
           <Icon name="lucide:sparkles" class="w-4 h-4" />
           BACK TO ARCHIVE
         </NuxtLink>
