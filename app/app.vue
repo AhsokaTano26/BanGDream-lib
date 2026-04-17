@@ -19,7 +19,7 @@
 
     <div
         class="lg:hidden fixed top-0 left-0 right-0 h-16 flex items-center justify-end px-4 z-[110] bg-transparent"
-        :style="{ paddingTop: 'calc(env(safe-area-inset-top) + 0.5rem)' }"
+        :style="{ paddingTop: 'calc(env(safe-area-inset-top) + var(--mobile-menu-offset))' }"
     >
       <button
           @click="isOpen = !isOpen"
@@ -179,6 +179,9 @@ html {
 /* 定义 CSS 变量方便在其他组件调用 */
 :root {
   --brand-primary: var(--theme-primary);
+  --mobile-menu-height: 4rem;
+  --mobile-menu-offset: 0.5rem;
+  --mobile-menu-offset-md: 1rem;
 }
 /* app.vue */
 .page-enter-active,
@@ -192,12 +195,12 @@ html {
 }
 
 .mobile-main-offset {
-  padding-top: calc(env(safe-area-inset-top) + 4.5rem);
+  padding-top: calc(env(safe-area-inset-top) + var(--mobile-menu-height) + var(--mobile-menu-offset));
 }
 
 @media (min-width: 768px) {
   .mobile-main-offset {
-    padding-top: calc(env(safe-area-inset-top) + 5rem);
+    padding-top: calc(env(safe-area-inset-top) + var(--mobile-menu-height) + var(--mobile-menu-offset-md));
   }
 }
 
