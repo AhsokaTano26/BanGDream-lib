@@ -3,7 +3,7 @@
     <aside
         :class="[
         /* 基础样式与移动端：保持一定的背景和阴影以便遮盖内容 */
-        'fixed inset-y-0 left-0 mobile-sidebar-width bg-gray-900/90 backdrop-blur-lg transform transition-transform duration-300 ease-in-out p-6 z-[100]',
+        'fixed inset-y-0 left-0 mobile-sidebar-width overscroll-contain bg-gray-900/90 backdrop-blur-lg transform transition-transform duration-300 ease-in-out p-6 z-[100]',
 
         /* 桌面端 (lg): 背景完全透明，移除模糊，移除阴影 */
         'lg:relative lg:translate-x-0 lg:w-64 lg:bg-transparent lg:backdrop-blur-none lg:shadow-none',
@@ -148,8 +148,17 @@ const nav = [
 
 <style scoped>
 aside {
+  height: 100vh;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+@supports (height: 100dvh) {
+  aside {
+    height: 100dvh;
+  }
 }
 
 .mobile-sidebar-width {
