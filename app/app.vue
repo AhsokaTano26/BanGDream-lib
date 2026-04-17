@@ -183,6 +183,7 @@ html {
   --mobile-menu-offset: 0.5rem;
   --mobile-menu-offset-md: 1rem;
   --mobile-main-offset: var(--mobile-menu-offset);
+  --desktop-main-offset: 3rem;
 }
 /* app.vue */
 .page-enter-active,
@@ -207,7 +208,7 @@ html {
 
 @media (min-width: 1024px) {
   .mobile-main-offset {
-    padding-top: 3rem;
+    padding-top: var(--desktop-main-offset);
   }
 }
 </style>
