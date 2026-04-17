@@ -17,10 +17,10 @@
       </div>
     </Transition>
 
-    <div class="lg:hidden fixed top-[max(env(safe-area-inset-top),0.5rem)] left-0 right-0 h-16 flex items-center justify-end px-4 z-[110] bg-transparent pointer-events-none">
+    <div class="lg:hidden fixed top-[max(env(safe-area-inset-top),0.5rem)] left-0 right-0 h-16 flex items-center justify-end px-4 z-[110] bg-transparent">
       <button
           @click="isOpen = !isOpen"
-          class="p-3 text-gray-600 hover:text-blue-500 transition-colors bg-white/75 border border-white/80 backdrop-blur-sm rounded-full shadow-sm pointer-events-auto"
+          class="p-3 text-gray-600 hover:text-blue-500 transition-colors bg-white/75 border border-white/80 backdrop-blur-sm rounded-full shadow-sm"
       >
         <Icon v-if="!isOpen" name="lucide:menu" class="w-6 h-6" />
         <Icon v-else name="lucide:x" class="w-6 h-6" />
