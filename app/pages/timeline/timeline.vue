@@ -61,7 +61,7 @@
       <AppPagination v-model="currentPage" :total="totalPages" />
     </div>
 
-    <div v-if="!allTimelines?.length" class="text-center py-20 text-gray-500 text-xs tracking-widest uppercase italic">
+    <div v-if="!allTimelines?.length" class="text-center py-20 text-gray-200 text-xs tracking-widest uppercase italic">
       Protocol: No data records found.
     </div>
   </div>

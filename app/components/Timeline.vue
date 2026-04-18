@@ -55,7 +55,7 @@
       </NuxtLink>
     </div>
 
-    <div v-if="!timelineData?.length" class="text-center py-10 text-gray-500 text-xs tracking-widest uppercase italic">
+    <div v-if="!timelineData?.length" class="text-center py-10 text-gray-200 text-xs tracking-widest uppercase italic">
       Protocol: No data records found.
     </div>
   </div>

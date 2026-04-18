@@ -17,6 +17,9 @@
           v-model="currentPage"
           :total="totalPages"
       />
+      <div v-if="!allBlogs?.length" class="text-center py-10 text-gray-200 text-xs tracking-widest uppercase italic">
+        Protocol: No data records found.
+      </div>
     </div>
   </div>
 </template>

@@ -116,6 +116,9 @@
               ENTRY ARCHIVE <Icon name="lucide:chevron-right" class="w-4 h-4" />
             </NuxtLink>
           </div>
+          <div v-if="!rawOrgs?.length" class="text-center py-10 text-gray-200 text-xs tracking-widest uppercase italic">
+            Protocol: No data records found.
+          </div>
         </div>
       </div>
     </div>
