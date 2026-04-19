@@ -101,10 +101,11 @@ export default defineContentConfig({
         title: z.string(),
         description: z.string(),
         founded: z.string(),
+        author: z.string(),
         theme: z.object({
           logo: z.string().nullable().optional(),
           bgImage: z.string().nullable().optional(),
-          primaryColor: z.string()
+          primaryColor: z.string().optional()
         })
       })
     }),
