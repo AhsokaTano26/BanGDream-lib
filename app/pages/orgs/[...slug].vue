@@ -40,14 +40,14 @@
             {{ page.description }}
           </p>
 
-          <div class="flex flex-wrap gap-2 pt-3">
-            <span v-if="page.type" class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-indigo-600 text-white rounded-sm shadow-sm">
-              <Icon name="lucide:tag" class="w-2.5 h-2.5" />
-              {{ page.type }}
+          <div class="flex flex-wrap items-center gap-2 mt-3">
+            <span class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-orange-50 text-orange-600 rounded-sm">
+              <Icon name="lucide:user-round" class="w-2.5 h-2.5" />
+              Author: {{ page.author }}
             </span>
-            <span v-if="page.location" class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-red-50 text-red-600 rounded-sm uppercase">
-              <Icon name="lucide:map-pin" class="w-2.5 h-2.5" />
-              {{ page.location }}
+            <span class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-emerald-50 text-emerald-600 rounded-sm">
+              <Icon name="lucide:calendar-days" class="w-2.5 h-2.5" />
+              Founded: {{ page.founded }}
             </span>
           </div>
         </div>
