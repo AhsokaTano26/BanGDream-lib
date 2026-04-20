@@ -8,17 +8,17 @@
       <ContentRenderer :value="value" />
 
       <!-- 可选：外链按钮 -->
-      <div v-if="value?.link" class="mt-12">
+      <div v-if="value?.url" class="mt-12">
         <a
-            :href="value.link"
+            :href="value.url"
             target="_blank"
             class="inline-flex items-center gap-2 px-6 py-3
-                 bg-blue-600 text-white text-sm font-black
+                 bg-blue-200 text-white text-sm font-black
                  rounded-lg hover:bg-blue-700 transition-all
-                 shadow-lg shadow-blue-200"
+                 shadow-lg shadow-blue-50"
         >
           <Icon name="lucide:external-link" class="w-4 h-4" />
-          访问项目仓库 / 链接
+          访问链接
         </a>
       </div>
     </article>

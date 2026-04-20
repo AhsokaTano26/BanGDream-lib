@@ -80,29 +80,18 @@
                 {{ org.label }}
               </span>
 
-              <span v-if="page.orgs_id" class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-slate-50 text-slate-600 rounded-sm">
-                <Icon name="lucide:fingerprint" class="w-2.5 h-2.5" />
-                ID: {{ page.orgs_id }}
-              </span>
+              <a
+                v-if="page.url"
+                :href="page.url"
+                target="_blank"
+                class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-sky-50 text-slate-600 rounded-sm hover:bg-slate-100 hover:text-blue-600 transition-colors duration-200 border border-slate-200"
+              >
+                <Icon name="lucide:external-link" class="w-2.5 h-2.5" />
+              </a>
 
               <span v-if="page.founded" class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-orange-50 text-orange-600 rounded-sm">
                 <Icon name="lucide:flag" class="w-2.5 h-2.5" />
                 Founded: {{ page.founded }}
-              </span>
-
-              <span v-if="page.joined_at" class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-emerald-50 text-emerald-600 rounded-sm">
-                <Icon name="lucide:user-plus" class="w-2.5 h-2.5" />
-                Joined: {{ page.joined_at }}
-              </span>
-
-              <span v-if="page.members_count" class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-teal-50 text-teal-600 rounded-sm">
-                <Icon name="lucide:users" class="w-2.5 h-2.5" />
-                Members: {{ page.members_count }}
-              </span>
-
-              <span v-if="page.leader" class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-rose-50 text-rose-600 rounded-sm">
-                <Icon name="lucide:user" class="w-2.5 h-2.5" />
-                Leader: {{ page.leader }}
               </span>
 
               <div
