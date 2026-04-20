@@ -129,6 +129,8 @@ export default defineContentConfig({
       schema: z.object({
         title: z.string(),
         description: z.string(),
+        org: z.string(),
+        url: z.string().url(),
         date: z.string(),
         author: z.string(),
         status: z.enum(["yes", "no"]),
