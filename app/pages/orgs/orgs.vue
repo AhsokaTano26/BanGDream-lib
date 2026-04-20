@@ -12,27 +12,23 @@
            class="group relative bg-white/20 backdrop-blur-xl border border-white/20 rounded-2xl
            flex flex-col md:flex-row gap-4 md:gap-6 hover:border-blue-500/50 transition-all duration-500 shadow-sm overflow-hidden">
 
-        <div class="w-full md:w-56 h-48 md:h-auto shrink-0 border border-white/20 rounded-2xl bg-gray-900/40 overflow-hidden relative border-r">
-          <template v-if="org.theme?.logo && org.theme.logo.includes('.')">
-            <img
+        <div class="w-full md:w-56 h-48 md:h-auto shrink-0 border border-white/20 rounded-2xl bg-gray-900/40 overflow-hidden relative border-r flex items-center justify-center">
+          <template v-if="org.theme?.logo && (org.theme.logo.includes('/') || org.theme.logo.includes('.'))">
+            <div class="w-24 h-24 overflow-hidden rounded-full relative z-10">
+              <BasePngIcon
                 :src="org.theme.logo"
                 :alt="org.title"
                 class="w-full h-full object-cover transition-all duration-700 group-hover:scale-110"
-                @error="(e) => (e.target.src = '/default/aimi.jpg')"
-            />
+              />
+            </div>
           </template>
-          <div v-else class="w-full h-full flex items-center justify-center">
-            <Icon
-                :name="org.theme?.logo || 'lucide:users'"
-                class="w-12 h-12 md:w-16 md:h-16 text-white/20 group-hover:text-blue-500 transition-all duration-700"
-            />
-          </div>
 
-          <div v-if="org.tagStyle" class="absolute top-3 left-3">
-            <span :class="['px-2 py-0.5 text-[8px] font-black uppercase tracking-tighter rounded-sm shadow-lg border', org.tagStyle.class]">
-              {{ org.tagStyle.label }}
-            </span>
-          </div>
+          <Icon
+            v-else
+            :name="org.theme?.logo || 'lucide:users'"
+            class="w-24 h-24 transition-all duration-700 relative z-10"
+            :style="{ color: org.theme.primaryColor }"
+          />
         </div>
 
         <div class="flex-1 p-4 md:p-5 flex flex-col justify-between">

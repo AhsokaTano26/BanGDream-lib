@@ -7,14 +7,14 @@
       </NuxtLink>
 
       <header class="flex flex-col md:flex-row gap-8 items-start mb-16">
-        <div class="w-32 h-32 bg-gray-50 flex items-center justify-center border border-gray-100 rounded-sm shadow-inner overflow-hidden relative group">
+        <div class="w-full md:w-32 h-32 md:h-auto md:aspect-square shrink-0 border border-white/20 rounded-2xl bg-gray-900/40 overflow-hidden relative border-r flex items-center justify-center group shadow-2xl backdrop-blur-sm">
           <template v-if="page.theme?.logo && (page.theme.logo.includes('/') || page.theme.logo.includes('.'))">
-            <img
+            <div class="w-24 h-24 overflow-hidden rounded-full group">
+              <BasePngIcon
                 :src="page.theme.logo"
                 :alt="page.title"
-                class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
-                @error="(e) => e.target.src = '/default/aimi.jpg'"
-            />
+              />
+            </div>
           </template>
           <Icon
               v-else
@@ -27,7 +27,7 @@
 
         <div class="flex-1 space-y-4">
           <div class="flex items-center gap-3">
-            <h1 class="text-4xl font-black tracking-tighter text-gray-900">{{ page.title }}</h1>
+            <h1 class="text-4xl font-black tracking-tighter text-gray-200">{{ page.title }}</h1>
             <span v-if="page.status"
                   class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 rounded-sm shadow-sm transition-all duration-500 text-white"
                   :style="{ backgroundColor: theme.primaryColor }">
@@ -77,6 +77,8 @@
 </template>
 
 <script setup>
+import BasePngIcon from "~/components/BasePngIcon.vue";
+
 const route = useRoute()
 const theme = useState('themeConfig')
 

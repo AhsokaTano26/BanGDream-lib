@@ -56,9 +56,9 @@ const proseClass = `
          prose-p:text-gray-800
 
          /* 链接 */
-         prose-a:text-blue-500
+         prose-a:text-sky-400
          prose-a:no-underline
-         hover:prose-a:text-blue-400
+         hover:prose-a:text-sky-300
          hover:prose-a:underline
 
          /* 引用块（玻璃卡片感） */
