@@ -5,7 +5,7 @@ founded: 2015-04-18
 author: "雅雅"
 theme: 
     primaryColor: "#FF3377"
-    logo: line-md:star-twotone
+    logo: /icons/ppp.svg
 ---
 
 # Poppin'Party (ポピパ)
