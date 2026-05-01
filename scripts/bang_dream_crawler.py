@@ -14,7 +14,7 @@ from dataclasses import dataclass
 from dataclasses import field
 from pathlib import Path
 from typing import Any
-from urllib.parse import urljoin, urlparse
+from urllib.parse import quote, unquote_to_bytes, urljoin, urlparse, urlsplit, urlunsplit
 
 import requests
 from bs4 import BeautifulSoup, NavigableString, Tag
@@ -28,9 +28,8 @@ CONTENT_ROOT = REPO_ROOT / "content"
 ASSET_ROOT = REPO_ROOT / "public" / "assets" / "bang-dream"
 DATA_ROOT = REPO_ROOT / "data"
 DB_PATH = DATA_ROOT / "contents.sqlite"
-DEFAULT_STATE_FILE = Path.home() / ".cache" / "bang-dream-crawler" / "state.json"
-#DEFAULT_STATE_FILE = Path.cwd() / "cache" / "bang-dream-crawler" / "state.json"
-#DEFAULT_STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
+DEFAULT_STATE_FILE = Path.cwd() / "cache" / "bang-dream-crawler" / "state.json"
+DEFAULT_STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
 
 HEADERS = {
     "User-Agent": (
@@ -419,7 +418,7 @@ class Crawler:
         page_slug: str = "",
         page_url: str = "",
     ) -> str:
-        image_url = urljoin(BASE_URL, image_url)
+        image_url = sanitize_url_for_mdc(urljoin(BASE_URL, image_url)) or urljoin(BASE_URL, image_url)
         if not self.download_images:
             return image_url
         if image_url in self.image_cache:
@@ -537,7 +536,7 @@ class Crawler:
             if not chunk:
                 continue
             pieces = chunk.split()
-            url = pieces[0]
+            url = sanitize_url_for_mdc(pieces[0]) or pieces[0]
             local = self.download_image(
                 url,
                 subdir=subdir,
@@ -618,12 +617,14 @@ class Crawler:
             return "\n---\n\n"
         if name == "a":
             href = node.get("href", "").strip()
+            href = sanitize_url_for_mdc(href) or href
             text = self._markdown_children(node, list_level=list_level).strip() or href
             if href:
                 return f"[{text}]({href})"
             return text
         if name == "img":
             src = node.get("src", "").strip()
+            src = sanitize_url_for_mdc(src) or src
             alt = normalize_inline_text(node.get("alt", "").strip())
             if src:
                 return f"![{alt}]({src})\n\n"
@@ -1118,6 +1119,62 @@ def normalize_inline_text(text: str) -> str:
 def normalize_blank_lines(text: str) -> str:
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
+
+
+def sanitize_url_for_mdc(url: str) -> str | None:
+    raw = (url or "").strip()
+    if not raw:
+        return None
+    if raw.startswith("#"):
+        return raw
+
+    split = urlsplit(raw)
+
+    def sanitize_component(
+        component: str,
+        plus_to_space: bool,
+        safe: str,
+        encodings: tuple[str, ...],
+    ) -> str | None:
+        if not component:
+            return ""
+        candidate = component.replace("+", " ") if plus_to_space else component
+        try:
+            decoded = unquote_to_bytes(candidate).decode("utf-8")
+        except UnicodeDecodeError:
+            decoded = None
+            for encoding in encodings:
+                try:
+                    decoded = unquote_to_bytes(candidate).decode(encoding)
+                    break
+                except UnicodeDecodeError:
+                    continue
+            if decoded is None:
+                return None
+        return quote(decoded, safe=safe)
+
+    path = sanitize_component(split.path, False, "/-._~:@!$&'()*+,;=", ("cp932", "shift_jis", "euc-jp", "latin-1"))
+    query_parts: list[str] = []
+    if split.query:
+        for pair in split.query.split("&"):
+            if not pair:
+                continue
+            if "=" in pair:
+                key, value = pair.split("=", 1)
+                key_text = sanitize_component(key, True, "-._~:@!$'()*+,;/", ("cp932", "shift_jis", "euc-jp", "latin-1"))
+                value_text = sanitize_component(value, True, "-._~:@!$'()*+,;/?", ("cp932", "shift_jis", "euc-jp", "latin-1"))
+                if key_text is None or value_text is None:
+                    return None
+                query_parts.append(f"{key_text}={value_text}")
+            else:
+                key_text = sanitize_component(pair, True, "-._~:@!$'()*+,;/", ("cp932", "shift_jis", "euc-jp", "latin-1"))
+                if key_text is None:
+                    return None
+                query_parts.append(key_text)
+    fragment = sanitize_component(split.fragment, False, "-._~:@!$&'()*+,;/?", ("cp932", "shift_jis", "euc-jp", "latin-1"))
+    if path is None or fragment is None:
+        return None
+    return urlunsplit((split.scheme, split.netloc, path, "&".join(query_parts), fragment))
 
 
 def truncate_text(text: str, length: int = 180) -> str:

@@ -184,7 +184,7 @@ MUVIE CINEMAS 台中TIGER CITY
 
 大遠百威秀影城
 
-###### [香港／Hong Kong](https://www.instagram.com/p/DPLwhdYAY7v/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+###### [香港／Hong Kong](https://www.instagram.com/p/DPLwhdYAY7v/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D)
 
 iSQAURE House 2
 iSQUARE House 1

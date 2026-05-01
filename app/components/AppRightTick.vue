@@ -78,11 +78,21 @@ const { data: upcomingPosts } = await useAsyncData('upcoming-combined', async ()
         .order('date', 'ASC')
         .limit(5) // 先各自限额，减少传输量
         .all(),
-    queryCollection('blog')
+    queryCollection('media')
         .where('date', '>=', today)
         .order('date', 'ASC')
-        .limit(5)
-        .all()
+        .limit(5) // 先各自限额，减少传输量
+        .all(),
+    queryCollection('news')
+        .where('date', '>=', today)
+        .order('date', 'ASC')
+        .limit(5) // 先各自限额，减少传输量
+        .all(),
+    queryCollection('discographies')
+        .where('date', '>=', today)
+        .order('date', 'ASC')
+        .limit(5) // 先各自限额，减少传输量
+        .all(),
   ])
 
   // 2. 合并数组

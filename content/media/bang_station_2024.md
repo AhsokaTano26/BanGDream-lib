@@ -167,5 +167,5 @@ M7 Poppin'Party「Live Beyond!!」／BanG Dream! 9th☆LIVE「The Beginning」DA
 
 SHARE
 
-- [https://x.com/intent/tweet?url=https%3A%2F%2Fbang-dream.com%2Fmedia%2Fbang_station_2024%2F&text=%E3%83%90%E3%83%B3%E3%82%B9%E3%83%86%EF%BC%81BanG+Dream%21+STATION+2024 - BanG Dream!（バンドリ！）公式サイト](https://x.com/intent/tweet?url=https%3A%2F%2Fbang-dream.com%2Fmedia%2Fbang_station_2024%2F&text=%E3%83%90%E3%83%B3%E3%82%B9%E3%83%86%EF%BC%81BanG+Dream%21+STATION+2024 - BanG Dream!（バンドリ！）公式サイト)
+- [https://x.com/intent/tweet?url=https%3A%2F%2Fbang-dream.com%2Fmedia%2Fbang_station_2024%2F&text=%E3%83%90%E3%83%B3%E3%82%B9%E3%83%86%EF%BC%81BanG+Dream%21+STATION+2024 - BanG Dream!（バンドリ！）公式サイト](https://x.com/intent/tweet?url=https://bang-dream.com/media/bang_station_2024/&text=%E3%83%90%E3%83%B3%E3%82%B9%E3%83%86%EF%BC%81BanG%20Dream!%20STATION%202024%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88)
 - [javascript:void(0);](javascript:void(0);)

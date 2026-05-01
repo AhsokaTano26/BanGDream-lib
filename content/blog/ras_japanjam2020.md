@@ -20,7 +20,7 @@ JAPAN JAM 2020に出演予定だったアーティストの過去のフェス出
 「オンライン上でのフェス体験」プログラムの実施が決定しました。
 
 【日時】
-5月6日(水・振休)の12:00〜24:00に[フェス公式アプリ「Jフェス」](https://ewhx5.app.goo.gl?link=https%3A%2F%2Ffdl.fesapp.jp%2Fhome%2Fall&apn=jp.fesapp&afl=http%3A%2F%2Fjapanjam.jp&ifl=http%3A%2F%2Fjapanjam.jp&ibi=jp.fesapp&ofl=http%3A%2F%2Fjapanjam.jp&st=J%E3%83%95%E3%82%A7%E3%82%B9%20-%20%E3%83%AD%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%B3%E3%81%AE%E3%83%95%E3%82%A7%E3%82%B9%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA%20%28J-FES.%29&sd=%E3%81%93%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%82%92J%E3%83%95%E3%82%A7%E3%82%B9%E3%82%A2%E3%83%97%E3%83%AA%E3%81%A7%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%99%E3%82%8B&si=https%3A%2F%2Ffesapp.jp%2Fnx%2Fintro%2FOGP.png)にて期間限定配信
+5月6日(水・振休)の12:00〜24:00に[フェス公式アプリ「Jフェス」](https://ewhx5.app.goo.gl?link=https://fdl.fesapp.jp/home/all&apn=jp.fesapp&afl=http://japanjam.jp&ifl=http://japanjam.jp&ibi=jp.fesapp&ofl=http://japanjam.jp&st=J%E3%83%95%E3%82%A7%E3%82%B9%20-%20%E3%83%AD%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%B3%E3%81%AE%E3%83%95%E3%82%A7%E3%82%B9%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA%20(J-FES.)&sd=%E3%81%93%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%82%92J%E3%83%95%E3%82%A7%E3%82%B9%E3%82%A2%E3%83%97%E3%83%AA%E3%81%A7%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%99%E3%82%8B&si=https://fesapp.jp/nx/intro/OGP.png)にて期間限定配信
 
 ![](/assets/bang-dream/blog/ras_japanjam2020/bc5168ba2b60fcb2.jpeg)
 

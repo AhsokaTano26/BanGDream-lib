@@ -36,5 +36,5 @@ YouTube「[バンドリちゃんねる☆](https://www.youtube.com/channel/UCN-b
 
 SHARE
 
-- [https://x.com/intent/tweet?url=https%3A%2F%2Fbang-dream.com%2Fmedia%2Fpopi_bang%2F&text=%E3%81%BD%E3%81%B4%E3%81%B0%E3%82%93%EF%BC%81%EF%BD%9E%E3%81%BD%E3%81%B4%E3%81%B1%E3%81%AE%E3%81%B0%E3%82%93%E3%81%90%E3%81%BF%EF%BD%9E - BanG Dream!（バンドリ！）公式サイト](https://x.com/intent/tweet?url=https%3A%2F%2Fbang-dream.com%2Fmedia%2Fpopi_bang%2F&text=%E3%81%BD%E3%81%B4%E3%81%B0%E3%82%93%EF%BC%81%EF%BD%9E%E3%81%BD%E3%81%B4%E3%81%B1%E3%81%AE%E3%81%B0%E3%82%93%E3%81%90%E3%81%BF%EF%BD%9E - BanG Dream!（バンドリ！）公式サイト)
+- [https://x.com/intent/tweet?url=https%3A%2F%2Fbang-dream.com%2Fmedia%2Fpopi_bang%2F&text=%E3%81%BD%E3%81%B4%E3%81%B0%E3%82%93%EF%BC%81%EF%BD%9E%E3%81%BD%E3%81%B4%E3%81%B1%E3%81%AE%E3%81%B0%E3%82%93%E3%81%90%E3%81%BF%EF%BD%9E - BanG Dream!（バンドリ！）公式サイト](https://x.com/intent/tweet?url=https://bang-dream.com/media/popi_bang/&text=%E3%81%BD%E3%81%B4%E3%81%B0%E3%82%93%EF%BC%81%EF%BD%9E%E3%81%BD%E3%81%B4%E3%81%B1%E3%81%AE%E3%81%B0%E3%82%93%E3%81%90%E3%81%BF%EF%BD%9E%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88)
 - [javascript:void(0);](javascript:void(0);)

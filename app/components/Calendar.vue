@@ -178,7 +178,9 @@ const selectedDate = ref(null);
 const { data: eventMap } = await useAsyncData('calendar-events', async () => {
   const [blogPosts, activityPosts] = await Promise.all([
     queryCollection('blog').all(),
-    queryCollection('media').all()
+    queryCollection('media').all(),
+    queryCollection('news').all(),
+    queryCollection('discographies').all(),
   ]);
 
   const combined = [...blogPosts, ...activityPosts];
