@@ -1,0 +1,12 @@
+---
+title: "ガルパーティ！＆スタリラ祭 2019 in池袋"
+description: ""
+date: "2019-06-08"
+status: "activity"
+author: "BanG Dream! Project"
+location: "池袋 サンシャインシティ"
+org: ["other"]
+url: "https://bang-dream.com/events/party2019/"
+---
+
+

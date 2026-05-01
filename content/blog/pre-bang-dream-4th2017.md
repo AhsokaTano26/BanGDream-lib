@@ -1,0 +1,164 @@
+---
+title: "BanG Dream! 4th☆LIVE Miracle PARTY 2017!～前日祭～"
+description: "尾崎由香さん（戸山明日香 役）、佐々木未来さん（鰐部七葉 役）と一緒にPoppin’Partyの武道館ライブまでの道のりを振り返ろう！ ♪ 参加条件：自由観覧 ♪ ステージ時間：①start 12:30 ②start 14:45 【注意事項】 ・ステージプログラムの撮影・録音は固くお断りしています。 ・観覧者多数の場合は人数制限をさせて頂く可能性がございます…"
+date: "2017-08-20"
+status: "activity"
+author: "BanG Dream! Project"
+location: "科学技術館展示ホール"
+org: ["other"]
+url: "https://bang-dream.com/events/pre-bang-dream-4th2017/"
+---
+
+尾崎由香さん（戸山明日香 役）、佐々木未来さん（鰐部七葉 役）と一緒にPoppin’Partyの武道館ライブまでの道のりを振り返ろう！
+
+♪ 参加条件：自由観覧
+♪ ステージ時間：①start 12:30 ②start 14:45
+
+【注意事項】
+・ステージプログラムの撮影・録音は固くお断りしています。
+・観覧者多数の場合は人数制限をさせて頂く可能性がございます。あらかじめご了承お願い致します。
+・当日予定しておりますプログラムが変更になる可能性がございますので、あらかじめご了承をお願い致します。
+・当日はスタッフの指示に従ってください。
+・他のお客様のご迷惑になるような行動は遠慮ください。
+・プログラム実施中は飲食・携帯電話の使用はご遠慮ください。
+・荷物を置いての場所取りはご遠慮ください。荷物を撤去させていただく可能性がございます。
+より楽しいプログラムにするためにバンドリーマー皆様のご理解ご協力をお願い致します。
+
+アトラクション一覧
+
+---
+
+・STAR BEAT!～ホシノコドウ～衣装展示
+
+![](/assets/bang-dream/blog/pre-bang-dream-4th2017/91257c550019757a.jpg)
+
+・アナザーカットサイン入りパネル展示
+パンフレットのアナザーカットを使用したPoppin’Party５人のサイン入りパネルを展示！
+
+・Poppin’Party武道館公演応援パネル
+Poppin’Partyへの応援メッセージを書き込んでね！
+
+![](/assets/bang-dream/blog/pre-bang-dream-4th2017/096a23ea617cbd1f.png)
+
+・BanG Dream! Project History
+2015年からスタートしたBanG Dream! Projectの歴史を振り返ろう！
+
+・Poppin’Partyスタンディパネル展示
+
+・ESP楽器試奏体験コーナー
+バンドリ！モデルの楽器を試奏しよう！
+なんとロゼリアモデルも試奏可能!!
+試奏体験コーナー近くでは、ピックも販売しますのでお楽しみに♪
+
+![](/assets/bang-dream/blog/pre-bang-dream-4th2017/518e6cde0da291bc.png)
+
+・Poppin’Party楽器展示
+
+Poppin’Partyが実際に使用している楽器を展示いたします。
+
+前日物販
+
+---
+
+前日祭では、ライブ当日に販売するグッズの先行販売を行います。
+入場無料のイベントですので、是非お立ち寄りください！
+
+【グッズ販売についてのご案内】
+◇グッズ販売予定時間
+8月20日（日）：12:00～17:00まで（最終入場16:30）
+※ただし、購入希望者が多数の場合、販売予定人数に達し次第終了とさせていただきます。
+※グッズ販売の開始、終了時間は当日の状況によって変更する場合がございます。
+※当日の状況によっては、購入数に制限を変更する場合がございます。
+※予告なく変更・販売中止となる場合があります、予めご了承ください。
+※当日は、スタッフがご案内するまで、お並びいただくことはできませんので、
+会場付近での早朝からの待機や徹夜行為はご遠慮ください
+
+◇購入制限
+新商品につきましては、お一人様1会計あたり各商品【３個】までのご購入とさせていだきます（衣類のサイズ違いは別商品として扱います）。
+※多くのお客様のお手元に届くように、ご理解とご協力をよろしくお願いいたします。
+
+◇購入特典
+１会計でお買い上げ金額5,000円（税込）以上の方に会場に展示予定のパンフレットのアナザーカットにPoppin’Party５人のサインを入れた「アナザーカットサイン入りパネル」の抽選に参加できる応募券をお渡しします。
+応募方法は、BanG Dream! 公式HPでご案内いたします。
+※レシートの合算はできません。お会計時、その場でのお渡しとなります。
+※5,000円（税込）ごとに１枚のお渡しです。仮に10,000円のご購入の場合は２枚お渡しいたします。
+※数量限定につき、予定配布数量に達し次第、配布終了となります。
+※本特典は通販購入には付きません。
+
+◇その他注意事項
+※お会計は現金のみ、クレジットカードや各種電子マネーはご利用いただけません。
+※貴重品は個人の責任において管理をお願いいたします。
+盗難紛失等は責任を負いかねますので十分ご注意ください。
+※ デザイン・仕様は変更となる場合がございます。予めご了承ください。
+※不良品の交換は、当日お買い上げいただいた会場でのみ対応させて頂きます。必ずレシートをご持参ください。レシートがない場合は、ご対応できません。
+※お会計後は、不良品以外の返品・返金・交換・サイズ変更は出来ません。
+※会場付近での早朝からの待機や徹夜行為はご遠慮ください
+※当日は、スタッフの指示にしたがっていただけますようお願いいたします。
+ご対応いただけない場合は、参加をご遠慮いただく場合がございます。
+※「グッズ販売」と「CD販売」、「カプセルトイ」の窓口は別になります。
+※会場内でのトレード行為は禁止させていただきます。
+※前日祭で売り切れとなった新商品も、ライブ当日物販では取り扱いいたします。
+当日の完売情報は、ブシロード グッズ＆EC 公式Twitterよりチェックしてください。
+
+【期間限定通販についてのご案内】
+8月18日（金）～9月1日（金）13:00の期間で、ブシロード EC SHOPで期間限定通販を行います（発送は10月末の予定となります）。
+※注意事項※
+こちらの通信販売は予約販売ではございません。
+期間中でも予定数に達した時点で販売終了となります。予めご了承下さい。
+一部商品につきましては、お取り扱いしない可能性がありますのでご了承下さい。
+
+◇商品ラインナップ
+
+- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/4dc6d79c4b6ccd82.jpg)
+  
+  BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 パンフレット 3000円（税込）
+- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/8d154f8a0aad0e93.jpg)
+  
+  BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 Tシャツ 3000円（税込）
+- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/5cf08ea7d723164d.jpg)
+  
+  BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 Poppin’Party Tシャツ 3000円（税込）
+
+- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/cf5fdc8c4abc4763.jpg)
+  
+  2000円（税込）
+- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/89dd01ba782f84c8.jpg)
+  
+  BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 ラバーバンド 1000円（税込）
+- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/1c11aec704f60c7a.jpg)
+  
+  BanG Dream! ドリーマーズブレード ver.3 3600円（税込）
+
+- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/90bca56a7a1eb1bd.jpg)
+  
+  BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 記念色紙 1500円（税込）
+- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/fa5ccebc4cb8cdd1.jpg)
+  
+  BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 武道館記念セット 3000円（税込）
+- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/e8ac9e3e279e6680.jpg)
+  
+  BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 メタルキーホルダーセット 3800円（税込）
+
+- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/3f9113c6a5a37a97.jpg)
+  
+  BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 メモリアルピンズ 1500円（税込）
+- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/23ca2ca7498d90d4.jpg)
+  
+  BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 メモリアルピンズ 1500円（税込）
+- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/c1b4bb49d450abb0.jpg)
+  
+  BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 ピックストラップ 1200円（税込）（税込）
+
+- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/cf8ada43c76ade52.jpg)
+  
+  BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 お守り風ストラップ 各1200円（税込）
+- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/7d3bb48773467112.jpg)
+  
+  BanG Dream! 楽器レザーストラップ（全5種）各1500円（税込）
+- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/a66da35c5b8e3cf7.jpg)
+  
+  BanG Dream! ぬいぐるみ（全5種）各2200円（税込）
+
+- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/33074ad9bb5cfaba.jpg)
+  
+  バンドリ！ ガールズバンドパーティ！Poppin’Party ディスプレイピックコレクション2,000円（税込）
