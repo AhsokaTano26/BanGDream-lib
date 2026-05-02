@@ -9,8 +9,9 @@ export default defineNuxtConfig({
   devtools: { enabled: false },
   nitro: {
     prerender: {
-      crawlLinks: true, // 自动抓取页面上的链接并预渲染
-      routes: ['/']    // 从首页开始抓取
+      crawlLinks: true,
+      routes: ['/'],
+      failOnError: false,
     }
   },
 
