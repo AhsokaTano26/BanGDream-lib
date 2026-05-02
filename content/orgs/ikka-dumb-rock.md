@@ -11,18 +11,18 @@ theme:
   bgImage: null
 ---
 
-- [![Poppin'Party](https://img.tano.asia/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp)](../poppinparty/)
-- [![Afterglow](https://img.tano.asia/i/5bfa0d15-936f-4346-b271-f6eebd1da036.webp)](../afterglow/)
-- [![Pastel＊Palettes](https://img.tano.asia/i/476d822b-08e7-414e-88de-3363ba24ee17.webp)](../pastel-palettes/)
-- [![Roselia](https://img.tano.asia/i/b3b5fbfa-694e-4486-85eb-017142068dbf.webp)](../roselia/)
-- [![ハロー、ハッピーワールド！](https://img.tano.asia/i/9beffcbe-cc63-4610-bb55-604f5f7fac24.webp)](../hello-happy-world/)
-- [![Morfonica](https://img.tano.asia/i/5a28d546-00e3-4359-bc5c-465925f2b8c5.webp)](../morfonica/)
-- [![RAISE A SUILEN](https://img.tano.asia/i/babc0c29-c6d7-4f6d-8ffc-d654e12cee36.webp)](../raise-a-suilen/)
-- [![MyGO!!!!!](https://img.tano.asia/i/4aa70886-bc22-405a-84b4-9127e5363b12.webp)](../mygo/)
-- [![Ave Mujica](https://img.tano.asia/i/a96460ab-474c-49dd-aa02-0b8508792c2e.webp)](../avemujica/)
-- [![夢限大みゅーたいぷ](https://img.tano.asia/i/ca3cc24d-b6d9-4037-921c-9291508af7b8.webp)](../yumemita/)
-- [![millsage](https://img.tano.asia/i/3ee0a957-5be9-440f-be0b-811cb5a3f92d.webp)](../millsage/)
-- [![一家Dumb Rock!](https://img.tano.asia/i/59fb500c-1f42-42fb-bb67-d1d6c3627b95.webp)](../ikka-dumb-rock/)
+- ![Poppin'Party](https://img.tano.asia/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp)
+- ![Afterglow](https://img.tano.asia/i/5bfa0d15-936f-4346-b271-f6eebd1da036.webp)
+- ![Pastel＊Palettes](https://img.tano.asia/i/476d822b-08e7-414e-88de-3363ba24ee17.webp)
+- ![Roselia](https://img.tano.asia/i/b3b5fbfa-694e-4486-85eb-017142068dbf.webp)
+- ![ハロー、ハッピーワールド！](https://img.tano.asia/i/9beffcbe-cc63-4610-bb55-604f5f7fac24.webp)
+- ![Morfonica](https://img.tano.asia/i/5a28d546-00e3-4359-bc5c-465925f2b8c5.webp)
+- ![RAISE A SUILEN](https://img.tano.asia/i/babc0c29-c6d7-4f6d-8ffc-d654e12cee36.webp)
+- ![MyGO!!!!!](https://img.tano.asia/i/4aa70886-bc22-405a-84b4-9127e5363b12.webp)
+- ![Ave Mujica](https://img.tano.asia/i/a96460ab-474c-49dd-aa02-0b8508792c2e.webp)
+- ![夢限大みゅーたいぷ](https://img.tano.asia/i/ca3cc24d-b6d9-4037-921c-9291508af7b8.webp)
+- ![millsage](https://img.tano.asia/i/3ee0a957-5be9-440f-be0b-811cb5a3f92d.webp)
+- ![一家Dumb Rock!](https://img.tano.asia/i/59fb500c-1f42-42fb-bb67-d1d6c3627b95.webp)
 
 ![一家Dumb Rock!](https://img.tano.asia/i/c73a0129-a158-4432-9eed-54c887839eef.webp)
 
