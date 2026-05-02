@@ -29,7 +29,7 @@ url: "https://bang-dream.com/events/morfonica_aut_2020/"
 
 Morfonica 1st Live「Cantabile」
 
-![](/assets/bang-dream/news/1070/88e282df768dcc53.png)
+![](https://img.tano.asia/i/16690803-2e84-40f8-9cad-bd96ca22ba99.webp)
 
 ## 会場
 
@@ -60,7 +60,7 @@ Morfonica
 
 ###### プレミアムシート特製グッズ
 
-![](/assets/bang-dream/blog/morfonica_aut_2020/415ecb28a1552fb2.jpg)
+![](https://img.tano.asia/i/c627bcf6-cfd9-4520-a3c8-3ab98f9ae229.webp)
 
 ※プレミアムシートチケット1枚につき特典1式を差し上げます（ 公演期間中のみ有効）
 ※プレミアムシートの特典は非売品となりますので、 一般販売グッズには含まれておりません。
@@ -161,9 +161,9 @@ Morfonica
 
 ### グッズ一覧
 
-[![](/assets/bang-dream/blog/morfonica_aut_2020/d0290d2bb3775e2d.jpg)](https://bang-dream.com/2025/renew/852c6bc5-00ee-4ca7-85d1-61748ff0b64e.jpg)
+[![](https://img.tano.asia/i/00c1d251-bcc3-43d7-8e3a-08d3393a542c.webp)](https://bang-dream.com/2025/renew/852c6bc5-00ee-4ca7-85d1-61748ff0b64e.jpg)
 
-[![](/assets/bang-dream/blog/morfonica_aut_2020/ffc5ea15e3216078.jpg)](https://bang-dream.com/2025/renew/09720fd5-c758-435f-abdf-b1a39b436e0d.jpg)
+[![](https://img.tano.asia/i/0053faaa-e14c-488c-9e59-5fe5a8a9f74f.webp)](https://bang-dream.com/2025/renew/09720fd5-c758-435f-abdf-b1a39b436e0d.jpg)
 
 ### グッズ販売予定時間
 
@@ -205,7 +205,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 ※整理券は「1人・1回まで」とさせて頂きます。
 ※専用のアプリ等は必要ございませんが、QRコードの読み取りが可能な状態でお越しください。
 
-![](/assets/bang-dream/blog/8th-live-oct/ad49b87daf697166.jpg)
+![](https://img.tano.asia/i/66aa5f33-5948-4717-9e48-816258729dcb.webp)
 
 ② 画面が「ご来店ください」になったら、物販会場へお越しください。
 お呼び出しの時間になりましたら、画面が切り替わります。
@@ -282,7 +282,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 【販売価格】 1回500円
 【種類】全21種類（Poppin'Party、Roselia、 Morfonica、RAISE A SUILEN、丸山彩）
 
-![](/assets/bang-dream/blog/8th-live-oct/fc49700b5efefdda.jpg)
+![](https://img.tano.asia/i/e801262b-d7cc-426a-b43b-5a167826e1ad.webp)
 
 ### カプセルトイコーナーのご案内
 
@@ -308,7 +308,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 
 ## 通販情報
 
-![](/assets/bang-dream/blog/morfonica_aut_2020/399f87ae18204944.jpg)
+![](https://img.tano.asia/i/b5433d1e-bf66-4ed4-b77b-460bcb318d56.webp)
 
 Morfonica 1st Live「Cantabile」グッズを期間限定で通販いたします！
 

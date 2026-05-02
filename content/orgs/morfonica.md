@@ -7,10 +7,10 @@ org: ["M"]
 url: "https://bang-dream.com/artist/morfonica/"
 founded: ""
 theme:
-  logo: "/assets/bang-dream/orgs/907d36544d1fd5a2.webp"
+  logo: "/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp"
   bgImage: null
 ---
 
-[![BanG Dream! Morfonication](/assets/bang-dream/orgs/morfonica/a7f8913f86813021.png)
+[![BanG Dream! Morfonication](https://img.tano.asia/i/a3a8a9ea-783e-4b19-8eb5-0ac4c3d3c5ef.webp)
 
 ### BanG Dream! Morfonication](https://morfonica-anime.bang-dream.com/)

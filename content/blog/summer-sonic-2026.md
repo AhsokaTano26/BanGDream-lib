@@ -21,15 +21,15 @@ SUMMER SONIC 2026
 
 ###### 8月14日(金)大阪公演・16日(日)東京公演にAve Mujicaが出演
 
-![](/assets/bang-dream/blog/summer-sonic-2026/5bf48fdb36da738b.jpg)
+![](https://img.tano.asia/i/dcb9ef72-0369-4f5c-89fa-d86c0e9f1156.webp)
 
 ## 出演アーティスト情報
 
-[![](/assets/bang-dream/blog/summer-sonic-2026/12f3768afe97960c.jpg)](https://bang-dream.com/wordpress/wp-content/uploads/2026/03/25134743/58ffb661-5a350b14-dd0d89c8-b811d196.jpg)
+[![](https://img.tano.asia/i/47d125a7-70cf-437a-bd28-14ad89725bc9.webp)](https://bang-dream.com/wordpress/wp-content/uploads/2026/03/25134743/58ffb661-5a350b14-dd0d89c8-b811d196.jpg)
 
 OSAKA
 
-[![](/assets/bang-dream/blog/summer-sonic-2026/24d92beb202b6a0a.jpg)](https://bang-dream.com/wordpress/wp-content/uploads/2026/03/25134716/7eeac6c0-a8997f31-cc986175-156963dc.jpg)
+[![](https://img.tano.asia/i/aa4cda31-2d57-4e3a-9a3b-8acd2b98847b.webp)](https://bang-dream.com/wordpress/wp-content/uploads/2026/03/25134716/7eeac6c0-a8997f31-cc986175-156963dc.jpg)
 
 TOKYO
 

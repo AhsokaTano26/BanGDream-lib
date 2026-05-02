@@ -63,7 +63,7 @@ URL：[https://cloak.pia.jp/contents/guide/forward.html](https://cloak.pia.jp/co
 
 ### お品書き
 
-![](/assets/bang-dream/blog/popibang_koube/a67d19e08c784f4c.jpg)
+![](https://img.tano.asia/i/5f57656a-a86e-4fb0-997f-e1ee5a09ae77.webp)
 
 ### 当日の物販についてのご案内
 
@@ -143,7 +143,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 お越しになる際に、QRコードが印字されている「紙の整理券」もなくさずにお持ちください。
 整理券を確認させていただいた後に、チケットもぎりを行い、会場へご入場いただきます。
 
-![](/assets/bang-dream/blog/morfonica-tour2021/da9b497bc9f659a5.png)
+![](https://img.tano.asia/i/e87d4f66-2830-47b5-af49-336bbbb5ed7b.webp)
 
 ###### デジタル整理券についての注意事項
 

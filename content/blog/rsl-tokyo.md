@@ -67,7 +67,7 @@ URL：[http://www.cnplayguide.com/radioshout/](http://www.cnplayguide.com/radios
 
 イベント会場にて新商品を含むグッズ販売を行います。
 
-![](/assets/bang-dream/blog/rsl-tokyo/e1bb2b86e3cf4560.jpg)
+![](https://img.tano.asia/i/367ccc69-6b40-4510-a2e8-646719d3d2e3.webp)
 
 ###### グッズ販売予定時間
 
@@ -187,7 +187,7 @@ SOLD OUT
 
 イベント会場にて販売される一部グッズをブシロード EC SHOPにて期間限定通販いたします。
 
-![](/assets/bang-dream/blog/rsl-nagoya/0a22085a9668dcae.jpg)
+![](https://img.tano.asia/i/cf6c8899-bc58-4a69-83e5-6550aba225fb.webp)
 
 通販期間：2020年1月17日(金)15時～1月29日(水) 13時まで
 発送時期：2020年2月下旬予定

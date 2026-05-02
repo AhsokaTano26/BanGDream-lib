@@ -21,19 +21,19 @@ rockin'on presents JAPAN JAM 2021
 
 ###### 5/2(日) 13:30～ LOTUS STAGEにRAISE A SUILENが登場！
 
-![](/assets/bang-dream/news/1121/2f8906796cc750ec.jpg)
+![](https://img.tano.asia/i/66d2767b-0881-4012-9e76-261df0878a53.webp)
 
 ###### 5/2(日)タイムテーブル
 
-![](/assets/bang-dream/blog/japanjam2021/ea84aaccba872481.png)
+![](https://img.tano.asia/i/4c40c84f-93e0-4530-9303-84fc019fefcd.webp)
 
 ###### 5/5(水・祝) 12:00～ LOTUS STAGEにPoppin'Partyが登場！
 
-![](/assets/bang-dream/blog/animax2021/4057585bf8866c2b.jpg)
+![](https://img.tano.asia/i/92f4f7f3-3385-4e7f-845c-86e03a8561b5.webp)
 
 ###### 5/5(水・祝)タイムテーブル
 
-![](/assets/bang-dream/blog/japanjam2021/8ed98d44b352dfbd.png)
+![](https://img.tano.asia/i/88c46848-18d5-49eb-9816-ff6595f9922d.webp)
 
 ## 会場
 

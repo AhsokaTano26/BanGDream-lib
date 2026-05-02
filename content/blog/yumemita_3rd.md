@@ -59,7 +59,7 @@ url: "https://bang-dream.com/events/yumemita_3rd/"
 
 エムカード
 
-![](/assets/bang-dream/blog/yumemita_3rd/e277cdb577bc1b4f.png)
+![](https://img.tano.asia/i/4bcc696f-0599-4431-9923-42362f90d8ef.webp)
 
 ### 販売情報
 
@@ -93,7 +93,7 @@ url: "https://bang-dream.com/events/yumemita_3rd/"
 
 #### 販売商品一覧
 
-[![](/assets/bang-dream/blog/yumemita_3rd/7ef4aada82883f1e.jpeg)](https://bang-dream.com/2025/renew/aebccb7f-7963-47a2-bdea-44235483374a.jpeg)
+[![](https://img.tano.asia/i/0f1e3099-6f34-4830-8bed-8dab3894c4f3.webp)](https://bang-dream.com/2025/renew/aebccb7f-7963-47a2-bdea-44235483374a.jpeg)
 
 #### 販売について
 
@@ -158,7 +158,7 @@ url: "https://bang-dream.com/events/yumemita_3rd/"
 
 ## グッズ通販
 
-[![](/assets/bang-dream/blog/yumemita_3rd/77b6b4d04d81f6ea.jpg)](https://bushiroad-store.com/pages/yumemita_2nd)
+[![](https://img.tano.asia/i/1e78b745-1ae7-4c7c-ae69-de6754857cde.webp)](https://bushiroad-store.com/pages/yumemita_2nd)
 
 夢限大みゅーたいぷ 3rd LIVE「ふりーてぃんぐ もーめんと」にて販売する新商品の通販を実施いたします！
 
@@ -179,11 +179,11 @@ url: "https://bang-dream.com/events/yumemita_3rd/"
 
 #### 特典受取方法
 
-[![](/assets/bang-dream/blog/yumemita_3rd/a9c4adb7af4143f0.jpeg)](https://bang-dream.com/2025/renew/bf7ef1d9-c515-4848-b5fb-15e33db63ac4.jpeg)
+[![](https://img.tano.asia/i/ce476efb-b3aa-4fe2-9039-a3972d4e6335.webp)](https://bang-dream.com/2025/renew/bf7ef1d9-c515-4848-b5fb-15e33db63ac4.jpeg)
 
-![](/assets/bang-dream/blog/yumemita_3rd/11b827dc8dc1ba67.png)
+![](https://img.tano.asia/i/86a9d02b-213b-446b-9239-c38047fdbcdf.webp)
 
-![](/assets/bang-dream/blog/yumemita_3rd/3877a2cc08125d30.png)
+![](https://img.tano.asia/i/5d41270f-c474-427b-a1df-56aeb91ada28.webp)
 
 会場にて対象商品をご購入ごとに「ふりーてぃんぐ もーめんと会場限定 複製コメント入りミニブロマイド(全5種)」をランダムで1枚プレゼントいたします。
 会場ごとに異なる「複製コメント」入り！是非ゲットしてください！

@@ -31,7 +31,7 @@ LOFT/PLUSONE
 
 ###### SPECIAL MENU
 
-![](/assets/bang-dream/blog/yumemita_mogumogupon/13f8d174bd5d75cb.png)
+![](https://img.tano.asia/i/e6d377cb-cccc-4a85-98aa-a1f9b1cdcb82.webp)
 
 ## 出演
 

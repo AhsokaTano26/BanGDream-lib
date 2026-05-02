@@ -110,6 +110,22 @@ python3 scripts/bang_dream_crawler.py --collections news blog discographies medi
 
 脚本还会把抓到的数据写入 `data/contents.sqlite`，方便你本地检查页面、签名和图片失败记录。
 
+图片处理默认是**本地保存**：会写入 `public/assets/bang-dream/`，并在 md 中改成站内路径。
+如果你想在抓取阶段直接上传图床，可以加：
+
+```bash
+python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs --image-storage upload --image-upload-visibility private --image-api-key "你的key"
+```
+
+说明：
+
+- `--image-storage local`：默认值，保存在本地
+- `--image-storage upload`：直接上传到图床并写回远程 URL
+- `--image-upload-visibility private`：私有上传，需要 `--image-api-key` 或 `IMG_TANO_API_KEY`
+- `--image-upload-visibility public`：公共上传，不需要 API Key
+
+如果需要覆盖接口地址，可以额外加 `--image-upload-endpoint`。
+
 ---
 
 ## 5. 输出结构
@@ -187,17 +203,53 @@ Smoke test 和正式生成使用同一套 Markdown 转换逻辑。
 
 脚本结束时会按页面汇总所有失败图片，并打印对应的页面 URL、图片 URL 和错误信息。
 
+### 8.7 本地图片怎么上传到图床？
+
+如果你已经生成了本地图片，但仓库不方便继续保留这些文件，可以用：
+
+```bash
+python3 scripts/upload_markdown_images.py
+```
+
+脚本会：
+
+- 扫描 `public/assets/bang-dream/`
+- 用私有图床接口上传图片
+- 将 `content/**/*.md` 里的本地图片引用替换成返回的远程 URL
+
+先把私有 API Key 通过 `--api-key` 或环境变量 `IMG_TANO_API_KEY` 传入。
+默认是私有上传；如果要公共上传，加 `--visibility public`。
+如果要显式指定私有模式，也可以写成：
+
+```bash
+python3 scripts/upload_markdown_images.py --visibility private --api-key "你的key"
+```
+
+如果想先试跑，可以加 `--dry-run`；如果只想测试少量图片，可以加 `--limit 1`。
+如果要改上传接口，可以加 `--endpoint`。
+
+如果你想在爬虫阶段就决定图片存本地还是直接上图床：
+
+```bash
+python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs --image-storage upload --image-upload-visibility private
+```
+
+把 `private` 改成 `public` 就是不带密钥的公共上传。
+
+如果你只想做“本地图片 -> 图床 URL”迁移，而不重新爬站，也可以直接跑上面的 `upload_markdown_images.py`。
+这个脚本会按图片内容做缓存，重复执行不会重复上传同一张图。
+
 ---
 
 ## 9. 最常用命令
 
-```bash
-# 小样本测试
-python3 scripts/bang_dream_smoke_test.py --skip-images --limit 1
-
-# 全量生成
-python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs
-
-# 只抓少量内容
-python3 scripts/bang_dream_crawler.py --collections news blog --limit 3 --skip-images
-```
+| 场景 | 命令 |
+| --- | --- |
+| 小样本测试 | `python3 scripts/bang_dream_smoke_test.py --skip-images --limit 1` |
+| 全量生成 | `python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs` |
+| 少量抓取 | `python3 scripts/bang_dream_crawler.py --collections news blog --limit 3 --skip-images` |
+| 本地存图抓取 | `python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs --image-storage local` |
+| 爬虫直接上传图床 | `python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs --image-storage upload --image-upload-visibility private --image-api-key "你的key"` |
+| 图床迁移并改写 md | `python3 scripts/upload_markdown_images.py --visibility private --api-key "你的key"` |
+| 图床公共上传 | `python3 scripts/upload_markdown_images.py --visibility public` |
+| 迁移预演 | `python3 scripts/upload_markdown_images.py --dry-run --limit 1` |

@@ -9,7 +9,7 @@ org: ["mygo", "Ave"]
 url: "https://bang-dream.com/events/animejapan-2026/"
 ---
 
-![](/assets/bang-dream/blog/animejapan-2026/efebf1a233cdb0f7.jpg)
+![](https://img.tano.asia/i/3d75f483-0a34-45da-8be1-8c41377b312a.webp)
 
 AnimeJapan 2026 日本テレビ×VAPブースに「BanG Dream! It's MyGO!!!!!/Ave Mujica」が出展！
 
@@ -62,4 +62,4 @@ AnimeJapan 2026
 ※配布ノベルティはランダムとなります。
 ※無くなり次第終了となります。
 
-![](/assets/bang-dream/blog/animejapan-2026/711dba973d275c38.png)
+![](https://img.tano.asia/i/1bcaec15-3442-4b7d-b7db-daec3bb2c985.webp)

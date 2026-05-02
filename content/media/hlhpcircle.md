@@ -15,7 +15,7 @@ Media
 
 # バンドリ！ ガールズバンドパーティ！@ハロハピCiRCLE放送局
 
-![](/assets/bang-dream/media/hlhpcircle/8387b37990c659a5.jpg)
+![](https://img.tano.asia/i/946df62b-0e35-418c-8823-1b48f119ee04.webp)
 
 ## 番組紹介
 

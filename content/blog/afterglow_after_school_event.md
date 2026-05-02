@@ -48,11 +48,11 @@ B席 ：6,000円(税込)
 ・羽沢珈琲店マグカップ
 ・ステッカー
 
-![](/assets/bang-dream/blog/afterglow_after_school_event/10cb413bb4a4fc4e.jpg)
+![](https://img.tano.asia/i/bc33810a-2fc2-404a-9ad6-1a20962a2599.webp)
 
 #### 会場座席イメージ
 
-![](/assets/bang-dream/blog/afterglow_after_school_event/739def195b65e317.jpg)
+![](https://img.tano.asia/i/21b1dd5f-4b68-4c6d-a861-64c57fe606bb.webp)
 
 ### 販売情報
 
@@ -96,7 +96,7 @@ Archive : available until April 13, 2024 (Sat.) 23:59 JST
 
 ### グッズ一覧
 
-[https://bang-dream.com/files/f58b847de2e34816](https://bang-dream.com/files/f58b847de2e34816)[![](/assets/bang-dream/blog/afterglow_after_school_event/113c0e9a87b09131.jpg)](https://bang-dream.com/files/9527cc95c59aabac)[https://bang-dream.com/files/f58b847de2e34816](https://bang-dream.com/files/f58b847de2e34816)[![](/assets/bang-dream/blog/afterglow_after_school_event/5bf9d7b5c0f7f004.jpg)](https://bang-dream.com/files/ade4212bc7a0fd57)[https://bang-dream.com/files/f58b847de2e34816](https://bang-dream.com/files/f58b847de2e34816)
+[https://bang-dream.com/files/f58b847de2e34816](https://bang-dream.com/files/f58b847de2e34816)[![](https://img.tano.asia/i/865bf078-a73a-410c-828f-f8c85acbe338.webp)](https://bang-dream.com/files/9527cc95c59aabac)[https://bang-dream.com/files/f58b847de2e34816](https://bang-dream.com/files/f58b847de2e34816)[![](https://img.tano.asia/i/4fa19eb1-cea3-4506-9b94-73ba73891b61.webp)](https://bang-dream.com/files/ade4212bc7a0fd57)[https://bang-dream.com/files/f58b847de2e34816](https://bang-dream.com/files/f58b847de2e34816)
 
 ※販売する商品は予告なく変更になる可能性がございます。
 
@@ -116,7 +116,7 @@ Zepp Haneda (TOKYO)
 
 1会計で3,000円(税込)以上のご購入で「SNS風クリアカード（全1種）」を1枚プレゼントいたします。
 
-![](/assets/bang-dream/blog/afterglow_after_school_event/6aa27403f7ea72e8.png)
+![](https://img.tano.asia/i/4063692a-166b-460d-a66d-c8683cb5ffa0.webp)
 
 ※特典はなくなり次第終了となりますので予めご了承ください。
 
@@ -221,7 +221,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 
 ## グッズ通販
 
-![](/assets/bang-dream/blog/afterglow_after_school_event/d2605c693f5287a7.jpg)
+![](https://img.tano.asia/i/2f8f5cf1-acab-451c-8cc2-8f7bb932e49d.webp)
 
 Afterglow「After School Event 夕景の一頁」 にて販売する新商品を先行通販実施いたします！
 
@@ -234,19 +234,19 @@ Afterglow「After School Event 夕景の一頁」 にて販売する新商品を
 
 ブシロード オンラインストアにて対象商品を3,000円購入で「SNS風クリアカード（全5種）」をプレゼント！
 
-![](/assets/bang-dream/blog/afterglow_after_school_event/d395dafae7abc95e.jpg)
+![](https://img.tano.asia/i/14f89fc8-00b6-42ce-8bfe-0fb51fb73141.webp)
 
 上記5種からランダムでお渡し（詳細：[https://bushiroad-store.com/pages/afterglow_after_school_event](https://bushiroad-store.com/pages/afterglow_after_school_event)）
 
 また、イベント当日の会場グッズ販売では、3,000円以上ご購入で「SNS風クリアカード（全1種）」をプレゼント！
 
-![](/assets/bang-dream/blog/afterglow_after_school_event/7b9b9a9afba16bc7.jpg)
+![](https://img.tano.asia/i/22379b05-0455-4690-85c4-4ac33768f2be.webp)
 
 ## 『東海道新幹線で行く！「バンドリ！ライブ」in2024春』連動施策
 
 #### **① 描き下ろしイラストBIG缶バッジプレゼント**
 
-![](/assets/bang-dream/blog/mygo_tour2024/2fd1a350ddfefe8d.jpg)
+![](https://img.tano.asia/i/ff485ddf-4bda-4fff-9970-cef366f78a7a.webp)
 
 コラボ期間中に指定のライブ会場の物販ブースにて、引換画面（※）をお見せいただくと、下記の描き下ろしイラスト使用BIG缶バッジをプレゼントいたします。
 ※引換画面は対象期間中に指定の条件を満たした方に発行されます。
@@ -261,7 +261,7 @@ Afterglow「After School Event 夕景の一頁」 にて販売する新商品を
 ###### 引換条件
 
 下記画像をご参照ください。
-![](/assets/bang-dream/blog/mygo_tour2024/dd29022fdddfd922.jpg)
+![](https://img.tano.asia/i/41dfacfd-642a-41b5-8a48-17aa6b317bc0.webp)
 
 #### **② ライブでしか聴けない、メンバーの録りおろしボイス**
 

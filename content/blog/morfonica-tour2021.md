@@ -43,7 +43,7 @@ Morfonica（進藤あまね、直田姫奈、西尾夕香、mika、Ayasa）
 ・公開リハーサル見学
 ・特製ラミネートパス
 
-![](/assets/bang-dream/blog/morfonica-tour2021/d50a3829cf660e73.jpg)
+![](https://img.tano.asia/i/03d300be-55b2-45d0-a5f9-6b576e233fab.webp)
 
 ### 販売情報
 
@@ -86,7 +86,7 @@ Morfonica（進藤あまね、直田姫奈、西尾夕香、mika、Ayasa）
 
 ### グッズ一覧
 
-[![](/assets/bang-dream/blog/morfonica-tour2021/3370c1ab6d8d2c04.jpg)](https://bang-dream.com/2025/renew/c6ea8cee-2030-489b-808d-beba42542fca.jpg)
+[![](https://img.tano.asia/i/56567a98-7493-4762-9cd4-1314b5967027.webp)](https://bang-dream.com/2025/renew/c6ea8cee-2030-489b-808d-beba42542fca.jpg)
 
 ### 販売情報
 
@@ -141,7 +141,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 
 ※整理券は回収させていただきます。なくさないようご注意ください。
 
-![](/assets/bang-dream/blog/morfonica-tour2021/da9b497bc9f659a5.png)
+![](https://img.tano.asia/i/e87d4f66-2830-47b5-af49-336bbbb5ed7b.webp)
 
 #### デジタル整理券についての注意事項
 
@@ -182,7 +182,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 
 ## グッズ通販情報
 
-[![](/assets/bang-dream/blog/morfonica-tour2021/24c495e21a47f9a0.jpg)](https://bushiroad-store.com/collections/morfonica-tour2021)
+[![](https://img.tano.asia/i/33182bc0-f2c9-4b65-bf91-38c350ef6138.webp)](https://bushiroad-store.com/collections/morfonica-tour2021)
 
 Morfonica ZEPP TOUR 2021「Amabile」の新商品を通販いたします！
 

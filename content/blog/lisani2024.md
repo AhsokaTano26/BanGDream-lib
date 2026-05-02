@@ -21,7 +21,7 @@ url: "https://bang-dream.com/events/lisani2024/"
 
 ###### 1月28日(日) SUNDAY STAGEにMyGO!!!!!が出演！
 
-![](/assets/bang-dream/blog/asl2025/d658ed63e3ada941.jpg)
+![](https://img.tano.asia/i/a9f51836-32ef-4b35-8bed-5dfd37052186.webp)
 
 ## 会場
 

@@ -9,7 +9,7 @@ org: ["other"]
 url: "https://bang-dream.com/events/gbp6th_akihabara/"
 ---
 
-![](/assets/bang-dream/blog/gbp6th_akihabara/6471c7e32eef793b.png)
+![](https://img.tano.asia/i/1075b7c7-8a19-4d1f-8685-4b68a0bc29d0.webp)
 
 スマートフォン向けゲーム「バンドリ！ ガールズバンドパーティ！」のリリース6周年を記念した、2DAYSのリアルイベントの開催が決定！
 
@@ -28,8 +28,8 @@ url: "https://bang-dream.com/events/gbp6th_akihabara/"
 
 ベルサール秋葉原 B1F/1F
 
-- ![](/assets/bang-dream/blog/gbp6th_akihabara/0b5c70a9c1512252.jpg)
-- ![](/assets/bang-dream/blog/gbp6th_akihabara/b12b3eb9d9c9b328.jpg)
+- ![](https://img.tano.asia/i/711c5c06-2c12-451e-a12e-ac4b73f2e019.webp)
+- ![](https://img.tano.asia/i/e8c297e0-2f4b-45dc-9983-d42370d32f41.webp)
 
 ## ステージプログラム 概要
 
@@ -123,7 +123,7 @@ YouTube「バンドリちゃんねる☆」
 
 ## タイムスケジュール
 
-![](/assets/bang-dream/blog/gbp6th_akihabara/5bb236a937791d24.png)
+![](https://img.tano.asia/i/fe81c518-2cca-4bde-b6ef-f544ee923bbf.webp)
 
 ## ステージプログラム 有料観覧チケット
 
@@ -150,7 +150,7 @@ YouTube「バンドリちゃんねる☆」
 
 ステージの有料観覧にご来場のお客様全員に、「ガルパ6周年記念ファンフェスタ in 秋葉原 スペシャルポストカード」をプレゼントいたします！
 
-- ![](/assets/bang-dream/blog/gbp6th_akihabara/beb08ca87894ad85.jpg)
+- ![](https://img.tano.asia/i/b0778782-340c-4523-8d68-0dd087e5cae5.webp)
 - ステージの有料観覧にご来場のお客様全員に、「ガルパ6周年記念ファンフェスタ in 秋葉原 スペシャルポストカード」をプレゼントいたします！
 
 #### チケットに関する注意事項
@@ -173,14 +173,14 @@ YouTube「バンドリちゃんねる☆」
 
 ※販売の開始、終了時間は当日の状況によって変更する場合がございます。
 
-- ![](/assets/bang-dream/blog/gbp6th_akihabara/c3d3644ed03b093f.jpg)
-- ![](/assets/bang-dream/blog/gbp6th_akihabara/a8a8f937016944c7.jpg)
+- ![](https://img.tano.asia/i/33eba4f5-4dc3-40ee-88a2-47ebcd7aeaac.webp)
+- ![](https://img.tano.asia/i/2f3ab1d6-d56e-429d-b3e1-27c0c951a97b.webp)
 
 ###### 購入特典
 
 ブシロードクリエイティブブースにて、2,200円(税込)ご購入いただくごとに特製ステッカーをランダムで1枚プレゼントいたします。
 
-![](/assets/bang-dream/blog/gbp6th_akihabara/8440deb82812938e.jpg)
+![](https://img.tano.asia/i/578a54fb-d246-4966-9dcc-79c1b32ee692.webp)
 
 ※特典はなくなり次第終了となります。
 ※絵柄はお選びいただけませんので予めご了承ください。
@@ -205,7 +205,7 @@ YouTube「バンドリちゃんねる☆」
 ### Craft Egg Store
 
 「ガルパ6周年記念ファンフェスタ in 秋葉原」にCraft Egg Storeのポップアップストアを出展いたします！
-![](/assets/bang-dream/blog/gbp6th_akihabara/b9b0aa96df807b5e.png)
+![](https://img.tano.asia/i/c4a14204-54e6-44c6-a663-cac0beb31614.webp)
 
 ###### 営業時間
 

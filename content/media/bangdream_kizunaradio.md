@@ -13,7 +13,7 @@ Media
 
 # バンドリ！プロジェクト10周年記念「話しTARINAI！キズナラジオ！」
 
-![](/assets/bang-dream/media/bangdream_kizunaradio/26da8a42d8a6cab9.jpg)
+![](https://img.tano.asia/i/771de614-a101-4be7-8d56-417a34cb96b5.webp)
 
 ## 番組情報
 

@@ -21,11 +21,11 @@ LuckyFes
 
 ###### 7月16日(日) 12:30よりRAISE A SUILENが出演！
 
-![](/assets/bang-dream/blog/anierafesta2025/d2ab3765f19f99a9.jpg)
+![](https://img.tano.asia/i/2ce5a0be-0321-496d-a1ad-ce8b170f8764.webp)
 
 ## タイムテーブル
 
-![](/assets/bang-dream/blog/luckyfes/f7263032abf9b971.png)
+![](https://img.tano.asia/i/ce0a32dd-53ee-401e-a42e-430ad271ca0e.webp)
 
 ## 会場
 

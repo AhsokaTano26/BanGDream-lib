@@ -13,7 +13,7 @@ Media
 
 # バンドリ！TV LIVE 2026
 
-![](/assets/bang-dream/media/bdtvlive/97b3d0a64861a753.png)
+![](https://img.tano.asia/i/a3b5af87-2eea-4766-a196-d2fa068eff52.webp)
 
 ## 番組紹介
 

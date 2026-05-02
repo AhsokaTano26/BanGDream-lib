@@ -15,7 +15,7 @@ Media
 
 # バンステ！BanG Dream! STATION 2024
 
-![](/assets/bang-dream/media/bang_station_2024/cb75197a46c7f2a7.png)
+![](https://img.tano.asia/i/10d42cd8-2100-4c1a-b61d-f0435692bebe.webp)
 
 「バンステ！BanG Dream! STATION 2024」とは、バンドリ！プロジェクトのリアルライブで過去に演奏された名曲たちをピックアップする新番組！
 キャスト達による生演奏の魅力やライブでの迫力や熱気をご覧頂けます！

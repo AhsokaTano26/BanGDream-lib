@@ -21,11 +21,11 @@ url: "https://bang-dream.com/events/lisani2025/"
 
 ###### 1月24日(金) FRIDAY STAGEにMyGO!!!!!が出演！
 
-![](/assets/bang-dream/blog/asl2025/d658ed63e3ada941.jpg)
+![](https://img.tano.asia/i/a9f51836-32ef-4b35-8bed-5dfd37052186.webp)
 
 ###### 1月25日(土) SATURDAY STAGEにAve Mujicaが出演！
 
-![](/assets/bang-dream/blog/lisani2025/a4166fc4a8648bd9.jpg)
+![](https://img.tano.asia/i/00c23a5d-d0de-4ef0-9ca5-47c4c8138ebd.webp)
 
 ## 会場
 

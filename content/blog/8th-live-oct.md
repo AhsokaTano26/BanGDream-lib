@@ -37,11 +37,11 @@ BanG Dream! 8th☆LIVE「Breakthrough!」
 
 ・キラキラ☆Festa Day!
 
-![](/assets/bang-dream/blog/8th-live-oct/ed19786ed4468e8c.png)
+![](https://img.tano.asia/i/517f8eec-8b9b-4d05-8a6c-aef7b987bf74.webp)
 
 ・ドキドキ♪Special Day!
 
-![](/assets/bang-dream/blog/8th-live-oct/2e6523d401621364.png)
+![](https://img.tano.asia/i/158f78ca-ad6b-4b7c-9715-6cd10023b735.webp)
 
 ## 会場
 
@@ -74,7 +74,7 @@ Poppin'Party
 
 ###### プレミアムシート特製グッズ
 
-![](/assets/bang-dream/blog/8th-live-oct/2be13f0429380482.jpg)
+![](https://img.tano.asia/i/a4242c10-f408-4331-9438-5545cdfab354.webp)
 
 ※プレミアムシートチケット1枚につき特典1式を差し上げます（ 公演期間中のみ有効）
 ※プレミアムシートの特典は非売品となりますので、 一般販売グッズには含まれておりません。
@@ -174,11 +174,11 @@ Poppin'Party
 
 ### グッズ一覧
 
-[![](/assets/bang-dream/blog/8th-live-oct/861eb85dc5b28536.jpg)](https://bang-dream.com/2025/renew/2568d6c2-9961-4074-a2d5-27ce2247ec6e.jpg)
+[![](https://img.tano.asia/i/73a60f6e-2119-49f9-8b31-cb159a4c2ce4.webp)](https://bang-dream.com/2025/renew/2568d6c2-9961-4074-a2d5-27ce2247ec6e.jpg)
 
-[![](/assets/bang-dream/blog/8th-live-oct/ed898701e478b957.jpg)](https://bang-dream.com/2025/renew/33a26ba6-27ab-4b77-bc68-d4af09f3b367.jpg)
+[![](https://img.tano.asia/i/5357dd20-4692-4226-998d-4979aa5f4bb6.webp)](https://bang-dream.com/2025/renew/33a26ba6-27ab-4b77-bc68-d4af09f3b367.jpg)
 
-[![](/assets/bang-dream/blog/8th-live-oct/81b14d56e5891389.jpg)](https://bang-dream.com/2025/renew/e3b96c18-92c4-4e26-bc1b-320f4dddac12.jpg)
+[![](https://img.tano.asia/i/bb51721b-bffc-43ee-a15c-5fe725bcb205.webp)](https://bang-dream.com/2025/renew/e3b96c18-92c4-4e26-bc1b-320f4dddac12.jpg)
 
 ### グッズ販売予定時間
 
@@ -221,7 +221,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 ※整理券は「1人・1回まで」とさせて頂きます。
 ※専用のアプリ等は必要ございませんが、QRコードの読み取りが可能な状態でお越しください。
 
-![](/assets/bang-dream/blog/8th-live-oct/ad49b87daf697166.jpg)
+![](https://img.tano.asia/i/66aa5f33-5948-4717-9e48-816258729dcb.webp)
 
 ② 画面が「ご来店ください」になったら、物販会場へお越しください。
 お呼び出しの時間になりましたら、画面が切り替わります。
@@ -323,7 +323,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 【販売価格】 1回500円
 【種類】全21種類（Poppin'Party、Roselia、 Morfonica、RAISE A SUILEN、丸山彩）
 
-![](/assets/bang-dream/blog/8th-live-oct/fc49700b5efefdda.jpg)
+![](https://img.tano.asia/i/e801262b-d7cc-426a-b43b-5a167826e1ad.webp)
 
 ### カプセルトイコーナーのご案内
 
@@ -349,7 +349,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 
 ## 通販情報
 
-![](/assets/bang-dream/blog/8th-live-oct/5148e54db754d8ca.jpg)
+![](https://img.tano.asia/i/e7c8debd-45c4-4e6e-b989-378928c25448.webp)
 
 BanG Dream! 8th☆LIVE「Breakthrough!」グッズを期間限定で通販いたします！
 

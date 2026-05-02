@@ -9,7 +9,7 @@ org: ["other"]
 url: "https://bang-dream.com/events/animeexpolite2021/"
 ---
 
-![](/assets/bang-dream/blog/animeexpolite2021/9799817a828335f2.jpg)
+![](https://img.tano.asia/i/5c51cf89-f2fb-4cbb-8f25-264f1f6eaa06.webp)
 
 “ANIME EXPO LITE 2021 × LisAni！LIVE L.A.”へ、バンドリ！からMorfonicaの出演が決定しました！
 

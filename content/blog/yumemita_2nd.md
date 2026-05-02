@@ -61,14 +61,14 @@ Zepp Shinjuku (TOKYO)
 
 紙チケット型エムカード
 
-- ![](/assets/bang-dream/blog/yumemita_2nd/83172160e544c4ca.jpg)
+- ![](https://img.tano.asia/i/5339bcf9-32c0-48cc-9a32-5befadbe9cb5.webp)
 
 ※当日のライブ映像の一部が後日視聴できます。
 ※昼公演と夜公演で視聴できる内容は異なります。
 
 #### 会場エリアイメージ
 
-[![](/assets/bang-dream/blog/yumemita_2nd/9802b1797fc25568.jpg)](https://bang-dream.com/2025/renew/4acc2609-5abd-4f20-b479-b2ca36a048a2.jpg)
+[![](https://img.tano.asia/i/30b27112-f8a9-45bb-9644-bc26bf3f7b09.webp)](https://bang-dream.com/2025/renew/4acc2609-5abd-4f20-b479-b2ca36a048a2.jpg)
 
 ### 販売情報
 
@@ -97,7 +97,7 @@ Zepp Shinjuku (TOKYO)
 
 ### 販売商品一覧
 
-[![](/assets/bang-dream/blog/yumemita_2nd/b7e84d9d8bbc1764.jpg)](https://bang-dream.com/2025/renew/4e3c35f0-8d6c-4c0a-9ecc-357987bbcbfd.jpg)
+[![](https://img.tano.asia/i/a8337ac0-b86d-44c6-9be2-7e0877485af7.webp)](https://bang-dream.com/2025/renew/4e3c35f0-8d6c-4c0a-9ecc-357987bbcbfd.jpg)
 
 ###### 販売場所
 
@@ -150,7 +150,7 @@ Zepp Shinjuku (TOKYO)
 
 ## グッズ通販
 
-[![](/assets/bang-dream/blog/yumemita_2nd/85a4757258fe548f.jpg)](https://bushiroad-store.com/pages/yumemita_2nd)
+[![](https://img.tano.asia/i/30b3b860-2cf3-4c0f-bdd4-8d0665815220.webp)](https://bushiroad-store.com/pages/yumemita_2nd)
 
 夢限大みゅーたいぷ 2nd LIVE「でぃすかばりー☆じゃーにー」にて販売する新商品の通販を実施いたします！
 
@@ -166,7 +166,7 @@ Zepp Shinjuku (TOKYO)
 
 2025年2月16日(日)開催の夢限大みゅーたいぷ 2nd LIVE「でぃすかばりー☆じゃーにー」にてCD会場購入特典が決定しました。
 
-![](/assets/bang-dream/blog/yumemita_2nd/717073076fd8f510.png)
+![](https://img.tano.asia/i/1077f590-62dc-4610-af5b-8412d4f50660.webp)
 
 会場にて対象商品ご購入ごとに、「でぃすかばりー☆じゃーにー特製ミニブロマイド(全5種)」をランダムで1枚プレゼントいたします。
 さらに、対象商品ご購入ごとに1回、「夢限大みゅーたいぷメンバー5人の直筆サイン入り「『コミュ着火Fire！』B2告知ポスター」が当たる抽選会にご参加いただけます。
@@ -360,7 +360,7 @@ Zepp Shinjuku (TOKYO)
 
 ## オンライン差し入れ受付
 
-![](/assets/bang-dream/blog/yumemita_2nd/1c0072627e83b903.png)
+![](https://img.tano.asia/i/d9d21c07-3455-4d2b-8ed9-5b8167a57428.webp)
 
 エルタマ様主催でキャスト＆スタッフへ応援セットを差し入れられる企画を開催します。
 

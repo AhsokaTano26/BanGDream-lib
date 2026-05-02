@@ -5,6 +5,7 @@ import argparse
 import hashlib
 import html
 import json
+import os
 import random
 import re
 import sys
@@ -19,6 +20,12 @@ from urllib.parse import quote, unquote_to_bytes, urljoin, urlparse, urlsplit, u
 import requests
 from bs4 import BeautifulSoup, NavigableString, Tag
 
+ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
+from scripts.upload_markdown_images import ImageUploader, resolve_endpoint
+
 
 BASE_URL = "https://bang-dream.com"
 API_BASE = f"{BASE_URL}/wp-json/wp/v2"
@@ -29,7 +36,6 @@ ASSET_ROOT = REPO_ROOT / "public" / "assets" / "bang-dream"
 DATA_ROOT = REPO_ROOT / "data"
 DB_PATH = DATA_ROOT / "contents.sqlite"
 DEFAULT_STATE_FILE = Path.cwd() / "cache" / "bang-dream-crawler" / "state.json"
-DEFAULT_STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
 
 HEADERS = {
     "User-Agent": (
@@ -242,6 +248,8 @@ class Crawler:
         self,
         delay: float = 0.0,
         download_images: bool = True,
+        image_storage: str = "local",
+        image_uploader: ImageUploader | None = None,
         max_retries: int = 5,
         backoff: float = 1.8,
         jitter: float = 0.4,
@@ -250,6 +258,8 @@ class Crawler:
     ) -> None:
         self.delay = delay
         self.download_images = download_images
+        self.image_storage = image_storage
+        self.image_uploader = image_uploader
         self.max_retries = max_retries
         self.backoff = backoff
         self.jitter = jitter
@@ -430,33 +440,48 @@ class Crawler:
             ext = ".jpg"
 
         digest = hashlib.sha1(image_url.encode("utf-8")).hexdigest()[:16]
-        rel_path = Path("assets") / "bang-dream"
-        if subdir:
-            rel_path /= subdir
-        rel_path = rel_path / f"{digest}{ext}"
-        fs_path = REPO_ROOT / "public" / rel_path
-        fs_path.parent.mkdir(parents=True, exist_ok=True)
-
-        if not fs_path.exists():
-            try:
-                data = self.fetch("GET", image_url).content
-                fs_path.write_bytes(data)
-            except requests.HTTPError as exc:
-                status = exc.response.status_code if exc.response is not None else "unknown"
-                self.progress(f"[image] skipped {status}: {image_url}")
-                self.image_failures.append(
-                    ImageFailure(
-                        collection=collection or "unknown",
-                        page_slug=page_slug or "unknown",
-                        page_url=page_url or "",
-                        image_url=image_url,
-                        error=f"{status}",
-                    )
+        try:
+            response = self.fetch("GET", image_url)
+            data = response.content
+            content_type = response.headers.get("Content-Type")
+        except requests.HTTPError as exc:
+            status = exc.response.status_code if exc.response is not None else "unknown"
+            self.progress(f"[image] skipped {status}: {image_url}")
+            self.image_failures.append(
+                ImageFailure(
+                    collection=collection or "unknown",
+                    page_slug=page_slug or "unknown",
+                    page_url=page_url or "",
+                    image_url=image_url,
+                    error=f"{status}",
                 )
-                self.image_cache[image_url] = image_url
-                return image_url
-            except requests.RequestException as exc:
-                self.progress(f"[image] skipped error: {image_url}")
+            )
+            self.image_cache[image_url] = image_url
+            return image_url
+        except requests.RequestException as exc:
+            self.progress(f"[image] skipped error: {image_url}")
+            self.image_failures.append(
+                ImageFailure(
+                    collection=collection or "unknown",
+                    page_slug=page_slug or "unknown",
+                    page_url=page_url or "",
+                    image_url=image_url,
+                    error=str(exc),
+                )
+            )
+            self.image_cache[image_url] = image_url
+            return image_url
+
+        if self.image_storage == "upload":
+            if self.image_uploader is None:
+                raise RuntimeError("image_uploader is required when image_storage='upload'")
+            filename = Path(parsed.path).name or f"{digest}{ext}"
+            try:
+                uploaded_url = self.image_uploader.upload_bytes(filename, data, content_type=content_type)
+            except PermissionError:
+                raise
+            except Exception as exc:
+                self.progress(f"[image] upload failed: {image_url}")
                 self.image_failures.append(
                     ImageFailure(
                         collection=collection or "unknown",
@@ -468,6 +493,18 @@ class Crawler:
                 )
                 self.image_cache[image_url] = image_url
                 return image_url
+
+            self.image_cache[image_url] = uploaded_url
+            return uploaded_url
+
+        rel_path = Path("assets") / "bang-dream"
+        if subdir:
+            rel_path /= subdir
+        rel_path = rel_path / f"{digest}{ext}"
+        fs_path = REPO_ROOT / "public" / rel_path
+        fs_path.parent.mkdir(parents=True, exist_ok=True)
+        if not fs_path.exists():
+            fs_path.write_bytes(data)
 
         web_path = "/" + rel_path.as_posix()
         self.image_cache[image_url] = web_path
@@ -1240,15 +1277,50 @@ def main() -> None:
     parser.add_argument("--connect-timeout", type=float, default=10.0, help="Connection timeout in seconds.")
     parser.add_argument("--read-timeout", type=float, default=20.0, help="Read timeout in seconds.")
     parser.add_argument("--skip-images", action="store_true", help="Do not download or rewrite images.")
+    parser.add_argument(
+        "--image-storage",
+        choices=["local", "upload"],
+        default="local",
+        help="Store images locally or upload them to img.tano.asia.",
+    )
+    parser.add_argument(
+        "--image-upload-visibility",
+        choices=["private", "public"],
+        default="private",
+        help="Upload visibility when --image-storage=upload.",
+    )
+    parser.add_argument(
+        "--image-upload-endpoint",
+        default=None,
+        help="Override the image upload endpoint.",
+    )
+    parser.add_argument(
+        "--image-api-key",
+        default=os.environ.get("IMG_TANO_API_KEY", ""),
+        help="Private image upload API key when --image-upload-visibility=private.",
+    )
     parser.add_argument("--state-file", type=Path, default=DEFAULT_STATE_FILE, help="Resume state file path.")
     parser.add_argument("--no-resume", action="store_true", help="Disable resume and state tracking.")
     args = parser.parse_args()
 
     state = None if args.no_resume else CrawlState.load(args.state_file)
+    image_uploader = None
+    if not args.skip_images and args.image_storage == "upload":
+        endpoint = resolve_endpoint(args.image_upload_visibility, args.image_upload_endpoint)
+        api_key = args.image_api_key.strip()
+        if args.image_upload_visibility == "private" and not api_key:
+            raise SystemExit("Please set --image-api-key or IMG_TANO_API_KEY for private image uploads.")
+        image_uploader = ImageUploader(
+            session=requests.Session(),
+            endpoint=endpoint,
+            api_key=api_key if args.image_upload_visibility == "private" else "",
+        )
     db = CrawlDatabase(DB_PATH)
     crawler = Crawler(
         delay=args.delay,
         download_images=not args.skip_images,
+        image_storage=args.image_storage,
+        image_uploader=image_uploader,
         max_retries=args.max_retries,
         backoff=args.backoff,
         jitter=args.jitter,

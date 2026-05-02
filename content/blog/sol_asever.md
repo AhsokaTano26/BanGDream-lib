@@ -57,7 +57,7 @@ YouTube「[バンドリちゃんねる☆](https://www.youtube.com/channel/UCN-b
 
 ###### 期間限定通販
 
-![](/assets/bang-dream/blog/sol_asever/3d839f4f9835e533.jpg)
+![](https://img.tano.asia/i/f47a7e3e-aab2-4d75-931b-b5c25c7f9b28.webp)
 
 Afterglow Sound Only Live「As ever」のグッズを期間限定通販いたします。
 

@@ -9,8 +9,8 @@ org: ["other"]
 url: "https://bang-dream.com/events/animax2023/"
 ---
 
-- ![](/assets/bang-dream/blog/anierafesta2025/d2ab3765f19f99a9.jpg)
-- ![](/assets/bang-dream/blog/asl2025/d658ed63e3ada941.jpg)
+- ![](https://img.tano.asia/i/2ce5a0be-0321-496d-a1ad-ce8b170f8764.webp)
+- ![](https://img.tano.asia/i/a9f51836-32ef-4b35-8bed-5dfd37052186.webp)
 
 うたって！はじけて！アニメミュージックの“祭”‼️ ANIMAX MUSIX 2023 開催決定‼️
 バンドリ！からはRAISE A SUILENとMyGO!!!!!の出演が決定！
@@ -36,7 +36,7 @@ RAISE A SUILENとMyGO!!!!!のグッズ販売が決定！
 
 ###### グッズ一覧
 
-[![](/assets/bang-dream/blog/animax2023/230c4e5d1f64dc85.jpg)](https://bang-dream.com/2025/renew/9dbe0d9f-c013-436e-9c42-8721d3d1f26b.jpg)
+[![](https://img.tano.asia/i/715c040e-c47d-4d13-a987-e5c1002aa84e.webp)](https://bang-dream.com/2025/renew/9dbe0d9f-c013-436e-9c42-8721d3d1f26b.jpg)
 
 ###### 販売場所
 

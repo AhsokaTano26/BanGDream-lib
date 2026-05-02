@@ -22,11 +22,11 @@ MEGA VEGAS 2025
 
 ###### 3月23日(日) 13:10よりRAISE A SUILENが出演！
 
-![](/assets/bang-dream/blog/megavegas2025/cebbbbf1c6dff19e.jpg)
+![](https://img.tano.asia/i/2ce5a0be-0321-496d-a1ad-ce8b170f8764.webp)
 
 ## タイムテーブル
 
-![](/assets/bang-dream/blog/megavegas2025/471250fd6a9862df.jpg)
+![](https://img.tano.asia/i/bccf88c0-b5cb-478d-b3b9-7e387eed3c5a.webp)
 
 ## 会場
 
@@ -39,4 +39,4 @@ MEGA VEGAS 2025
 
 #### 出演予定
 
-![](/assets/bang-dream/blog/megavegas2025/e17efb32431f3210.jpg)
+![](https://img.tano.asia/i/5874d444-52ff-454e-90df-28f23229b356.webp)

@@ -39,7 +39,7 @@ Poppin'Party Fan Meeting 2017!では、
 会場：豊洲PIT
 チケット代金：6,500円（税別） ※限定チケットホルダー付き
 
-![チケットホルダー](/assets/bang-dream/blog/fan-meeting2017/7a9601a0391fc15c.jpg)
+![チケットホルダー](https://img.tano.asia/i/d388000d-524c-412b-a09b-e0d69e06fade.webp)
 
 席種：スタンディング
 ※未就学児入場不可

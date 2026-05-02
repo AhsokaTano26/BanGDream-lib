@@ -19,7 +19,7 @@ url: "https://bang-dream.com/events/machiasobi2025/"
 
 2025年5月10日(土)・11日(日)
 
-![](/assets/bang-dream/blog/machiasobi2025/a6fd62314db5d24c.jpg)
+![](https://img.tano.asia/i/5a179ccc-8af3-499d-848d-2402806612dc.webp)
 
 出演スケジュール
 

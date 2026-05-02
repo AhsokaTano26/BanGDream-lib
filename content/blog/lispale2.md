@@ -22,7 +22,7 @@ url: "https://bang-dream.com/events/lispale2/"
 
 ###### 2月22日(土) に夢限大みゅーたいぷが出演！
 
-![](/assets/bang-dream/blog/lispale2/1b4444c6b54238df.jpg)
+![](https://img.tano.asia/i/0356853e-5d17-40b0-837a-04802b081971.webp)
 
 ## 会場
 

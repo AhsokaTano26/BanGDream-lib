@@ -44,16 +44,16 @@ MyGO!!!!!
 ※全席指定となります。
 ※本公演では、会場側および関連部門の要請により、コンサートライトやサイリウムの持ち込みが禁止となっていることに伴い、
 ご来場の皆様に応援用のペンライト（電池式6カラー、非制御式）を配布いたします。
-![](/assets/bang-dream/blog/mygo_6th_shanghai/ff33fb3a3e2c6109.jpg)
+![](https://img.tano.asia/i/583b59af-15a0-43cb-a945-d88069ed6200.webp)
 
 ###### 座席イメージ図
 
-![](/assets/bang-dream/blog/mygo_6th_shanghai/0d3b048215d2727b.jpg)
+![](https://img.tano.asia/i/b0afa261-6389-46ad-b6b9-93f76e0f4125.webp)
 
 ###### グッズ付チケット特典
 
 特製Tシャツ
-![](/assets/bang-dream/blog/mygo_6th_shanghai/e93bb872e595b743.jpg)
+![](https://img.tano.asia/i/707aaac7-04d5-46f8-bbc8-eb57d362e106.webp)
 
 ### 販売情報
 

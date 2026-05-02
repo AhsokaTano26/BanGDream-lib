@@ -1,0 +1,125 @@
+Image download failures:
+- news/2299 (https://bang-dream.com/news/2299/)
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/5781c081-11f4-43cc-9c3e-77b9d9b8f0cc.png [404]
+- news/2255 (https://bang-dream.com/news/2255/)
+  - https://bang-dream.com/2025/renew/da9fe967-b33b-4313-862a-e1069ebfd7f4.png [404]
+- news/1832 (https://bang-dream.com/news/1832/)
+  - https://bang-dream.com/2025/renew/142ced67-9cdb-4813-96e5-c68f6e1f918d.png [HTTPSConnectionPool(host='bang-dream.com', port=443): Max retries exceeded with url: /2025/renew/142ced67-9cdb-4813-96e5-c68f6e1f918d.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))]
+- news/1719 (https://bang-dream.com/news/1719/)
+  - https://bang-dream.com/2025/renew/da531920-e534-4dee-8536-57ca51a47bdd.png [HTTPSConnectionPool(host='bang-dream.com', port=443): Max retries exceeded with url: /2025/renew/da531920-e534-4dee-8536-57ca51a47bdd.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))]
+- news/1674 (https://bang-dream.com/news/1674/)
+  - https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/99c999c0-badf-4d09-b2ea-b5180a6f4613.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/c2fefbc3-37d5-4b2b-9ea4-a1ecde6383b9.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/25e9fc15-25b1-4180-8ad7-2d15561c6c36.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/4ef1c19d-c410-421b-9348-64f41e372204.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/2abbdacd-d6ce-4d0b-b843-e3c2fb774815.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/87028d75-d72c-418f-a6c5-1896d79d4462.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/f9b02595-15db-4a2d-a88b-a410f9cbf135.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/95b7c8b5-2902-4a75-baeb-de50af9947e8.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/b82ef0bd-ca6f-4108-adf8-cf7ef20015d6.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/1e5360e3-8346-4387-b620-f048a7b057f7.jpg [404]
+- news/816 (https://bang-dream.com/news/816/)
+  - https://bang-dream.com/2025/renew/f55af836-7569-473f-807f-f7a29c1354c8.png [404]
+  - https://bang-dream.com/2025/renew/9fd1ee22-12ab-4274-90d9-7833821d6d11.png [404]
+- news/770 (https://bang-dream.com/news/770/)
+  - https://bang-dream.com/2025/renew/0c3ea9b9-1d86-4bb8-8f7e-7f6f96c65377.jpg [404]
+- news/754 (https://bang-dream.com/news/754/)
+  - https://bang-dream.com/files/4879 [404]
+  - https://bang-dream.com/files/4880 [404]
+- news/749 (https://bang-dream.com/news/749/)
+  - https://bang-dream.com/files/4761 [404]
+- news/748 (https://bang-dream.com/news/748/)
+  - https://bang-dream.com/files/4705 [404]
+  - https://bang-dream.com/files/4743 [404]
+  - https://bang-dream.com/files/4720 [404]
+  - https://bang-dream.com/files/4707 [404]
+  - https://bang-dream.com/files/4744 [404]
+  - https://bang-dream.com/files/4745 [404]
+  - https://bang-dream.com/files/4709 [404]
+  - https://bang-dream.com/files/4712 [404]
+  - https://bang-dream.com/files/4746 [404]
+  - https://bang-dream.com/files/4747 [404]
+  - https://bang-dream.com/files/4748 [404]
+  - https://bang-dream.com/files/4749 [404]
+  - https://bang-dream.com/files/4750 [404]
+  - https://bang-dream.com/files/4723 [404]
+  - https://bang-dream.com/files/4751 [404]
+  - https://bang-dream.com/files/4752 [404]
+  - https://bang-dream.com/files/4753 [404]
+- news/740 (https://bang-dream.com/news/740/)
+  - https://bang-dream.com/files/4711 [404]
+- news/739 (https://bang-dream.com/news/739/)
+  - https://bang-dream.com/files/4708 [404]
+- news/725 (https://bang-dream.com/news/725/)
+  - https://bang-dream.com/files/4589 [404]
+  - https://bang-dream.com/files/4590 [404]
+  - https://bang-dream.com/files/4591 [404]
+- news/709 (https://bang-dream.com/news/709/)
+  - https://bang-dream.com/files/4379 [404]
+- news/708 (https://bang-dream.com/news/708/)
+  - https://bang-dream.com/files/4399 [404]
+- news/704 (https://bang-dream.com/news/704/)
+  - https://bang-dream.com/files/4713 [404]
+  - https://bang-dream.com/files/4715 [404]
+  - https://bang-dream.com/files/4719 [404]
+- news/703 (https://bang-dream.com/news/703/)
+  - https://bang-dream.com/files/4345 [404]
+  - https://bang-dream.com/files/4367 [404]
+- news/694 (https://bang-dream.com/news/694/)
+  - https://bang-dream.com/files/4375 [404]
+- news/683 (https://bang-dream.com/news/683/)
+  - https://bang-dream.com/files/4142 [404]
+- news/682 (https://bang-dream.com/news/682/)
+  - https://bang-dream.com/files/4121 [404]
+- news/664 (https://bang-dream.com/news/664/)
+  - https://bang-dream.com/files/2435 [404]
+- news/650 (https://bang-dream.com/news/650/)
+  - https://bdp-stg.bang-dream.com/files/3038 [HTTPSConnectionPool(host='bdp-stg.bang-dream.com', port=443): Max retries exceeded with url: /files/3038 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))]
+- news/447 (https://bang-dream.com/news/447/)
+  - https://bang-dream.com/2025/renew/0919d862-7ea4-4b2a-a556-fe2147b0806a.jpg [404]
+- blog/xmas2019 (https://bang-dream.com/events/xmas2019/)
+  - https://bang-dream.com/files/4355 [404]
+  - https://bang-dream.com/files/4356 [404]
+  - https://bang-dream.com/files/4357 [404]
+  - https://bang-dream.com/files/4358 [404]
+  - https://bang-dream.com/files/4359 [404]
+  - https://bang-dream.com/files/4360 [404]
+  - https://bang-dream.com/files/4361 [404]
+  - https://bang-dream.com/files/4362 [404]
+  - https://bang-dream.com/files/4363 [404]
+  - https://bang-dream.com/files/4364 [404]
+  - https://bang-dream.com/files/4365 [404]
+- blog/rsl-nagoya (https://bang-dream.com/events/rsl-nagoya/)
+  - https://bang-dream.com/files/4918 [404]
+  - https://bang-dream.com/files/4824 [404]
+  - https://bang-dream.com/files/4822 [404]
+  - https://bang-dream.com/files/4825 [404]
+  - https://bang-dream.com/files/4827 [404]
+  - https://bang-dream.com/files/4821 [404]
+  - https://bang-dream.com/files/4828 [404]
+  - https://bang-dream.com/files/4826 [404]
+  - https://bang-dream.com/files/4820 [404]
+- blog/rsl-tokyo (https://bang-dream.com/events/rsl-tokyo/)
+  - https://bang-dream.com/files/4823 [404]
+- discographies/4188 (https://bang-dream.com/discographies/4188/)
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/aa418ebd-b06c-4b52-b031-31b7e03ef000.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/111dbde1-9e47-42d2-904f-284f920687fe.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/5afce561-c17f-428d-adc0-ccfe04506c49.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/aa48d864-e05d-416e-a296-e41fae2661f1.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/5737f880-8df2-40b1-90c6-e8fd6aa2eb0f.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/fba9e80b-2c14-46dc-baad-4a6a49ec60fd.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/5ed2762b-2236-48d4-9387-73ed13509444.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/40525cfd-e0f8-4b34-b351-47bcebd7c123.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/8bea7e06-9121-4828-bb17-f42e6f0c6c9b.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/59147659-410a-4026-aae3-14e042786258.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/818c0cb5-487b-4a95-94ad-bb1182615cd4.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/43104f28-0082-4a12-b50b-797c80ea0554.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/fd872210-73e2-40ee-92fa-0b8345fdb865.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/9f23ba12-a970-4277-8f64-266a6df979a4.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/fd9e211e-f396-4022-8d1c-160d9374d126.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/422176d7-12df-45c4-8bfa-6e1669f1b85d.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/2eb77672-0ca4-4584-9551-0de8f4caae6c.jpg [404]
+  - https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/a1e4e51b-6c3d-49e0-b0a5-797a7d869505.jpg [404]
+- discographies/3859 (https://bang-dream.com/discographies/3859/)
+  - https://bang-dream.com/2025/renew/9209682e-f4a9-4320-a765-613974078edb.jpg [404]
+  - https://bang-dream.com/2025/renew/a2ed0fd5-7c25-4ac7-9262-07121c2980b7.jpg [404]

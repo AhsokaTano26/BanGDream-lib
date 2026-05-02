@@ -252,7 +252,7 @@ PIA LIVE STREAM サービス利用規約は[こちら](https://image.pia.jp/uplo
 
 こちらの新商品につきましては、店頭および通販にて販売をいたします。
 
-![](/assets/bang-dream/blog/ruc_asharmo/46428bd71f2b983d.jpg)
+![](https://img.tano.asia/i/12726765-7eef-43d6-9a30-6b1d088ae179.webp)
 
 SOLD OUT
 
@@ -260,7 +260,7 @@ SOLD OUT
 
 イベント価格: PACK500円／BOX3,000円 (税込)
 
-![](/assets/bang-dream/blog/ruc_asharmo/72abe333251f24aa.jpg)
+![](https://img.tano.asia/i/a49b066e-a40e-4e2b-acb0-ffaf7b62f4eb.webp)
 
 SOLD OUT
 
@@ -268,7 +268,7 @@ SOLD OUT
 
 イベント価格: 各1,500円 (税込)
 
-[![](/assets/bang-dream/blog/ruc_asharmo/99245bcde21928db.jpg)](https://bang-dream.com/2025/renew/c2134263-affa-4a8e-9a84-5a70f4acdaca.jpg)
+[![](https://img.tano.asia/i/15fe5ad0-c526-451b-bdb0-6523a8af7a8c.webp)](https://bang-dream.com/2025/renew/c2134263-affa-4a8e-9a84-5a70f4acdaca.jpg)
 
 SOLD OUT
 
@@ -276,7 +276,7 @@ SOLD OUT
 
 イベント価格: 各800円 (税込)
 
-![](/assets/bang-dream/blog/ruc_asharmo/d3d2d208162941a9.jpg)
+![](https://img.tano.asia/i/1edc0faa-b9db-47e2-a7b0-89b8a306288e.webp)
 
 SOLD OUT
 
@@ -294,7 +294,7 @@ A4クリアファイル
 
 ###### 通販情報
 
-![](/assets/bang-dream/blog/ruc_asharmo/14ee64bd98ca2316.jpg)
+![](https://img.tano.asia/i/750d576a-7965-4dcb-a4d2-326a1c11fe5c.webp)
 
 販売サイト：ブシロード EC SHOP
 通販期間：1月8日(金)13:00～1月20日( 水)23:59

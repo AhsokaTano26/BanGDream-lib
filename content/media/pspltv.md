@@ -15,7 +15,7 @@ Media
 
 # Pastel＊PalettesのしゅわりんTV
 
-![](/assets/bang-dream/media/pspltv/c6c3ca7f90649652.jpg)
+![](https://img.tano.asia/i/fa7ea086-4dc2-48be-ae94-09957a4358d1.webp)
 
 ## 番組情報
 

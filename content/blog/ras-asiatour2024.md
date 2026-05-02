@@ -15,10 +15,10 @@ url: "https://bang-dream.com/events/ras-asiatour2024/"
 
 ・RAISE A SUILEN ASIA TOUR 2024 IN TAIPEI
 
-![](/assets/bang-dream/blog/ras-asiatour2024/101797d88c4ae396.jpg)
+![](https://img.tano.asia/i/df1a4e8c-a091-4bb6-9d2e-2e66dd08d36d.webp)
 
 ・RAISE A SUILEN ASIA TOUR 2024 IN SHANGHAI
-![](/assets/bang-dream/blog/ras-asiatour2024/7638153f54f433ea.png)
+![](https://img.tano.asia/i/74e49dd1-d5ef-4f0f-a693-411be5c29d7f.webp)
 
 ## 日程・会場
 

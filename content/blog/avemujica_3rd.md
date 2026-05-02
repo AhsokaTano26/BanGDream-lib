@@ -69,11 +69,11 @@ B席 (当日券) ：￥11,000(税込)
 ###### グッズ付きチケット特典
 
 特製ブランケット
-![](/assets/bang-dream/blog/avemujica_3rd/0af11e8ffda696af.jpg)
+![](https://img.tano.asia/i/5d30d5d3-74db-4db5-b7da-c0f077526878.webp)
 
 #### 会場座席イメージ
 
-![](/assets/bang-dream/blog/avemujica_3rd/4ed5d8453b48e319.jpg)
+![](https://img.tano.asia/i/e3af35b7-0d1f-4554-b27d-62aeba469db6.webp)
 
 ### 販売情報
 
@@ -168,7 +168,7 @@ URL：[https://ib.eplus.jp/poppin_party_2024_st/](https://ib.eplus.jp/poppin_par
 
 ### 販売商品一覧
 
-[![](/assets/bang-dream/blog/avemujica_3rd/e28d8558748afc6e.png)](https://bang-dream.com/2025/renew/bfb170c5-f891-4866-b1c7-97bee2e80940.png)[![](/assets/bang-dream/blog/avemujica_3rd/0be2f9291455bc6c.png)](https://bang-dream.com/2025/renew/40868b10-231f-4f30-80a0-8c9758e4f43b.png)
+[![](https://img.tano.asia/i/23b239f6-0f50-405e-b37f-6be62bc521ae.webp)](https://bang-dream.com/2025/renew/bfb170c5-f891-4866-b1c7-97bee2e80940.png)[![](https://img.tano.asia/i/1d85212c-ef7c-44e8-af09-9cea6ea62031.webp)](https://bang-dream.com/2025/renew/40868b10-231f-4f30-80a0-8c9758e4f43b.png)
 
 ###### 販売場所
 
@@ -186,7 +186,7 @@ URL：[https://ib.eplus.jp/poppin_party_2024_st/](https://ib.eplus.jp/poppin_par
 
 1 会計で5,000 円(税込)ごとのご購入で「特典イラストカード(全5種)」を1個プレゼントいたします。
 
-![](/assets/bang-dream/blog/avemujica_3rd/d5c4f794c088f8c6.jpg)
+![](https://img.tano.asia/i/de384912-8b7f-4fd2-bd6f-ed97b0c25101.webp)
 
 例)10,000 円(税込)ご購入の場合→2個プレゼント
 ※特典はなくなり次第終了となりますので予めご了承ください。
@@ -296,20 +296,20 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 
 新日本プロテインとのコラボ商品、各種プロテインバーを販売いたします。
 
-![](/assets/bang-dream/blog/avemujica_3rd/46b75721d7b354c7.png)
+![](https://img.tano.asia/i/09c1e63e-2141-4c4c-9d11-4813189ae928.webp)
 
-![](/assets/bang-dream/blog/avemujica_3rd/2afd2a08d837a1d6.png)
+![](https://img.tano.asia/i/942550e3-a100-4518-979b-bf5fa08cf39d.webp)
 
 ＜会場ブース限定ボックス購入特典＞
 会場ブースで販売中のプロテインバーをボックスでご購入の方にプレゼントいたします。
 1ボックス購入ごと：ライブKV ポストカード
 2ボックス購入ごと：ライブKV A2ポスター
 
-![](/assets/bang-dream/blog/avemujica_3rd/b688522e04707d0f.png)
+![](https://img.tano.asia/i/20bce609-eee7-47bb-9c36-226484bdd4fc.webp)
 
 ## グッズ通販
 
-![](/assets/bang-dream/blog/avemujica_3rd/8161f183d7be571d.jpg)
+![](https://img.tano.asia/i/9d367f56-1815-4715-910f-d2d4d536b90a.webp)
 
 Ave Mujica 3rd LIVE「Veritas」にて販売するライブグッズの先行通販を実施いたします！
 また、今回は「河口湖ステラシアター」にて商品が受け取れる「現地受取サービス」も実施！
@@ -328,7 +328,7 @@ Ave Mujica 3rd LIVE「Veritas」にて販売するライブグッズの先行通
 
 ブシロード オンラインストアにて対象商品を5,000円購入で「特典イラストカード(全5種)」をプレゼント！
 
-![](/assets/bang-dream/blog/avemujica_3rd/ecd5849f3996a67f.jpg)
+![](https://img.tano.asia/i/de384912-8b7f-4fd2-bd6f-ed97b0c25101.webp)
 
 (詳細：[https://bushiroad-store.com/pages/avemujica_3rd](https://bushiroad-store.com/pages/avemujica_3rd))
 
@@ -336,7 +336,7 @@ Ave Mujica 3rd LIVE「Veritas」にて販売するライブグッズの先行通
 
 2024年10月13日(日)開催のAve Mujica 3rd LIVE「Veritas」会場購入特典が決定！
 
-![](/assets/bang-dream/blog/avemujica_3rd/1bbc7aa6b95abb66.jpg)
+![](https://img.tano.asia/i/4e99252e-f08e-4158-9bc4-6b48d9069fb2.webp)
 
 BanG Dream!関連商品(CD,Blu-ray 商品)を会場にて 2,000 円(税込)ご購入ごとに「”Veritas”招待状風カード(全5種)」をランダムで1枚プレゼントいたします。
 さらに！ BanG Dream!関連商品(CD,Blu-ray商品)2,000円(税込)ご購入ごとに1回、
@@ -453,11 +453,11 @@ Ave Mujicaメンバー全員の直筆サイン入り「Ave Mujica ミニAlbum『
 ただし、近隣の施設をご利⽤になる⽅もご使⽤になる駐⾞場のため、満⾞の場合は他の駐⾞場をご利⽤ください。
 尚、主催・会場・運営では駐⾞場の空き状況の確認や予約等のご対応はできかねますので、予めご了承ください。
 
-![](/assets/bang-dream/blog/avemujica_3rd/32228e003cf26756.jpg)
+![](https://img.tano.asia/i/8ebf6146-c202-4413-95ef-265e9b8a418e.webp)
 
 ## アクセスバスツアー（受付終了）
 
-![](/assets/bang-dream/news/1912/8dc8ed17a4ebf0e4.jpg)
+![](https://img.tano.asia/i/c1aa8f87-ba00-44a9-bc13-3e5ba1ff9442.webp)
 
 10月12日(土)～14日(月･祝)に河口湖ステラシアターで開催される3公演にて、
 新宿駅と会場の河口湖ステラシアターをダイレクトに結ぶバスツアーの実施が決定しました！

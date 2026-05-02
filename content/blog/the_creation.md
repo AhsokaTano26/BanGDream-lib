@@ -102,9 +102,9 @@ RAISE A SUILEN
 
 ###### 新商品ラインナップ
 
-![](/assets/bang-dream/blog/the_creation/05fc6f8e926874bc.jpg)
+![](https://img.tano.asia/i/b0459c1b-908c-4fb6-a0ca-f77b296ec03f.webp)
 
-![](/assets/bang-dream/blog/the_creation/92318cb661e66456.jpg)
+![](https://img.tano.asia/i/aed88d39-496d-4519-a856-7efdce6ff90a.webp)
 
 【グッズ販売についてのご案内】
 
@@ -157,7 +157,7 @@ RAISE A SUILEN
 
 ライブ会場にて販売されるグッズをブシロード EC SHOPでも期間限定で通販いたします。
 
-![](/assets/bang-dream/blog/the_creation/3e429da58140de53.jpg)
+![](https://img.tano.asia/i/e92e78f4-6210-418b-b000-7d8bd259f38d.webp)
 
 通販期間：2020年1月10日(金)15時～1月22日(水) 13時まで
 発送時期：2020年2月中旬予定
@@ -172,7 +172,7 @@ RAISE A SUILEN
 貴重なRAISE A SUILEN 関連の機材も数量限定で販売・ご予約受付をしてます。
 ※各種クレジットカード・分割ショッピングクレジットも可能、 PayPayもご利用頂けます。
 
-![](/assets/bang-dream/blog/the_creation/05540af2a8638880.JPG)
+![](https://img.tano.asia/i/71b134fc-89a0-4f30-a5c1-807cb3cdf57c.webp)
 
 ## 公演に関する注意事項
 

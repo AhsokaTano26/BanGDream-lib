@@ -21,11 +21,11 @@ rockin'on presents JAPAN JAM 2023
 
 ###### 5月4日(木・祝) 12:15よりRoseliaが出演！
 
-![](/assets/bang-dream/blog/asl2023/35622a64a7ccaf91.png)
+![](https://img.tano.asia/i/d8770c5f-ee77-49e3-908b-daa34574fe4f.webp)
 
 ## タイムテーブル
 
-[![](/assets/bang-dream/blog/japanjam2023/a328d80beee6cc32.png)](https://bang-dream.com/2025/renew/f3642a1d-c1f1-4aa4-9755-e2fbafd13b61.png)
+[![](https://img.tano.asia/i/dab26dd4-6e0d-4670-9127-6e78f7ff3389.webp)](https://bang-dream.com/2025/renew/f3642a1d-c1f1-4aa4-9755-e2fbafd13b61.png)
 
 ## 会場
 

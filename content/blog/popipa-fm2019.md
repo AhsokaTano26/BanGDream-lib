@@ -9,7 +9,7 @@ org: ["ppp"]
 url: "https://bang-dream.com/events/popipa-fm2019/"
 ---
 
-![](/assets/bang-dream/blog/popipa-fm2019/3cb1d60c1bb3624d.jpg)
+![](https://img.tano.asia/i/fdf67677-0a46-4b3c-bdfe-3e0a5769d080.webp)
 
 Poppin'Partyが日本全国5箇所でファンミーティングツアーを開催！大好評だった第1回目のファンミーティングから2年、今回はPoppin’Partyメンバーが各地の皆さんへ会いに行きます！！
 
@@ -131,9 +131,9 @@ Poppin'Party 14th Single「Dreamers Go!/Returns」 品番：BRMM-10190/10191
 
 [https://bang-dream.com/news/656](https://bang-dream.com/news/656)
 
-![](/assets/bang-dream/blog/popipa-fm2019/0ff31d34d6f478a3.jpg)
+![](https://img.tano.asia/i/9d870f14-6fd5-41d7-a34b-bfc0102d77f6.webp)
 
-![](/assets/bang-dream/blog/popipa-fm2019/4366d906f805f731.jpg)
+![](https://img.tano.asia/i/2b5bf1f6-e454-4ab9-bc3a-82e14c689c11.webp)
 
 ###### ご購入制限
 
@@ -183,7 +183,7 @@ Poppin'Party 14th Single「Dreamers Go!/Returns」 品番：BRMM-10190/10191
 
 ## 通販情報
 
-![](/assets/bang-dream/blog/popipa-fm2019/bc723ebbd5a5c97c.png)
+![](https://img.tano.asia/i/10b0665b-f4f2-4a69-a983-88bd8e99dc91.webp)
 
 会場にて販売の一部グッズを期間限定で事後通販決定！
 ぜひこの機会をご利用ください♪

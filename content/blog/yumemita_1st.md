@@ -56,7 +56,7 @@ url: "https://bang-dream.com/events/yumemita_1st/"
 
 ## 一部無料配信
 
-![](/assets/bang-dream/blog/yumemita_1st/7f7abdd8828352f9.jpg)
+![](https://img.tano.asia/i/50c64313-a482-433a-85d1-55509ad47479.webp)
 
 ライブの一部無料配信が決定！
 当日19:00頃より、1曲分の配信を予定しています。
@@ -113,7 +113,7 @@ url: "https://bang-dream.com/events/yumemita_1st/"
 
 ## グッズ通販
 
-![](/assets/bang-dream/blog/yumemita_1st/1720be85ddbab488.jpg)
+![](https://img.tano.asia/i/2589863c-efec-41c8-9d19-75613c547ecb.webp)
 
 夢限大みゅーたいぷ 1st LIVE「めたもるふぉーぜ」にて販売する新商品の先行通販を実施いたします。
 

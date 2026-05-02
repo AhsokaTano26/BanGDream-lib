@@ -60,7 +60,7 @@ MyGO!!!!!
 9月10日(土）17:00（予定）～ 18:00まで
 ※ライブチケットをお持ちのお客様のみへの販売となります。
 
-[![](/assets/bang-dream/blog/mygo_2nd/5c0cd02a1b34bda9.jpg)](https://bang-dream.com/2025/renew/f37499e1-a0ff-48c8-973f-9ff1282d6581.jpg)
+[![](https://img.tano.asia/i/5c13196c-b201-41af-86d6-4df7b022ce8c.webp)](https://bang-dream.com/2025/renew/f37499e1-a0ff-48c8-973f-9ff1282d6581.jpg)
 
 #### 購入制限について
 

@@ -7,38 +7,38 @@ org: ["mygo"]
 url: "https://bang-dream.com/artist/ikka-dumb-rock/"
 founded: ""
 theme:
-  logo: "/assets/bang-dream/orgs/907d36544d1fd5a2.webp"
+  logo: "/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp"
   bgImage: null
 ---
 
-- [![Poppin'Party](/assets/bang-dream/orgs/907d36544d1fd5a2.webp)](../poppinparty/)
-- [![Afterglow](/assets/bang-dream/orgs/millsage/e3e3a1eb15acd915.webp)](../afterglow/)
-- [![Pastel＊Palettes](/assets/bang-dream/orgs/millsage/0a7a4521c4ea1b22.webp)](../pastel-palettes/)
-- [![Roselia](/assets/bang-dream/orgs/millsage/832bd81e35074721.webp)](../roselia/)
-- [![ハロー、ハッピーワールド！](/assets/bang-dream/orgs/millsage/4b3826e28b44d51b.webp)](../hello-happy-world/)
-- [![Morfonica](/assets/bang-dream/orgs/millsage/880e1d7a957998f0.webp)](../morfonica/)
-- [![RAISE A SUILEN](/assets/bang-dream/orgs/millsage/8b6540460ac2e89b.webp)](../raise-a-suilen/)
-- [![MyGO!!!!!](/assets/bang-dream/orgs/millsage/3263d5f78c158d55.webp)](../mygo/)
-- [![Ave Mujica](/assets/bang-dream/orgs/millsage/f8d6ad9314311659.webp)](../avemujica/)
-- [![夢限大みゅーたいぷ](/assets/bang-dream/orgs/millsage/dcb51ffcdee4223d.webp)](../yumemita/)
-- [![millsage](/assets/bang-dream/orgs/millsage/4794d6387f8c17c5.webp)](../millsage/)
-- [![一家Dumb Rock!](/assets/bang-dream/orgs/millsage/901650783d670d0f.webp)](../ikka-dumb-rock/)
+- [![Poppin'Party](https://img.tano.asia/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp)](../poppinparty/)
+- [![Afterglow](https://img.tano.asia/i/5bfa0d15-936f-4346-b271-f6eebd1da036.webp)](../afterglow/)
+- [![Pastel＊Palettes](https://img.tano.asia/i/476d822b-08e7-414e-88de-3363ba24ee17.webp)](../pastel-palettes/)
+- [![Roselia](https://img.tano.asia/i/b3b5fbfa-694e-4486-85eb-017142068dbf.webp)](../roselia/)
+- [![ハロー、ハッピーワールド！](https://img.tano.asia/i/9beffcbe-cc63-4610-bb55-604f5f7fac24.webp)](../hello-happy-world/)
+- [![Morfonica](https://img.tano.asia/i/5a28d546-00e3-4359-bc5c-465925f2b8c5.webp)](../morfonica/)
+- [![RAISE A SUILEN](https://img.tano.asia/i/babc0c29-c6d7-4f6d-8ffc-d654e12cee36.webp)](../raise-a-suilen/)
+- [![MyGO!!!!!](https://img.tano.asia/i/4aa70886-bc22-405a-84b4-9127e5363b12.webp)](../mygo/)
+- [![Ave Mujica](https://img.tano.asia/i/a96460ab-474c-49dd-aa02-0b8508792c2e.webp)](../avemujica/)
+- [![夢限大みゅーたいぷ](https://img.tano.asia/i/ca3cc24d-b6d9-4037-921c-9291508af7b8.webp)](../yumemita/)
+- [![millsage](https://img.tano.asia/i/3ee0a957-5be9-440f-be0b-811cb5a3f92d.webp)](../millsage/)
+- [![一家Dumb Rock!](https://img.tano.asia/i/59fb500c-1f42-42fb-bb67-d1d6c3627b95.webp)](../ikka-dumb-rock/)
 
-![一家Dumb Rock!](/assets/bang-dream/orgs/ikka-dumb-rock/eacef6003eae8358.webp)
+![一家Dumb Rock!](https://img.tano.asia/i/c73a0129-a158-4432-9eed-54c887839eef.webp)
 
 いっかだんらん
 
-[![矢倉 蓬咲](/assets/bang-dream/orgs/ikka-dumb-rock/1d1536f779e83b03.webp)
+[![矢倉 蓬咲](https://img.tano.asia/i/e7ca00fb-73fa-447b-b5ef-0415cb1c2c52.webp)
 
-矢倉 蓬咲矢倉 蓬咲](https://bang-dream.com/artist/ikka-dumb-rock/yakura-yomogi/)[![梅里 ちえり](/assets/bang-dream/orgs/ikka-dumb-rock/de94376ee9717798.webp)
+矢倉 蓬咲矢倉 蓬咲](https://bang-dream.com/artist/ikka-dumb-rock/yakura-yomogi/)[![梅里 ちえり](https://img.tano.asia/i/b6a63ea2-17b3-4a1b-a673-c820ee2fc7d2.webp)
 
-梅里 ちえり梅里 ちえり](https://bang-dream.com/artist/ikka-dumb-rock/umezato-chieri/)[![須賀 蕾叶](/assets/bang-dream/orgs/ikka-dumb-rock/485c5e12f3a77da5.webp)
+梅里 ちえり梅里 ちえり](https://bang-dream.com/artist/ikka-dumb-rock/umezato-chieri/)[![須賀 蕾叶](https://img.tano.asia/i/c07dacaf-d1ff-4779-829d-91b1e163b270.webp)
 
 須賀 蕾叶橘めい
 
-CV.橘めい須賀 蕾叶役](https://bang-dream.com/artist/ikka-dumb-rock/suga-raika/)[![四宮 寧月](/assets/bang-dream/orgs/ikka-dumb-rock/d34c70cb20926700.webp)
+CV.橘めい須賀 蕾叶役](https://bang-dream.com/artist/ikka-dumb-rock/suga-raika/)[![四宮 寧月](https://img.tano.asia/i/546e2b88-1d96-446d-9e96-96f25917dc5e.webp)
 
-四宮 寧月四宮 寧月](https://bang-dream.com/artist/ikka-dumb-rock/shinomiya-shizuku/)[![馬橋 心玖](/assets/bang-dream/orgs/ikka-dumb-rock/7dd25c72758ca20e.webp)
+四宮 寧月四宮 寧月](https://bang-dream.com/artist/ikka-dumb-rock/shinomiya-shizuku/)[![馬橋 心玖](https://img.tano.asia/i/75e35ed7-0cd2-4484-b87c-8849aa10d72e.webp)
 
 馬橋 心玖涼泉桜花
 
@@ -50,7 +50,7 @@ CV.涼泉桜花馬橋 心玖役](https://bang-dream.com/artist/ikka-dumb-rock/ma
 
 ## Discography
 
-- [![一家Dumb Rock!「ホーミー・タイッ！！」](/assets/bang-dream/orgs/ikka-dumb-rock/5e53bfac8d0cd5d6.jpg)
+- [![一家Dumb Rock!「ホーミー・タイッ！！」](https://img.tano.asia/i/d0520db1-748d-4750-afa4-28efb70270ca.webp)
   
   一家Dumb Rock!「ホーミー・タイッ！！」
   
@@ -60,7 +60,7 @@ CV.涼泉桜花馬橋 心玖役](https://bang-dream.com/artist/ikka-dumb-rock/ma
 
 ## Live•Event
 
-- [![夢限大みゅーたいぷ 47都道府県制覇の旅「スーパーポジション 〜スピンアップ編〜」東京公演](/assets/bang-dream/orgs/millsage/7d4c8eb37f8aa867.png)
+- [![夢限大みゅーたいぷ 47都道府県制覇の旅「スーパーポジション 〜スピンアップ編〜」東京公演](https://img.tano.asia/i/b6fa6b8b-7095-4f3a-ae1e-fb31a48aebb3.webp)
   
   夢限大みゅーたいぷ 47都道府県制覇の旅「スーパーポジション 〜スピンアップ編〜」東京公演
   
@@ -73,7 +73,7 @@ CV.涼泉桜花馬橋 心玖役](https://bang-dream.com/artist/ikka-dumb-rock/ma
   ## 場所
   
   SGC HALL ARIAKE](https://bang-dream.com/yumemita_superposition_spinup_tokyo)
-- [![MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」](/assets/bang-dream/orgs/millsage/b9eb625c1d1e39c4.png)
+- [![MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」](https://img.tano.asia/i/b3f3f8cc-e080-43ce-a9ea-ef1f08192e3b.webp)
   
   MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」
   

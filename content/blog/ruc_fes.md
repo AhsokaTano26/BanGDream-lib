@@ -30,13 +30,13 @@ Roselia×RAISE A SUILEN合同ライブ「Rausch und/and Craziness」前日祭、
 
 ###### 「Rausch und/and Craziness」超巨大シャドウボックス
 
-![](/assets/bang-dream/blog/ruc_fes/f89f604e66928045.jpg)
+![](https://img.tano.asia/i/9c7861c3-c269-467e-9511-26b39e5dde04.webp)
 
 本公演のKVイラストを用いた過去最大級の大きさのシャドウボックスを展示予定！
 
 ###### 等身大アクリルスタンディポップ
 
-![](/assets/bang-dream/blog/ruc_fes/84a2a1e8acc4fd7b.jpg)
+![](https://img.tano.asia/i/a5cce8f6-636a-46ca-817b-68485bf22104.webp)
 
 ボーカルメンバー5人の等身大アクリルスタンディポップを展示！
 高級感溢れるアクリル素材のスタンディポップは必見です！
@@ -45,7 +45,7 @@ Roselia×RAISE A SUILEN合同ライブ「Rausch und/and Craziness」前日祭、
 
 ###### ガルパ2019KVキャラスタンディポップ
 
-![](/assets/bang-dream/blog/ruc_fes/5a2345a7dd40935e.JPG)
+![](https://img.tano.asia/i/048fbed8-c014-49de-84d5-0e7036872fb3.webp)
 
 ガルパメンバー総勢25人の等身大スタンディポップを展示！
 25名が一気に並んだ景色は圧巻！
@@ -54,7 +54,7 @@ Roselia×RAISE A SUILEN合同ライブ「Rausch und/and Craziness」前日祭、
 
 ###### ミッシェルをさがせ！
 
-![](/assets/bang-dream/blog/ruc_fes/f50b450bfd6c1a4d.png)
+![](https://img.tano.asia/i/042b995f-57f1-4f3d-bc03-ae3f43eb11a0.webp)
 
 もしかしたらライブを応援しに来たミッシェルに会えるかも？！
 見つけたら写真を撮って【#ミッシェルを探せ】【#ラウクレミッシェル】でシェアしてね☆
@@ -66,13 +66,13 @@ Roselia×RAISE A SUILEN合同ライブ「Rausch und/and Craziness」前日祭、
 商品一覧でご紹介していない過去のイベントグッズも多数販売いたします！！
 ぜひ会場へお越しください。
 
-[![](/assets/bang-dream/blog/ruc_fes/095064441dcc07e3.jpg)](https://bang-dream.com/2025/renew/8cd24cb4-e9b3-4c08-b957-dcec350f561a.jpg)
+[![](https://img.tano.asia/i/35fcf58d-5f0a-410c-beba-63792e89b006.webp)](https://bang-dream.com/2025/renew/8cd24cb4-e9b3-4c08-b957-dcec350f561a.jpg)
 
-[![](/assets/bang-dream/blog/ruc_fes/9ebeaf4771b1c9c4.jpg)](https://bang-dream.com/2025/renew/db1a45ce-4198-4b17-bcc5-24af1e7abb51.jpg)
+[![](https://img.tano.asia/i/12b8a79a-3453-482e-9b3c-c8107b44654a.webp)](https://bang-dream.com/2025/renew/db1a45ce-4198-4b17-bcc5-24af1e7abb51.jpg)
 
-[![](/assets/bang-dream/blog/ruc_fes/1a499fcdbdce8553.jpg)](https://bang-dream.com/2025/renew/2635c515-86c8-4eda-a25a-b22b53d99d9f.jpg)
+[![](https://img.tano.asia/i/cdf051d8-48cf-459f-a21c-ecb2374800dc.webp)](https://bang-dream.com/2025/renew/2635c515-86c8-4eda-a25a-b22b53d99d9f.jpg)
 
-[![](/assets/bang-dream/blog/ruc_fes/69c43e3c8c2327f3.jpg)](https://bang-dream.com/2025/renew/4f1b68b3-a4a5-40f5-81be-8aac97377d1d.jpg)
+[![](https://img.tano.asia/i/b0ef50ab-559f-45f4-9917-918ca7d801d2.webp)](https://bang-dream.com/2025/renew/4f1b68b3-a4a5-40f5-81be-8aac97377d1d.jpg)
 
 ###### 注意事項
 
@@ -139,7 +139,7 @@ Roselia×RAISE A SUILEN合同ライブ「Rausch und/and Craziness」前日祭、
 
 ### ESPブース
 
-[![](/assets/bang-dream/blog/ruc_fes/bccc26c81c34da14.jpg)](https://espguitars.co.jp/)
+[![](https://img.tano.asia/i/53398ab8-ed3c-4b31-87ef-e1f72a5c104d.webp)](https://espguitars.co.jp/)
 
 楽器メーカーESPの販売ブースです。
 ギター･ベースをはじめ、関連商品の販売を行っております。
@@ -149,11 +149,11 @@ Roselia×RAISE A SUILEN合同ライブ「Rausch und/and Craziness」前日祭、
 ※クレジットカード使用可
 ※PayPay使用可
 
-[![](/assets/bang-dream/blog/roselia_rausch/4bcb09e512a0d10d.jpg)](https://bang-dream.com/2025/renew/64357eb3-8b49-4351-b0da-a3b54328a809.jpg)
+[![](https://img.tano.asia/i/e64911d1-9f34-4a05-88cb-2d597b274185.webp)](https://bang-dream.com/2025/renew/64357eb3-8b49-4351-b0da-a3b54328a809.jpg)
 
 ### ゲーマーズ出張所
 
-[![](/assets/bang-dream/blog/ras_craziness/8c40a15a3d5831f1.jpg)](https://www.gamers.co.jp/)
+[![](https://img.tano.asia/i/b431f9c8-b112-4423-8447-a607c945ae6e.webp)](https://www.gamers.co.jp/)
 
 CD、BDの販売・予約受付を行います。
 さらに会場特典もございますので、是非見に来てください♪
@@ -182,18 +182,18 @@ CD、BDの販売・予約受付を行います。
 
 ### クロサワ楽器店
 
-![](/assets/bang-dream/blog/ruc_fes/8510472c41238d58.png)
+![](https://img.tano.asia/i/f1473012-3822-47de-b21f-b0cd31b07b08.webp)
 
 当日はクロサワ楽器店による販売ブースがございます。
 ギター・ベースなどの楽器販売の他、アクセサリーやキャラグッズの販売を行います。
 貴重なRAISE A SUILEN 関連の機材も数量限定で販売・ご予約受付をしてます。
 ※各種クレジットカード・分割ショッピングクレジットも可能、PayPayもご利用頂けます。
 
-[![](/assets/bang-dream/blog/ruc_fes/034afae9a69a4a19.jpg)](https://bang-dream.com/2025/renew/c170841e-9ef9-41fd-9277-f6c94575e5ac.jpg)
+[![](https://img.tano.asia/i/43384643-3865-458c-b24a-a5e3505b8be6.webp)](https://bang-dream.com/2025/renew/c170841e-9ef9-41fd-9277-f6c94575e5ac.jpg)
 
 ### 月ブシおみやげ引換コーナー
 
-[![](/assets/bang-dream/blog/ruc_fes/1e20ee6900cf2ef3.png)](https://gekkan-bushi.com/)
+[![](https://img.tano.asia/i/bab3b61d-dc57-4079-ad68-7c891ba1d914.webp)](https://gekkan-bushi.com/)
 
 月ブシ最新2019年12月号の3ページにある「おみやげ引換券」を切り取って
 前日祭とライブ会場にあるおみやげ引換コーナーにお持ちいただくと、
@@ -201,7 +201,7 @@ CD、BDの販売・予約受付を行います。
 
 ### カプセルトイコーナー
 
-[![](/assets/bang-dream/blog/ruc_fes/6a761e02c908d278.jpg)](https://bushiroad-creative.com/)
+[![](https://img.tano.asia/i/22a97012-9b70-47fa-a478-ba27d8c0db23.webp)](https://bushiroad-creative.com/)
 
 Roselia×RAISE A SUILEN合同ライブ「Rausch und/and Craziness」
 ●商品情報
@@ -213,7 +213,7 @@ Roselia×RAISE A SUILEN合同ライブ「Rausch und/and Craziness」
 【販売価格】1回500円
 【種類】5種類
 
-![](/assets/bang-dream/blog/ruc_fes/db07aa08bd97a0fd.jpg)
+![](https://img.tano.asia/i/33132d99-67c8-4e81-ae5a-ee0701d9f121.webp)
 
 ###### カプセルトイコーナーのご案内
 
@@ -240,7 +240,7 @@ Roselia×RAISE A SUILEN合同ライブ「Rausch und/and Craziness」
 
 ### ヴァイスシュヴァルツブース
 
-[![](/assets/bang-dream/blog/ruc_fes/a23db4b5636b3c37.png)](https://ws-tcg.com/)
+[![](https://img.tano.asia/i/851e80e7-b00a-49cb-a573-0c6f0d4cac53.webp)](https://ws-tcg.com/)
 
 ###### あそびかた教室を開催！
 
@@ -249,7 +249,7 @@ Roselia×RAISE A SUILEN合同ライブ「Rausch und/and Craziness」
 
 当日は「ポピパ」のカードで遊べます♪
 
-![](/assets/bang-dream/blog/ruc_fes/91e0810cbd8c340f.jpeg)
+![](https://img.tano.asia/i/14d319c3-902a-4b82-81ac-410bd68adc1b.webp)
 
 ###### ラウクレ前日祭 物販エリアにて12月6日（金）発売のトライアルデッキ＋(プラス) BanG Dream!［RAISE A SUILEN］先行販売！
 
@@ -267,7 +267,7 @@ Roselia×RAISE A SUILEN合同ライブ「Rausch und/and Craziness」
 
 ### Reバースブース
 
-[![](/assets/bang-dream/blog/ruc_fes/2bbad632dcf2028b.png)](https://rebirth-fy.com/)
+[![](https://img.tano.asia/i/c41fc492-57d0-4b96-98b9-c5cc2b023c74.webp)](https://rebirth-fy.com/)
 
 ###### Reバース全国講習会600出張版/特別予約会を開催！
 
@@ -276,7 +276,7 @@ Roselia×RAISE A SUILEN合同ライブ「Rausch und/and Craziness」
 
 特別予約会では、普段の全国講習会600とは異なる以下3名の特別ゲストから直接PRカードをお渡しさせていただきます！
 
-![](/assets/bang-dream/blog/ruc_fes/72b1a4a86edf9d3c.jpg)
+![](https://img.tano.asia/i/a602b6fc-b822-4b64-a597-36be407f0de6.webp)
 
 ・Reバース・クルミ役の佐々木未来さん
 ・プロジェクト制作総指揮 木谷高明
@@ -309,7 +309,7 @@ PRカードと一緒にそれぞれの特製名刺もお渡ししちゃいます
 
 スターダムの木村花選手が乱入!?
 
-![](/assets/bang-dream/blog/ruc_fes/6333070d30fdf9ea.png)
+![](https://img.tano.asia/i/9e47dda6-ae79-4cf1-8a39-140ba406bcb8.webp)
 
 カードゲーム「ヴァイスシュヴァルツ」「Reバース」のブースに、スターダムの木村花選手が乱入するとの情報が入っています。
 木村選手とブシロードTCGの邂逅の行方ご期待ください！
@@ -321,7 +321,7 @@ PRカードと一緒にそれぞれの特製名刺もお渡ししちゃいます
 
 ###### ブシロードpresents 舞台「アサルトリリィ League of Gardens」チケット販売
 
-![](/assets/bang-dream/blog/ruc_fes/4daedc19bc2d6b83.jpg)
+![](https://img.tano.asia/i/ef4ee132-b8d2-4c5b-8b2a-bdfa9f348e73.webp)
 
 2020年1月9日(木)～15日(水)公演、ブシロードpresents 舞台「アサルトリリィ League of Gardens」の一部チケットを会場にて販売致します。数量限定となりますので、お求めの際はお早めに！
 
@@ -338,7 +338,7 @@ PRカードと一緒にそれぞれの特製名刺もお渡ししちゃいます
 
 ### ヴァンガードZEROブース
 
-![](/assets/bang-dream/blog/ruc_fes/e45d1beb6fdee719.png)
+![](https://img.tano.asia/i/2ff31b75-2fa3-406d-89be-cfdd8cdba360.webp)
 
 「ヴァンガード ZERO」ブース出展決定！
 

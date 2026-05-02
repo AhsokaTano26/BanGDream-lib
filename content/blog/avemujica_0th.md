@@ -75,7 +75,7 @@ Ave Mujica
 
 ## グッズ販売について
 
-[![](/assets/bang-dream/blog/avemujica_0th/a85252224ce8276c.jpg)](https://bang-dream.com/2025/renew/4bffec3c-4a5a-4422-b3ed-447f036f3c48.jpg)
+[![](https://img.tano.asia/i/23a8e689-a960-41ad-ad4c-d391e568b268.webp)](https://bang-dream.com/2025/renew/4bffec3c-4a5a-4422-b3ed-447f036f3c48.jpg)
 販売場所：中野サンプラザ
 販売日時：①先行物販 15:30～17:15
 ②開場中物販 17:30～18:30

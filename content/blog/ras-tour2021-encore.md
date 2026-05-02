@@ -47,7 +47,7 @@ VIP指定席（特典付き）：22,000(税込)
 ・公開リハーサル見学
 ・特製ラミネートパス
 
-![](/assets/bang-dream/blog/ras-tour2021-encore/92af65187b855604.jpg)
+![](https://img.tano.asia/i/4fcf27e3-f666-4909-9d93-8b2cc6c58d40.webp)
 
 ### 販売情報
 
@@ -88,7 +88,7 @@ VIP指定席（特典付き）：22,000(税込)
 
 ### グッズ一覧
 
-[![](/assets/bang-dream/blog/ras-tour2021-encore/1f4f7d3c4119419c.jpg)](https://bang-dream.com/2025/renew/334ed30e-3439-45d0-a19e-4f93de6d8b96.jpg)
+[![](https://img.tano.asia/i/8236302b-d129-4dbe-a48e-a5cb6b7876ad.webp)](https://bang-dream.com/2025/renew/334ed30e-3439-45d0-a19e-4f93de6d8b96.jpg)
 
 ### 販売情報
 
@@ -138,7 +138,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 整理券を確認させていただいた後に、物販会場へご入場いただけます。
 ※整理券は回収させていただきます。なくさないようご注意ください。
 
-![](/assets/bang-dream/blog/ras-tour2021-encore/7b9c24e7ba9d38e1.png)
+![](https://img.tano.asia/i/ac91bed4-9f83-403c-8a00-d0f4bb5c2d9f.webp)
 
 【デジタル整理券についての注意事項】
 ・入場番号券は当日限り有効で、お呼び出しからの有効時間がございます。有効時間を過ぎた場合は入場無効となり、再度発券をしていただく場合があります。
@@ -186,7 +186,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 
 ## グッズ通販情報
 
-[![](/assets/bang-dream/blog/ras-tour2021-encore/2c5432cf6e9eb2de.jpg)](https://bushiroad-store.com/collections/ras-tour2021-encore)
+[![](https://img.tano.asia/i/f6370810-a709-4146-82f8-b2a88debdc34.webp)](https://bushiroad-store.com/collections/ras-tour2021-encore)
 
 RAISE A SUILEN ZEPP TOUR 2021「BE LIGHT」追加公演の新商品を通販いたします！
 

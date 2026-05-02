@@ -32,18 +32,18 @@ BanG Dream!（バンドリ！）ブースでは、MyGO!!!!!の新規描き下ろ
 
 ## 販売商品一覧
 
-![](/assets/bang-dream/blog/comiket104/80a2f2f27c3a324f.jpg)
+![](https://img.tano.asia/i/a497cec2-0e28-46c9-b930-88103908376b.webp)
 
-![](/assets/bang-dream/blog/comiket104/1a25323e776bfe2f.jpg)
+![](https://img.tano.asia/i/e7ac9b41-0c53-4f3f-9bcf-bfe7f65f491d.webp)
 
-![](/assets/bang-dream/blog/comiket104/5fcffe7d0d6ef071.jpg)
+![](https://img.tano.asia/i/109547a3-59c5-43cd-b307-97bf7886d949.webp)
 
 ## 購入特典
 
 ###### 1会計につき「特製うちわ(全1種)」を1枚プレゼント！
 
-- ![](/assets/bang-dream/blog/comiket104/f2250101455517df.png)
-- ![](/assets/bang-dream/blog/comiket104/f7fc8087f773e29a.png)
+- ![](https://img.tano.asia/i/202974f4-94d5-4270-b6e7-be13f47ebab9.webp)
+- ![](https://img.tano.asia/i/0ca61839-36bc-4601-a42b-7583bffedb4e.webp)
 
 サイズ 約W242mm×H345mm (持ち手含む)
 ※画像はイメージです。実際とは異なります。
@@ -53,7 +53,7 @@ BanG Dream!（バンドリ！）ブースでは、MyGO!!!!!の新規描き下ろ
 
 ###### 1会計につき5,000円（税込）ご購入ごとに「MyGO!!!!!特製イラストカード（全10種）」をランダムで1枚プレゼント！
 
-![](/assets/bang-dream/blog/comiket104/c5e0e83cb9505f93.jpg)
+![](https://img.tano.asia/i/d95dd260-69cb-40be-b432-09b02c8b2465.webp)
 
 ※特典はなくなり次第終了となります。
 ※別会計のレシートは合算できません。
@@ -77,7 +77,7 @@ BanG Dream!（バンドリ！）ブースでは、MyGO!!!!!の新規描き下ろ
 
 ## 通販情報
 
-![](/assets/bang-dream/blog/comiket104/398aecd70a92e0d8.jpg)
+![](https://img.tano.asia/i/710e1529-ee7d-4316-bf98-4912a3eff1f6.webp)
 
 コミックマーケット104にて販売するBanG Dream!（バンドリ！）新商品の通販を実施いたします！
 

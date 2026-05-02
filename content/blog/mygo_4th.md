@@ -72,7 +72,7 @@ MyGO!!!!!
 
 ## グッズ販売について
 
-[![](/assets/bang-dream/blog/mygo_4th/a74f22b7afb16a86.jpg)](https://bang-dream.com/2025/renew/dde72699-b343-4da5-a3dd-c27bbbba542d.jpg)
+[![](https://img.tano.asia/i/4a2b95bc-06ae-4b11-b8d0-e52a679b145c.webp)](https://bang-dream.com/2025/renew/dde72699-b343-4da5-a3dd-c27bbbba542d.jpg)
 
 [https://bang-dream.com/2025/renew/8bafd373-9e1e-4298-927c-241d64e423be.jpg](https://bang-dream.com/2025/renew/8bafd373-9e1e-4298-927c-241d64e423be.jpg)
 
@@ -134,7 +134,7 @@ MyGO!!!!!
 
 ## グッズ通販情報
 
-![](/assets/bang-dream/blog/mygo_4th/48143b8ffff59545.jpg)
+![](https://img.tano.asia/i/b172b384-3430-4411-9cbb-bdc69b98b588.webp)
 
 ライブグッズの先行通販をブシロード オンラインストアにて行います。
 [https://bushiroad-store.com/collections/mygo-4th-live](https://bushiroad-store.com/collections/mygo-4th-live)

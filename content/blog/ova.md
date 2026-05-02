@@ -27,7 +27,7 @@ Blu-ray Vol.2に封入しておりました
 
 ★イベントビジュアル公開!!
 
-![](/assets/bang-dream/blog/ova/f25788f08ddae684.png)
+![](https://img.tano.asia/i/5644cac3-8dcd-4dde-93f2-563726801f84.webp)
 
 イベント内容：
 ＊完全新作OVA「遊んじゃった！」＋TVアニメのセレクトエピソード上映
@@ -37,11 +37,11 @@ Blu-ray Vol.2に封入しておりました
 チケット料金：
 2,700円（税込）※来場者プレゼント付き
 
-![](/assets/bang-dream/blog/ova/9ef6c0a934a62d7d.jpg)
+![](https://img.tano.asia/i/2f3fabce-df24-4cf1-812a-e63504a2b3df.webp)
 
 スケジュール：
 
-![](/assets/bang-dream/blog/ova/186a456d625c46a0.jpg)
+![](https://img.tano.asia/i/db9499c8-52c0-467f-8e5a-b147a1dee96a.webp)
 
 ※お渡し会はミニトークショー後に実施させていただく予定です。
 ※イベント内容や出演者は予告なく変更になる場所がございます。予めご了承ください。
@@ -88,20 +88,20 @@ MOVIX仙台 21677
 グッズ情報：
 ※価格は税込み表記です。
 
-- ![](/assets/bang-dream/blog/ova/e8011e9428f8018e.jpg)
+- ![](https://img.tano.asia/i/7b3b4e96-bd73-4758-bc1c-d01192eb14bb.webp)
   
   縦27×横48×マチ16cm / ポリエステル / 耐荷重5.0kg
-- ![](/assets/bang-dream/blog/ova/4261b0343088bc18.jpg)
+- ![](https://img.tano.asia/i/b313b138-feb7-4efc-a174-50d9f96fbb88.webp)
   
   縦27×横48×マチ16cm / ポリエステル / 耐荷重5.0kg
-- ![](/assets/bang-dream/blog/ova/612f78f9c4f7e712.jpg)
+- ![](https://img.tano.asia/i/e598f3b4-3415-4ed6-be35-ff843a27acec.webp)
   
   Lサイズのみ
 
-- ![](/assets/bang-dream/blog/ova/35eb3195673cf6ee.jpg)
+- ![](https://img.tano.asia/i/45bab786-6d7f-4935-afae-e20dfee4b836.webp)
   
   B2縦サイズ
-- ![](/assets/bang-dream/blog/ova/e0fff71310ab1363.jpg)
+- ![](https://img.tano.asia/i/a59adb3e-a43b-4a82-bf1b-205398ea37cc.webp)
   
   直径75mm
 

@@ -64,11 +64,11 @@ Morfonica
 
 ###### 1部：ZEPP TOUR 2023「forte」デザイン
 
-![](/assets/bang-dream/blog/morfonica_talk_2023/f27cbf9d346fc7f9.jpg)
+![](https://img.tano.asia/i/3b7832ca-b0d6-45e5-b5aa-9d9e9a3367b7.webp)
 
 ###### 2部：Concept LIVE「forte」デザイン
 
-![](/assets/bang-dream/blog/morfonica_talk_2023/bf430d2fadc7c331.jpg)
+![](https://img.tano.asia/i/a6773cad-29b3-44d2-9170-fca88491cf1a.webp)
 
 ### 販売情報
 
@@ -97,11 +97,11 @@ Morfonica
 
 ### グッズ一覧
 
-[![](/assets/bang-dream/blog/morfonica_talk_2023/b9adf191a8a28199.jpg)](https://bang-dream.com/2025/renew/bb4a6b9a-5cd1-45c6-96c3-02c132e809db.jpg)[![](/assets/bang-dream/blog/morfonica_talk_2023/e85c58d5725daba1.jpg)](https://bang-dream.com/2025/renew/99bf01ca-17d0-48bd-b2f9-d77a3b0307bb.jpg)
+[![](https://img.tano.asia/i/b6120257-f159-4a23-a1a7-c9dce366efa5.webp)](https://bang-dream.com/2025/renew/bb4a6b9a-5cd1-45c6-96c3-02c132e809db.jpg)[![](https://img.tano.asia/i/4a6c2f46-45ef-4178-89d1-24402859448f.webp)](https://bang-dream.com/2025/renew/99bf01ca-17d0-48bd-b2f9-d77a3b0307bb.jpg)
 
 ### 購入特典について
 
-![](/assets/bang-dream/blog/morfonica_talk_2023/f9d3982eb78ccab0.jpg)
+![](https://img.tano.asia/i/f1dfc40a-0d7f-4a22-9f7b-2be5a59e0e58.webp)
 
 物販購入特典として1会計5,000円(税込)お買い上げごとに「特典アクリルキーホルダー(全5種)」をランダムで1つプレゼント！
 
@@ -142,7 +142,7 @@ Morfonica
 ## 当日会場でのCD発売について
 
 会場購入特典が決定！
-[![](/assets/bang-dream/blog/morfonica_talk_2023/3c6bca489a8c0efa.png)](https://bang-dream.com/2025/renew/ad376f08-2db0-47d7-bff9-88cf3ad72a37.png)
+[![](https://img.tano.asia/i/6f08235e-6855-4c30-b0da-77500225ea05.webp)](https://bang-dream.com/2025/renew/ad376f08-2db0-47d7-bff9-88cf3ad72a37.png)
 
 Morfonica ミニAlbum「forte」をご予約頂いた方に「Morfonica ミニAlbum「forte」のイラストを使用した「オリジナルフォトカード1枚（全5種）」を1枚プレゼントいたします。
 

@@ -63,17 +63,17 @@ MyGO!!!!!
 ・昼の部：特製合皮キーリング
 ・夜の部：特製刺繍キーリング
 ※大阪公演・埼玉公演でカラーが異なります。
-![](/assets/bang-dream/blog/maigocenter-event3/e7939be1c13d4591.jpg)
+![](https://img.tano.asia/i/6982ce0a-7970-44a6-a37d-788786b3c250.webp)
 
 #### 会場座席イメージ
 
 ###### 大阪公演
 
-[![](/assets/bang-dream/blog/maigocenter-event3/2a9a65a22cd6fe3e.jpg)](https://bang-dream.com/2025/renew/4a1e9803-39a2-4041-9668-d1ecf1ae11d2.jpg)
+[![](https://img.tano.asia/i/bf8103ae-a442-46f6-a5ff-2952fd71eec9.webp)](https://bang-dream.com/2025/renew/4a1e9803-39a2-4041-9668-d1ecf1ae11d2.jpg)
 
 ###### 埼玉公演
 
-[![](/assets/bang-dream/blog/maigocenter-event3/667fa2c6326527ee.jpg)](https://bang-dream.com/2025/renew/1ae0c311-2dcd-443e-9783-08ced1262392.jpg)
+[![](https://img.tano.asia/i/fd93100f-8066-4177-8372-15e2142a881e.webp)](https://bang-dream.com/2025/renew/1ae0c311-2dcd-443e-9783-08ced1262392.jpg)
 
 ### 販売情報
 
@@ -121,7 +121,7 @@ MyGO!!!!!
 
 ###### 販売商品一覧
 
-[![](/assets/bang-dream/blog/maigocenter-event3/802f14a30df409cf.jpg)](https://bang-dream.com/wordpress/wp-content/uploads/2026/02/23172954/2005d108-67bfbd48-2923b99d-65c6ece2.jpg)
+[![](https://img.tano.asia/i/8276b72d-367c-43ba-952f-59608a7e6309.webp)](https://bang-dream.com/wordpress/wp-content/uploads/2026/02/23172954/2005d108-67bfbd48-2923b99d-65c6ece2.jpg)
 
 ###### 販売場所
 

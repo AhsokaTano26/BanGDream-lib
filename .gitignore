@@ -6,7 +6,7 @@ dist/
 # Nuxt Content 缓存 (重要：避免索引缓存冲突)
 .cache/
 .data/content-cache/
-
+public/assets/bang-dream/
 # 依赖库
 node_modules/
 

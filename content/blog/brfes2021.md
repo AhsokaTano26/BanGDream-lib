@@ -100,7 +100,7 @@ Day2 高木美佑(Peaky P-key 犬寄しのぶ役)、進藤あまね(Lyrical Lily
 
 ###### プレミアムシート特製グッズ
 
-![](/assets/bang-dream/blog/brfes2021/d169b2e442ff56ce.jpg)
+![](https://img.tano.asia/i/a3b3aca7-0862-4a81-9875-b440fe0937f7.webp)
 
 ※プレミアムシートチケット1枚につき特典1式を差し上げます（ 公演期間中のみ有効）
 ※プレミアムシートの特典は非売品となりますので、 一般販売グッズには含まれておりません。
@@ -134,7 +134,7 @@ Day2 高木美佑(Peaky P-key 犬寄しのぶ役)、進藤あまね(Lyrical Lily
 
 ## 先行通販
 
-[![](/assets/bang-dream/blog/brfes2021/8c4aa8983c3e2ca2.jpg)](https://bushiroad-ecshop.com/pages/BRF2021-pre)
+[![](https://img.tano.asia/i/5d3ea656-4293-48f4-9e6e-5ea3201110b7.webp)](https://bushiroad-ecshop.com/pages/BRF2021-pre)
 
 「BUSHIROAD ROCK FESTIVAL 2021」の一部グッズを先行通販いたします。
 

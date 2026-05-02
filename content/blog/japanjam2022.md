@@ -21,11 +21,11 @@ rockin'on presents JAPAN JAM 2022
 
 ###### 5月3日(火・祝) 10:30～ SUNSET STAGEにてRAISE A SUILENが出演！
 
-![](/assets/bang-dream/news/1121/2f8906796cc750ec.jpg)
+![](https://img.tano.asia/i/66d2767b-0881-4012-9e76-261df0878a53.webp)
 
 ###### タイムテーブル
 
-![](/assets/bang-dream/blog/japanjam2022/5289107cda4b52e9.jpg)
+![](https://img.tano.asia/i/a6fe6f25-a4cb-409f-9a6e-403755dadce7.webp)
 
 ## 会場
 

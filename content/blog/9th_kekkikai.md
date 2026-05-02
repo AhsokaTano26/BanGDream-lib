@@ -9,8 +9,8 @@ org: ["other"]
 url: "https://bang-dream.com/events/9th_kekkikai/"
 ---
 
-- ![](/assets/bang-dream/blog/9th_kekkikai/9cce81da1953da26.png)
-- ![](/assets/bang-dream/blog/9th_kekkikai/e88a3a32eeb180fa.png)
+- ![](https://img.tano.asia/i/91cf671f-664d-43b3-b2e6-514fa6412cf1.webp)
+- ![](https://img.tano.asia/i/89df2036-2954-4f16-82c0-908841c3c424.webp)
 
 8月7日(土)から開催の「バンドリ！ ガールズバンドパーティ！ in 富士急ハイランド」！
 スタート初日の7日(土)と2日目である8日(日)にトークショー「9th☆LIVE直前！富士急de決起会！」の開催が決定！！

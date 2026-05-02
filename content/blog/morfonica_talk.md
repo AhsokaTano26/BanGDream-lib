@@ -59,7 +59,7 @@ Morfonica（進藤あまね、直田姫奈、西尾夕香、mika、Ayasa）
 
 ### グッズ
 
-![](/assets/bang-dream/blog/morfonica_talk/cd00257ef9863719.jpg)
+![](https://img.tano.asia/i/a62258d5-3821-4706-97c7-55259c45b823.webp)
 
 ■販売時間
 先行物販日時：12月5日(日）12:00～13:00頃 、昼公演終演後～16：30頃

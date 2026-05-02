@@ -79,7 +79,7 @@ MyGO!!!!!
 
 ※ライブチケットをお持ちのお客様のみへの販売となります。
 
-[![](/assets/bang-dream/blog/mygo_1st/0090a55dcdfb7077.jpg)](https://bang-dream.com/2025/renew/b593f19a-0d4a-4f71-a6a0-a3d18ea6886d.jpg)
+[![](https://img.tano.asia/i/befed8dc-e72c-4c7c-af9c-084b88df0639.webp)](https://bang-dream.com/2025/renew/b593f19a-0d4a-4f71-a6a0-a3d18ea6886d.jpg)
 
 #### 購入制限について
 

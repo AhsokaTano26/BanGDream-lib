@@ -146,15 +146,15 @@ B：寝過ごす不安があるので、そのまま起きておく。
 
 ###### DAY1 : 「BE LIGHT」上映会&ラスラジ番外編
 
-![](/assets/bang-dream/blog/10th_theater/ef1bcd1bbff9f0bd.jpg)
+![](https://img.tano.asia/i/692450af-5ad0-47f8-b690-d66a63011415.webp)
 
 ###### DAY2 : Roselia単独ライブEoR先行上映会&レディシャ番外編
 
-![](/assets/bang-dream/blog/10th_theater/83416fa685c835c6.jpg)
+![](https://img.tano.asia/i/e60d67cc-fb9c-439e-96e2-8f99bad07b9b.webp)
 
 ###### DAY3 : モニ会特別編 ～モルフォニ鑑賞会～
 
-![](/assets/bang-dream/blog/10th_theater/2b6b955f5c7f3c0a.jpg)
+![](https://img.tano.asia/i/b7964f10-b991-42e0-a185-f3f6c9749615.webp)
 
 #### 販売場所
 

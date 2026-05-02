@@ -18,7 +18,7 @@ url: "https://bang-dream.com/events/caravan2021/"
 
 ###### 7月3日(土) 広島
 
-![](/assets/bang-dream/blog/caravan2021/69cbd0b9b37827a4.jpg)
+![](https://img.tano.asia/i/0597f7d0-1dbc-4cc6-94f5-9e6ef8b59dd6.webp)
 
 会場：広島国際会議場（フェニックスホール）
 日時：
@@ -34,7 +34,7 @@ url: "https://bang-dream.com/events/caravan2021/"
 
 ###### 7月4日(日) 熊本
 
-![](/assets/bang-dream/blog/caravan2021/adcef0a2cbfba51b.jpg)
+![](https://img.tano.asia/i/f6c5d692-c20f-4720-a574-ba4a1dc59d4f.webp)
 
 会場：熊本城ホール シビックホール
 1部 12:00開場 13:00開演
@@ -46,7 +46,7 @@ url: "https://bang-dream.com/events/caravan2021/"
 
 ###### 7月17日(土) 大阪
 
-![](/assets/bang-dream/blog/caravan2021/f058d6e1e025ee74.jpg)
+![](https://img.tano.asia/i/c6d66f90-e663-451d-9898-3e28dfe9f703.webp)
 
 会場：松下IMPホール
 1部 12:00開場 13:00開演
@@ -58,7 +58,7 @@ url: "https://bang-dream.com/events/caravan2021/"
 
 ###### 7月18日(日) 名古屋
 
-![](/assets/bang-dream/blog/caravan2021/927f57ffc1353101.jpg)
+![](https://img.tano.asia/i/c6cd341b-50bb-4e8a-a442-1503a823bb82.webp)
 
 会場：ナディアパークデザインホール
 1部 12:00開場 13:00開演
@@ -70,7 +70,7 @@ url: "https://bang-dream.com/events/caravan2021/"
 
 ###### 7月25日(日) 札幌
 
-![](/assets/bang-dream/blog/caravan2021/0b96009ea5e44597.jpg)
+![](https://img.tano.asia/i/ca5874d0-e269-4ac6-8adc-82ce4c3e6666.webp)
 
 会場：道新ホール
 1部 12:00開場 13:00開演
@@ -110,7 +110,7 @@ url: "https://bang-dream.com/events/caravan2021/"
 
 #### 新商品
 
-![](/assets/bang-dream/blog/caravan2021/fc98d06b2c224bb4.jpg)
+![](https://img.tano.asia/i/f8689b3d-4fe6-4af6-b08e-6f504aedbb4b.webp)
 
 SOLD OUT
 
@@ -118,7 +118,7 @@ SOLD OUT
 
 イベント価格: PACK550円 / BOX19,250円（税込）
 
-![](/assets/bang-dream/blog/caravan2021/60509fa964232ce2.jpg)
+![](https://img.tano.asia/i/3dbfefb9-1c06-4e9f-8cd4-e690f04768e2.webp)
 
 SOLD OUT
 
@@ -126,7 +126,7 @@ SOLD OUT
 
 イベント価格: 880円（税込）
 
-![](/assets/bang-dream/blog/caravan2021/9711618f983e949e.jpg)
+![](https://img.tano.asia/i/fde810dc-fe2f-4d39-904c-56c787617c98.webp)
 
 SOLD OUT
 
@@ -134,7 +134,7 @@ Tシャツ
 
 イベント価格: 各3,850円（税込）
 
-![](/assets/bang-dream/blog/caravan2021/e465c5eca2547b45.jpg)
+![](https://img.tano.asia/i/a187e28e-e9a3-4a25-9b17-6adf51bdbe10.webp)
 
 SOLD OUT
 
@@ -142,7 +142,7 @@ SOLD OUT
 
 イベント価格: 各1,100円（税込）
 
-![](/assets/bang-dream/blog/caravan2021/4a0981d80e6ac029.jpg)
+![](https://img.tano.asia/i/d601875c-c3a8-487c-be90-fad3500676bb.webp)
 
 SOLD OUT
 
@@ -150,7 +150,7 @@ SOLD OUT
 
 イベント価格: 1,650円（税込）
 
-![](/assets/bang-dream/blog/caravan2021/4b0028c33c4d7e09.jpg)
+![](https://img.tano.asia/i/c454aa27-12ff-41e0-bfbb-3ce51ed44bf4.webp)
 
 SOLD OUT
 
@@ -158,7 +158,7 @@ SOLD OUT
 
 イベント価格: PACK660円 / BOX3,300円（税込）
 
-![](/assets/bang-dream/blog/caravan2021/92c64c63b1927d4c.jpg)
+![](https://img.tano.asia/i/b4888000-b3a0-406c-9e39-75967d7ed40e.webp)
 
 SOLD OUT
 
@@ -166,7 +166,7 @@ SOLD OUT
 
 イベント価格: PACK660円 / BOX3,300円（税込）
 
-![](/assets/bang-dream/blog/caravan2021/e52323302d89bdcf.jpg)
+![](https://img.tano.asia/i/27d730cc-85cb-4193-88d1-f31af0d3f38d.webp)
 
 SOLD OUT
 
@@ -175,7 +175,7 @@ Pastel＊Palettes
 
 イベント価格: PACK660円 / BOX3,300円（税込）
 
-![](/assets/bang-dream/blog/caravan2021/ae4a05a7f6c32f26.jpg)
+![](https://img.tano.asia/i/8cf6ea4a-04ea-474c-bbac-b8d119eecc49.webp)
 
 SOLD OUT
 
@@ -183,7 +183,7 @@ SOLD OUT
 
 イベント価格: PACK660円 / BOX3,300円（税込）
 
-![](/assets/bang-dream/blog/caravan2021/ebb206a276e26e86.jpg)
+![](https://img.tano.asia/i/9a65f189-e2ac-42f0-9bb9-3b577d002ead.webp)
 
 SOLD OUT
 
@@ -192,7 +192,7 @@ SOLD OUT
 
 イベント価格: PACK660円 / BOX3,300円（税込）
 
-![](/assets/bang-dream/blog/caravan2021/afd5a10859ca71a4.jpg)
+![](https://img.tano.asia/i/391cad32-b7ab-422c-b34d-b5db0ed6363f.webp)
 
 SOLD OUT
 
@@ -200,7 +200,7 @@ SOLD OUT
 
 イベント価格: PACK660円 / BOX3,300円（税込）
 
-![](/assets/bang-dream/blog/caravan2021/faddd6b343dde97b.jpg)
+![](https://img.tano.asia/i/1fedb9b6-2530-4443-925d-97e6e64f082b.webp)
 
 SOLD OUT
 
@@ -209,7 +209,7 @@ RAISE A SUILEN
 
 イベント価格: PACK660円 / BOX3,300円（税込）
 
-![](/assets/bang-dream/blog/caravan2021/7f92004e7cf17cee.jpg)
+![](https://img.tano.asia/i/c63bc6c4-cdfc-46a7-a0cd-ceaa241bdb8f.webp)
 
 SOLD OUT
 
@@ -217,7 +217,7 @@ A4クリアファイル
 
 イベント価格:440円（税込）
 
-![](/assets/bang-dream/blog/caravan2021/ecf24281772d75e7.jpg)
+![](https://img.tano.asia/i/a094f70b-1d17-499e-9372-031a047fa3fc.webp)
 
 エイプリルフールが現実化！？あの「カードファイト!! お姉ちゃん！」トランプが数量限定でイベント販売決定！
 さらに同商品をお買い上げの方には【BanG Dream! ガールズバンドパーティ！ オリジナルスプレーボトル】をプレゼント！！
@@ -260,28 +260,28 @@ A4クリアファイル
 
 ###### 7月3日(土)広島公演
 
-- ![](/assets/bang-dream/blog/caravan2021/c702575b64849b27.jpg)
-- ![](/assets/bang-dream/blog/caravan2021/e77d33ef605ad065.jpg)
+- ![](https://img.tano.asia/i/2e4cc421-e11a-40ca-b565-77fd7a605ff9.webp)
+- ![](https://img.tano.asia/i/be360222-5d4e-4520-97ab-6e2e6c2a2480.webp)
 
 ###### 7月4日(日)熊本
 
-- ![](/assets/bang-dream/blog/caravan2021/46c2e1dff46268df.jpg)
-- ![](/assets/bang-dream/blog/caravan2021/ab1fa679f322b983.jpg)
+- ![](https://img.tano.asia/i/d046bfd8-764c-4da3-b3cf-d0f0fc4c3806.webp)
+- ![](https://img.tano.asia/i/554de43d-5aa5-4d7a-ab27-68990b62506b.webp)
 
 ###### 7月17日(土)大阪
 
-- ![](/assets/bang-dream/blog/caravan2021/f171b028ed321fa6.png)
-- ![](/assets/bang-dream/blog/caravan2021/6d4ae5a925d6b737.png)
+- ![](https://img.tano.asia/i/23dbe5aa-4e75-4c7d-83d1-0dedd0b6c240.webp)
+- ![](https://img.tano.asia/i/32d79fc3-42c1-43a7-990c-19f5f7503fc3.webp)
 
 ###### 7月18日(日)名古屋
 
-- ![](/assets/bang-dream/blog/caravan2021/8eea57ab43af6a97.png)
-- ![](/assets/bang-dream/blog/caravan2021/5a09b0b3b9bff73b.png)
+- ![](https://img.tano.asia/i/4a77cd6a-22a3-414a-a32b-12f6e89a9023.webp)
+- ![](https://img.tano.asia/i/c2995f39-789c-4131-92c2-08598020903b.webp)
 
 ###### ７月25日(日)札幌
 
-- ![](/assets/bang-dream/blog/caravan2021/9fa87626670e4ffd.jpg)
-- ![](/assets/bang-dream/blog/caravan2021/66e0f9a3f22962a4.jpg)
+- ![](https://img.tano.asia/i/46099988-7eb0-4174-8655-01440c836f16.webp)
+- ![](https://img.tano.asia/i/8b9a8881-9cad-44e2-b6c5-cc287a0585c5.webp)
 
 #### 購入制限について
 
@@ -364,7 +364,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 整理券を確認させていただいた後に、物販会場へご入場いただけます。
 ※整理券は回収させていただきます。なくさないようご注意ください。
 
-![](/assets/bang-dream/blog/psplsp2/43f230288aedab35.jpg)
+![](https://img.tano.asia/i/e96d8d82-ad41-4c62-aac2-35dff02b75ac.webp)
 
 #### デジタル整理券についての注意事項
 

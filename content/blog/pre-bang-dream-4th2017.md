@@ -30,7 +30,7 @@ url: "https://bang-dream.com/events/pre-bang-dream-4th2017/"
 
 ・STAR BEAT!～ホシノコドウ～衣装展示
 
-![](/assets/bang-dream/blog/pre-bang-dream-4th2017/91257c550019757a.jpg)
+![](https://img.tano.asia/i/609088a0-81aa-4506-8813-9cd5f520bf50.webp)
 
 ・アナザーカットサイン入りパネル展示
 パンフレットのアナザーカットを使用したPoppin’Party５人のサイン入りパネルを展示！
@@ -38,7 +38,7 @@ url: "https://bang-dream.com/events/pre-bang-dream-4th2017/"
 ・Poppin’Party武道館公演応援パネル
 Poppin’Partyへの応援メッセージを書き込んでね！
 
-![](/assets/bang-dream/blog/pre-bang-dream-4th2017/096a23ea617cbd1f.png)
+![](https://img.tano.asia/i/89a3fcb5-e4e6-4105-a825-6b5bae28ca32.webp)
 
 ・BanG Dream! Project History
 2015年からスタートしたBanG Dream! Projectの歴史を振り返ろう！
@@ -50,7 +50,7 @@ Poppin’Partyへの応援メッセージを書き込んでね！
 なんとロゼリアモデルも試奏可能!!
 試奏体験コーナー近くでは、ピックも販売しますのでお楽しみに♪
 
-![](/assets/bang-dream/blog/pre-bang-dream-4th2017/518e6cde0da291bc.png)
+![](https://img.tano.asia/i/4fa86d5b-eee5-4c22-b00b-ffc2cc61a980.webp)
 
 ・Poppin’Party楽器展示
 
@@ -109,56 +109,56 @@ Poppin’Partyが実際に使用している楽器を展示いたします。
 
 ◇商品ラインナップ
 
-- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/4dc6d79c4b6ccd82.jpg)
+- ![](https://img.tano.asia/i/ce6e8c37-f701-457b-8105-60f8dde070a9.webp)
   
   BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 パンフレット 3000円（税込）
-- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/8d154f8a0aad0e93.jpg)
+- ![](https://img.tano.asia/i/518aeedd-94fe-43b5-aedc-69e9057841fe.webp)
   
   BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 Tシャツ 3000円（税込）
-- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/5cf08ea7d723164d.jpg)
+- ![](https://img.tano.asia/i/d2bfec1f-2437-4c02-8ced-0d534e99251a.webp)
   
   BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 Poppin’Party Tシャツ 3000円（税込）
 
-- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/cf5fdc8c4abc4763.jpg)
+- ![](https://img.tano.asia/i/aabf9d4f-94e1-43c0-96c8-011e213a80c1.webp)
   
   2000円（税込）
-- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/89dd01ba782f84c8.jpg)
+- ![](https://img.tano.asia/i/3e44b3ee-8d50-4f0c-84c2-602f0a986721.webp)
   
   BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 ラバーバンド 1000円（税込）
-- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/1c11aec704f60c7a.jpg)
+- ![](https://img.tano.asia/i/238b3ecd-4c6b-441e-9d9e-0e95e7e2a958.webp)
   
   BanG Dream! ドリーマーズブレード ver.3 3600円（税込）
 
-- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/90bca56a7a1eb1bd.jpg)
+- ![](https://img.tano.asia/i/41191025-7656-4c88-ba14-0cad28453f63.webp)
   
   BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 記念色紙 1500円（税込）
-- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/fa5ccebc4cb8cdd1.jpg)
+- ![](https://img.tano.asia/i/81e0e0f3-bf03-458c-82d0-56baa9497b03.webp)
   
   BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 武道館記念セット 3000円（税込）
-- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/e8ac9e3e279e6680.jpg)
+- ![](https://img.tano.asia/i/ce32b953-19d8-419f-8f69-2eadbf6bf7d6.webp)
   
   BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 メタルキーホルダーセット 3800円（税込）
 
-- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/3f9113c6a5a37a97.jpg)
+- ![](https://img.tano.asia/i/add6225b-5e05-4efa-bf9b-b0fa2de163e5.webp)
   
   BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 メモリアルピンズ 1500円（税込）
-- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/23ca2ca7498d90d4.jpg)
+- ![](https://img.tano.asia/i/2b0e227b-862d-4998-a736-4f796ee50864.webp)
   
   BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 メモリアルピンズ 1500円（税込）
-- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/c1b4bb49d450abb0.jpg)
+- ![](https://img.tano.asia/i/4a741741-5f99-4d9e-81ef-989f4745a831.webp)
   
   BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 ピックストラップ 1200円（税込）（税込）
 
-- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/cf8ada43c76ade52.jpg)
+- ![](https://img.tano.asia/i/c03260ff-317c-4e6c-b2ca-6ef8da889708.webp)
   
   BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館 お守り風ストラップ 各1200円（税込）
-- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/7d3bb48773467112.jpg)
+- ![](https://img.tano.asia/i/91602b1f-0977-4e95-9897-0b4c49c42e18.webp)
   
   BanG Dream! 楽器レザーストラップ（全5種）各1500円（税込）
-- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/a66da35c5b8e3cf7.jpg)
+- ![](https://img.tano.asia/i/cf06777e-996e-4755-a1df-304d4db5b191.webp)
   
   BanG Dream! ぬいぐるみ（全5種）各2200円（税込）
 
-- ![](/assets/bang-dream/blog/pre-bang-dream-4th2017/33074ad9bb5cfaba.jpg)
+- ![](https://img.tano.asia/i/7c06cdb3-969b-4510-bcac-45c2554de6bc.webp)
   
   バンドリ！ ガールズバンドパーティ！Poppin’Party ディスプレイピックコレクション2,000円（税込）

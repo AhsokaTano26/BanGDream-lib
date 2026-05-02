@@ -21,15 +21,15 @@ rockin'on presents JAPAN JAM 2025
 
 ###### 5月5日(月･祝) 18:50～ BUZZ STAGEに、Ave Mujicaが出演！
 
-![](/assets/bang-dream/blog/asl-manila2025/34a80eb701150069.jpg)
+![](https://img.tano.asia/i/34502209-8d1d-4287-a49c-042a1dfa2d49.webp)
 
 ## タイムテーブル
 
-![](/assets/bang-dream/blog/japanjam2025/9bf66a10d829d6f1.jpg)
+![](https://img.tano.asia/i/176ce248-111d-46ec-9ab2-40a571e26d37.webp)
 
 ## 出演アーティスト
 
-![](/assets/bang-dream/blog/japanjam2025/8e7d11a2dd9e5c7b.jpg)
+![](https://img.tano.asia/i/40a1bdd0-cd21-4019-9070-8ab57dce361b.webp)
 
 ## 会場
 

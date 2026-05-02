@@ -21,11 +21,11 @@ SUMMER SONIC 2022
 
 ###### 8月20日(土) 東京公演 15:20～ PACIFIC STAGEにRAISE A SUILENが出演！
 
-![](/assets/bang-dream/blog/summersonic2022/a8f8fc60da6232f8.jpg)
+![](https://img.tano.asia/i/da40c096-48a7-4b66-9063-e2c78c77be13.webp)
 
 ## タイムテーブル公開！
 
-![](/assets/bang-dream/blog/summersonic2022/8248dc2ae01b588c.jpg)
+![](https://img.tano.asia/i/99e7881e-8fd9-4c41-80b5-f716452f3aa0.webp)
 
 ## 会場
 

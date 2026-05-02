@@ -57,7 +57,7 @@ WEB通信販売について
 
 販売商品一覧
 
-![](/assets/bang-dream/blog/anisama2016/8005490a7deca614.jpg)
+![](https://img.tano.asia/i/e8f424b8-90cf-4aae-896f-235ef57c1294.webp)
 
 SOLD OUT
 
@@ -65,7 +65,7 @@ SOLD OUT
 
 イベント価格: 1,800円
 
-![](/assets/bang-dream/blog/anisama2016/3ccf2c7907fc4d88.jpg)
+![](https://img.tano.asia/i/d917fe8c-efc5-42c0-b65d-443242327669.webp)
 
 SOLD OUT
 
@@ -73,7 +73,7 @@ SOLD OUT
 
 イベント価格: 2,000円
 
-![](/assets/bang-dream/blog/anisama2016/62f077a20f1ef3ed.jpg)
+![](https://img.tano.asia/i/ffc935f3-55e5-4d25-9b78-82b8114aa8de.webp)
 
 SOLD OUT
 

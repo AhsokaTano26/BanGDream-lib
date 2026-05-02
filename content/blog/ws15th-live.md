@@ -27,7 +27,7 @@ url: "https://bang-dream.com/events/ws15th-live/"
 
 バンドリ！よりMorfonicaの出演が決定！
 
-![](/assets/bang-dream/blog/bw2023/7ae19a0fb5c62cc2.jpg)
+![](https://img.tano.asia/i/9c54a8f8-5ed6-4817-b1c4-6c56945c4bec.webp)
 
 ## チケット
 

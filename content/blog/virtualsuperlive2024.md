@@ -42,8 +42,8 @@ Z-a N
 
 #### 出演予定
 
-![](/assets/bang-dream/blog/virtualsuperlive2024/5b7c18c0532364c7.jpg)
+![](https://img.tano.asia/i/390456d7-c0ee-4564-94a2-3d17634b3ec9.webp)
 
 #### タイムテーブル
 
-![](/assets/bang-dream/blog/virtualsuperlive2024/7656a3bcb7ccc161.png)
+![](https://img.tano.asia/i/d2280a0f-0c00-46f4-bd5a-e0c675cda5fd.webp)

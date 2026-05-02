@@ -9,7 +9,7 @@ org: ["mxd"]
 url: "https://bang-dream.com/events/yumemita_yunos_party_lv1/"
 ---
 
-[https://eplus.jp/ yunospartylv1/](https://eplus.jp/%20yunospartylv1/)![](/assets/bang-dream/blog/yumemita_yunos_party_lv1/e0d5928b2b4b8423.png)
+[https://eplus.jp/ yunospartylv1/](https://eplus.jp/%20yunospartylv1/)![](https://img.tano.asia/i/add88151-4669-4263-a68b-05d50a46f76b.webp)
 
 - [公演概要](#h2slv9b5o8w1bk1rm59g0sk91wppb0d)
 - [会場チケット](#h15slv9b5suq1bbu9hv1aqqlxj11ajzm1)

@@ -53,7 +53,7 @@ MC：相羽あいな（湊 友希那役）、豊田萌絵（松原花音役）
 ###### グッズ付チケット特典
 
 フォンタブセット
-![](/assets/bang-dream/blog/bang-dream-talk2024/b874255eecf10b9a.jpg)
+![](https://img.tano.asia/i/2035032c-b93b-45a7-9886-ff0f30b8f317.webp)
 
 ### 販売情報
 
@@ -95,7 +95,7 @@ URL：[https://eplus.jp/bang-dream-talk2024/st/](https://eplus.jp/bang-dream-tal
 
 ### 販売商品一覧
 
-[![](/assets/bang-dream/blog/bang-dream-talk2024/3ffbb4309f647d4d.jpg)](https://bang-dream.com/2025/renew/eb429a96-0030-4677-acdf-886c91732147.jpg)[![](/assets/bang-dream/blog/bang-dream-talk2024/34589cf58bbc2e59.jpg)](https://bang-dream.com/2025/renew/6fe58f4a-1fba-48b6-9101-e0610bdbf317.jpg)
+[![](https://img.tano.asia/i/053f4f34-1482-43f4-ae4c-8cbc05632f29.webp)](https://bang-dream.com/2025/renew/eb429a96-0030-4677-acdf-886c91732147.jpg)[![](https://img.tano.asia/i/c4d24e2a-f464-4447-8278-5d42fba8522e.webp)](https://bang-dream.com/2025/renew/6fe58f4a-1fba-48b6-9101-e0610bdbf317.jpg)
 
 ###### 販売場所
 
@@ -120,7 +120,7 @@ URL：[https://eplus.jp/bang-dream-talk2024/st/](https://eplus.jp/bang-dream-tal
 ※特典はなくなり次第終了となります。予めご了承ください。
 ※別会計レシートの合算は出来ません。
 
-![](/assets/bang-dream/blog/bang-dream-talk2024/a876b0ba0bc58334.jpg)
+![](https://img.tano.asia/i/89363fb4-7f85-4325-895c-7737162571a1.webp)
 
 ###### 購入制限
 
@@ -155,7 +155,7 @@ URL：[https://eplus.jp/bang-dream-talk2024/st/](https://eplus.jp/bang-dream-tal
 
 ## グッズ通販
 
-![](/assets/bang-dream/blog/bang-dream-talk2024/73a384033440645c.jpg)
+![](https://img.tano.asia/i/14d6ca0e-7f48-4fab-b939-d644e6c4d654.webp)
 
 バンドリ！とれたてカラフル♪収穫祭 feat. Dreamer's Tunesにて販売する新商品の先行通販を実施いたします！
 ※本通販は現地受取の実施はございません。
@@ -170,7 +170,7 @@ URL：[https://eplus.jp/bang-dream-talk2024/st/](https://eplus.jp/bang-dream-tal
 
 ブシロード オンラインストアにて対象商品を3,000円購入で「特典ダイカットイラストカード(全5種)」をプレゼント！
 
-![](/assets/bang-dream/blog/bang-dream-talk2024/9553ff1d4707fe2b.jpg)
+![](https://img.tano.asia/i/89363fb4-7f85-4325-895c-7737162571a1.webp)
 
 ※3,000円購入ごとに1点お渡し (詳細：[https://bushiroad-store.com/pages/bang-dream-talk2024](https://bushiroad-store.com/pages/bang-dream-talk2024))
 
@@ -178,7 +178,7 @@ URL：[https://eplus.jp/bang-dream-talk2024/st/](https://eplus.jp/bang-dream-tal
 
 2024年11月30日(土)開催のバンドリ！とれたてカラフル♪収穫祭 feat. Dreamer's Tunes 会場購入特典が決定！
 
-![](/assets/bang-dream/blog/bang-dream-talk2024/b296d2b1369b6325.jpg)
+![](https://img.tano.asia/i/e64b21bc-af46-41de-aac8-2ba7405e29a4.webp)
 
 BanG Dream!関連商品(CD,Blu-ray商品)を会場にて2,000円(税込)ご購入ごとに「Dreamer's Tunesノベルティステッカー(全5種)」をランダムで1枚プレゼントいたします。
 さらに！ BanG Dream!関連商品(CD,Blu-ray商品)2,000円(税込)ご購入ごとに1回、直筆サイン入り「とれたてカラフル♪収穫祭 feat. Dreamer's Tunes 特製B2ポスター」が当たる抽選会にご参加いただけます。

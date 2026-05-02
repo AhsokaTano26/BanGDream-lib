@@ -78,9 +78,9 @@ MyGO!!!!!
 
 ### 販売商品一覧
 
-[![](/assets/bang-dream/blog/maigocenter-event/7e11cb1d1556c653.jpg)](https://bang-dream.com/2025/renew/94b25511-dbf9-4df9-9d03-7e5df200f9cb.jpg)
+[![](https://img.tano.asia/i/76870bc3-73ac-489d-a19a-433535eb75cf.webp)](https://bang-dream.com/2025/renew/94b25511-dbf9-4df9-9d03-7e5df200f9cb.jpg)
 
-[![](/assets/bang-dream/blog/maigocenter-event/4849e4d80d32f656.jpg)](https://bang-dream.com/2025/renew/48f97e07-b2d9-4149-b6e6-1a9d6cc4ef5a.jpg)
+[![](https://img.tano.asia/i/63a156c1-a8f1-4798-89e5-b73a2fe27e5d.webp)](https://bang-dream.com/2025/renew/48f97e07-b2d9-4149-b6e6-1a9d6cc4ef5a.jpg)
 
 ###### 販売場所
 
@@ -101,7 +101,7 @@ TFTホール 1000
 
 1会計で2,000円(税込)ごとのご購入で「特典ポストカード（全5種）」をランダムで1枚プレゼントいたします。
 
-[![](/assets/bang-dream/blog/maigocenter-event/7f572c04296ff82f.jpg)](https://bang-dream.com/2025/renew/bf0de619-6a13-42ca-a8a3-4373f60961ab.jpg)
+[![](https://img.tano.asia/i/82e80cc1-eee8-4a1b-945c-a9b69623bbf1.webp)](https://bang-dream.com/2025/renew/bf0de619-6a13-42ca-a8a3-4373f60961ab.jpg)
 
 例)4,000円(税込)ご購入の場合 → ランダムで2枚プレゼント
 
@@ -135,7 +135,7 @@ TFTホール 1000
 
 ## CD販売についてのご案内
 
-[![](/assets/bang-dream/blog/maigocenter-event/0235c62fd1a849f1.jpg)](https://bang-dream.com/2025/renew/f82ab769-29e0-414a-b536-407e7347c989.jpg)
+[![](https://img.tano.asia/i/57cd0eee-95f2-42ce-be42-231e4da89303.webp)](https://bang-dream.com/2025/renew/f82ab769-29e0-414a-b536-407e7347c989.jpg)
 
 6月22日(土)開催、MyGO!!!!!の「迷子集会」出張版 -奏字音という日常- の会場購入特典が決定しました。
 

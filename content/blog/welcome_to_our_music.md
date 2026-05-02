@@ -54,7 +54,7 @@ YouTube「[バンドリちゃんねる☆](https://www.youtube.com/channel/UCN-b
 
 ## 通販情報
 
-![](/assets/bang-dream/blog/welcome_to_our_music/6a92fb63d509ed94.jpg)
+![](https://img.tano.asia/i/9c8b8eb3-fe13-4dfd-b7f1-46a0bcbb474f.webp)
 
 ハロー、ハッピーワールド！ Sound Only Live「うぇるかむ to OUR MUSIC♪」 の商品を期間限定で通販いたします。
 

@@ -51,11 +51,11 @@ Morfonica
 
 バケットハット&ステッカー
 
-![](/assets/bang-dream/blog/morfonica_live2025/68117236485b5b3c.jpg)
+![](https://img.tano.asia/i/cb1cdadd-132f-457e-adaf-fa804738e036.webp)
 
 #### 会場エリアイメージ
 
-[![](/assets/bang-dream/blog/morfonica_live2025/8103e65fefd463a0.jpg)](https://bang-dream.com/2025/renew/d05b3669-a13a-47a7-9b38-7c73a02b4cf5.jpg)
+[![](https://img.tano.asia/i/f9229a9b-a9e1-43bb-90f0-25feb0be924e.webp)](https://bang-dream.com/2025/renew/d05b3669-a13a-47a7-9b38-7c73a02b4cf5.jpg)
 
 ※ハンディキャップエリアを、前方の女性エリア横に変更させていただきます。
 あらかじめご了承いただけますと幸いです。(2月28日追記)
@@ -103,7 +103,7 @@ Archive : available until April 26, 2025 (Sat.) 23:59 JST
 
 ## グッズ通販
 
-![](/assets/bang-dream/blog/morfonica_live2025/3193b6256abd0151.jpg)
+![](https://img.tano.asia/i/488129f1-533f-4aff-a4bf-c6a4105bda37.webp)
 
 Morfonica LIVE「Rubato」にて販売する新商品の通販を実施いたします。
 ※本通販は現地受取の実施はございません。
@@ -118,7 +118,7 @@ Morfonica LIVE「Rubato」にて販売する新商品の通販を実施いたし
 
 #### 販売商品一覧
 
-[![](/assets/bang-dream/blog/morfonica_live2025/b2b9395637133f85.jpg)](https://bang-dream.com/2025/renew/a6ed88c7-f1c0-46a3-bad0-d97690e781f5.jpg)[![](/assets/bang-dream/blog/morfonica_live2025/cfc65d640fa9d3a4.jpg)](https://bang-dream.com/2025/renew/fb8794bc-7ff2-4b81-ad1e-b6665f48d640.jpg)
+[![](https://img.tano.asia/i/830dcc5f-a06b-4196-85be-b51208e96350.webp)](https://bang-dream.com/2025/renew/a6ed88c7-f1c0-46a3-bad0-d97690e781f5.jpg)[![](https://img.tano.asia/i/8296920d-29df-4546-ae48-4c72692ae243.webp)](https://bang-dream.com/2025/renew/fb8794bc-7ff2-4b81-ad1e-b6665f48d640.jpg)
 
 ###### 【重要】
 
@@ -188,7 +188,7 @@ NOLETSの申し込みはこちら
 
 Morfonica LIVE「Rubato」会場購入特典が決定！
 
-![](/assets/bang-dream/blog/morfonica_live2025/77aa7f84d4a294d7.jpg)
+![](https://img.tano.asia/i/6efdc4db-8143-426e-8a75-a28acd9e7067.webp)
 
 BanG Dream!関連商品(CD,Blu-ray商品)を会場にて2,000円(税込)ご購入ごとに「Morfonica LIVE『Rubato』バックステージパス風ステッカー(全5種)」をランダムで1枚プレゼントいたします。
 さらに！ BanG Dream!関連商品(CD,Blu-ray商品)2,000円(税込)ご購入ごとに1回、直筆サイン入り「Morfonica 2nd Album『Polyphony』B2告知ポスター」が当たる抽選会にご参加いただけます。

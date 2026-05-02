@@ -9,8 +9,8 @@ org: ["other"]
 url: "https://bang-dream.com/events/animax2024/"
 ---
 
-- ![](/assets/bang-dream/blog/animax2024/77c96e6c27686fac.jpg)
-- ![](/assets/bang-dream/blog/animax2024/d4db4ba704499c95.jpg)
+- ![](https://img.tano.asia/i/18316b25-b819-487f-b32c-ed9c4239cb14.webp)
+- ![](https://img.tano.asia/i/00c23a5d-d0de-4ef0-9ca5-47c4c8138ebd.webp)
 
 「ANIMAX MUSIX 2024 FALL」に、バンドリ！よりPoppin'PartyとAve Mujicaの出演が決定！
 
@@ -48,7 +48,7 @@ Poppin'PartyとAve Mujicaのグッズ販売が決定！
 
 ###### 販売商品一覧
 
-[![](/assets/bang-dream/blog/animax2024/ff672f718900a76e.jpg)](https://bang-dream.com/2025/renew/a810c6e0-2409-4bb9-96af-6ffa7c1addd6.jpg)
+[![](https://img.tano.asia/i/ff7614c2-f78a-4ca4-9f7d-dec82616deeb.webp)](https://bang-dream.com/2025/renew/a810c6e0-2409-4bb9-96af-6ffa7c1addd6.jpg)
 
 ###### 販売場所
 

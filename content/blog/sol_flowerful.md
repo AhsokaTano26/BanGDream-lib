@@ -50,7 +50,7 @@ YouTube「[バンドリちゃんねる☆](https://www.youtube.com/channel/UCN-b
 
 ###### 通販情報
 
-![](/assets/bang-dream/blog/sol_flowerful/9a2f8a22a4dcbfc5.jpg)
+![](https://img.tano.asia/i/5d480d42-ac34-4a88-8d63-1b071fa131c5.webp)
 
 Pastel＊Palettes Sound Only Live「Flowerful＊」 の新商品を期間限定で通販いたします。
 

@@ -7,10 +7,10 @@ org: ["mygo"]
 url: "https://bang-dream.com/artist/avemujica/"
 founded: ""
 theme:
-  logo: "/assets/bang-dream/orgs/907d36544d1fd5a2.webp"
+  logo: "/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp"
   bgImage: null
 ---
 
-[![映画「BanG Dream! Ave Mujica prima aurora」](/assets/bang-dream/orgs/avemujica/039ab1c7d4704245.jpg)
+[![映画「BanG Dream! Ave Mujica prima aurora」](https://img.tano.asia/i/e9d224f9-8ddf-462a-a774-44747f04f77f.webp)
 
 ### 映画「BanG Dream! Ave Mujica prima aurora」](https://avemujica-movie.bang-dream.com/)

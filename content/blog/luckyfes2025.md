@@ -21,11 +21,11 @@ LuckyFes'25
 開場 8:00／開演 10:00（予定）
 
 ###### 8月11日(月・祝) 13:20～ GARDEN STAGE に、RAISE A SUILENが出演！
-![](/assets/bang-dream/blog/luckyfes2026/f4867395b1637999.jpg)
+![](https://img.tano.asia/i/2ce5a0be-0321-496d-a1ad-ce8b170f8764.webp)
 
 ## タイムテーブル
 
-![](/assets/bang-dream/blog/luckyfes2025/a970af7b3ba7916b.png)
+![](https://img.tano.asia/i/2c484ffc-ff47-4e76-8d9b-67e35202ea73.webp)
 
 ## 会場
 
@@ -40,7 +40,7 @@ LuckyFes'25
 
 ## LuckyFes'25無料独占生中継
 
-![](/assets/bang-dream/blog/luckyfes2025/bc5aa10f6a6eb0f1.jpg)
+![](https://img.tano.asia/i/31df5e08-f2c8-4707-8f85-4a6907937c6a.webp)
 
 「ABEMA（アベマ）」にて、「LuckyFes'25無料独占生中継」が決定いたしました。
 ぜひ配信でも「LuckyFes'25」をお楽しみください。
@@ -66,7 +66,7 @@ LuckyFes'25
 
 ###### 販売商品一覧
 
-![](/assets/bang-dream/blog/luckyfes2025/f30fe6ab66100d4a.jpg)
+![](https://img.tano.asia/i/37ddda2e-84e1-456a-a3c6-512a287a1b15.webp)
 
 ※販売価格はイベント価格となります。
 ※販売は出演日の8月11日(月・祝)のみとなります。

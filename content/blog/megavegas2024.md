@@ -22,11 +22,11 @@ MEGA VEGAS 2024
 
 ###### 3月9日(土) 13:10～ Ave Mujicaが出演！
 
-![](/assets/bang-dream/blog/megavegas2024/001874b1f400e133.jpg)
+![](https://img.tano.asia/i/9c51866f-3a17-4fe9-bd02-02f1548747fe.webp)
 
 ## タイムテーブル
 
-[![](/assets/bang-dream/blog/megavegas2024/dc21e33dc6cfe83f.jpg)](https://bang-dream.com/2025/renew/e6286b33-ae54-4024-8643-cba2d0830582.jpg)
+[![](https://img.tano.asia/i/de6c3548-4735-42c7-9787-8a4a8716f71e.webp)](https://bang-dream.com/2025/renew/e6286b33-ae54-4024-8643-cba2d0830582.jpg)
 
 ## 会場
 
@@ -39,4 +39,4 @@ MEGA VEGAS 2024
 
 #### 出演予定
 
-![](/assets/bang-dream/blog/megavegas2024/4a21629111fe39ef.jpg)
+![](https://img.tano.asia/i/2cb46c05-32db-4ab4-962a-6f289b4fb5e2.webp)

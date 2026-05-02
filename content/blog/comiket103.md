@@ -34,12 +34,12 @@ BanG Dream!（バンドリ！）ブースでは、MyGO!!!!!・高松燈、Ave Mu
 
 ## 販売商品一覧
 
-![](/assets/bang-dream/blog/comiket103/52670d1dc89d8196.jpg)
+![](https://img.tano.asia/i/0e5e0252-a93c-4233-9c90-d4d82606b742.webp)
 
 ## 購入特典
 
-- ![](/assets/bang-dream/blog/comiket103/9d63fe84b18af085.jpg)
-- ![](/assets/bang-dream/blog/comiket103/6072849675cb72e5.jpg)
+- ![](https://img.tano.asia/i/29791a53-4ca8-4b11-91a2-616a83ff30a9.webp)
+- ![](https://img.tano.asia/i/e45960e7-bb5f-4f22-91cf-63bedd4048ab.webp)
 
 ###### 1会計につき2,000円（税込）ご購入ごとに「MyGO!!!!!特製セリフステッカー」（全45種）をランダムで1枚プレゼント！
 
@@ -73,7 +73,7 @@ BanG Dream!（バンドリ！）ブースでは、MyGO!!!!!・高松燈、Ave Mu
 
 ## 通販情報
 
-![](/assets/bang-dream/blog/comiket103/68c6c164b238552c.jpg)
+![](https://img.tano.asia/i/8d1a28bb-dfa2-4160-97c9-639ea3606426.webp)
 
 コミックマーケット103にて販売するBanG Dream!（バンドリ！）の新商品を通販実施いたします！
 通販開始：2023年12月29日(金)15時00分～在庫なくなり次第終了

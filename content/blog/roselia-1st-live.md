@@ -13,7 +13,7 @@ url: "https://bang-dream.com/events/roselia-1st-live/"
 Roselia 1st Live Rosenlied
 メインビジュアル公開！
 
-![](/assets/bang-dream/blog/roselia-1st-live/b5fa61ef07cc7b00.jpg)
+![](https://img.tano.asia/i/dc245b45-1007-4d49-9117-1d656112f592.webp)
 
 「BanG Dream! 3rd☆LIVE Sparklin’ PARTY 2017!」にて衝撃的ライブデビューを果たしたRoseliaのワンマンライブが早くも決定！
 スマートフォン向けゲーム『バンドリ！ ガールズバンドパーティ！』ゲームオリジナルバンド「Roselia」の今後の活躍に目が離せない♪♪

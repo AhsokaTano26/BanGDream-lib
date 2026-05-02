@@ -55,10 +55,10 @@ Tシャツ付一般指定席：16,500円(税込)
 
 ###### 特典ビッグシルエットTシャツ
 
-- ![](/assets/bang-dream/blog/ras_repaint/dbc53e37b703277a.png)
+- ![](https://img.tano.asia/i/37139b8c-ebeb-4ce8-9a3c-e020113c0b95.webp)
   
   ＜FRONT＞
-- ![](/assets/bang-dream/blog/ras_repaint/0391b79627c45cc0.png)
+- ![](https://img.tano.asia/i/0f728ac3-1d61-479d-b576-8c470e019ffd.webp)
   
   <BACK>
 
@@ -128,10 +128,10 @@ Tシャツ付チケット： 9,900円(税込)
 
 ###### 特典ビッグシルエットTシャツ（配信チケット限定・特別カラーバージョン）
 
-- ![](/assets/bang-dream/blog/ras_repaint/c92638aa7d3ebf6d.png)
+- ![](https://img.tano.asia/i/863c77ab-9100-480d-8674-ad17557f1518.webp)
   
   ＜FRONT＞
-- ![](/assets/bang-dream/blog/ras_repaint/51e4072a0e3c4a73.png)
+- ![](https://img.tano.asia/i/37080ee2-d647-463d-bc61-fe77a4eeb286.webp)
   
   <BACK>
 
@@ -156,7 +156,7 @@ Tシャツ付チケット：1/13(木) 22:30～1/21(金) 23:59（受付終了）
 
 ## グッズ販売についてのご案内
 
-![](/assets/bang-dream/blog/ras_repaint/bd7c655b7e288b00.jpg)
+![](https://img.tano.asia/i/78e68c3d-ba60-4b53-889c-c58e35e4b4e1.webp)
 
 販売場所：Zepp DiverCity (TOKYO)
 販売日時：2月7日(月)
@@ -180,7 +180,7 @@ Tシャツ付チケット：1/13(木) 22:30～1/21(金) 23:59（受付終了）
 ≪【重要】当日整理券について≫
 多くのお客様のご来場が予想される為、お客様やスタッフの安全を考慮し、「QRコード」を使ったデジタル整理券の配布予定です。
 
-![](/assets/bang-dream/blog/ras_repaint/1c3572613a55e86a.png)
+![](https://img.tano.asia/i/ac91bed4-9f83-403c-8a00-d0f4bb5c2d9f.webp)
 
 物販整理券の配布予定時間
 2月７日(月) 12:30～待機列解消まで
@@ -246,7 +246,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 
 ### グッズ通販
 
-![](/assets/bang-dream/blog/ras_repaint/5f1f03d01968a92e.jpg)
+![](https://img.tano.asia/i/958ee546-7edd-4f91-8852-6a3da94dc108.webp)
 
 RAISE A SUILEN SPECIAL LIVE「Repaint」の新商品を通販実施いたします！
 

@@ -65,7 +65,7 @@ url: "https://bang-dream.com/events/talk_hhw_morfonica/"
 
 ## グッズ販売について
 
-![](/assets/bang-dream/blog/talk_hhw_morfonica/f74c3e9138d86df6.jpg)
+![](https://img.tano.asia/i/dad51d10-876b-461f-b89d-b175fadf4b6c.webp)
 
 ###### 販売時間
 

@@ -13,7 +13,7 @@ Media
 
 # MyGO!!!!!の「迷子集会」
 
-![](/assets/bang-dream/media/mygocenter_radio/45f39c4d28fb9330.png)
+![](https://img.tano.asia/i/2b19f6d4-ae47-4d10-b979-d5dc9d353dbb.webp)
 
 ## 番組情報
 

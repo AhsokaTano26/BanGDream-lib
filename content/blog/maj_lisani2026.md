@@ -22,7 +22,7 @@ MUSIC AWARDS JAPAN WEEK SPECIAL LIVE
 
 ###### バンドリ！より、MyGO!!!!!が出演！
 
-![](/assets/bang-dream/blog/maj_lisani2026/f0eff69051a724a9.jpg)
+![](https://img.tano.asia/i/4a9d164f-c324-4dd9-ba32-757233d015b6.webp)
 
 ## 会場
 

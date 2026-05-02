@@ -7,10 +7,10 @@ org: ["other"]
 url: "https://bang-dream.com/artist/yumemita/"
 founded: ""
 theme:
-  logo: "/assets/bang-dream/orgs/907d36544d1fd5a2.webp"
+  logo: "/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp"
   bgImage: null
 ---
 
-[![バンドリ！ ゆめ∞みた](/assets/bang-dream/orgs/yumemita/6f815db0d27a9551.jpg)
+[![バンドリ！ ゆめ∞みた](https://img.tano.asia/i/6406df14-4a4f-4745-84b4-d701185cdee6.webp)
 
 ### バンドリ！ ゆめ∞みた](https://anime.bang-dream.com/yumemita/)

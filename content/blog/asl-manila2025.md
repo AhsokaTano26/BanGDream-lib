@@ -21,11 +21,11 @@ ANISAMA WORLD 2025 in MANILA
 
 ###### バンドリ！より、Ave Mujicaが出演！
 
-![](/assets/bang-dream/blog/asl-manila2025/34a80eb701150069.jpg)
+![](https://img.tano.asia/i/34502209-8d1d-4287-a49c-042a1dfa2d49.webp)
 
 ## 出演アーティスト
 
-![](/assets/bang-dream/blog/asl-manila2025/6d7e1fd43fe88ed5.jpg)
+![](https://img.tano.asia/i/0ab232e2-9d06-4276-8d63-7aa6cb14d25e.webp)
 
 ## 会場
 

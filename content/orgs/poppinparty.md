@@ -7,10 +7,10 @@ org: ["R"]
 url: "https://bang-dream.com/artist/poppinparty/"
 founded: ""
 theme:
-  logo: "/assets/bang-dream/orgs/907d36544d1fd5a2.webp"
+  logo: "/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp"
   bgImage: null
 ---
 
-[![BanG Dream!（バンドリ！）](/assets/bang-dream/orgs/poppinparty/00abb2dd924e8da7.png)
+[![BanG Dream!（バンドリ！）](https://img.tano.asia/i/db46baa1-94fc-42a1-a5df-74d11b2e58d8.webp)
 
 ### BanG Dream!（バンドリ！）](https://anime.bang-dream.com/1st/)

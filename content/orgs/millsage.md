@@ -7,38 +7,38 @@ org: ["mygo", "millsage"]
 url: "https://bang-dream.com/artist/millsage/"
 founded: ""
 theme:
-  logo: "/assets/bang-dream/orgs/907d36544d1fd5a2.webp"
+  logo: "/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp"
   bgImage: null
 ---
 
-- [![Poppin'Party](/assets/bang-dream/orgs/907d36544d1fd5a2.webp)](../poppinparty/)
-- [![Afterglow](/assets/bang-dream/orgs/millsage/e3e3a1eb15acd915.webp)](../afterglow/)
-- [![Pastel＊Palettes](/assets/bang-dream/orgs/millsage/0a7a4521c4ea1b22.webp)](../pastel-palettes/)
-- [![Roselia](/assets/bang-dream/orgs/millsage/832bd81e35074721.webp)](../roselia/)
-- [![ハロー、ハッピーワールド！](/assets/bang-dream/orgs/millsage/4b3826e28b44d51b.webp)](../hello-happy-world/)
-- [![Morfonica](/assets/bang-dream/orgs/millsage/880e1d7a957998f0.webp)](../morfonica/)
-- [![RAISE A SUILEN](/assets/bang-dream/orgs/millsage/8b6540460ac2e89b.webp)](../raise-a-suilen/)
-- [![MyGO!!!!!](/assets/bang-dream/orgs/millsage/3263d5f78c158d55.webp)](../mygo/)
-- [![Ave Mujica](/assets/bang-dream/orgs/millsage/f8d6ad9314311659.webp)](../avemujica/)
-- [![夢限大みゅーたいぷ](/assets/bang-dream/orgs/millsage/dcb51ffcdee4223d.webp)](../yumemita/)
-- [![millsage](/assets/bang-dream/orgs/millsage/4794d6387f8c17c5.webp)](../millsage/)
-- [![一家Dumb Rock!](/assets/bang-dream/orgs/millsage/901650783d670d0f.webp)](../ikka-dumb-rock/)
+- [![Poppin'Party](https://img.tano.asia/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp)](../poppinparty/)
+- [![Afterglow](https://img.tano.asia/i/5bfa0d15-936f-4346-b271-f6eebd1da036.webp)](../afterglow/)
+- [![Pastel＊Palettes](https://img.tano.asia/i/476d822b-08e7-414e-88de-3363ba24ee17.webp)](../pastel-palettes/)
+- [![Roselia](https://img.tano.asia/i/b3b5fbfa-694e-4486-85eb-017142068dbf.webp)](../roselia/)
+- [![ハロー、ハッピーワールド！](https://img.tano.asia/i/9beffcbe-cc63-4610-bb55-604f5f7fac24.webp)](../hello-happy-world/)
+- [![Morfonica](https://img.tano.asia/i/5a28d546-00e3-4359-bc5c-465925f2b8c5.webp)](../morfonica/)
+- [![RAISE A SUILEN](https://img.tano.asia/i/babc0c29-c6d7-4f6d-8ffc-d654e12cee36.webp)](../raise-a-suilen/)
+- [![MyGO!!!!!](https://img.tano.asia/i/4aa70886-bc22-405a-84b4-9127e5363b12.webp)](../mygo/)
+- [![Ave Mujica](https://img.tano.asia/i/a96460ab-474c-49dd-aa02-0b8508792c2e.webp)](../avemujica/)
+- [![夢限大みゅーたいぷ](https://img.tano.asia/i/ca3cc24d-b6d9-4037-921c-9291508af7b8.webp)](../yumemita/)
+- [![millsage](https://img.tano.asia/i/3ee0a957-5be9-440f-be0b-811cb5a3f92d.webp)](../millsage/)
+- [![一家Dumb Rock!](https://img.tano.asia/i/59fb500c-1f42-42fb-bb67-d1d6c3627b95.webp)](../ikka-dumb-rock/)
 
-![millsage](/assets/bang-dream/orgs/millsage/c99f5f57892e75f3.webp)
+![millsage](https://img.tano.asia/i/03a6e101-c668-48c1-92cf-10f0b766c3e7.webp)
 
 ミルサージュ
 
-[![琴平 凪](/assets/bang-dream/orgs/millsage/7e334d206406a35a.webp)
+[![琴平 凪](https://img.tano.asia/i/c2ddc541-20cf-42e8-9ca9-300bfc8cc3ba.webp)
 
-琴平 凪琴平 凪](https://bang-dream.com/artist/millsage/kotohira-nagi/)[![浜崎 まほろ](/assets/bang-dream/orgs/millsage/c64aba7658d73df2.webp)
+琴平 凪琴平 凪](https://bang-dream.com/artist/millsage/kotohira-nagi/)[![浜崎 まほろ](https://img.tano.asia/i/485e7ac5-f99b-4604-b755-b9231a797803.webp)
 
-浜崎 まほろ浜崎 まほろ](https://bang-dream.com/artist/millsage/hamasaki-mahoro/)[![汐見 蛍](/assets/bang-dream/orgs/millsage/095bf432c0200d32.webp)
+浜崎 まほろ浜崎 まほろ](https://bang-dream.com/artist/millsage/hamasaki-mahoro/)[![汐見 蛍](https://img.tano.asia/i/31ae8fbd-ea51-4377-84e8-27ca22262e7d.webp)
 
 汐見 蛍薬師寺李有
 
-CV.薬師寺李有汐見 蛍役](https://bang-dream.com/artist/millsage/shiomi-hotaru/)[![和泉 朋花](/assets/bang-dream/orgs/millsage/777ded7dee8c6257.webp)
+CV.薬師寺李有汐見 蛍役](https://bang-dream.com/artist/millsage/shiomi-hotaru/)[![和泉 朋花](https://img.tano.asia/i/727220bd-41b1-4267-954b-3342a90d82f5.webp)
 
-和泉 朋花和泉 朋花](https://bang-dream.com/artist/millsage/izumi-houka/)[![伊沢 なつめ](/assets/bang-dream/orgs/millsage/09763148f6c6ff97.webp)
+和泉 朋花和泉 朋花](https://bang-dream.com/artist/millsage/izumi-houka/)[![伊沢 なつめ](https://img.tano.asia/i/0eda3857-3e91-4974-9d1a-1515643971b1.webp)
 
 伊沢 なつめ伊沢 なつめ](https://bang-dream.com/artist/millsage/izawa-natsume/)
 
@@ -48,7 +48,7 @@ CV.薬師寺李有汐見 蛍役](https://bang-dream.com/artist/millsage/shiomi-h
 
 ## Discography
 
-- [![millsage「起死開戦」](/assets/bang-dream/orgs/millsage/2218af23fe6b7726.jpg)
+- [![millsage「起死開戦」](https://img.tano.asia/i/bc6d6e61-afe4-43c2-a378-43ed9dc0cb9c.webp)
   
   millsage「起死開戦」
   
@@ -58,7 +58,7 @@ CV.薬師寺李有汐見 蛍役](https://bang-dream.com/artist/millsage/shiomi-h
 
 ## Live•Event
 
-- [![夢限大みゅーたいぷ 47都道府県制覇の旅「スーパーポジション 〜スピンアップ編〜」東京公演](/assets/bang-dream/orgs/millsage/7d4c8eb37f8aa867.png)
+- [![夢限大みゅーたいぷ 47都道府県制覇の旅「スーパーポジション 〜スピンアップ編〜」東京公演](https://img.tano.asia/i/b6fa6b8b-7095-4f3a-ae1e-fb31a48aebb3.webp)
   
   夢限大みゅーたいぷ 47都道府県制覇の旅「スーパーポジション 〜スピンアップ編〜」東京公演
   
@@ -71,7 +71,7 @@ CV.薬師寺李有汐見 蛍役](https://bang-dream.com/artist/millsage/shiomi-h
   ## 場所
   
   SGC HALL ARIAKE](https://bang-dream.com/yumemita_superposition_spinup_tokyo)
-- [![MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」](/assets/bang-dream/orgs/millsage/b9eb625c1d1e39c4.png)
+- [![MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」](https://img.tano.asia/i/b3f3f8cc-e080-43ce-a9ea-ef1f08192e3b.webp)
   
   MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」
   

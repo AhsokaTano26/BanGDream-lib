@@ -21,15 +21,15 @@ MEGA VEGAS 2026
 
 ###### 3月20日(金･祝) 13:05よりAve Mujica、3月21日(土) 13:10よりRAISE A SUILENが出演
 
-![](/assets/bang-dream/blog/central_music_entertainment_festival_2026/f0d99aba05ee0df0.jpg)
+![](https://img.tano.asia/i/dcb9ef72-0369-4f5c-89fa-d86c0e9f1156.webp)
 
-![](/assets/bang-dream/blog/flowthefestival2026/94d146ed5064f73b.jpg)
+![](https://img.tano.asia/i/2ce5a0be-0321-496d-a1ad-ce8b170f8764.webp)
 
 ****
 
 ## タイムテーブル
 
-![](/assets/bang-dream/blog/megavegas2026/c1482edc0547617d.jpg)
+![](https://img.tano.asia/i/21550e29-0c56-4f7c-8b9a-c07652a54189.webp)
 
 ## 会場
 
@@ -42,4 +42,4 @@ MEGA VEGAS 2026
 
 #### 出演予定
 
-![](/assets/bang-dream/blog/megavegas2026/ca8351bac1fa112c.jfif)
+![](https://img.tano.asia/i/99418182-b864-476f-b88a-9104a253ff54.webp)

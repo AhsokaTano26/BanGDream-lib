@@ -143,7 +143,7 @@ JR東海 presents 出発進行！バンドリ！10周年記念トークジャー
 
 ## 物販情報
 
-![](/assets/bang-dream/blog/bangdream-10th-talkjourney/ea41102bbc7046ea.jpg)
+![](https://img.tano.asia/i/7fa98d40-97ce-4b3c-bd85-4627fec5d8f7.webp)
 
 ###### 販売場所
 
@@ -192,7 +192,7 @@ JR東海 presents 出発進行！バンドリ！10周年記念トークジャー
 
 ###### 物販購入特典
 
-![](/assets/bang-dream/blog/bangdream-10th-talkjourney/e9d1255f39fcbc52.jpg)
+![](https://img.tano.asia/i/e7823718-db00-4c90-bebe-f84218be3fc1.webp)
 
 物販でお買い上げのレシート合計金額3,000円(税込)ごとに1回、特設ブースにて、ハズレなしのガラポン抽選会にご参加いただけます。
 

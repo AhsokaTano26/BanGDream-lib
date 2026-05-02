@@ -13,7 +13,7 @@ Media
 
 # 小説「BanG Dream! バンドリ」文庫版
 
-![](/assets/bang-dream/media/novel/15002fdb0687407a.jpg)
+![](https://img.tano.asia/i/92d5a9c0-e706-4d58-9449-bf8fc4c02caf.webp)
 
 「バンドリ！」プロジェクトの原典となる小説「BanG Dream! バンドリ」の文庫化が決定！
 電撃文庫より１月10日(木)に刊行予定です。

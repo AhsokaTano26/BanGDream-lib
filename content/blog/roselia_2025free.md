@@ -70,7 +70,7 @@ Roselia
 
 ## グッズ通販
 
-![](/assets/bang-dream/blog/roselia_2025free/7fcc2a3be365ef74.jpg)
+![](https://img.tano.asia/i/0fc21b27-cbc1-4215-aefe-6ca49a7b2ac2.webp)
 
 Roselia Special Live「Stolz」にて販売する新商品の通販を実施いたします！
 
@@ -96,7 +96,7 @@ Roselia Special Live 「Stolz」
 
 ###### 販売商品一覧
 
-[![](/assets/bang-dream/blog/roselia_2025free/327747962705bf26.jpg)](https://bang-dream.com/2025/renew/3d608a92-7363-4126-9bd2-f5b218c44c1e.jpg)
+[![](https://img.tano.asia/i/04d9f9f5-a1ed-4c8f-96d2-b42fcb750c73.webp)](https://bang-dream.com/2025/renew/3d608a92-7363-4126-9bd2-f5b218c44c1e.jpg)
 
 販売場所
 
@@ -185,7 +185,7 @@ duo MUSIC EXCHANGE
 
 Roselia Special Live「Stolz」会場購入特典が決定！
 
-[![](/assets/bang-dream/blog/roselia_2025free/c1de226e3939c96a.jpg)](https://bang-dream.com/2025/renew/46b824e0-399d-4b16-b463-2a66c8fd2702.jpg)
+[![](https://img.tano.asia/i/b9847038-0ee8-4cb1-81bf-04a54e233788.webp)](https://bang-dream.com/2025/renew/46b824e0-399d-4b16-b463-2a66c8fd2702.jpg)
 
 会場のCD・Blu-ray販売ブースにて、BanG Dream!関連商品(CD,Blu-ray商品)をご購入いただいたお客様へ『特製Roselia「Stolz」カード(全5種)』をプレゼントいたします。
 さらに！ BanG Dream!関連商品(CD,Blu-ray商品)2,000円(税込)ご購入ごとに1回、Roseliaメンバー全員の直筆サイン入りポスターが当たる抽選会にご参加いただけます。

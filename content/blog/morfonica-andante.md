@@ -129,7 +129,7 @@ Morfonica（進藤あまね、直田姫奈、西尾夕香、mika、Ayasa）
 
 ### グッズ一覧
 
-- [![](/assets/bang-dream/blog/morfonica-andante/57de14755e004790.jpg)](https://bang-dream.com/2025/renew/3e30bc35-b93a-4454-b68c-4dc104afebb1.jpg)
+- [![](https://img.tano.asia/i/cb226b61-04ac-4d4d-a1de-85b722fa088f.webp)](https://bang-dream.com/2025/renew/3e30bc35-b93a-4454-b68c-4dc104afebb1.jpg)
 - 
 
 ### グッズ販売についてのご案内
@@ -185,7 +185,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 
 ※整理券は回収させていただきます。なくさないようご注意ください。
 
-![](/assets/bang-dream/blog/morfonica-andante/92a6d86c9f7c2132.jpg)
+![](https://img.tano.asia/i/e96d8d82-ad41-4c62-aac2-35dff02b75ac.webp)
 
 ###### デジタル整理券についての注意事項
 
@@ -228,7 +228,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 
 ### 期間限定通販
 
-[![](/assets/bang-dream/blog/morfonica-andante/e52e4fc7a74dcfd6.jpg)](https://bushiroad-ecshop.com/pages/Morfonica_Andante)
+[![](https://img.tano.asia/i/9b3e02fc-5496-490a-9bd1-d9bad71e3726.webp)](https://bushiroad-ecshop.com/pages/Morfonica_Andante)
 
 Morfonica Special Live「Andante」の新商品を期間限定で通販いたします。
 
@@ -239,7 +239,7 @@ Morfonica Special Live「Andante」の新商品を期間限定で通販いたし
 
 ### 先行通販 ※終了しました
 
-[![](/assets/bang-dream/blog/morfonica-andante/2faf87723b8bddf0.jpg)](https://bushiroad-ecshop.com/pages/andante-pre)
+[![](https://img.tano.asia/i/728e0f98-9552-4494-93e1-94e8619eded6.webp)](https://bushiroad-ecshop.com/pages/andante-pre)
 
 Morfonica Special Live「Andante」の一部グッズを先行通販いたします。
 

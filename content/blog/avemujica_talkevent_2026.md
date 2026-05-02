@@ -54,16 +54,16 @@ A席(特製グッズ付き)：8,800円(税込)※受付終了
 
 ・特製ハンドタオル ※東京公演／大阪公演共通
 
-![](/assets/bang-dream/blog/avemujica_talkevent_2026/90270995a12b33c9.jpg)
+![](https://img.tano.asia/i/fabd3cc4-d530-49fc-86ff-aafa07f035aa.webp)
 
 #### 会場座席イメージ
 
 - ###### 東京公演
   
-  [![](/assets/bang-dream/blog/avemujica_talkevent_2026/4f4104f6484e6eb5.jpg)](https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/63a9b0f4-a577-4f4a-9a3b-00078872a53d.jpg)
+  [![](https://img.tano.asia/i/ad4e2cbc-bbb9-45f5-ad04-e574f21709b1.webp)](https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/63a9b0f4-a577-4f4a-9a3b-00078872a53d.jpg)
 - ###### 大阪公演
   
-  [![](/assets/bang-dream/blog/avemujica_talkevent_2026/97420ba17a0e1c94.jpg)](https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/d6a3e538-8760-42ad-8f9c-d3f08d5160d1.jpg)
+  [![](https://img.tano.asia/i/deefd803-8b30-4a71-bf48-59a937ac9103.webp)](https://s3-ap-northeast-1.amazonaws.com/bang-dream-portal/d6a3e538-8760-42ad-8f9c-d3f08d5160d1.jpg)
 
 ### 販売情報
 
@@ -124,8 +124,8 @@ A席(特製グッズ付き)：8,800円(税込)※受付終了
 
 ### 販売商品一覧（大阪公演）
 
-- - [![](/assets/bang-dream/blog/avemujica_talkevent_2026/a5528cd44fe7043b.png)](https://bang-dream.com/wordpress/wp-content/uploads/2026/03/02152520/21f277dc-3ff322d8-118e1952-5feef3ea.png)
-  - [![](/assets/bang-dream/blog/avemujica_talkevent_2026/0efb3ef2bbd662f6.png)](https://bang-dream.com/wordpress/wp-content/uploads/2026/03/02152543/b820115c-2c343395-864cadc8-507a1b40.png)
+- - [![](https://img.tano.asia/i/63132960-310e-43b4-8450-74ee4c99346e.webp)](https://bang-dream.com/wordpress/wp-content/uploads/2026/03/02152520/21f277dc-3ff322d8-118e1952-5feef3ea.png)
+  - [![](https://img.tano.asia/i/dd2768bf-6f43-417c-b5a4-190685026e02.webp)](https://bang-dream.com/wordpress/wp-content/uploads/2026/03/02152543/b820115c-2c343395-864cadc8-507a1b40.png)
 
 ###### 販売場所
 
@@ -182,8 +182,8 @@ QR決済【PayPay/au PAY/d払い/Alipayなど】
 
 ### 販売商品一覧（東京公演）※終了しました
 
-- - [![](/assets/bang-dream/blog/avemujica_talkevent_2026/40a9b08cf50c0d66.png)](https://bang-dream.com/wordpress/wp-content/uploads/2026/03/02152539/a1715d0c-1c09762d-01e1f6de-6e7965a4.png)
-  - [![](/assets/bang-dream/blog/avemujica_talkevent_2026/ab9bc1def7dd76fb.png)](https://bang-dream.com/wordpress/wp-content/uploads/2026/03/02152530/26051431-946b3a99-2959f241-3f726788.png)
+- - [![](https://img.tano.asia/i/68cd17c8-afc7-4300-a278-6a68599034bd.webp)](https://bang-dream.com/wordpress/wp-content/uploads/2026/03/02152539/a1715d0c-1c09762d-01e1f6de-6e7965a4.png)
+  - [![](https://img.tano.asia/i/cf1acdf5-f882-4ddd-9129-6f1b00924e90.webp)](https://bang-dream.com/wordpress/wp-content/uploads/2026/03/02152530/26051431-946b3a99-2959f241-3f726788.png)
 
 ###### 販売場所
 

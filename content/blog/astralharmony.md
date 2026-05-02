@@ -54,7 +54,7 @@ Morfonica（進藤あまね、直田姫奈、西尾夕香、mika、Ayasa）
 
 ###### プレミアムシート特製グッズ
 
-![](/assets/bang-dream/blog/astralharmony/18fc52f58266dffa.jpg)
+![](https://img.tano.asia/i/698b8dc1-0708-4010-b5a1-8f9207b8b481.webp)
 
 ※プレミアムシートチケット1枚につき特典1式を差し上げます（ 公演期間中のみ有効）
 ※プレミアムシートの特典は非売品となりますので、 一般販売グッズには含まれておりません。
@@ -112,9 +112,9 @@ Morfonica（進藤あまね、直田姫奈、西尾夕香、mika、Ayasa）
 
 ### グッズ一覧
 
-[![](/assets/bang-dream/blog/astralharmony/d6eb926d1e83ffc9.jpg)](https://bang-dream.com/2025/renew/62de2ba8-68c6-44ab-9d61-57347b773c84.jpg)
+[![](https://img.tano.asia/i/00d9a376-55e0-480e-84b3-aff6493cdd91.webp)](https://bang-dream.com/2025/renew/62de2ba8-68c6-44ab-9d61-57347b773c84.jpg)
 
-[![](/assets/bang-dream/blog/astralharmony/2c0251b6c5a55578.jpg)](https://bang-dream.com/2025/renew/8de4d7c0-1a27-4eed-9c61-3991d51c6d02.jpg)
+[![](https://img.tano.asia/i/69069651-fd49-4582-800c-51b35ca4884e.webp)](https://bang-dream.com/2025/renew/8de4d7c0-1a27-4eed-9c61-3991d51c6d02.jpg)
 
 ### グッズ販売について
 
@@ -170,7 +170,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 お越しになる際に、QRコードが印字されている紙の整理券も失くさずにお持ちください。
 整理券を確認させていただいた後に、物販会場へご入場いただけます。
 
-![](/assets/bang-dream/blog/astralharmony/e13acdd7294d953f.jpg)
+![](https://img.tano.asia/i/66aa5f33-5948-4717-9e48-816258729dcb.webp)
 
 ###### デジタル整理券についての注意事項
 
@@ -248,7 +248,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 
 ###### 期間限定通販
 
-[![](/assets/bang-dream/news/1145/d2bca4c197c30cae.jpg)](https://bushiroad-ecshop.com/pages/astralharmony)
+[![](https://img.tano.asia/i/1a07eb7b-2b58-4a77-873d-661310acdbe1.webp)](https://bushiroad-ecshop.com/pages/astralharmony)
 
 Poppin'Party×Morfonica Friendship LIVE「Astral Harmony」の新商品を期間限定で通販いたします。
 
@@ -259,7 +259,7 @@ Poppin'Party×Morfonica Friendship LIVE「Astral Harmony」の新商品を期間
 
 ###### 先行通販※終了しました
 
-[![](/assets/bang-dream/blog/astralharmony/93482ea0c7da75d8.jpg)](https://bushiroad-ecshop.com/pages/astralharmony-pre)
+[![](https://img.tano.asia/i/35cfb0d3-c23a-45ba-9465-aba44c7911ca.webp)](https://bushiroad-ecshop.com/pages/astralharmony-pre)
 
 Poppin'Party×Morfonica Friendship LIVE「Astral Harmony」の一部グッズを先行通販いたします。
 
@@ -274,7 +274,7 @@ Poppin'Party×Morfonica Friendship LIVE「Astral Harmony」の一部グッズを
 
 ライブ当日の会場物販と、後日行う通販の購入特典として、1会計につき3000円(税込)以上のお買い上げの方に1枚「ガルパ記念ショッパー」をプレゼント！
 
-![](/assets/bang-dream/blog/astralharmony/95f48a8ceaba71b1.jpg)
+![](https://img.tano.asia/i/03f4f38c-78f6-4b2e-b04c-293a03d3bc74.webp)
 
 ※特典はなくなり次第終了となります。
 ※不良品以外の交換はできませんので、ご了承ください。
@@ -283,7 +283,7 @@ Poppin'Party×Morfonica Friendship LIVE「Astral Harmony」の一部グッズを
 
 ライブ会場またはライブ・ビューイング会場に来場された方には、お一人様1枚「ガルパ4周年特製ステッカー」をプレゼント！
 
-![](/assets/bang-dream/blog/astralharmony/5c8833d27a13a7f0.jpg)
+![](https://img.tano.asia/i/5134e09c-3b1b-45f8-bcd4-88541d49721c.webp)
 
 ※不良品以外の交換はできませんので、ご了承ください。
 

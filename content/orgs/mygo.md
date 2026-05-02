@@ -7,10 +7,10 @@ org: ["mygo"]
 url: "https://bang-dream.com/artist/mygo/"
 founded: ""
 theme:
-  logo: "/assets/bang-dream/orgs/907d36544d1fd5a2.webp"
+  logo: "/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp"
   bgImage: null
 ---
 
-[![BanG Dream! It's MyGO!!!!!](/assets/bang-dream/orgs/mygo/6137fe21aa3dc31d.png)
+[![BanG Dream! It's MyGO!!!!!](https://img.tano.asia/i/c48234c7-3617-4cf1-ad66-96b15587b1c9.webp)
 
 ### BanG Dream! It's MyGO!!!!!](https://anime.bang-dream.com/mygo/)

@@ -15,7 +15,7 @@ Media
 
 # バンステ！BanG Dream! STATION 2023
 
-![](/assets/bang-dream/media/bang_station_2023/a6c08321de6e1c8f.png)
+![](https://img.tano.asia/i/1ef25f2e-8400-44e3-8594-c527b599cfb8.webp)
 
 [番組情報](#channel)[放送内容](#onair)
 

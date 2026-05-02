@@ -13,7 +13,7 @@ Media
 
 # ぽぴばん！～ぽぴぱのばんぐみ～
 
-![](/assets/bang-dream/media/popi_bang/0a8516cf90c11f51.png)
+![](https://img.tano.asia/i/fd39134a-0eb9-469a-91fc-94a2694b3aa6.webp)
 
 ## 番組情報
 

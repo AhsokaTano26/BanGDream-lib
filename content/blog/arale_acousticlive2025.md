@@ -167,7 +167,7 @@ ARALE Acoustic LIVE ～Copal～
 お客様よりお送りいただくフラワースタンド等のお祝い花についてのご案内を致します。
 フラワースタンド等の祝花をご手配される際は、以下の点にご注意ください。
 
-![](/assets/bang-dream/blog/yumemita_yunos_party_lv2/0d5ee0a1c63c8f6d.jpg)
+![](https://img.tano.asia/i/6803a234-fc42-4332-abbc-ea0380fad304.webp)
 
 ・サイズ
 フラワースタンドについては、底辺(スタンド足部分)が40センチ×40センチ、高さが180センチ、全体の横幅が100センチ以下のものでお願いいたします。

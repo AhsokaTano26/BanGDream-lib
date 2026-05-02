@@ -9,7 +9,7 @@ org: ["other"]
 url: "https://bang-dream.com/events/ras_japanjam2020/"
 ---
 
-![](/assets/bang-dream/blog/ras_japanjam2020/92691c9199455990.jpg)
+![](https://img.tano.asia/i/66d2767b-0881-4012-9e76-261df0878a53.webp)
 
 ###### 4/30(木)18:00追記
 
@@ -22,7 +22,7 @@ JAPAN JAM 2020に出演予定だったアーティストの過去のフェス出
 【日時】
 5月6日(水・振休)の12:00〜24:00に[フェス公式アプリ「Jフェス」](https://ewhx5.app.goo.gl?link=https://fdl.fesapp.jp/home/all&apn=jp.fesapp&afl=http://japanjam.jp&ifl=http://japanjam.jp&ibi=jp.fesapp&ofl=http://japanjam.jp&st=J%E3%83%95%E3%82%A7%E3%82%B9%20-%20%E3%83%AD%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%B3%E3%81%AE%E3%83%95%E3%82%A7%E3%82%B9%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA%20(J-FES.)&sd=%E3%81%93%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%82%92J%E3%83%95%E3%82%A7%E3%82%B9%E3%82%A2%E3%83%97%E3%83%AA%E3%81%A7%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%99%E3%82%8B&si=https://fesapp.jp/nx/intro/OGP.png)にて期間限定配信
 
-![](/assets/bang-dream/blog/ras_japanjam2020/bc5168ba2b60fcb2.jpeg)
+![](https://img.tano.asia/i/20ca4dc9-0dad-400b-9b9b-c0423598a8de.webp)
 
 ###### 4/3(金)10:00追記
 
@@ -48,7 +48,7 @@ rockin'on presents JAPAN JAM 2020
 
 **3/11(水) タイムテーブル解禁！**
 
-![](/assets/bang-dream/blog/ras_japanjam2020/d0337c1d86e56e7a.png)
+![](https://img.tano.asia/i/483b130f-9e2d-4118-9f9d-68602b49bd2b.webp)
 
 ###### 会場
 

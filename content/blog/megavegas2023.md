@@ -22,11 +22,11 @@ MEGA VEGAS 2023
 
 ###### 3月12日(日) 15:30よりRAISE A SUILENが出演！
 
-![](/assets/bang-dream/blog/anierafesta2025/d2ab3765f19f99a9.jpg)
+![](https://img.tano.asia/i/2ce5a0be-0321-496d-a1ad-ce8b170f8764.webp)
 
 ## タイムテーブル
 
-![](/assets/bang-dream/blog/megavegas2023/4527847eebb8c41d.jpeg)
+![](https://img.tano.asia/i/e1631a66-a81b-4f2c-843f-33e19043c437.webp)
 
 ## 会場
 

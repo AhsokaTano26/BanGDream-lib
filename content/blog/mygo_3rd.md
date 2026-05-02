@@ -63,7 +63,7 @@ MyGO!!!!!
 
 ## グッズ販売について
 
-[![](/assets/bang-dream/blog/mygo_3rd/b23b5cca57cee5cb.jpg)](https://bang-dream.com/2025/renew/8bafd373-9e1e-4298-927c-241d64e423be.jpg)
+[![](https://img.tano.asia/i/3bf47abc-1e98-4b0c-981c-ab8958e7de67.webp)](https://bang-dream.com/2025/renew/8bafd373-9e1e-4298-927c-241d64e423be.jpg)
 
 販売場所：COOL JAPAN PARK OSAKA WWホール
 販売日時：①先行物販 11月26日（土）14:00~16:30

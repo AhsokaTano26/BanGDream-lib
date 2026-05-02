@@ -15,7 +15,7 @@ Media
 
 # BanG Dream! presents Dreamer's Tunes
 
-![](/assets/bang-dream/media/dreamers_tunes/e7d14aee79e4ad00.jpg)
+![](https://img.tano.asia/i/8fba7a4c-23cd-4171-b324-672039774904.webp)
 
 ## 番組情報
 

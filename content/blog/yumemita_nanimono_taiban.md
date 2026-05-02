@@ -25,7 +25,7 @@ NANIMONO × 夢限大みゅーたいぷ
 
 ###### 1月23日(木) 対バンLIVEが決定！
 
-![](/assets/bang-dream/blog/yumemita_nanimono_taiban/57b51596b8befff8.jpg)
+![](https://img.tano.asia/i/22de9025-15c4-438c-ad8e-19dc8b0baafd.webp)
 
 ## 会場
 
@@ -41,7 +41,7 @@ NANIMONO / 夢限大みゅーたいぷ
 
 [https://nanimono-official.com/#/schedule/yPyJD62B1FPCjyZnBToOE](https://nanimono-official.com/#/schedule/yPyJD62B1FPCjyZnBToOE)
 ※公式HPの注意事項等をご一読の上チケットをご購入ください。
-![](/assets/bang-dream/blog/yumemita_nanimono_taiban/a7dd9c406c5bd931.jpg)
+![](https://img.tano.asia/i/f8cd7f50-77de-4b00-a6f1-54f8862975d8.webp)
 
 ##### チケット販売
 

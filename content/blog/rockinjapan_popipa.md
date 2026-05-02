@@ -25,7 +25,7 @@ rockin'on presents ROCK IN JAPAN FESTIVAL 2019
 ###### タイムスケジュール
 
 6月19日解禁！
-![](/assets/bang-dream/blog/rockinjapan_popipa/d007e54991cf4b1e.jpg)
+![](https://img.tano.asia/i/11fc4a67-fa87-45db-a2b8-0bcecfe04457.webp)
 
 ###### 会場
 

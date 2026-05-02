@@ -22,11 +22,11 @@ url: "https://bang-dream.com/events/choujigen2023/"
 
 ###### 2月12日(日) 16:00～ Morfonicaが出演！
 
-![](/assets/bang-dream/blog/choujigen2023/e0714e772bd239ce.jpg)
+![](https://img.tano.asia/i/782282fe-32c1-43f6-a298-5260654c216c.webp)
 
 ## タイムテーブル
 
-![](/assets/bang-dream/blog/choujigen2023/bd5d3f52c9830633.png)
+![](https://img.tano.asia/i/6de5881b-b35f-4b06-8767-a4268d5080a7.webp)
 
 ## 会場
 

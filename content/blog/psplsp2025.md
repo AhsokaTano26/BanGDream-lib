@@ -88,7 +88,7 @@ URL：[https://eplus.jp/pspl_event_2025/st/](https://eplus.jp/pspl_event_2025/st
 
 ### 販売商品一覧
 
-[![](/assets/bang-dream/blog/psplsp2025/0e04a6ecb6781e29.jpg)](https://bang-dream.com/2025/renew/c4c1826a-27fc-4558-a588-b1357b95f3e2.jpg)[![](/assets/bang-dream/blog/psplsp2025/5387c9352ffeda99.jpg)](https://bang-dream.com/2025/renew/c2128757-73b0-49cd-a4b5-a9976550f63c.jpg)
+[![](https://img.tano.asia/i/0b84095d-dfbc-4609-93aa-886b85bcde01.webp)](https://bang-dream.com/2025/renew/c4c1826a-27fc-4558-a588-b1357b95f3e2.jpg)[![](https://img.tano.asia/i/0d206415-35d1-491c-8443-172707d8d776.webp)](https://bang-dream.com/2025/renew/c2128757-73b0-49cd-a4b5-a9976550f63c.jpg)
 
 ※商品は予告なく変更・販売中止となる場合がありますので、ご了承くださいませ。
 
@@ -184,7 +184,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 
 ## グッズ通販
 
-![](/assets/bang-dream/blog/psplsp2025/a943886e17f8e9ad.jpg)
+![](https://img.tano.asia/i/f51f41bd-e1ad-482c-9ca4-b259b85d13b9.webp)
 
 Pastel＊Palettes Special Event「Together!!」にて販売する新商品の先行通販を実施いたします！
 ※本通販は現地受取の実施はございません。

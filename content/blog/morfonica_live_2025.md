@@ -49,11 +49,11 @@ Morfonica
 
 Morfonicaブレード
 
-![](/assets/bang-dream/blog/morfonica_live_2025/5e697a4a217be696.jpg)
+![](https://img.tano.asia/i/845c125d-0afa-4428-8409-018e89734a34.webp)
 
 ###### 会場座席イメージ
 
-![](/assets/bang-dream/blog/morfonica_live_2025/fdfd160ddbbcac6a.jpg)
+![](https://img.tano.asia/i/f1b82dc3-6bd3-4bbb-974c-6cd5ce23ce82.webp)
 
 ### 販売情報
 
@@ -122,7 +122,7 @@ Archive : available until January 6, 2026 (Tue.) 23:59 JST
 
 ## グッズ通販
 
-![](/assets/bang-dream/blog/morfonica_live_2025/6ba6ff677f1fc0a6.jpg)
+![](https://img.tano.asia/i/4ac93218-9dc1-4389-9156-e1f30b4ee2ff.webp)
 
 Morfonica 5th Anniversary LIVE「Maestoso」にて販売する新商品の通販を実施いたします！
 
@@ -136,8 +136,8 @@ Morfonica 5th Anniversary LIVE「Maestoso」にて販売する新商品の通販
 
 ###### 販売商品一覧
 
-- [![](/assets/bang-dream/blog/morfonica_live_2025/4264157c07ed916e.png)](https://bang-dream.com/2025/renew/c24b7d44-2931-42a2-a03c-34e360831b16.png)
-- [![](/assets/bang-dream/blog/morfonica_live_2025/8c57af51a4a58b17.png)](https://bang-dream.com/2025/renew/36bc35ea-ffd1-4cc2-82bf-1654bd8717de.png)
+- [![](https://img.tano.asia/i/b8bad351-9847-44c9-a461-07f03f90005b.webp)](https://bang-dream.com/2025/renew/c24b7d44-2931-42a2-a03c-34e360831b16.png)
+- [![](https://img.tano.asia/i/c470f5ab-0119-4175-960a-e318bdec7108.webp)](https://bang-dream.com/2025/renew/36bc35ea-ffd1-4cc2-82bf-1654bd8717de.png)
 
 #### 販売場所
 
@@ -181,12 +181,12 @@ Morfonica 5th Anniversary LIVE「Maestoso」にて販売する新商品の通販
 
 ###### プロテインブース
 
-[![](/assets/bang-dream/blog/morfonica_live_2025/ab3bf06a21a80dd7.png)](https://bang-dream.com/2025/renew/48e1b6cf-d93d-40c4-b636-26d52ce5ccfa.png)
+[![](https://img.tano.asia/i/ad22ceee-baad-4aec-8136-2fd5fc8870c3.webp)](https://bang-dream.com/2025/renew/48e1b6cf-d93d-40c4-b636-26d52ce5ccfa.png)
 
 ▼購入特典
 会場で販売のプロテインバーを１BOX購入ごとに「Maestoso」ライブKVポストカードを1枚プレゼント!
 さらに2BOX購入ごとに「Maestoso」ライブKVオリジナルA2ポスターをプレゼント！
-![](/assets/bang-dream/blog/morfonica_live_2025/dd5bcc815b1041aa.jpg)
+![](https://img.tano.asia/i/1b20e1ff-36fa-4a66-9e78-71d5028c67f5.webp)
 
 ※特典の数量には限りがございます。
 ※公式物販およびプロテインブースでのご購入が対象となります。
@@ -250,7 +250,7 @@ Morfonica 5th Anniversary LIVE「Maestoso」にて販売する新商品の通販
 
 Morfonica 5th Anniversary LIVE「Maestoso」会場購入特典が決定！
 
-[![](/assets/bang-dream/blog/morfonica_live_2025/41522a9583516818.jpg)](https://bang-dream.com/2025/renew/db516599-1d53-4513-a4b0-bcfd2f6a15a4.jpg)
+[![](https://img.tano.asia/i/947568df-bb3b-4940-8784-826af35787dd.webp)](https://bang-dream.com/2025/renew/db516599-1d53-4513-a4b0-bcfd2f6a15a4.jpg)
 
 会場のCD・Blu-ray販売ブースにて、BanG Dream!関連商品(CD,Blu-ray商品)をご購入いただいたお客様へ「Morfonica 5th Anniversary LIVE『Maestoso』バックステージパス風ステッカー(全5種)」をランダムで1枚プレゼントいたします。
 
@@ -406,7 +406,7 @@ Morfonicaメンバー5名の直筆サイン入りMorfonica 8th Single「Feathere
 お客様よりお送りいただくフラワースタンド等のお祝い花についてのご案内を致します。
 フラワースタンド等の祝花をご手配される際は、以下の点にご注意ください。
 
-![](/assets/bang-dream/blog/mygo_9th/dae6ce8a09545772.jpg)
+![](https://img.tano.asia/i/c9105152-4210-4db5-8fe2-2a31161df8c2.webp)
 
 ・サイズ
 フラワースタンドについては、底辺(スタンド足部分)が40センチ×40センチ、高さが180センチ、全体の横幅が100センチ以下のものでお願いいたします。

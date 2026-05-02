@@ -13,7 +13,7 @@ Media
 
 # Roselia LIVE TOUR「Rosenchor」開催記念！RoseliaのRADIO SHOUT!
 
-![](/assets/bang-dream/media/radioshout2024/210e3195d7401682.png)
+![](https://img.tano.asia/i/ef42e3f4-e9c3-431d-8ca9-39971ae6f2ab.webp)
 
 ## 番組情報
 

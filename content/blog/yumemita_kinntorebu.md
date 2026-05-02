@@ -14,7 +14,7 @@ url: "https://bang-dream.com/events/yumemita_kinntorebu/"
 - [注意事項](#Notice)
 - [お問い合わせ](#h15slv9b5suq1bbu9hv1aqqlxj11ajzm2)
 
-![](/assets/bang-dream/blog/yumemita_kinntorebu/86fd0f5c1b0b329b.png)
+![](https://img.tano.asia/i/cceb1c7f-8a43-4e74-86e4-0da825bca71f.webp)
 
 ## 公演名
 

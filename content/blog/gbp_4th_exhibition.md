@@ -109,10 +109,10 @@ CNプレイガイド
 
 出演者：
 
-- ![](/assets/bang-dream/blog/gbp_4th_exhibition/0cecb933bec2e2db.jpg)
+- ![](https://img.tano.asia/i/1b826f8c-58d4-47a0-be5e-b59ccc8eaa76.webp)
   
   前島亜美（丸山彩役）
-- ![](/assets/bang-dream/blog/gbp_4th_exhibition/3cde457a93a6c040.jpg)
+- ![](https://img.tano.asia/i/ed6678bd-d0ab-4ba4-b7a3-fd17be117c2f.webp)
   
   小澤亜李（氷川日菜役）
 
@@ -129,9 +129,9 @@ URL：[https://form.bushiroad.com/form/4thexhibition_sp](https://form.bushiroad.
 フォームにはシリアルコードのご記入を必ずお願いいたします。
 シリアルコードはチケットの一部に記載されています。下記画像の赤枠部分に記載されているコードになります。
 
-- ![](/assets/bang-dream/blog/gbp_4th_exhibition/d825ea1efebbc22d.png)
-- ![](/assets/bang-dream/blog/gbp_4th_exhibition/3efe6e98cf0ee76a.jpg)
-- ![](/assets/bang-dream/blog/gbp_4th_exhibition/698fec75e7fd5d79.png)
+- ![](https://img.tano.asia/i/79c775cd-7c63-42ae-8e80-9128de60c689.webp)
+- ![](https://img.tano.asia/i/7e063a5e-d7e0-45dc-b1d8-f8d0feff0a7e.webp)
+- ![](https://img.tano.asia/i/97ad879a-8d43-46d2-9fe4-fbc2cc1a9300.webp)
 
 ※ハイフンの記入は不要になります。
 ※MOALA Ticket コードの場合、コード先頭、 QTを除いた8文字をご入力いただけますと幸いです。
@@ -144,10 +144,10 @@ URL：[https://form.bushiroad.com/form/4thexhibition_sp](https://form.bushiroad.
 
 ### 先着特典
 
-- ![](/assets/bang-dream/blog/gbp_4th_exhibition/9c704f299a113ee4.jpg)
+- ![](https://img.tano.asia/i/41921cd5-5d9c-43a8-a036-1f19cda3aae2.webp)
   
   バンドリ！ 洗えるウレタンマスク ホワイト
-- ![](/assets/bang-dream/blog/gbp_4th_exhibition/1a05adaeca66594b.jpg)
+- ![](https://img.tano.asia/i/c155e80c-55bd-40e9-aec3-5619f6959266.webp)
   
   バンドリ！ 洗えるウレタンマスク グレー
 
@@ -161,10 +161,10 @@ URL：[https://form.bushiroad.com/form/4thexhibition_sp](https://form.bushiroad.
 
 PRカード（全2種）
 
-- ![](/assets/bang-dream/blog/gbp_4th_exhibition/0745e6ea13d10122.png)
+- ![](https://img.tano.asia/i/56070aaa-81bb-47c5-816e-30ce7b6c5597.webp)
   
   ヴァイスシュヴァルツ「BanG Dream!」1種
-- ![](/assets/bang-dream/blog/gbp_4th_exhibition/39a85bc711d8d2a1.png)
+- ![](https://img.tano.asia/i/7cf7c994-8fe1-43fb-8a35-ae18d8450064.webp)
   
   Re バース for you「BanG Dream! ガルパ✩ピコ」1種
 
@@ -178,7 +178,7 @@ PRカード（全2種）
 
 ### 会場マップ
 
-![](/assets/bang-dream/blog/gbp_4th_exhibition/6b41739f77c4750b.jpg)
+![](https://img.tano.asia/i/65fddbbc-f867-456e-957a-fc6ebc8e6c6c.webp)
 
 ### 展示内容
 
@@ -186,13 +186,13 @@ PRカード（全2種）
 
 過去にガルパで開催したイベントをイラストとともに振り返りろう！
 
-![](/assets/bang-dream/blog/gbp_4th_exhibition/9bbdf75de5675ace.JPG)
+![](https://img.tano.asia/i/60ed3e36-1510-427c-a822-535d9e6922d9.webp)
 
 ###### ドリームフェスティバルガチャイラスト展示エリア
 
 過去のドリームフェスティバルガチャに登場したメンバーのイラストを鑑賞しよう！
 
-![](/assets/bang-dream/blog/gbp_4th_exhibition/dcdb8293d579b02c.jpg)
+![](https://img.tano.asia/i/76cba4a2-00dd-4f4d-a9ee-3d6cb84dc066.webp)
 
 ###### ガルパ4周年記念イラスト展示エリア
 
@@ -202,7 +202,7 @@ PRカード（全2種）
 
 ガルパの楽曲選択画面のCDジャケットをCDにして展示！
 
-![](/assets/bang-dream/blog/gbp_4th_exhibition/21d8b32181c4458f.JPG)
+![](https://img.tano.asia/i/c2e3fc80-6016-4712-b352-00c87ef1f8b4.webp)
 
 ###### ムービー鑑賞エリア
 
@@ -217,7 +217,7 @@ PRカード（全2種）
 
 アニメやゲームに登場する有咲の蔵をフォトスポットにして再現！
 
-![](/assets/bang-dream/blog/gbp_4th_exhibition/f3e58ea5f118a3f7.jpg)
+![](https://img.tano.asia/i/2c801bf0-1524-484f-a57d-0217a13e0f41.webp)
 
 ###### バンドリ！ライブ年表
 
@@ -227,7 +227,7 @@ PRカード（全2種）
 
 バンドリ！プロジェクトの過去にキャストが着用した衣装を展示！ライブ映像とともに鑑賞しよう！
 
-![](/assets/bang-dream/blog/gbp_4th_exhibition/6aa0e25d9408220a.JPG)
+![](https://img.tano.asia/i/6142754e-9c9c-4395-8065-6260214f0c2a.webp)
 
 ###### ガルパキャスト4周年記念コメント展示エリア
 
@@ -237,7 +237,7 @@ PRカード（全2種）
 
 「カードファイト!! ヴァンガード」「ヴァイスシュヴァルツ」「Re バース for you」に参戦中の『バンドリ！』関連カードを展示！
 
-![](/assets/bang-dream/blog/gbp_4th_exhibition/0359728bc9b187d5.jpg)
+![](https://img.tano.asia/i/5f38c4e4-c3b5-4449-b145-6588fb462dbb.webp)
 
 ## 物販情報
 
@@ -245,9 +245,9 @@ PRカード（全2種）
 
 ###### お品書き
 
-![](/assets/bang-dream/blog/gbp_4th_exhibition/06b8fd4638c01856.jpg)
+![](https://img.tano.asia/i/ee2e6614-8869-4296-8f30-884b9cba51f0.webp)
 
-![](/assets/bang-dream/blog/gbp_4th_exhibition/dcdd251b57504c48.jpg)
+![](https://img.tano.asia/i/be852ca9-ea6d-4550-b129-a26b78975b36.webp)
 
 ###### 購入制限について
 
@@ -278,7 +278,7 @@ PRカード（全2種）
 
 #### プレミアムブースター バンドリ！ ガールズバンドパーティ！
 
-![](/assets/bang-dream/blog/gbp_4th_exhibition/016bae362262ab3a.jpg)
+![](https://img.tano.asia/i/b7fc29a9-71ef-4236-ad17-6ff8d8d1ac03.webp)
 
 ガルパ4周年記念として初回出荷10,000ボックス限定商品の「プレミアムブースター バンドリ！ ガールズバンドパーティ！」。
 数量限定で「ガルパ4周年記念展 in Gallery AaMo」にて販売実施が決定！
@@ -293,10 +293,10 @@ PRカード（全2種）
 
 1会計2,000円（税込）以上購入で各TCGのPRカードをプレゼント！
 
-- ![](/assets/bang-dream/blog/gbp_4th_exhibition/3e2582be163a3d68.png)
+- ![](https://img.tano.asia/i/096ad4f3-6469-4ab3-8e92-47f881398519.webp)
   
   ヴァイスシュヴァルツ「BanG Dream!」1種
-- ![](/assets/bang-dream/blog/gbp_4th_exhibition/3ccdaf5a81cca8ff.png)
+- ![](https://img.tano.asia/i/4c692c2f-1a3d-4604-8261-d5a842ea2f26.webp)
   
   Re バース for you「BanG Dream! ガルパ✩ピコ」1種
 
@@ -312,7 +312,7 @@ PRカード（全2種）
 
 1会計3,000円（税込）以上購入で「ガルパ記念ショッパー」をプレゼント！
 
-![](/assets/bang-dream/blog/gbp_4th_exhibition/b94ffce406cb4a38.jpg)
+![](https://img.tano.asia/i/6c8a7906-3d6c-4307-bd53-b25caee41860.webp)
 
 ※2月22日23日に横浜アリーナにて開催された「Rausch und/and Craziness Ⅱ」および、「Astral Harmony」の会場物販で配布した特典と同じ物です。
 ※「ブシロード大展示会 in Gallery AaMo」全会期共通特典となります。配布は先着順とし、なくなり次第終了となります。

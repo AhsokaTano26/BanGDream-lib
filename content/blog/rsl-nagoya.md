@@ -187,7 +187,7 @@ SOLD OUT
 
 イベント会場にて販売される一部グッズをブシロード EC SHOPにて期間限定通販いたします。
 
-![](/assets/bang-dream/blog/rsl-nagoya/0a22085a9668dcae.jpg)
+![](https://img.tano.asia/i/cf6c8899-bc58-4a69-83e5-6550aba225fb.webp)
 
 通販期間：2020年1月17日(金)15時～1月29日(水) 13時まで
 発送時期：2020年2月下旬予定

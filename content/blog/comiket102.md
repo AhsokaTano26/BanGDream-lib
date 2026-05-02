@@ -64,16 +64,16 @@ No.2523 (南3・4ホール)
 
 ## 販売グッズ
 
-![](/assets/bang-dream/blog/comiket102/adb8bf8143d9df8f.jpg)
+![](https://img.tano.asia/i/dc7dc22c-5925-4650-be93-f7526c432771.webp)
 
 ※記載の値段はイベント価格になります。
 
 ## ブース前配布グッズ
 
-- ![](/assets/bang-dream/blog/comiket102/38df104cf759ddf8.jpg)
+- ![](https://img.tano.asia/i/27332721-ed9b-4b12-9c94-cc8467450c54.webp)
   
   **MyGO!!!!!特製うちわ**
-- ![](/assets/bang-dream/blog/comiket102/ffaefc0380a8b0cf.jpg)
+- ![](https://img.tano.asia/i/5ae38a12-6797-4b31-a2c5-4fd2263c583d.webp)
   
   **C102 ブシロードブース特製紙袋（片面）**
 
@@ -99,7 +99,7 @@ MyGO!!!!!メンバーによる特典お渡し会が開催決定！
 
 ## お渡し特典
 
-- ![](/assets/bang-dream/blog/comiket102/ede36412b8ea54fc.jpg)
+- ![](https://img.tano.asia/i/6bf5fb80-6a3d-4c3e-97f1-1f5cbf95a9fc.webp)
   
   **特製ポストカード**
 

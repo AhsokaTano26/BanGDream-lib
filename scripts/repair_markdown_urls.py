@@ -5,6 +5,7 @@ import argparse
 import re
 import sys
 from pathlib import Path
+from urllib.parse import urljoin, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
@@ -16,6 +17,19 @@ from scripts.bang_dream_crawler import sanitize_url_for_mdc
 MARKDOWN_LINK_RE = re.compile(r"(!?\[[^\]]*\]\()([^)]+)(\))")
 HTML_ATTR_RE = re.compile(r'((?:href|src)=["\'])([^"\']+)(["\'])')
 FRONTMATTER_URL_RE = re.compile(r"^(\s*(?:url|link):\s*[\"']?)([^\"'\n]+)([\"']?)\s*$")
+IMAGE_URL_RE = re.compile(r"(!?\[[^\]]*\]\()([^)]+)(\))")
+HTML_ATTR_URL_RE = re.compile(r'((?:href|src)=["\'])([^"\']+)(["\'])')
+
+
+def normalize_url(raw_url: str) -> str:
+    raw = (raw_url or "").strip()
+    if not raw:
+        return raw
+    if raw.startswith(("http://", "https://", "data:", "mailto:", "javascript:")):
+        return raw
+    if raw.startswith("/i/") or raw.startswith("i/"):
+        return urljoin("https://img.tano.asia", raw.lstrip("/"))
+    return raw
 
 
 def repair_text(text: str) -> tuple[str, int]:
@@ -24,7 +38,7 @@ def repair_text(text: str) -> tuple[str, int]:
     def replace_markdown(match: re.Match[str]) -> str:
         nonlocal changes
         prefix, raw_url, suffix = match.groups()
-        fixed = sanitize_url_for_mdc(raw_url) or "#"
+        fixed = normalize_url(sanitize_url_for_mdc(raw_url) or raw_url)
         if fixed != raw_url:
             changes += 1
         return f"{prefix}{fixed}{suffix}"
@@ -32,20 +46,20 @@ def repair_text(text: str) -> tuple[str, int]:
     def replace_attr(match: re.Match[str]) -> str:
         nonlocal changes
         prefix, raw_url, suffix = match.groups()
-        fixed = sanitize_url_for_mdc(raw_url) or "#"
+        fixed = normalize_url(sanitize_url_for_mdc(raw_url) or raw_url)
         if fixed != raw_url:
             changes += 1
         return f"{prefix}{fixed}{suffix}"
 
-    text = MARKDOWN_LINK_RE.sub(replace_markdown, text)
-    text = HTML_ATTR_RE.sub(replace_attr, text)
+    text = IMAGE_URL_RE.sub(replace_markdown, text)
+    text = HTML_ATTR_URL_RE.sub(replace_attr, text)
 
     lines = []
     for line in text.splitlines():
         m = FRONTMATTER_URL_RE.match(line)
         if m:
             prefix, raw_url, suffix = m.groups()
-            fixed = sanitize_url_for_mdc(raw_url) or "#"
+            fixed = normalize_url(sanitize_url_for_mdc(raw_url) or raw_url)
             if fixed != raw_url:
                 changes += 1
             quote = '"' if '"' in line or not suffix else suffix

@@ -15,7 +15,7 @@ Media
 
 # MORFONICAL/もるふぉにかる
 
-![](/assets/bang-dream/media/morfonical/a90c6ad219335057.jpg)
+![](https://img.tano.asia/i/82d2713d-31a7-4346-8e4e-3cfba76faa8a.webp)
 
 ## 番組情報
 

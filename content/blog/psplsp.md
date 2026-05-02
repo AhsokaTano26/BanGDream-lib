@@ -141,9 +141,9 @@ Pastel＊Palettes 5th Single「[きゅ～まい＊flower](https://bang-dream.com
 
 ###### 販売商品一覧
 
-![](/assets/bang-dream/blog/psplsp/35288c511bc39bcf.jpg)
+![](https://img.tano.asia/i/783cc9bc-b23a-442c-9b49-9767b13a4f2e.webp)
 
-![](/assets/bang-dream/blog/psplsp/209bdf6f007bd3b4.jpg)
+![](https://img.tano.asia/i/874d266b-09dd-40f1-8c0c-dab76a7da39d.webp)
 
 ###### ご購入制限
 
@@ -335,8 +335,8 @@ TEL：03-5800-3799（10:00～18:00）
 
 ## Special Thanks
 
-![](/assets/bang-dream/blog/psplsp/63ec85ed49b6ea8a.jpg)
+![](https://img.tano.asia/i/a56ebbd6-28ae-4805-a874-9b6b6b1314c3.webp)
 
-![](/assets/bang-dream/blog/roselia_rausch/8532650670f7f76a.jpg)
+![](https://img.tano.asia/i/264e7d53-a093-4fee-bc8d-1a010ec75305.webp)
 
 [https://espguitars.co.jp/](https://espguitars.co.jp/)

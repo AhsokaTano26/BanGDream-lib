@@ -9,7 +9,7 @@ org: ["RAS"]
 url: "https://bang-dream.com/events/ras-pwst/"
 ---
 
-![](/assets/bang-dream/news/1121/2f8906796cc750ec.jpg)
+![](https://img.tano.asia/i/66d2767b-0881-4012-9e76-261df0878a53.webp)
 
 「日清食品 POWER STATION [REBOOT]」でRAISE A SUILENの配信ライブが開催決定！
 高い音楽性と演奏テクニック、激しいパフォーマンスにご注目ください！

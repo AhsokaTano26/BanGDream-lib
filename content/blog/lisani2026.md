@@ -21,11 +21,11 @@ url: "https://bang-dream.com/events/lisani2026/"
 
 ###### 1月31日(土) SATURDAY STAGEに夢限大みゅーたいぷが出演！
 
-![](/assets/bang-dream/blog/lisani2026/8d95cc981d80f088.jpg)
+![](https://img.tano.asia/i/cc6d3333-bbdf-4b13-9e28-6a1ccd7461cd.webp)
 
 ## 出演アーティスト
 
-![](/assets/bang-dream/blog/lisani2026/bcc0ad1216fb0d0c.jpg)
+![](https://img.tano.asia/i/af6eeac3-dc59-4311-bd0e-83f202c10ddf.webp)
 
 ## 会場
 

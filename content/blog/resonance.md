@@ -83,9 +83,9 @@ Morfonica（進藤あまね、直田姫奈、mika、Ayasa）
 
 ## グッズ販売についてのご案内
 
-![](/assets/bang-dream/blog/resonance/b79ba046192cd312.jpg)
+![](https://img.tano.asia/i/43bd9389-b1b7-4cad-923d-f299503ecf5b.webp)
 
-![](/assets/bang-dream/blog/resonance/8d0db4293f772119.jpg)
+![](https://img.tano.asia/i/e74eeccf-b491-4366-9a01-775056de5d0d.webp)
 
 #### 販売方法
 
@@ -183,7 +183,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 ※整理券は「1人・1回まで」とさせて頂きます。
 ※専用のアプリ等は必要ございませんが、QRコードの読み取りが可能な状態でお越しください。
 
-![](/assets/bang-dream/blog/resonance/28a6246d786a6232.png)
+![](https://img.tano.asia/i/ac91bed4-9f83-403c-8a00-d0f4bb5c2d9f.webp)
 
 ② 画面が「ご来店ください」になったら、物販会場へお越しください。
 お呼び出しの時間になりましたら、画面が切り替わります。
@@ -226,7 +226,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 
 ## グッズ通販
 
-![](/assets/bang-dream/blog/resonance/053d8abca6cd5c1a.jpg)
+![](https://img.tano.asia/i/abc78200-7f3c-458f-b8c0-dc6321253668.webp)
 
 Morfonica Concept LIVE「Resonance」の新商品を通販実施いたします！
 

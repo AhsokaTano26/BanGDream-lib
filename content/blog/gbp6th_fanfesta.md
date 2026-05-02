@@ -9,14 +9,14 @@ org: ["other"]
 url: "https://bang-dream.com/events/gbp6th_fanfesta/"
 ---
 
-![](/assets/bang-dream/blog/gbp6th_fanfesta/7ae2c0dc1ad41f5d.png)
+![](https://img.tano.asia/i/44c36320-0828-4539-a80f-4578c1e882be.webp)
 
 スマートフォン向けゲーム「バンドリ！ ガールズバンドパーティ！」のリリース6周年を記念した、3都市の連動施策「ガルパ6周年記念ファンフェスタ」の開催が決定！
 街中をのぼりやポスターなど、ガルパのビジュアルでジャックします！
 
 のぼりは3都市ともに全35種の掲出となっております！ぜひ遊びに来てくださいね♪
 
-![](/assets/bang-dream/blog/gbp6th_fanfesta/e341de8246116d51.png)
+![](https://img.tano.asia/i/322f7df0-301f-4eb0-ba49-44232044b99b.webp)
 
 ## 日時
 
@@ -90,7 +90,7 @@ D賞 100円お買物券
 ※ イベント内容及びノベルティグッズは予告なく変更となる場合がございます
 
 ###### 景品のビジュアルを公開！
-![](/assets/bang-dream/blog/gbp6th_fanfesta/43fd3ddc39808d4b.png)
+![](https://img.tano.asia/i/ed6cdc1e-b26a-42c1-a1a2-749157278bcb.webp)
 
 ※「C賞 クリアファイル」のデザインとなっております。
 
@@ -101,7 +101,7 @@ D賞 100円お買物券
 条件をクリアした方の中から抽選で6名様に「ガルパ6周年記念SDキャラステッカーセット」をプレゼントいたします！
 新しいビジュアルを使用したボーカル7人のステッカーセットです♪
 
-![](/assets/bang-dream/blog/gbp6th_fanfesta/f3e4d15a70a78f53.png)
+![](https://img.tano.asia/i/5af35db6-b976-4c47-b5b9-b51d85ea9467.webp)
 
 ※画像はイメージです。
 

@@ -9,7 +9,7 @@ org: ["other"]
 url: "https://bang-dream.com/events/bml-sp2021/"
 ---
 
-![](/assets/bang-dream/blog/animax2021/4057585bf8866c2b.jpg)
+![](https://img.tano.asia/i/92f4f7f3-3385-4e7f-845c-86e03a8561b5.webp)
 
 中国の動画配信サイト ビリビリ動画が上海で開催する大型ライブビューイングイベント「Bilibili Macro Link – Star Phase 2021(BML-SP2021)」のステージに日本特設会場からPoppin'Partyの出演が決定！
 当日は日本からも視聴可能！お楽しみに♪

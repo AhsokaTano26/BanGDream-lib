@@ -55,18 +55,18 @@ sumimi
 ※全席指定となります。
 ※本公演では、会場側および関連部門の要請により、コンサートライトやサイリウムの持ち込みが禁止となっていることに伴い、
 ご来場の皆様に応援用のペンライト（電池式24カラー、非制御式）を配布いたします。
-![](/assets/bang-dream/blog/mygo-avemujica2025_shanghai/d180ccd0c9eef576.png)
+![](https://img.tano.asia/i/c2bc1c38-1b7b-4362-9a8a-e4f51762487c.webp)
 
 ###### 座席イメージ図
 
-![](/assets/bang-dream/blog/mygo-avemujica2025_shanghai/115cfe149a4b19df.jpg)
+![](https://img.tano.asia/i/737ac706-3084-4321-b0bb-a13b1ad3650e.webp)
 
 ###### グッズ付チケット特典
 
 上海公演限定記念コインセット
 
-- 外箱![](/assets/bang-dream/blog/mygo-avemujica2025_shanghai/2d4a53da0ec1e661.jpg)
-- コインセット![](/assets/bang-dream/blog/mygo-avemujica2025_shanghai/07ad88091d592465.jpg)
+- 外箱![](https://img.tano.asia/i/a25fe713-0883-458d-9980-d8634e81479c.webp)
+- コインセット![](https://img.tano.asia/i/19fe6641-83f5-49b2-8b37-7cffe7bad48e.webp)
 
 ### 販売情報
 

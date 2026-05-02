@@ -21,11 +21,11 @@ rockin'on presents JAPAN JAM 2024
 
 ###### 5月3日(金･祝) 16:50～ WING STAGEに、MyGO!!!!!が出演！
 
-![](/assets/bang-dream/blog/asl2025/d658ed63e3ada941.jpg)
+![](https://img.tano.asia/i/a9f51836-32ef-4b35-8bed-5dfd37052186.webp)
 
 ## タイムテーブル
 
-![](/assets/bang-dream/blog/japanjam2024/083079433266dbc1.jpg)
+![](https://img.tano.asia/i/c88c516d-2ffc-45c0-8bcd-578d3a4274eb.webp)
 
 ## 会場
 

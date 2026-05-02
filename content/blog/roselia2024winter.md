@@ -51,11 +51,11 @@ A席(特製グッズ付き)：16,500円(税込)受付終了
 ###### グッズ付きチケット特典
 
 特製アクリルカレンダー
-![](/assets/bang-dream/blog/roselia2024winter/1f52956f58b3fa30.jpg)
+![](https://img.tano.asia/i/144b5ad8-7e66-457d-a4f5-55604ec4a760.webp)
 
 #### 会場座席イメージ
 
-[![](/assets/bang-dream/blog/roselia2024winter/5a16f5fa72ae07a4.jpg)](https://bang-dream.com/2025/renew/781274ad-70de-4d42-81b7-9301dbbbe519.jpg)
+[![](https://img.tano.asia/i/09603ac9-210d-43aa-a5a0-64c76dd8102b.webp)](https://bang-dream.com/2025/renew/781274ad-70de-4d42-81b7-9301dbbbe519.jpg)
 
 ### 販売情報
 
@@ -174,14 +174,14 @@ Any limited performances during the concert or the pre-screening of the TV anime
 本ライブではライブグッズ販売を行うメイン物販会場と飲食・協賛エリアが2つのエリアに分かれております。
 各ブースの詳細をご確認になった上で当日はご参加いただきますようお願い申し上げます。
 
-[![](/assets/bang-dream/blog/avemujica_4th/df7fd54a414b7bd1.jpg)](https://bang-dream.com/2025/renew/16b74e91-2123-465b-945f-9e5e68f9bd16.jpg)
+[![](https://img.tano.asia/i/a0f7512d-a162-4091-936b-4f0dc6638365.webp)](https://bang-dream.com/2025/renew/16b74e91-2123-465b-945f-9e5e68f9bd16.jpg)
 
 ## グッズ販売について
 
 ### 販売商品一覧
 
-- [![](/assets/bang-dream/blog/roselia2024winter/e53226dba9cbcd1a.jpg)](https://bang-dream.com/2025/renew/963fe014-0370-4723-8068-19c153992e04.jpg)
-- [![](/assets/bang-dream/blog/roselia2024winter/02d1eff4308a8875.jpg)](https://bang-dream.com/2025/renew/bd3ad95e-7eb4-4716-b02f-54c6a2f91ac6.jpg)
+- [![](https://img.tano.asia/i/2d81da58-48ab-4b37-9cbf-58e24fb2d6cb.webp)](https://bang-dream.com/2025/renew/963fe014-0370-4723-8068-19c153992e04.jpg)
+- [![](https://img.tano.asia/i/10107d9a-0638-402c-9997-f9f3687a21a6.webp)](https://bang-dream.com/2025/renew/bd3ad95e-7eb4-4716-b02f-54c6a2f91ac6.jpg)
 
 ****
 
@@ -203,7 +203,7 @@ Any limited performances during the concert or the pre-screening of the TV anime
 
 1会計で5,000円(税込)ご購入ごとに特典イラストカード(全5種)を1点プレゼントいたします。
 
-![](/assets/bang-dream/blog/roselia2024winter/763322186ded39c3.png)
+![](https://img.tano.asia/i/a6fec26f-d8fc-4ab4-977f-0990fd11324e.webp)
 
 ※特典はなくなり次第終了となります。予めご了承ください。
 ※お渡しはランダムとなります。25,000円以上ご購入いただいてもコンプリートは保証されません。
@@ -318,7 +318,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 
 ## グッズ通販
 
-![](/assets/bang-dream/blog/roselia2024winter/d08fe8c28f7076be.jpg)
+![](https://img.tano.asia/i/58ceb92d-5688-461e-bb9e-48322ef4f743.webp)
 
 Roselia「Stille Nacht, Rosen Nacht」にて販売する新商品の先行通販を実施いたします！
 また、今回は「武蔵野の森総合スポーツプラザ」にて商品が受け取れる「現地受取サービス」もあわせて実施いたします。
@@ -337,7 +337,7 @@ Roselia「Stille Nacht, Rosen Nacht」にて販売する新商品の先行通販
 
 ブシロード オンラインストアにて対象商品を5,000円購入で「特典イラストカード(全5種)」をプレゼント！
 
-![](/assets/bang-dream/blog/roselia2024winter/371bad28db23bbd3.jpg)
+![](https://img.tano.asia/i/7e5bfdc7-1d3c-451c-bdf0-7c34e98b5d17.webp)
 
 ※5,000円購入ごとに1点お渡し (詳細：[https://bushiroad-store.com/pages/roselia2024winter](https://bushiroad-store.com/pages/roselia2024winter))
 
@@ -345,7 +345,7 @@ Roselia「Stille Nacht, Rosen Nacht」にて販売する新商品の先行通販
 
 #### エリア内MAP
 
-[![](/assets/bang-dream/blog/avemujica_4th/817bf3c748d3ad94.jpg)](https://bang-dream.com/2025/renew/7bb0aba3-c45b-4623-86d0-8507948c2ff6.jpg)
+[![](https://img.tano.asia/i/fa2e54fe-f25f-43e1-a35d-2c5c9d226cba.webp)](https://bang-dream.com/2025/renew/7bb0aba3-c45b-4623-86d0-8507948c2ff6.jpg)
 
 #### 協賛エリア
 
@@ -361,13 +361,13 @@ Roselia「Stille Nacht, Rosen Nacht」にて販売する新商品の先行通販
 ###### ③新日本プロテインブース
 
 新日本プロテインとのコラボ商品、各種プロテインバーを販売いたします。
-[![](/assets/bang-dream/blog/roselia2024winter/46888c42c1eabafe.jpg)](https://bang-dream.com/2025/renew/438bdd30-8d08-4718-99af-322ad843bce0.jpg)
+[![](https://img.tano.asia/i/598ccf5e-52ee-42f2-b423-0bf39d7e133f.webp)](https://bang-dream.com/2025/renew/438bdd30-8d08-4718-99af-322ad843bce0.jpg)
 **＜会場ブース限定ボックス購入特典＞**
 会場ブースで販売中のプロテインバーをボックスでご購入の方にプレゼントいたします。
 1ボックス購入ごと：ライブKV ポストカード
 2ボックス購入ごと：ライブKV A2ポスター
 
-![](/assets/bang-dream/blog/roselia2024winter/11a976cdd33775bf.png)
+![](https://img.tano.asia/i/b4a55ce2-0e5f-41d0-977b-cc3405ff999e.webp)
 
 ###### ④ブシロードカードブース
 
@@ -375,13 +375,13 @@ Roselia「Stille Nacht, Rosen Nacht」にて販売する新商品の先行通販
 
 **＜ブシロードカード会員様対象の特別特典＞**
 会場にお越しのブシロードカードをお持ちの皆様を対象に特別特典を実施します。
-![](/assets/bang-dream/blog/roselia2024winter/f92cd7ca2257da84.JPG)
+![](https://img.tano.asia/i/5907d5f7-dfd3-4cdb-813e-bb7a522b37b4.webp)
 
 ※ご参加には、ブシロードカードをご提示いただく必要がございます。
 ※ブシロードカードのお申し込みは[こちら](https://bushiroad.com/bushiroadcard)のページをご確認ください。
 
 **＜限定クリアしおり配布＞**
-![](/assets/bang-dream/blog/avemujica_4th/48af4949af5184dd.JPG)
+![](https://img.tano.asia/i/3cb189a9-5f24-4cb4-87f8-5043c8579ee3.webp)
 
 ブシロードカードブースにてブシロードIDをご提示のお客様に1枚プレゼントさせていただきます。
 ※おひとり様１枚のお渡しとなります。
@@ -411,14 +411,14 @@ Roselia「Stille Nacht, Rosen Nacht」にて販売する新商品の先行通販
 
 ゲストアクトとして出演するAve Mujicaの関連商品も販売いたします。
 
-- [![](/assets/bang-dream/blog/avemujica_4th/3249cccbff266c1b.jpg)](https://bang-dream.com/2025/renew/9e05522f-e1e7-4cd2-820b-ed3ea581309c.png)
-- [![](/assets/bang-dream/blog/avemujica_4th/b89995ca5bc3552a.jpg)](https://bang-dream.com/2025/renew/c5f1f1a2-9363-4f9f-98f6-51d6bdb560b5.png)
+- [![](https://img.tano.asia/i/186e82de-4743-4ba9-9473-11dc4ff91ce4.webp)](https://bang-dream.com/2025/renew/9e05522f-e1e7-4cd2-820b-ed3ea581309c.png)
+- [![](https://img.tano.asia/i/71785e56-8ec7-4850-88f2-b8829ea109c4.webp)](https://bang-dream.com/2025/renew/c5f1f1a2-9363-4f9f-98f6-51d6bdb560b5.png)
 
 ## CD販売についてのご案内
 
 2024年12月14日(土)開催のRoselia「Stille Nacht, Rosen Nacht」会場購入特典が決定しました。
 
-[![](/assets/bang-dream/blog/roselia2024winter/1b05865d5da114ca.jpg)](https://bang-dream.com/2025/renew/e6945e75-3ff6-4ef0-b790-dc35cde8244c.jpg)
+[![](https://img.tano.asia/i/f7ebc1cc-6001-4c6e-8fef-84803e4c02c4.webp)](https://bang-dream.com/2025/renew/e6945e75-3ff6-4ef0-b790-dc35cde8244c.jpg)
 
 会場にて販売しているRoselia新譜商品(CD,Blu-ray商品) のご購入枚数に応じて、「Roselia 『Stille Nacht, Rosen Nacht』特製カード(全10種 内シークレット5種)」をランダムでプレゼントいたします。
 さらに！ Roselia新譜商品(CD,Blu-ray商品)のご購入枚数に応じて、直筆サイン入り「Roselia 15th single『礎の花冠』B2告知ポスター」が当たる抽選会にご参加いただけます。
@@ -604,7 +604,7 @@ TEL: 042-488-8607
 
 ## OFFICIAL SPONSORS
 
-![](/assets/bang-dream/blog/avemujica_4th/9fa2efa15885f62c.png)
+![](https://img.tano.asia/i/9f336bb3-277a-4dfd-8c19-d44e98d3e996.webp)
 
 ## お問合せ先
 

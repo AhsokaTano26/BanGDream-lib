@@ -21,11 +21,11 @@ ANISAMA WORLD 2025 in TAOYUAN
 
 ###### バンドリ！より、RAISE A SUILENが出演！
 
-![](/assets/bang-dream/blog/flowthefestival2026/94d146ed5064f73b.jpg)
+![](https://img.tano.asia/i/2ce5a0be-0321-496d-a1ad-ce8b170f8764.webp)
 
 ## 出演アーティスト
 
-![](/assets/bang-dream/blog/asl-taoyuan2025/d6b3e6b085f3d0ef.png)
+![](https://img.tano.asia/i/0533139f-1263-45be-82e0-4a9a17b5af90.webp)
 
 ## 会場
 

@@ -21,7 +21,7 @@ url: "https://bang-dream.com/events/summerstation2022/"
 
 ###### 2022年8月14日(日) 19:00～、バンドリ！よりMorfonicaが出演！
 
-![](/assets/bang-dream/blog/summerstation2022/66287521f85b0391.jpg)
+![](https://img.tano.asia/i/6afa24ef-3c42-4021-b23a-4b98b2bfdeba.webp)
 
 ###### 出演時間
 

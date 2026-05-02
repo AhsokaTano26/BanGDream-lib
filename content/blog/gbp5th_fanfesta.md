@@ -13,7 +13,7 @@ url: "https://bang-dream.com/events/gbp5th_fanfesta/"
 街中をガルパのビジュアルでジャックします！
 のぼりは3都市ともに全35種の掲出となっております！ぜひ遊びに来てくださいね♪
 
-![](/assets/bang-dream/blog/gbp5th_fanfesta/6237d0703d83d6de.png)
+![](https://img.tano.asia/i/78088f2c-f181-46ad-91cf-e87c79e60dd2.webp)
 
 ## 開催場所
 
@@ -39,7 +39,7 @@ url: "https://bang-dream.com/events/gbp5th_fanfesta/"
 秋葉原観光MAP「アド街っぷ」とのタイアップを記念し、スタンプラリーを開催！
 コンプリートした方にはファンフェスタ限定クリアしおりをプレゼント！
 
-![](/assets/bang-dream/blog/gbp5th_fanfesta/0f91cc07a240ee5d.png)
+![](https://img.tano.asia/i/846409e1-87db-4285-87a1-59170c5b4506.webp)
 
 左：アド街っぷ紙面イメージ
 右：特典（クリアしおり）
@@ -63,7 +63,7 @@ KOTOBUKIYA 秋葉原館 2Fレジ
 該当の連携店舗でお買い上げいただいた方に、ガルパ5周年記念キービジュアルを使用したファンフェスタ限定ポストカードをプレゼントいたします！
 ※全2種、絵柄は選べません。
 
-![](/assets/bang-dream/blog/gbp5th_fanfesta/739be965da2563cf.png)
+![](https://img.tano.asia/i/c74a0a9b-749f-4db2-aa56-23c68839e457.webp)
 
 連携店舗は[こちら](#h33sl0c1ypm31065ovt1cw8bdx1vub98t)！
 
@@ -114,7 +114,7 @@ D賞 スクラッチくじ金券50 円
 
 ###### 景品のビジュアルを公開！
 
-![](/assets/bang-dream/blog/gbp5th_fanfesta/944f46828c906a2a.png)
+![](https://img.tano.asia/i/56c93717-0225-4337-b876-17d2a188681f.webp)
 
 ※「C賞 クリアファイル」のデザインとなっております。
 

@@ -9,7 +9,7 @@ org: ["other"]
 url: "https://bang-dream.com/events/bdinfo_event/"
 ---
 
-![](/assets/bang-dream/blog/bdinfo_event/083fde7ba71315fd.png)
+![](https://img.tano.asia/i/ec5f229c-5f8b-414b-be42-dec56e4ec3b0.webp)
 
 2022年1月10日（月・祝）に
 「バンドリ！TV LIVE 2022」インフォメーションコーナー出張版の開催が決定！

@@ -45,7 +45,7 @@ A席：6,600円(税込)
 
 #### 会場座席イメージ
 
-![](/assets/bang-dream/blog/radioshout_event2025/ec3c57defaec5781.jpg)
+![](https://img.tano.asia/i/2bcc4c67-efac-4297-89ea-920fa2394660.webp)
 
 ### 販売情報
 
@@ -85,7 +85,7 @@ URL：[https://eplus.jp/roselia_radioshout/st/](https://eplus.jp/roselia_radiosh
 
 ### 販売商品一覧
 
-[![](/assets/bang-dream/blog/radioshout_event2025/85473c113c5c4a72.jpg)](https://bang-dream.com/2025/renew/7d4f76e1-416f-435a-99cb-1330b201d8a6.jpg)
+[![](https://img.tano.asia/i/193aaa10-b60c-415c-8d88-5915917a2778.webp)](https://bang-dream.com/2025/renew/7d4f76e1-416f-435a-99cb-1330b201d8a6.jpg)
 
 ※商品は予告なく変更・販売中止となる場合がありますので、ご了承くださいませ。
 
@@ -140,7 +140,7 @@ URL：[https://eplus.jp/roselia_radioshout/st/](https://eplus.jp/roselia_radiosh
 
 ## グッズ通販
 
-![](/assets/bang-dream/blog/radioshout_event2025/77588af508de83dd.jpg)
+![](https://img.tano.asia/i/2bcf5c6b-9b39-4ea3-8668-5c4c3235449f.webp)
 
 RoseliaのRADIO SHOUT! -Spaß-にて販売する新商品の通販を実施いたします！
 ※本通販は現地受取の実施はございません。

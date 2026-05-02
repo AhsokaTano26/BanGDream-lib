@@ -15,7 +15,7 @@ Media
 
 # バンドリ！TV
 
-![](/assets/bang-dream/media/bang-dream-tv/c2c3ef36aa6fa0dc.jpg)
+![](https://img.tano.asia/i/cd4d5d4a-1b0d-499c-a15a-ce8bab469540.webp)
 
 ## 放送・配信情報
 
@@ -50,7 +50,7 @@ YouTube内[「バンドリちゃんねる☆」](https://www.youtube.com/channel
 
 ## MC紹介
 
-- ![](/assets/bang-dream/media/bang-dream-tv/b6f739f764f1ab4d.jpg)
+- ![](https://img.tano.asia/i/ebfd71f9-7744-4cc3-8041-6babd5b49084.webp)
   
   愛美
   
@@ -58,7 +58,7 @@ YouTube内[「バンドリちゃんねる☆」](https://www.youtube.com/channel
   X[@aimi_sound](https://x.com/aimi_sound)
   Instagram[@aimin_official](https://www.instagram.com/aimin_official/)
   
-  ![](/assets/bang-dream/media/bang-dream-tv/6c617039cea9294b.jpg)
+  ![](https://img.tano.asia/i/01b60c7d-c747-49fb-940e-c726225fd0d0.webp)
   
   前島亜美
   
@@ -68,7 +68,7 @@ YouTube内[「バンドリちゃんねる☆」](https://www.youtube.com/channel
 
 ## 「月刊ブシロード」で4コマ漫画連載中！
 
-![](/assets/bang-dream/media/bang-dream-tv/c2d94c0491615ea3.jpg)
+![](https://img.tano.asia/i/691f035b-0153-48c1-8350-aade74d22c97.webp)
 
 毎月8日発売の雑誌「月刊ブシロード」にて、「バンドリ！TV劇場」が連載中！
 MC2人の、収録現場であったかもしれないし、なかったかもしれない。そんなゆるーいお話を、みなさんにお届けします！

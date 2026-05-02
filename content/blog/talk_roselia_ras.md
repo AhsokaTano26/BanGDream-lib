@@ -67,7 +67,7 @@ Raychell（レイヤ役）、倉知玲鳳（パレオ役）
 
 ## グッズ販売について
 
-![](/assets/bang-dream/blog/talk_roselia_ras/b83ef160fd492bce.jpg)
+![](https://img.tano.asia/i/d011401a-58bd-410f-8031-3e42f3d8638d.webp)
 
 #### 販売時間
 

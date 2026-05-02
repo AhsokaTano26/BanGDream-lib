@@ -78,7 +78,7 @@ Morfonica
 
 ###### 販売商品一覧
 
-[![](/assets/bang-dream/blog/morfonica_talk_2026/5410ba8ebeb09969.jpg)](https://bang-dream.com/2025/renew/e11fc630-2c4b-48f8-8957-b2d2bf5f2622.jpg)
+[![](https://img.tano.asia/i/44ae10ec-30f9-475c-ad24-920a5bd2e9e4.webp)](https://bang-dream.com/2025/renew/e11fc630-2c4b-48f8-8957-b2d2bf5f2622.jpg)
 
 販売場所
 

@@ -50,7 +50,7 @@ Roselia
 
 ###### 会場座席イメージ
 
-![](/assets/bang-dream/blog/lehre-der-rose/e00976b52af66559.jpg)
+![](https://img.tano.asia/i/a7c4309e-3ca9-4dd8-9233-45d8bed79058.webp)
 
 ### 販売情報
 

@@ -21,9 +21,9 @@ LuckyFes'26
 
 ###### 8月9日(日)に、RAISE A SUILEN・MyGO!!!!!が出演！
 
-![](/assets/bang-dream/blog/luckyfes2026/f4867395b1637999.jpg)
+![](https://img.tano.asia/i/2ce5a0be-0321-496d-a1ad-ce8b170f8764.webp)
 
-![](/assets/bang-dream/blog/maj_lisani2026/f0eff69051a724a9.jpg)
+![](https://img.tano.asia/i/4a9d164f-c324-4dd9-ba32-757233d015b6.webp)
 
 ※出演時間などの詳細は後日発表となります。
 
@@ -41,7 +41,7 @@ LuckyFes'26
 
 ## 出演予定
 
-![](/assets/bang-dream/blog/luckyfes2026/817a3b70086203a5.jpg)
+![](https://img.tano.asia/i/c74a9d5d-2dbd-4c77-a961-497968d825d3.webp)
 
 ## お問い合わせ
 

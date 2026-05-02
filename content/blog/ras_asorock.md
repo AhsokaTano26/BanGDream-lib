@@ -9,13 +9,13 @@ org: ["other"]
 url: "https://bang-dream.com/events/ras_asorock/"
 ---
 
-![](/assets/bang-dream/blog/ras_asorock/9bcac7b0e95fd92f.jpg)
+![](https://img.tano.asia/i/09b284be-201e-4b0a-823e-8ae446c14283.webp)
 
-![](/assets/bang-dream/blog/ras_asorock/4e0cdb580aa82db5.jpeg)
+![](https://img.tano.asia/i/05d45b3e-ce64-4283-ab96-4190d0a06e5f.webp)
 
-![](/assets/bang-dream/blog/ras_asorock/cff3cfce14571dce.jpeg)
+![](https://img.tano.asia/i/4a2213a3-f267-4c36-b1af-9b6467be74ba.webp)
 
-![](/assets/bang-dream/blog/ras_asorock/6cf73e1857ed6863.jpeg)
+![](https://img.tano.asia/i/009d1c0a-5b71-43e2-af57-d5a87672e30d.webp)
 
 2019年9月29日(日) ミクニワールドスタジアム北九州にて開催の「山小屋・ばさらかpresents 阿蘇ロックフェスティバル 2019 in北九州」にBanG Dream!プロジェクトよりRAISE A SUILENの出演が決定いたしました。今回のライブは、RASとしては初となる九州でのステージとなります。
 7月には神戸での単独公演・幕張での追加単独公演を成功させ勢いが止まらないRAISE A SUILENのパフォーマンスにご期待ください！

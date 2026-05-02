@@ -9,8 +9,8 @@ org: ["other"]
 url: "https://bang-dream.com/events/animax2021/"
 ---
 
-- ![](/assets/bang-dream/blog/animax2021/4057585bf8866c2b.jpg)
-- ![](/assets/bang-dream/blog/animax2021/8f07d7ab8af37114.jpg)
+- ![](https://img.tano.asia/i/92f4f7f3-3385-4e7f-845c-86e03a8561b5.webp)
+- ![](https://img.tano.asia/i/7ec1d2ec-c79e-47f9-91c1-e3330996bd3b.webp)
 
 アニメミュージックの祭典「ANIMAX MUSIX 2021」が横浜アリーナで開催！
 バンドリ！からはPoppin'PartyとRoseliaの出演が決定！

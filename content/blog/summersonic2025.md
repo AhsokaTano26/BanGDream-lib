@@ -21,11 +21,11 @@ SUMMER SONIC 2025
 
 ###### 8月16日(土) 東京公演 11:20～ PACIFIC STAGEにAve Mujicaが出演
 
-![](/assets/bang-dream/blog/summersonic2025/f0775db7ac5d6588.jpg)
+![](https://img.tano.asia/i/e799a181-6944-474a-a7e5-6f0c8ff1d2c1.webp)
 
 ## 出演アーティスト情報
 
-![](/assets/bang-dream/blog/summersonic2025/019ffbb22015b274.jfif)
+![](https://img.tano.asia/i/9a37c669-ef5f-474f-b9e4-3324d15e2708.webp)
 
 ※タイムテーブルは公式サイトをご確認ください。
 [https://www.summersonic.com/tt/tokyo-day1/](https://www.summersonic.com/tt/tokyo-day1/)
@@ -53,7 +53,7 @@ BanG Dream! バンドタオル Ave Mujica 2025 Summer ver.
 
 ###### 販売商品一覧
 
-![](/assets/bang-dream/blog/summersonic2025/754acc5361b91745.jpg)
+![](https://img.tano.asia/i/81052559-ad86-48fd-be37-b3ef687c31b8.webp)
 
 ※販売は出演日の8月16日(土)のみとなります。
 ※販売場所は「SUMMER SONIC 2025」東京公演 会場内となります。出演日の8月16日(土)にご入場いただけるチケットをお持ちの方のみご利用いただけます。

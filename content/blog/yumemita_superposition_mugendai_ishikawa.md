@@ -19,7 +19,7 @@ url: "https://bang-dream.com/events/yumemita_superposition_mugendai_ishikawa/"
 
 2025年11月29日(土)・30日(日)
 
-![](/assets/bang-dream/blog/yumemita_superposition_mugendai_ishikawa/ba1244024efd6dc1.jpg)
+![](https://img.tano.asia/i/a9644e06-4ce9-4435-bc61-a72394733db3.webp)
 
 出演スケジュール
 

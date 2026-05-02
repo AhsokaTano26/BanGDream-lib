@@ -199,7 +199,7 @@ MC：Raychell
 
 ときめくバスタオル（サイズ：約H600mm×W1250mm）
 
-![](/assets/bang-dream/blog/bangdream_summer2022/2415bdbe18defc8e.jpg)
+![](https://img.tano.asia/i/2fe32e27-eedd-4b09-8976-d9f0282aef72.webp)
 
 #### 注意事項
 
@@ -208,9 +208,9 @@ MC：Raychell
 
 ## グッズ販売情報
 
-![](/assets/bang-dream/blog/bangdream_summer2022/7930ea0bb5ade8e1.jpg)
+![](https://img.tano.asia/i/e311c2b6-9bb9-435a-94c9-1de8c701ca5c.webp)
 
-![](/assets/bang-dream/blog/bangdream_summer2022/56354b02e9dd6fe0.jpg)
+![](https://img.tano.asia/i/91cb5da2-de08-439e-b020-4c98b487604b.webp)
 
 #### 販売場所
 
@@ -347,7 +347,7 @@ QRコードをご自身のスマートフォンで読み取っていただきま
 
 ## バンドリ！ときめく夏祭り！2022 グッズ通販
 
-![](/assets/bang-dream/blog/bangdream_summer2022/c5a9058dc20abdeb.jpg)
+![](https://img.tano.asia/i/7b16054f-6b1a-4761-8780-3ad45c8c4f47.webp)
 
 2022年7月30日(土)開催「バンドリ！ときめく夏祭り！ 2022」の商品を
 「ブシロード オンラインストア」にて通販いたします！

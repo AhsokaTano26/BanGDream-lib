@@ -24,7 +24,7 @@ url: "https://bang-dream.com/events/the-third1strive/"
 チケット代金：特製ペンライト付きスタンディング席：6,000円（税込） ※ドリンク代別
 お一人様2枚まで
 
-![](/assets/bang-dream/blog/the-third1strive/1a583c90f35c11d7.jpg)
+![](https://img.tano.asia/i/6e66e329-112e-4215-ae4c-6a5d2202343b.webp)
 
 ※特製ペンライトはHP先行チケットのみの付属となります。予めご了承ください。
 席種：スタンディング※未就学児入場不可

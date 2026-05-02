@@ -39,7 +39,7 @@ B席（指定席）…5,500円(税込)
 
 【S席特製グッズ】デザイン公開！（※1月22日(水)追記）
 
-![](/assets/bang-dream/blog/afterglow-sp/973ba98874106b0a.JPG)
+![](https://img.tano.asia/i/004be0f0-57d9-470e-9363-459011713dfa.webp)
 
 ※S席チケット1枚につきトートバッグと缶バッチのセットをお1つ差し上げます。（当日のみ有効）
 ※S席の特典は非売品となりますので、一般販売グッズには含まれておりません。
@@ -119,7 +119,7 @@ URL：[https://l-tike.com/afglo-lv](https://l-tike.com/afglo-lv)
 2020年2月2日(日) 10:00～開演まで（19:00予定）/終演後30分程度
 販売場所：武蔵野の森総合スポーツプラザ 1F駐車場
 
-![](/assets/bang-dream/blog/afterglow-sp/d2a7724ef014c772.jpg)
+![](https://img.tano.asia/i/0295f66a-5719-4772-a5f6-5602baf6cdd5.webp)
 
 ※グッズ販売の開始、終了時間は当日の状況によって変更する場合がございます。
 ※販売予定人数に達し次第終了とさせていただきます。
@@ -140,11 +140,11 @@ URL：[https://l-tike.com/afglo-lv](https://l-tike.com/afglo-lv)
 
 ###### 物販メニュー
 
-![](/assets/bang-dream/blog/afterglow-sp/666fdb2e229ca724.jpg)
+![](https://img.tano.asia/i/e2afe1aa-d9b3-4f9c-90af-0226f92fab74.webp)
 
 ###### 新商品ラインナップ
 
-![](/assets/bang-dream/news/755/a1f257536556a0ed.jpg)
+![](https://img.tano.asia/i/3dd2aa95-b509-4ab8-af1e-4efe5d044d77.webp)
 
 SOLD OUT
 
@@ -153,7 +153,7 @@ Afterglow スペシャルTシャツ M/Lサイズ
 
 価格: 4,400円 (イベント価格)
 
-![](/assets/bang-dream/news/755/db1cda018f1c0f0e.jpg)
+![](https://img.tano.asia/i/a767ed68-8a3b-4812-9c54-709742c71cd8.webp)
 
 SOLD OUT
 
@@ -161,7 +161,7 @@ SOLD OUT
 
 価格: 3,500円 (イベント価格)
 
-![](/assets/bang-dream/news/755/c15838d9962c3659.jpg)
+![](https://img.tano.asia/i/460e4d06-d21f-4138-8d6d-ef4e8d16adb2.webp)
 
 SOLD OUT
 
@@ -169,7 +169,7 @@ SOLD OUT
 
 価格: 2,000円 (イベント価格)
 
-![](/assets/bang-dream/blog/afterglow-sp/4ceaf77a63ac5510.jpg)
+![](https://img.tano.asia/i/46325018-6479-43bf-b567-b905ab9ae0ba.webp)
 
 SOLD OUT
 
@@ -178,7 +178,7 @@ SOLD OUT
 
 イベント価格: 4,200円
 
-![](/assets/bang-dream/news/755/41ef6b9e3226efd0.jpg)
+![](https://img.tano.asia/i/a2b52a43-e26b-4cd8-ac5b-e77bef435364.webp)
 
 SOLD OUT
 
@@ -186,7 +186,7 @@ SOLD OUT
 
 イベント価格: 1,000円
 
-![](/assets/bang-dream/news/755/676f598d98dd1ace.jpg)
+![](https://img.tano.asia/i/a0ee9692-721a-488e-93a0-e5d05a95b176.webp)
 
 SOLD OUT
 
@@ -194,7 +194,7 @@ SOLD OUT
 
 イベント価格: 各1,500円
 
-![](/assets/bang-dream/news/755/bc21b1961c6729e6.jpg)
+![](https://img.tano.asia/i/3c65801c-7ec9-49ef-9971-811261087ff2.webp)
 
 SOLD OUT
 
@@ -203,7 +203,7 @@ SOLD OUT
 
 イベント価格: PACK 500円 /BOX 5,005円
 
-![](/assets/bang-dream/news/755/f2165760a962363e.jpg)
+![](https://img.tano.asia/i/3bbd24ee-6820-434a-b366-9d88b4cd7e2c.webp)
 
 SOLD OUT
 
@@ -211,7 +211,7 @@ SOLD OUT
 
 イベント価格: 500円
 
-![](/assets/bang-dream/news/755/7de8c3a5d311ea2e.jpg)
+![](https://img.tano.asia/i/6d2abe05-ee3d-44a9-978d-ce54170c3e7f.webp)
 
 SOLD OUT
 
@@ -219,7 +219,7 @@ SOLD OUT
 
 イベント価格: 3,000円
 
-![](/assets/bang-dream/news/755/abdad3d948f4dc12.jpg)
+![](https://img.tano.asia/i/896e9e22-6f63-4cb0-acc7-d5c48ea78fa9.webp)
 
 SOLD OUT
 
@@ -227,7 +227,7 @@ SOLD OUT
 
 イベント価格: 各2,000円
 
-![](/assets/bang-dream/news/755/5ad668336bcb30d6.jpg)
+![](https://img.tano.asia/i/f931820b-a262-4679-a306-32eda311de88.webp)
 
 SOLD OUT
 
@@ -235,7 +235,7 @@ SOLD OUT
 
 イベント価格: 各1,100円
 
-![](/assets/bang-dream/blog/afterglow-sp/34bb64eca67b4767.jpg)
+![](https://img.tano.asia/i/984b100b-2db4-401c-b8d2-0732734d9079.webp)
 
 SOLD OUT
 
@@ -293,7 +293,7 @@ SOLD OUT
 
 イベント会場にて販売される一部グッズをブシロード EC SHOPにて期間限定通販いたします。
 
-![](/assets/bang-dream/blog/afterglow-sp/c1be034f398e0a42.jpg)
+![](https://img.tano.asia/i/ff419b55-4415-4d7b-b130-d408780f0856.webp)
 
 通販期間：2020年1月30日(木)15:00～2月17日(月) 13:00まで
 発送時期：2020年3月下旬予定
@@ -307,7 +307,7 @@ SOLD OUT
 ギター･ベースをはじめ、関連商品の販売を行っております。
 また、楽器の展示も行っておりますので是非お立ち寄りください。
 
-![](/assets/bang-dream/blog/afterglow-sp/ec7d3f0e2fb9a40c.jpg)
+![](https://img.tano.asia/i/e64911d1-9f34-4a05-88cb-2d597b274185.webp)
 
 ※掲載商品は一部です
 ※クレジットカード使用可
@@ -382,7 +382,7 @@ TEL: 042-488-8607 (9:00〜20：00 ※休館日を除く)
 
 ## Special Thanks
 
-[![](/assets/bang-dream/blog/afterglow-sp/2b69599356149f06.png)](https://www.0101.co.jp/405/info/index.html?contents_id=0076)[![](/assets/bang-dream/blog/afterglow-sp/6d61c97fd2c09437.png)](https://espguitars.co.jp/)[![](/assets/bang-dream/blog/afterglow-sp/a98ce083d5195dd3.png)](https://www.gamers.co.jp/)[![](/assets/bang-dream/blog/afterglow-sp/78a7c1af142162bd.jpg)](http://frontwing.jp/)
+[![](https://img.tano.asia/i/6b4da6ff-2a7f-41d5-8db1-936f93ef8ae6.webp)](https://www.0101.co.jp/405/info/index.html?contents_id=0076)[![](https://img.tano.asia/i/16e6ff41-78cd-47ca-9d65-f93e3e038fa8.webp)](https://espguitars.co.jp/)[![](https://img.tano.asia/i/3a2415cf-a7a6-42cb-b4f2-b2811d4f6660.webp)](https://www.gamers.co.jp/)[![](https://img.tano.asia/i/0cb9d4dc-f282-45e4-af18-94d59fb0d2ee.webp)](http://frontwing.jp/)
 
 ## お問合せ
 

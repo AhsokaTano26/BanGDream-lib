@@ -15,7 +15,7 @@ Media
 
 # バンステ！BanG Dream! STATION
 
-![](/assets/bang-dream/media/bang_station/68649a41d2401051.jpg)
+![](https://img.tano.asia/i/fa082a98-c816-4767-a686-ff4c11565b95.webp)
 
 ## 番組情報
 

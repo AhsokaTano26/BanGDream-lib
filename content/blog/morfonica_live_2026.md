@@ -47,7 +47,7 @@ Morfonica
 
 ###### 会場座席イメージ
 
-![](/assets/bang-dream/blog/morfonica_live_2026/d7e3b4b30db4b013.jpg)
+![](https://img.tano.asia/i/c0e75d98-4b16-411c-a633-8a24b1dfe392.webp)
 
 ### 販売情報
 

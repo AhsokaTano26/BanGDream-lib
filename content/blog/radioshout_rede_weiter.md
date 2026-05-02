@@ -58,11 +58,11 @@ RoseliaのRADIO SHOUT! -rede weiter-
 
 ### 販売商品一覧
 
-[![](/assets/bang-dream/blog/radioshout_rede_weiter/7cd61535dd61176b.jpg)](https://bang-dream.com/2025/renew/ce5b1e8e-3884-4a12-bc0b-02cc26cae760.jpg)
+[![](https://img.tano.asia/i/7e421b4f-3e61-43e5-bbc6-f71e0aee6f76.webp)](https://bang-dream.com/2025/renew/ce5b1e8e-3884-4a12-bc0b-02cc26cae760.jpg)
 
-[![](/assets/bang-dream/blog/radioshout_rede_weiter/cd31cb9ff099f99f.jpg)](https://bang-dream.com/2025/renew/077dce61-f4f7-4c04-a061-a51b4277a69a.jpg)
+[![](https://img.tano.asia/i/2032551c-0567-4a83-9b01-bb17dc263b5e.webp)](https://bang-dream.com/2025/renew/077dce61-f4f7-4c04-a061-a51b4277a69a.jpg)
 
-[![](/assets/bang-dream/blog/radioshout_rede_weiter/a922c8109ef10684.jpg)](https://bang-dream.com/2025/renew/f8d1f356-baba-4af0-825e-50774fcfcf5f.jpg)
+[![](https://img.tano.asia/i/490b63e3-47ce-4d6e-951f-a2973db5f960.webp)](https://bang-dream.com/2025/renew/f8d1f356-baba-4af0-825e-50774fcfcf5f.jpg)
 ※商品は予告なく変更・販売中止となる場合がありますので、ご了承くださいませ。
 
 ###### 販売場所
