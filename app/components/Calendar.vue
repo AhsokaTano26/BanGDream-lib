@@ -104,7 +104,7 @@
 </template>
 
 <script setup>
-import { computed, ref } from 'vue';
+import { computed, onMounted, ref } from 'vue';
 import { Lunar } from 'lunar-javascript';
 
 const quote = "Stay focused, be present.";
@@ -168,11 +168,41 @@ const glassStyles = computed(() => ({
   '--glass-bg': `rgba(${glassConfig.tintColor}, ${glassConfig.opacity})`
 }));
 
+const timeZone = ref('UTC');
+
+const getDateParts = (date = new Date(), zone = timeZone.value) => {
+  const parts = new Intl.DateTimeFormat('en-CA', {
+    timeZone: zone,
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  }).formatToParts(date);
+
+  const values = Object.fromEntries(parts.map(part => [part.type, part.value]));
+  return {
+    year: Number(values.year),
+    month: Number(values.month) - 1,
+    day: Number(values.day),
+  };
+};
+
+const getDateKey = (date = new Date(), zone = timeZone.value) => {
+  const { year: y, month: m, day: d } = getDateParts(date, zone);
+  return `${y}-${String(m + 1).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
+};
+
 // 状态
-const now = new Date();
-const year = ref(now.getFullYear());
-const month = ref(now.getMonth());
+const now = getDateParts();
+const year = ref(now.year);
+const month = ref(now.month);
 const selectedDate = ref(null);
+
+onMounted(() => {
+  timeZone.value = Intl.DateTimeFormat().resolvedOptions().timeZone || 'UTC';
+  const current = getDateParts(new Date(), timeZone.value);
+  year.value = current.year;
+  month.value = current.month;
+});
 
 // 数据抓取：合并 type 和 status
 const { data: eventMap } = await useAsyncData('calendar-events', async () => {
@@ -188,8 +218,7 @@ const { data: eventMap } = await useAsyncData('calendar-events', async () => {
 
   combined.forEach(post => {
     if (!post.date) return;
-    const d = new Date(post.date);
-    const dateKey = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+    const dateKey = getDateKey(new Date(post.date));
 
     if (!map[dateKey]) map[dateKey] = [];
 
@@ -209,6 +238,7 @@ const { data: eventMap } = await useAsyncData('calendar-events', async () => {
 const days = computed(() => {
   const res = [];
   const startOffset = (new Date(year.value, month.value, 1).getDay() || 7) - 1;
+  const todayKey = getDateKey();
   for (let i = 0; i < 42; i++) {
     const date = new Date(year.value, month.value, i - startOffset + 1);
     const dateKey = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
@@ -217,7 +247,7 @@ const days = computed(() => {
       dateStr: dateKey,
       d: date.getDate(),
       isCurrent: date.getMonth() === month.value,
-      isToday: new Date().toDateString() === date.toDateString(),
+      isToday: dateKey === todayKey,
       lunar: lunar.getJieQi() || lunar.getDayInChinese(),
       events: eventMap.value?.[dateKey] || []
     });
@@ -228,7 +258,12 @@ const days = computed(() => {
 const handleDateClick = (day) => { selectedDate.value = day; };
 const prevMonth = () => { if (month.value === 0) { month.value = 11; year.value--; } else { month.value--; } selectedDate.value = null; };
 const nextMonth = () => { if (month.value === 11) { month.value = 0; year.value++; } else { month.value++; } selectedDate.value = null; };
-const resetDate = () => { year.value = now.getFullYear(); month.value = now.getMonth(); selectedDate.value = null; };
+const resetDate = () => {
+  const current = getDateParts(new Date(), timeZone.value);
+  year.value = current.year;
+  month.value = current.month;
+  selectedDate.value = null;
+};
 </script>
 
 <style scoped>
