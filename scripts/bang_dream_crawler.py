@@ -5,14 +5,11 @@ import argparse
 import hashlib
 import html
 import json
-import os
 import random
 import re
 import sys
 import time
-import sqlite3
 from dataclasses import dataclass
-from dataclasses import field
 from pathlib import Path
 from typing import Any
 from urllib.parse import quote, unquote_to_bytes, urljoin, urlparse, urlsplit, urlunsplit
@@ -24,6 +21,16 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
+from scripts.deepseek_translate import (
+    TRANSLATION_MARKER,
+    build_document,
+    is_translated_document,
+    split_frontmatter,
+    translate_frontmatter_dict,
+)
+from scripts.deepseek_translate import DeepSeekTranslator
+from scripts.content_store import ContentStore, DEFAULT_DB_PATH
+from scripts.env_loader import load_repo_env
 from scripts.upload_markdown_images import ImageUploader, resolve_endpoint
 
 
@@ -35,7 +42,6 @@ CONTENT_ROOT = REPO_ROOT / "content"
 ASSET_ROOT = REPO_ROOT / "public" / "assets" / "bang-dream"
 DATA_ROOT = REPO_ROOT / "data"
 DB_PATH = DATA_ROOT / "contents.sqlite"
-DEFAULT_STATE_FILE = Path.cwd() / "cache" / "bang-dream-crawler" / "state.json"
 
 HEADERS = {
     "User-Agent": (
@@ -113,136 +119,6 @@ class ImageFailure:
     error: str
 
 
-@dataclass
-class CrawlState:
-    path: Path
-    completed: dict[str, dict[str, str]] = field(default_factory=dict)
-
-    @classmethod
-    def load(cls, path: Path) -> "CrawlState":
-        if not path.exists():
-            return cls(path=path)
-        data = json.loads(path.read_text(encoding="utf-8"))
-        completed: dict[str, dict[str, str]] = {}
-        for collection, slugs in data.get("completed", {}).items():
-            if isinstance(slugs, dict):
-                completed[collection] = {slug: str(signature) for slug, signature in slugs.items()}
-            else:
-                completed[collection] = {slug: "" for slug in slugs}
-        return cls(path=path, completed=completed)
-
-    def signature_for(self, collection: str, slug: str) -> str | None:
-        return self.completed.get(collection, {}).get(slug)
-
-    def should_skip(self, collection: str, slug: str, signature: str) -> bool:
-        stored = self.signature_for(collection, slug)
-        return stored == signature
-
-    def mark_done(self, collection: str, slug: str, signature: str) -> None:
-        self.completed.setdefault(collection, {})[slug] = signature
-        self.save()
-
-    def save(self) -> None:
-        self.path.parent.mkdir(parents=True, exist_ok=True)
-        payload = {
-            "completed": {collection: slugs for collection, slugs in self.completed.items()},
-        }
-        tmp_path = self.path.with_suffix(self.path.suffix + ".tmp")
-        tmp_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-        tmp_path.replace(self.path)
-
-
-class CrawlDatabase:
-    def __init__(self, path: Path) -> None:
-        self.path = path
-        self.path.parent.mkdir(parents=True, exist_ok=True)
-        self.conn = sqlite3.connect(self.path)
-        self.conn.row_factory = sqlite3.Row
-        self.conn.execute("PRAGMA journal_mode=WAL")
-        self.conn.execute("PRAGMA synchronous=NORMAL")
-        self.ensure_schema()
-
-    def ensure_schema(self) -> None:
-        self.conn.executescript(
-            """
-            CREATE TABLE IF NOT EXISTS pages (
-                collection TEXT NOT NULL,
-                slug TEXT NOT NULL,
-                title TEXT NOT NULL,
-                url TEXT NOT NULL,
-                signature TEXT NOT NULL,
-                frontmatter_json TEXT NOT NULL,
-                body_html TEXT NOT NULL,
-                content_path TEXT NOT NULL,
-                updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
-                PRIMARY KEY (collection, slug)
-            );
-
-            CREATE TABLE IF NOT EXISTS image_failures (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                collection TEXT NOT NULL,
-                page_slug TEXT NOT NULL,
-                page_url TEXT NOT NULL,
-                image_url TEXT NOT NULL,
-                error TEXT NOT NULL,
-                created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
-            );
-            """
-        )
-        self.conn.commit()
-
-    def upsert_page(self, collection: str, item: CrawlerItem, content_path: Path) -> None:
-        self.conn.execute(
-            """
-            INSERT INTO pages (
-                collection, slug, title, url, signature,
-                frontmatter_json, body_html, content_path, updated_at
-            )
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
-            ON CONFLICT(collection, slug) DO UPDATE SET
-                title=excluded.title,
-                url=excluded.url,
-                signature=excluded.signature,
-                frontmatter_json=excluded.frontmatter_json,
-                body_html=excluded.body_html,
-                content_path=excluded.content_path,
-                updated_at=CURRENT_TIMESTAMP
-            """,
-            (
-                collection,
-                item.slug,
-                item.title,
-                item.url,
-                item.signature,
-                json.dumps(item.frontmatter, ensure_ascii=False),
-                item.body_html,
-                str(content_path.relative_to(REPO_ROOT)),
-            ),
-        )
-
-    def insert_image_failure(self, failure: ImageFailure) -> None:
-        self.conn.execute(
-            """
-            INSERT INTO image_failures (collection, page_slug, page_url, image_url, error)
-            VALUES (?, ?, ?, ?, ?)
-            """,
-            (
-                failure.collection,
-                failure.page_slug,
-                failure.page_url,
-                failure.image_url,
-                failure.error,
-            ),
-        )
-
-    def commit(self) -> None:
-        self.conn.commit()
-
-    def close(self) -> None:
-        self.conn.commit()
-        self.conn.close()
-
-
 class Crawler:
     def __init__(
         self,
@@ -250,6 +126,8 @@ class Crawler:
         download_images: bool = True,
         image_storage: str = "local",
         image_uploader: ImageUploader | None = None,
+        translator: Any | None = None,
+        translate_frontmatter_fields: tuple[str, ...] = ("title", "description", "location"),
         max_retries: int = 5,
         backoff: float = 1.8,
         jitter: float = 0.4,
@@ -260,6 +138,8 @@ class Crawler:
         self.download_images = download_images
         self.image_storage = image_storage
         self.image_uploader = image_uploader
+        self.translator = translator
+        self.translate_frontmatter_fields = translate_frontmatter_fields
         self.max_retries = max_retries
         self.backoff = backoff
         self.jitter = jitter
@@ -439,7 +319,6 @@ class Crawler:
         if not ext:
             ext = ".jpg"
 
-        digest = hashlib.sha1(image_url.encode("utf-8")).hexdigest()[:16]
         try:
             response = self.fetch("GET", image_url)
             data = response.content
@@ -472,12 +351,20 @@ class Crawler:
             self.image_cache[image_url] = image_url
             return image_url
 
+        content_hash = hashlib.sha256(data).hexdigest()
+        digest = hashlib.sha1(image_url.encode("utf-8")).hexdigest()[:16]
         if self.image_storage == "upload":
             if self.image_uploader is None:
                 raise RuntimeError("image_uploader is required when image_storage='upload'")
             filename = Path(parsed.path).name or f"{digest}{ext}"
             try:
-                uploaded_url = self.image_uploader.upload_bytes(filename, data, content_type=content_type)
+                uploaded_url = self.image_uploader.upload_bytes(
+                    filename,
+                    data,
+                    content_type=content_type,
+                    local_path=image_url,
+                    content_hash=content_hash,
+                )
             except PermissionError:
                 raise
             except Exception as exc:
@@ -585,12 +472,52 @@ class Crawler:
             parts.append(" ".join(pieces))
         return ", ".join(parts)
 
-    def save_page(self, collection: str, slug: str, frontmatter: dict[str, Any], body_html: str = "") -> Path:
-        target_dir = CONTENT_ROOT / collection / "generated"
+    def save_page(self, collection: str, item: CrawlerItem) -> Path:
+        target_dir = CONTENT_ROOT / collection
         target_dir.mkdir(parents=True, exist_ok=True)
-        path = target_dir / f"{slug}.md"
-        path.write_text(render_markdown(frontmatter, self.html_to_markdown(body_html)), encoding="utf-8")
+        path = target_dir / f"{item.slug}.md"
+        frontmatter = dict(item.frontmatter)
+        body_md = self.html_to_markdown(item.body_html)
+        if self.translator is not None:
+            frontmatter = translate_frontmatter_dict(frontmatter, self.translator, fields=self.translate_frontmatter_fields)
+            body_md = self.translator.translate_markdown(body_md, context=f"{collection}/{item.slug}")
+            item.frontmatter = frontmatter
+        markdown = render_markdown(frontmatter, body_md)
+        if self.translator is not None:
+            frontmatter_block, body = split_frontmatter(markdown)
+            markdown = build_document(frontmatter_block, body, marker=TRANSLATION_MARKER)
+        path.write_text(markdown, encoding="utf-8")
         return path
+
+    def page_path(self, collection: str, slug: str) -> Path:
+        return CONTENT_ROOT / collection / f"{slug}.md"
+
+    def has_translated_page(self, collection: str, slug: str) -> bool:
+        path = self.page_path(collection, slug)
+        if not path.exists():
+            return False
+        return is_translated_document(path.read_text(encoding="utf-8", errors="replace"), marker=TRANSLATION_MARKER)
+
+    def should_skip_existing_output(self, collection: str, slug: str) -> bool:
+        path = self.page_path(collection, slug)
+        if not path.exists():
+            return False
+        if self.translator is None:
+            return True
+        return self.has_translated_page(collection, slug)
+
+    def should_skip_unchanged(
+        self,
+        collection: str,
+        slug: str,
+        signature: str,
+        state: CrawlState | None,
+    ) -> bool:
+        if state is None or not state.should_skip(collection, slug, signature):
+            return False
+        if self.translator is None:
+            return True
+        return self.has_translated_page(collection, slug)
 
     def html_to_markdown(self, html_text: str) -> str:
         soup = BeautifulSoup(html_text or "", "html.parser")
@@ -696,7 +623,7 @@ class Crawler:
             if skip_slugs and slug in skip_slugs:
                 self.progress(f"[news] {index}/{total} {slug} skipped (exists locally)")
                 continue
-            if state is not None and state.should_skip("news", slug, signature):
+            if self.should_skip_unchanged("news", slug, signature, state):
                 self.progress(f"[news] {index}/{total} {slug} skipped (unchanged)")
                 continue
             self.progress(f"[news] {index}/{total} {slug} fetching")
@@ -753,7 +680,7 @@ class Crawler:
             if skip_slugs and slug in skip_slugs:
                 self.progress(f"[blog] {index}/{total} {slug} skipped (exists locally)")
                 continue
-            if state is not None and state.should_skip("blog", slug, signature):
+            if self.should_skip_unchanged("blog", slug, signature, state):
                 self.progress(f"[blog] {index}/{total} {slug} skipped (unchanged)")
                 continue
             self.progress(f"[blog] {index}/{total} {slug} fetching")
@@ -818,7 +745,7 @@ class Crawler:
             if skip_slugs and slug in skip_slugs:
                 self.progress(f"[discographies] {index}/{total} {slug} skipped (exists locally)")
                 continue
-            if state is not None and state.should_skip("discographies", slug, signature):
+            if self.should_skip_unchanged("discographies", slug, signature, state):
                 self.progress(f"[discographies] {index}/{total} {slug} skipped (unchanged)")
                 continue
             self.progress(f"[discographies] {index}/{total} {slug} fetching")
@@ -943,7 +870,7 @@ class Crawler:
             if skip_slugs and source_slug in skip_slugs:
                 self.progress(f"[{collection}] {current_index}/{total} {source_slug} skipped (exists locally)")
                 continue
-            if state is not None and state.should_skip(collection, source_slug, signature):
+            if self.should_skip_unchanged(collection, source_slug, signature, state):
                 self.progress(f"[{collection}] {current_index}/{total} {source_slug} skipped (unchanged)")
                 continue
             body = self.rewrite_images(
@@ -1294,33 +1221,67 @@ def main() -> None:
         default=None,
         help="Override the image upload endpoint.",
     )
+    parser.add_argument("--translate", action="store_true", help="Translate frontmatter fields and full body to Chinese with DeepSeek.")
     parser.add_argument(
-        "--image-api-key",
-        default=os.environ.get("IMG_TANO_API_KEY", ""),
-        help="Private image upload API key when --image-upload-visibility=private.",
+        "--translate-endpoint",
+        default="https://api.deepseek.com",
+        help="DeepSeek API base URL.",
     )
-    parser.add_argument("--state-file", type=Path, default=DEFAULT_STATE_FILE, help="Resume state file path.")
+    parser.add_argument(
+        "--translate-model",
+        default="deepseek-v4-flash",
+        help="DeepSeek model used for translation.",
+    )
+    parser.add_argument(
+        "--db-path",
+        type=Path,
+        default=DEFAULT_DB_PATH,
+        help="SQLite database used for resume, translation, and upload cache.",
+    )
+    parser.add_argument(
+        "--translate-frontmatter-fields",
+        default="title,description,location",
+        help="Comma-separated frontmatter fields to translate.",
+    )
     parser.add_argument("--no-resume", action="store_true", help="Disable resume and state tracking.")
     args = parser.parse_args()
 
-    state = None if args.no_resume else CrawlState.load(args.state_file)
+    env = load_repo_env()
+    store = ContentStore(args.db_path)
+    state = None if args.no_resume else store
     image_uploader = None
     if not args.skip_images and args.image_storage == "upload":
         endpoint = resolve_endpoint(args.image_upload_visibility, args.image_upload_endpoint)
-        api_key = args.image_api_key.strip()
+        api_key = env.get("IMG_TANO_API_KEY", "").strip()
         if args.image_upload_visibility == "private" and not api_key:
-            raise SystemExit("Please set --image-api-key or IMG_TANO_API_KEY for private image uploads.")
+            raise SystemExit("Please set IMG_TANO_API_KEY in the repository root .env for private image uploads.")
         image_uploader = ImageUploader(
             session=requests.Session(),
             endpoint=endpoint,
             api_key=api_key if args.image_upload_visibility == "private" else "",
+            visibility=args.image_upload_visibility,
+            store=store,
         )
-    db = CrawlDatabase(DB_PATH)
+    translator = None
+    translate_fields: tuple[str, ...] = ("title", "description", "location")
+    if args.translate:
+        translate_api_key = env.get("DEEPSEEK_API_KEY", "").strip()
+        if not translate_api_key:
+            raise SystemExit("Please set DEEPSEEK_API_KEY in the repository root .env for translation.")
+        translate_fields = tuple(field.strip() for field in args.translate_frontmatter_fields.split(",") if field.strip())
+        translator = DeepSeekTranslator(
+            api_key=translate_api_key,
+            endpoint=args.translate_endpoint,
+            model=args.translate_model,
+            store=store,
+        )
     crawler = Crawler(
         delay=args.delay,
         download_images=not args.skip_images,
         image_storage=args.image_storage,
         image_uploader=image_uploader,
+        translator=translator,
+        translate_frontmatter_fields=translate_fields,
         max_retries=args.max_retries,
         backoff=args.backoff,
         jitter=args.jitter,
@@ -1331,37 +1292,40 @@ def main() -> None:
         failure_cursor = 0
         for collection in args.collections:
             skip_slugs: set[str] = set()
-            if state is None and (generated_dir := CONTENT_ROOT / collection / "generated").exists():
-                skip_slugs |= {path.stem for path in generated_dir.glob("*.md")}
+            if state is None and (collection_dir := CONTENT_ROOT / collection).exists():
+                for path in collection_dir.glob("*.md"):
+                    if not args.translate:
+                        skip_slugs.add(path.stem)
+                        continue
+                    if is_translated_document(path.read_text(encoding="utf-8", errors="replace"), marker=TRANSLATION_MARKER):
+                        skip_slugs.add(path.stem)
             items = collect(collection, crawler, limit=args.limit, skip_slugs=skip_slugs, state=state)
             for item in items:
-                output_path = crawler.save_page(collection, item.slug, item.frontmatter, item.body_html)
-                db.upsert_page(collection, item, output_path)
+                output_path = crawler.save_page(collection, item)
+                store.upsert_page(collection, item, output_path)
                 if state is not None:
-                    state.mark_done(collection, item.slug, item.signature)
+                    store.set_crawl_state(collection, item.slug, item.signature)
                 while failure_cursor < len(crawler.image_failures):
-                    db.insert_image_failure(crawler.image_failures[failure_cursor])
+                    store.insert_image_failure(crawler.image_failures[failure_cursor])
                     failure_cursor += 1
-                db.commit()
+                store.commit()
                 crawler.sleep()
-            resume_hint = f", resume={args.state_file}" if state is not None else ""
+            resume_hint = f", resume={args.db_path}" if state is not None else ""
             print(f"{collection}: {len(items)} pages{resume_hint}")
         while failure_cursor < len(crawler.image_failures):
-            db.insert_image_failure(crawler.image_failures[failure_cursor])
+            store.insert_image_failure(crawler.image_failures[failure_cursor])
             failure_cursor += 1
-        db.commit()
+        store.commit()
         print_failure_summary(crawler.image_failures)
     except KeyboardInterrupt:
-        if state is not None:
-            state.save()
         while failure_cursor < len(crawler.image_failures):
-            db.insert_image_failure(crawler.image_failures[failure_cursor])
+            store.insert_image_failure(crawler.image_failures[failure_cursor])
             failure_cursor += 1
-        db.commit()
+        store.commit()
         print_failure_summary(crawler.image_failures)
         print("\nInterrupted; progress saved where possible.")
     finally:
-        db.close()
+        store.close()
 
 
 if __name__ == "__main__":

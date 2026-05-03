@@ -3,9 +3,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
-import json
 import mimetypes
-import os
 import random
 import re
 import sys
@@ -16,14 +14,20 @@ from urllib.parse import urljoin, urlsplit
 
 import requests
 
+ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
+from scripts.content_store import ContentStore
+from scripts.env_loader import load_repo_env
+
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_CONTENT_ROOT = REPO_ROOT / "content"
 DEFAULT_ASSET_ROOT = REPO_ROOT / "public" / "assets" / "bang-dream"
-DEFAULT_CACHE_FILE = Path.cwd() / "cache" / "bang-dream-image-upload" / "cache.json"
+DEFAULT_DB_PATH = REPO_ROOT / "data" / "contents.sqlite"
 DEFAULT_PUBLIC_ENDPOINT = "https://img.tano.asia/api/upload/public"
 DEFAULT_PRIVATE_ENDPOINT = "https://img.tano.asia/api/upload/private"
-DEFAULT_API_KEY = ""
 MARKDOWN_URL_RE = re.compile(r"(!?\[[^\]]*\]\()([^)]+)(\))")
 HTML_ATTR_RE = re.compile(r'((?:href|src)=["\'])([^"\']+)(["\'])')
 FRONTMATTER_URL_RE = re.compile(r"^(\s*(?:url|link):\s*[\"']?)([^\"'\n]+)([\"']?)\s*$")
@@ -46,22 +50,6 @@ def sha256_file(path: Path) -> str:
         for chunk in iter(lambda: fh.read(1024 * 1024), b""):
             digest.update(chunk)
     return digest.hexdigest()
-
-
-def load_cache(path: Path) -> dict[str, Any]:
-    if not path.exists():
-        return {"files": {}, "digests": {}}
-    data = json.loads(path.read_text(encoding="utf-8"))
-    if not isinstance(data, dict):
-        return {"files": {}, "digests": {}}
-    data.setdefault("files", {})
-    data.setdefault("digests", {})
-    return data
-
-
-def save_cache(path: Path, cache: dict[str, Any]) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(cache, ensure_ascii=False, indent=2, sort_keys=True), encoding="utf-8")
 
 
 def resolve_endpoint(visibility: str, endpoint: str | None = None) -> str:
@@ -87,14 +75,37 @@ class ImageUploader:
         session: requests.Session,
         endpoint: str,
         api_key: str = "",
+        visibility: str = "private",
+        store: ContentStore | None = None,
         retries: int = 4,
     ) -> None:
         self.session = session
         self.endpoint = endpoint
         self.api_key = api_key
+        self.visibility = visibility
+        self.store = store
         self.retries = retries
 
-    def upload_bytes(self, filename: str, data: bytes, content_type: str | None = None) -> str:
+    def upload_bytes(
+        self,
+        filename: str,
+        data: bytes,
+        content_type: str | None = None,
+        local_path: str = "",
+        content_hash: str = "",
+    ) -> str:
+        if self.store is not None:
+            if local_path:
+                cached = self.store.get_image_upload_by_path(local_path, self.endpoint, self.visibility)
+                if cached and content_hash and cached[0] == content_hash:
+                    return normalize_uploaded_url(self.endpoint, cached[1])
+            if content_hash:
+                cached_url = self.store.get_image_upload_by_hash(content_hash, self.endpoint, self.visibility)
+                if cached_url:
+                    if local_path:
+                        self.store.set_image_upload_cache(local_path, content_hash, cached_url, self.endpoint, self.visibility, commit=False)
+                    return normalize_uploaded_url(self.endpoint, cached_url)
+
         mime_type = content_type or mimetypes.guess_type(filename)[0] or "application/octet-stream"
         last_error: Exception | None = None
         for attempt in range(self.retries + 1):
@@ -135,14 +146,19 @@ class ImageUploader:
             payload = data_json.get("data")
             if not isinstance(payload, dict) or not payload.get("url"):
                 raise RuntimeError(f"Missing url in upload response for {filename}: {data_json!r}")
-            return normalize_uploaded_url(self.endpoint, str(payload["url"]))
+            url = normalize_uploaded_url(self.endpoint, str(payload["url"]))
+            if self.store is not None and local_path and content_hash:
+                self.store.set_image_upload_cache(local_path, content_hash, url, self.endpoint, self.visibility, commit=False)
+            return url
 
         if last_error is not None:
             raise last_error
         raise RuntimeError(f"Failed to upload {filename}")
 
-    def upload_path(self, path: Path) -> str:
-        return self.upload_bytes(path.name, path.read_bytes())
+    def upload_path(self, path: Path, local_path: str = "") -> str:
+        data = path.read_bytes()
+        content_hash = sha256_file(path)
+        return self.upload_bytes(path.name, data, local_path=local_path or path.as_posix(), content_hash=content_hash)
 
 
 def upload_file(
@@ -217,27 +233,26 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Upload local Bang Dream images to img.tano.asia and rewrite markdown.")
     parser.add_argument("--content-root", type=Path, default=DEFAULT_CONTENT_ROOT, help="Root directory containing markdown files.")
     parser.add_argument("--asset-root", type=Path, default=DEFAULT_ASSET_ROOT, help="Local image root to upload.")
-    parser.add_argument("--cache-file", type=Path, default=DEFAULT_CACHE_FILE, help="Persistent upload cache file.")
+    parser.add_argument("--db-path", type=Path, default=DEFAULT_DB_PATH, help="SQLite database for upload cache.")
+    parser.add_argument("--cache-file", type=Path, default=DEFAULT_DB_PATH, help=argparse.SUPPRESS)
     parser.add_argument("--visibility", choices=["private", "public"], default="private", help="Upload visibility.")
     parser.add_argument("--endpoint", default=None, help="Override upload endpoint.")
-    parser.add_argument("--api-key", default=os.environ.get("IMG_TANO_API_KEY", DEFAULT_API_KEY), help="Private API key.")
     parser.add_argument("--limit", type=int, default=None, help="Optional upload limit for testing.")
     parser.add_argument("--dry-run", action="store_true", help="Print what would change without uploading or writing files.")
     args = parser.parse_args()
 
-    api_key = args.api_key.strip()
+    env = load_repo_env()
+    api_key = env.get("IMG_TANO_API_KEY", "").strip()
     endpoint = resolve_endpoint(args.visibility, args.endpoint)
     if args.visibility == "private" and not api_key:
-        raise SystemExit("Please set your private API key in --api-key or IMG_TANO_API_KEY before running.")
+        raise SystemExit("Please set IMG_TANO_API_KEY in the repository root .env before running.")
 
     if not args.asset_root.exists():
         raise SystemExit(f"Asset root does not exist: {args.asset_root}")
     if not args.content_root.exists():
         raise SystemExit(f"Content root does not exist: {args.content_root}")
 
-    cache = load_cache(args.cache_file)
-    files_cache: dict[str, Any] = cache.setdefault("files", {})
-    digests_cache: dict[str, Any] = cache.setdefault("digests", {})
+    store = ContentStore(args.db_path)
 
     session = requests.Session()
     session.headers.update(
@@ -246,7 +261,13 @@ def main() -> None:
             "Accept": "application/json",
         }
     )
-    uploader = ImageUploader(session=session, endpoint=endpoint, api_key=api_key if args.visibility == "private" else "")
+    uploader = ImageUploader(
+        session=session,
+        endpoint=endpoint,
+        api_key=api_key if args.visibility == "private" else "",
+        visibility=args.visibility,
+        store=store,
+    )
 
     uploads: dict[str, str] = {}
     uploaded = 0
@@ -267,31 +288,23 @@ def main() -> None:
         rel = path.relative_to(args.asset_root).as_posix()
         local_url = f"/assets/bang-dream/{rel}"
         digest = sha256_file(path)
-
-        cached = files_cache.get(rel)
-        if isinstance(cached, dict) and cached.get("digest") == digest and cached.get("url"):
-            url = normalize_uploaded_url(endpoint, str(cached["url"]))
-            uploads[local_url] = url
-            files_cache[rel] = {"digest": digest, "url": url}
-            reused += 1
-            print(f"[{index}/{len(image_files)}] cached {rel}")
-            continue
-
-        cached_url = digests_cache.get(digest)
-        if isinstance(cached_url, str) and cached_url:
-            cached_url = normalize_uploaded_url(endpoint, cached_url)
-            uploads[local_url] = cached_url
-            files_cache[rel] = {"digest": digest, "url": cached_url}
-            reused += 1
-            print(f"[{index}/{len(image_files)}] dedup {rel}")
-            continue
-
-        print(f"[{index}/{len(image_files)}] upload {rel}")
         if args.dry_run:
-            url = f"https://img.tano.asia/i/{digest[:16]}.webp"
+            cached = store.get_image_upload_by_path(rel, endpoint, args.visibility)
+            cached_url = None
+            if cached and cached[0] == digest:
+                cached_url = cached[1]
+            else:
+                cached_url = store.get_image_upload_by_hash(digest, endpoint, args.visibility)
+            url = normalize_uploaded_url(endpoint, cached_url) if cached_url else f"https://img.tano.asia/i/{digest[:16]}.webp"
         else:
             try:
-                url = uploader.upload_path(path)
+                url = uploader.upload_bytes(
+                    path.name,
+                    path.read_bytes(),
+                    content_type=mimetypes.guess_type(path.name)[0],
+                    local_path=rel,
+                    content_hash=digest,
+                )
             except PermissionError as exc:
                 raise SystemExit(str(exc)) from exc
             except Exception as exc:
@@ -300,9 +313,8 @@ def main() -> None:
                 continue
 
         uploads[local_url] = url
-        files_cache[rel] = {"digest": digest, "url": url}
-        digests_cache[digest] = url
         uploaded += 1
+        print(f"[{index}/{len(image_files)}] {rel}")
         print(f"  -> {url}")
 
     if not uploads:
@@ -326,7 +338,7 @@ def main() -> None:
             print(f"[md] {md_path}: {count} replacement(s)")
 
     if not args.dry_run:
-        save_cache(args.cache_file, cache)
+        store.commit()
 
     print(f"done: uploaded={uploaded} reused={reused} rewritten={len(modified_files)}")
     if failed:

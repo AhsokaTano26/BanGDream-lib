@@ -40,7 +40,7 @@ def main() -> None:
     for collection in args.collections:
         items = collect(collection, crawler, limit=args.limit)
         for item in items:
-            target_dir = output_root / collection / "generated"
+            target_dir = output_root / collection
             target_dir.mkdir(parents=True, exist_ok=True)
             target_path = target_dir / f"{item.slug}.md"
             target_path.write_text(
