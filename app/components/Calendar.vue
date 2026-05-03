@@ -32,8 +32,12 @@
 
       <div class="grid grid-cols-7">
         <div v-for="(day, i) in days" :key="i"
+             @click="selectDay(day)"
              class="h-24 border-r border-b border-white/5 p-2 hover:bg-white/10 transition-colors group relative cursor-pointer"
-             :class="[day.isCurrent ? 'opacity-100' : 'opacity-20']">
+             :class="[
+               day.isCurrent ? 'opacity-100' : 'opacity-20',
+               selectedDateKey === day.dateStr ? 'ring-2 ring-blue-400/60 bg-white/10' : ''
+             ]">
 
           <div class="flex justify-between items-start">
             <span class="text-lg font-mono" :class="day.isToday ? 'text-blue-400 font-bold' : 'text-white/80'">{{ day.d }}</span>
@@ -72,18 +76,18 @@
     </div>
 
     <transition name="slide-up">
-      <div v-if="activeDate" class="bg-white/5 backdrop-blur-xl p-6 border border-white/10 rounded-lg shadow-2xl">
+      <div v-if="selectedDay" class="bg-white/5 backdrop-blur-xl p-6 border border-white/10 rounded-lg shadow-2xl">
         <div class="flex items-center justify-between mb-6">
           <h4 class="text-xs font-black text-white/80 uppercase tracking-[0.2em]">
-            {{ activeDate.dateStr }} · Timeline
+            {{ selectedDay.dateStr }} · Timeline
           </h4>
           <span class="text-[10px] bg-blue-500/20 text-blue-300 px-2 py-0.5 rounded-full font-bold border border-blue-500/30">
-            {{ activeDate.events.length }} 条记录
+            {{ selectedDay.events.length }} 条记录
           </span>
         </div>
 
-        <div class="relative border-l-2 border-white/80 ml-2 pl-6 space-y-8">
-          <div v-for="ev in activeDate.events" :key="ev.id" class="relative group cursor-pointer">
+        <div v-if="selectedDay.events.length" class="relative border-l-2 border-white/80 ml-2 pl-6 space-y-8">
+          <div v-for="ev in selectedDay.events" :key="ev.id" class="relative group cursor-pointer">
             <div :class="['absolute -left-[31px] top-1 w-4 h-4 rounded-full border-4 border-[#1a1a1a] shadow-lg transition-transform group-hover:scale-125', getIndicatorColor(ev.type)]"></div>
 
             <div class="space-y-1">
@@ -97,13 +101,17 @@
             </div>
           </div>
         </div>
+
+        <div v-else class="text-sm text-white/50 border border-dashed border-white/10 rounded-lg p-4">
+          这一天没有文章或节目。
+        </div>
       </div>
     </transition>
   </div>
 </template>
 
 <script setup>
-import { computed, onMounted, ref } from 'vue';
+import { computed, onMounted, ref, watchEffect } from 'vue';
 import { Lunar } from 'lunar-javascript';
 
 const quote = "Stay focused, be present.";
@@ -262,9 +270,24 @@ const days = computed(() => {
   return res;
 });
 
-const activeDate = computed(() => {
-  return days.value.find(day => day.isToday && day.events.length > 0) || null;
+const selectedDateKey = ref('');
+
+const selectedDay = computed(() => {
+  return days.value.find(day => day.dateStr === selectedDateKey.value) || null;
 });
+
+watchEffect(() => {
+  if (!selectedDateKey.value) {
+    const today = days.value.find(day => day.isToday && day.events.length > 0);
+    if (today) {
+      selectedDateKey.value = today.dateStr;
+    }
+  }
+});
+
+const selectDay = (day) => {
+  selectedDateKey.value = day.dateStr;
+};
 
 const prevMonth = () => { if (month.value === 0) { month.value = 11; year.value--; } else { month.value--; } };
 const nextMonth = () => { if (month.value === 11) { month.value = 0; year.value++; } else { month.value++; } };
@@ -272,6 +295,7 @@ const resetDate = () => {
   const current = getDateParts(new Date(), timeZone.value);
   year.value = current.year;
   month.value = current.month;
+  selectedDateKey.value = '';
 };
 </script>
 
