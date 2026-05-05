@@ -1,14 +1,13 @@
 ---
+date: ["2021-05-02"]
 title: "日本JAM 2021"
 description: "5/2(周日)RAISE A SUILEN、5/5(周三祝)Poppin'Party出演"
-date: "2021-05-02"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "千叶市苏我体育公园"
 org: ["other"]
 url: "https://bang-dream.com/events/japanjam2021/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「JAPAN JAM 2021」中，来自BanG Dream!的Poppin'Party和RAISE A SUILEN已确定出演！

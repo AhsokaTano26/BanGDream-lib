@@ -1,14 +1,13 @@
 ---
+date: ["2022-09-10"]
 title: "MyGO!!!!! 2nd LIVE「就这样拥抱」"
 description: "从BanG Dream!诞生的“现实”与“虚拟（角色）”同步的乐队「MyGO!!!!!」。经历7月的1st LIVE后，第二次演出已确定。 公演名 MyGO!!!!! 2nd LIVE「紧紧拥抱这份真实」 日程 2022年9月10日（周六） 开演17:00／开演18:00（预定） 会场 飞行船剧院 出演 MyGO!!!!! 票…"
-date: "2022-09-10"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "飞艇剧院"
 org: ["mygo"]
 url: "https://bang-dream.com/events/mygo_2nd/"
 ---
-
 <!-- translated-by: deepseek -->
 
 バンドリ！から生まれる“現実(リアル)”と“仮想(キャラクター)”が同期するバンド「MyGO!!!!!」。

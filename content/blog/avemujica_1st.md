@@ -1,14 +1,13 @@
 ---
+date: ["2024-01-27"]
 title: "Ave Mujica 1st LIVE「Perdere Omnia」"
 description: "公演概要 会场门票 配信门票 周边一览 周边销售信息 周边通贩信息 活动信息 CD销售 注意事项 咨询…欢迎来到Ave Mujica的世界 公演名称 Ave Mujica 1st LIVE「Perdere Omnia」 日期 2024年1月27日(周六) 开场16:00／开演17:00（预定） 会场 横须贺艺术剧场 出演 Ave…"
-date: "2024-01-27"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "横须贺艺术剧场"
 org: ["Ave"]
 url: "https://bang-dream.com/events/avemujica_1st/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [演出概要](#h27slqw7a1pz13xdw0933tfxg1q6fw7d)

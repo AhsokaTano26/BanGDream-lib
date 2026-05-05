@@ -1,14 +1,13 @@
 ---
+date: ["2025-01-24", "2025-01-25"]
 title: "リスアニ！LIVE 2025"
 description: "1月24日（周五）MyGO!!!!!出演、25日（周六）Ave Mujica出演"
-date: "2025-01-24"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "日本武道馆"
 org: ["other"]
 url: "https://bang-dream.com/events/lisani2025/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「LisAni！LIVE 2025」中，BanG Dream!企划旗下MyGO!!!!!与Ave Mujica确定出演！

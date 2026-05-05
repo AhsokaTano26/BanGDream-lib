@@ -1,14 +1,13 @@
 ---
+date: ["2024-09-21", "2024-09-22"]
 title: "ナガノアニエラフェスタ2024"
 description: "9月22日(周日) RAISE A SUILEN出演"
-date: "2024-09-22"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "驹场公园"
 org: ["other"]
 url: "https://bang-dream.com/events/anierafesta2024/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「NAGANO ANIERA FESTA 2024」中，来自BanG Dream!的RAISE A SUILEN确定出演！

@@ -80,6 +80,7 @@
 <script setup>
 import { computed } from 'vue'
 import { getTagStyle, mapOrgStyles, getContrastTextColor } from "~~/utils/tag-registry";
+import { formatContentDateList } from '~~/utils/content-date'
 
 /**
  * 接收来自 Nuxt Content 的内容对象

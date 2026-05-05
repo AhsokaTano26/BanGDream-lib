@@ -1,14 +1,13 @@
 ---
+date: ["2025-06-15"]
 title: "Roselia「坚强起来」"
 description: "公演概要 会场门票 配信门票 周边通贩 周边销售 扭蛋 在线商店现场领取 新日本蛋白展位 CD销售 注意事项 祝贺花篮 咨询 公演名 Roselia「Sei stark」 日期 2025年6月15日(周日) 开场16:30／开演17:30（预定） 会场 有明体育馆 出演 Roselia 开场表演：梦限大みゅー…"
-date: "2025-06-15"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "有明体育馆"
 org: ["R"]
 url: "https://bang-dream.com/events/roselia2025live/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#Performance_overview)

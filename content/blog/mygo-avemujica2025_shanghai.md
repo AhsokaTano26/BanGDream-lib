@@ -1,14 +1,13 @@
 ---
+date: ["2025-10-11", "2025-10-12"]
 title: "MyGO!!!!!×Ave Mujica 联合演唱会「分岔路的，那前方」上海追加公演"
 description: "演出概要 会场门票 现场观影 咨询 演出名 BanG Dream! 上海公演2025 MyGO!!!!!×Ave Mujica 联合演唱会「分岔路的，前方」上海追加公演 日程 DAY1 : Petrichor 2025年10月11日(周六) 开场17:00／开演19:00（当地时间·预定） DAY2 : Geosmin 2025年10"
-date: "2025-10-11"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "梅赛德斯-奔驰文化中心 （Mercedes-Benz Arena）"
 org: ["mygo", "Ave"]
 url: "https://bang-dream.com/events/mygo-avemujica2025_shanghai/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [演出概要](#Performance_overview)

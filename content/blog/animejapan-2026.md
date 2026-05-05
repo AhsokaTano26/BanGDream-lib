@@ -1,14 +1,13 @@
 ---
+date: ["2026-03-28"]
 title: "2026年日本动漫展"
 description: "AnimeJapan 2026 日本电视台×VAP展位将展出「BanG Dream! It's MyGO!!!!!/Ave Mujica」！在日本电视台×VAP展位上，设有可以体验「BanG Dream! It's MyGO!!!!!/Ave Mujica」续篇TV动画世界观的摄影点，以及充分传递BanG Dream!魅力的谈话舞台…"
-date: "2026-03-28"
 status: "activity"
 author: "BanG Dream! Project"
 location: "东京国际展览中心"
 org: ["mygo", "Ave"]
 url: "https://bang-dream.com/events/animejapan-2026/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ![](https://img.tano.asia/i/3d75f483-0a34-45da-8be1-8c41377b312a.webp)

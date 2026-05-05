@@ -1,14 +1,13 @@
 ---
+date: ["2023-11-02"]
 title: "Weiß Schwarz 15周年纪念演唱会"
 description: "Morfonica出演"
-date: "2023-11-02"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "东京花园剧场"
 org: ["other"]
 url: "https://bang-dream.com/events/ws15th-live/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Weiß Schwarz 15周年纪念演唱会决定举办！

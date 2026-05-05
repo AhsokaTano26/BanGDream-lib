@@ -1,14 +1,13 @@
 ---
+date: ["2022-01-10"]
 title: "「BanG Dream! TV LIVE 情报角 出差版」"
 description: "2022年1月10日（周一・节假日）「BanG Dream! TV LIVE 2022」资讯环节出差版确定举办！将在谈话活动「BanG Dream! Girls New Year Party! 2022」第1部之前举行！ https://bang-dream.com/events/gnp2022 确定在YouTube「BanG Dream!频道☆」免费播出！敬请期待…"
-date: "2022-01-10"
 status: "activity"
 author: "BanG Dream! Project"
 location: "TACHIKAWA STAGE GARDEN・YouTube「BanG Dream!频道☆」"
 org: ["other"]
 url: "https://bang-dream.com/events/bdinfo_event/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ![](https://img.tano.asia/i/ec5f229c-5f8b-414b-be42-dec56e4ec3b0.webp)

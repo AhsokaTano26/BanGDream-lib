@@ -1,14 +1,13 @@
 ---
+date: ["2017-08-20"]
 title: "BanG Dream! 4th☆LIVE Miracle PARTY 2017!～前日祭～"
 description: "与尾崎由香（饰演户山明日香）、佐佐木未来（饰演鳄部七叶）一起回顾Poppin'Party武道馆演唱会之路！ ♪ 参加条件：自由观看 ♪ 舞台时间：①开始12:30 ②开始14:45 【注意事项】 ・严禁拍摄、录音舞台节目。 ・若观看人数过多，可能会限制入场人数…"
-date: "2017-08-20"
 status: "activity"
 author: "BanG Dream! Project"
 location: "科学技术馆展示厅"
 org: ["other"]
 url: "https://bang-dream.com/events/pre-bang-dream-4th2017/"
 ---
-
 <!-- translated-by: deepseek -->
 
 尾崎由香小姐（户山明日香 役）、佐佐木未来小姐（鳄部七叶 役）一起回顾Poppin’Party的武道馆演唱会之路吧！

@@ -1,14 +1,13 @@
 ---
+date: ["2024-04-28", "2024-05-03"]
 title: "JAPAN JAM 2024"
 description: "5月3日(周五·节假日) MyGO!!!!!出演"
-date: "2024-05-03"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "千叶市苏我体育公园"
 org: ["other"]
 url: "https://bang-dream.com/events/japanjam2024/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「JAPAN JAM 2024」中，来自BanG Dream!的MyGO!!!!!确定出演！

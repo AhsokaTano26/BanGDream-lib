@@ -1,14 +1,13 @@
 ---
+date: ["2026-03-20", "2026-03-21"]
 title: "Frontmatter:title\nMEGA VEGAS 2026"
 description: "3月20日(周五･节假日) Ave Mujica、3月21日(周六) RAISE A SUILEN出演"
-date: "2026-03-20"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "神户世界纪念厅"
 org: ["RAS", "Ave"]
 url: "https://bang-dream.com/events/megavegas2026/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「MEGA VEGAS 2026」中，BanG Dream! 项目旗下的 RAISE A SUILEN・Ave Mujica 确定出演！

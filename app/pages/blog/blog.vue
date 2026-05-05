@@ -25,6 +25,7 @@
 </template>
 
 <script setup>
+import { getContentDateSortKey } from '~~/utils/content-date'
 // 使用 app.vue 中定义的全局主题状态
 const themeConfig = useState('themeConfig')
 
@@ -32,9 +33,7 @@ const currentPage = ref(1)
 const pageSize = 10
 
 const { data: allBlogs } = await useAsyncData('all-blogs', () =>
-    queryCollection('blog')
-        .order('date', 'DESC') // 按时间倒序
-        .all()
+    queryCollection('blog').all()
 )
 
 // 计算总页数
@@ -46,7 +45,9 @@ const totalPages = computed(() =>
 const paginatedBlogs = computed(() => {
   if (!allBlogs.value) return []
   const start = (currentPage.value - 1) * pageSize
-  return allBlogs.value.slice(start, start + pageSize)
+  return [...allBlogs.value]
+      .sort((a, b) => getContentDateSortKey(b.date).localeCompare(getContentDateSortKey(a.date)))
+      .slice(start, start + pageSize)
 })
 
 useHead({ title: '官方博客' })

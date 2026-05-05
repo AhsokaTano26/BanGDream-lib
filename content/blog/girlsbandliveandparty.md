@@ -1,14 +1,13 @@
 ---
+date: ["2018-01-13", "2018-08-23", "2017-08-22", "2017-10-21", "2017-10-30", "2017-11-06", "2017-12-20", "2018-01-14", "2018-09-27", "2017-09-26", "2017-11-12", "2017-11-20", "2017-11-27"]
 title: "Garupa Live & Garupa Party！in东京"
 description: "★最新信息将在特设网站随时通知！⇒ https://bang-dream.bushimo.jp/live_party/ ★现场直播的举办已决定！详情请点击这里！http://liveviewing.jp/contents/live_party/ ★2018年1月13日（周六）举办 ガルパライブ＆ガルパーティ！in东京 现场演…"
-date: "2018-01-13"
 status: "activity"
 author: "BanG Dream! Project"
 location: "东京国际展览中心"
 org: ["other"]
 url: "https://bang-dream.com/events/girlsbandliveandparty/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ★最新情報在特設網站隨時通知！

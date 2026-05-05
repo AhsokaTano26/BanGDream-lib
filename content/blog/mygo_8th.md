@@ -1,14 +1,13 @@
 ---
+date: ["2025-12-06"]
 title: "MyGO!!!!! 8th LIVE「思念的形态堆积之时」"
 description: "公演概要 会场门票 配信门票 门票交易 周边通贩 会场地图 周边销售 在线商店当地领取 饮食·赞助区域 「推し旅」合作企划 注意事项 祝贺花篮 咨询 公演名 MyGO!!!!! 8th LIVE「思念的形状堆积之时」 日程 2025年12月6日(周六) 开场16:30／开演18:00（预定） 会场 京王竞技场 TO…"
-date: "2025-12-06"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "京王竞技场 TOKYO"
 org: ["mygo"]
 url: "https://bang-dream.com/events/mygo_8th/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#Performance_overview)

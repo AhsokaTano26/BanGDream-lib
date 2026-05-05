@@ -1,14 +1,13 @@
 ---
+date: ["2025-10-24"]
 title: "ARALE 不插电现场 ～Copal～"
 description: "公演概要 会场门票 注意事项 祝贺花篮 咨询 演出名称 ARALE Acoustic LIVE ～Copal～ 日期 2025年10月24日(星期五) 开场18:00／开演19:00（预定） 会场 代官山UNIT 出演 仲町あられ（梦限大みゅーたいぷ） 嘉宾：堀江晶太 门票 ※SOLD OUT 票价 特典附站票：6,500日元（含税） 一…"
-date: "2025-10-24"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "代官山UNIT"
 org: ["other"]
 url: "https://bang-dream.com/events/arale_acousticlive2025/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#h2slv9b5o8w1bk1rm59g0sk91wppb0d)

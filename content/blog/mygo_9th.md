@@ -1,14 +1,13 @@
 ---
+date: ["2026-07-18", "2026-07-19"]
 title: "MyGO!!!!! 9th LIVE「连接点的另一端」"
 description: "公演概要 门票 注意事项 咨询 公演名 MyGO!!!!! 9th LIVE「连接点的彼方」 日程 DAY1 2026年7月18日(周六) 开场16:30／开演18:00（预定） DAY2 2026年7月19日(周日) 开场16:30／开演18:00（预定） 会场 ぴあアリーナMM 出演 MyGO!!!!! 门票 费用 S席(附特制周边)：…"
-date: "2026-07-18"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "PIA ARENA MM"
 org: ["mygo"]
 url: "https://bang-dream.com/events/mygo_9th/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [演出概要](#Performance_overview)

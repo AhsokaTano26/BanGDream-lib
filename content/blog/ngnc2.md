@@ -1,14 +1,13 @@
 ---
+date: ["2021-05-01", "2021-05-16", "2021-04-08", "2021-03-27", "2021-02-27", "2021-03-07"]
 title: "Poppin'Party×SILENT SIREN 对邦演唱会「NO GIRL NO CRY -Round 2-」"
 description: "2021.5 ONLINE LIVE 2021.3 SHOOTING LIVE 2019年首次成功举办对盘演唱会的Poppin'Party与SILENT SIREN的再次对决，这次将在线上举行！预录特有的新演出也是看点，由“PoppiPa”和“SaiSai”带来的针锋相对的“Round 2”不容错过♪ 「NO GIRL NO CRY -R…"
-date: "2021-05-01"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "在线直播"
 org: ["ppp"]
 url: "https://bang-dream.com/events/ngnc2/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [2021.5 在线直播](#online)

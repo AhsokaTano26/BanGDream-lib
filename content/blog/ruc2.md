@@ -1,14 +1,13 @@
 ---
+date: ["2021-02-22"]
 title: "Roselia×RAISE A SUILEN 联合演唱会「Rausch und/and Craziness Ⅱ」"
 description: "门票 现场观影 周边 注意事项 直播特别配信决定！ 2021年3月13日(星期六) 14:00～ ※回放配信 至3月31日(星期日)23:59 https://bang-dream.com/news/1149 公演名 Roselia×RAISE A SUILEN联合演唱会「Rausch und/and Craziness Ⅱ」 日程 2021…"
-date: "2021-02-22"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "横滨体育馆"
 org: ["R", "RAS"]
 url: "https://bang-dream.com/events/ruc2/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [チケット](#ticket)

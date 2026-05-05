@@ -1,14 +1,13 @@
 ---
+date: ["2019-09-15"]
 title: "「与楚楚一起BanG Dream! FILM LIVE」（附带迷你脱口秀）"
 description: "「与啾啾一起BanG Dream! FILM LIVE」举办决定！这是可以与RAISE A SUILEN啾啾声优・纺木吏佐一起享受剧场版《BanG Dream! FILM LIVE》应援上映的活动♪ 日期 2019年9月15日(周日) 上映时间：17时00分 地点 永旺幕张新都心影城 出演者 纺木吏佐（RAISE A SUILEN…"
-date: "2019-09-15"
 status: "activity"
 author: "BanG Dream! Project"
 location: ""
 org: ["other"]
 url: "https://bang-dream.com/events/chuchu-ouenjyoei/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「和Chuchu一起BanG Dream! FILM LIVE」举办决定！

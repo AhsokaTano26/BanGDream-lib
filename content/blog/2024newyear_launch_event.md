@@ -1,14 +1,13 @@
 ---
+date: ["2024-01-06", "2023-11-08", "2023-11-26"]
 title: "ブシロード新春大発表会 2024"
 description: "MyGO!!!!!出演"
-date: "2024-01-06"
 status: "activity"
 author: "BanG Dream! Project"
 location: "东京巨蛋城大厅"
 org: ["other"]
 url: "https://bang-dream.com/events/2024newyear_launch_event/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Bushiroad集团决定举办“Bushiroad新春大发布会2024”，为大家带来TCG、演唱会、职业摔角、游戏、动画的最新信息！

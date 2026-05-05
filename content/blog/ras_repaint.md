@@ -1,14 +1,13 @@
 ---
+date: ["2022-02-07"]
 title: "RAISE A SUILEN 特别演唱会「Repaint」"
 description: "RAISE A SUILEN举办2022年首场现场演出！特邀Fear, and Loathing in Las Vegas作为嘉宾，为大家带来火热的舞台。※门票特典T恤是由制作BanG Dream!（バンドリ！）合作服饰而广为人知的GEKIROCK CLOTHING为本公演特别定制！※本公演为现场观…"
-date: "2022-02-07"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Zepp DiverCity (东京)"
 org: ["RAS"]
 url: "https://bang-dream.com/events/ras_repaint/"
 ---
-
 <!-- translated-by: deepseek -->
 
 RAISE A SUILEN举办2022年首场演出！

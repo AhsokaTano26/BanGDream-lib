@@ -1,14 +1,13 @@
 ---
+date: ["2020-02-10", "2020-02-11"]
 title: "RADIO EXPO ～TBS广播万博2020～"
 description: "TBS广播首次音乐节中Roselia的出演已确定！ 举办日程 2020年2月10日（周一） 17:00开场/18:00开演/21:00预定结束（20:30最后入场） 2020年2月11日（周二·节假日） 9:00开场·开演/18:00预定结束（17:30最后入场） ※Roselia仅在2/11（周二·节假日）出演。 会场 横滨国际平和会议场 展示厅 出…"
-date: "2020-02-11"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "横滨太平洋会展中心 展示厅"
 org: ["other"]
 url: "https://bang-dream.com/events/roselia_radioexpo/"
 ---
-
 <!-- translated-by: deepseek -->
 
 TBS广播首次音乐节Roselia将出演！

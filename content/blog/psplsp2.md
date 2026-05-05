@@ -1,14 +1,13 @@
 ---
+date: ["2021-07-08", "2021-05-19", "2021-05-18", "2021-06-01", "2021-06-26", "2021-06-24", "2021-07-09", "2021-07-29", "2021-05-30"]
 title: "Pastel＊Palettes 特别演唱会「TITLE DREAM」"
 description: "Pastel＊Palettes特別公演第２弾が開催決定！ 応援ボイス大募集キャンペーン開催！ ※募集は終了しました https://bang-dream.com/news/1206 公演名 Pastel＊Palettes Special Live 「TITLE DREAM」 会場 Zepp Haneda 日程 2021年7月8日(木) 開場18:00 ／開演…"
-date: "2021-07-08"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Zepp羽田"
 org: ["pp"]
 url: "https://bang-dream.com/events/psplsp2/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Pastel＊Palettes特别公演第2弹决定举办！

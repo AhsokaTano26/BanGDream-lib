@@ -1,14 +1,13 @@
 ---
+date: ["2023-08-12"]
 title: "MyGO!!!!! 5th LIVE「迷茫不迷茫」"
 description: "从BanG Dream!诞生的“现实（Real）”与“虚拟（角色）”同步的乐队「MyGO!!!!!」。 2023年8月决定举办5th LIVE。 公演名 MyGO!!!!! 5th LIVE「迷茫而不迷茫」 日期 2023年8月12日(周六) 开场17:00／开演18:00（预定） 会场 KT Zepp Yokohama 出演 MyGO!!!!…"
-date: "2023-08-12"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "KT Zepp 横滨"
 org: ["mygo"]
 url: "https://bang-dream.com/events/mygo_5th/"
 ---
-
 <!-- translated-by: deepseek -->
 
 バンドリ！から生まれる“現実(リアル)”と“仮想(キャラクター)”が同期するバンド「MyGO!!!!!」。

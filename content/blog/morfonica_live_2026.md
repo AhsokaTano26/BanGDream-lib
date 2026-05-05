@@ -1,14 +1,13 @@
 ---
+date: ["2026-09-22"]
 title: "Morfonica LIVE「Movement」"
 description: "公演概要 门票 注意事项 咨询 公演名称 Morfonica LIVE「Movement」 日期 2026年9月22日(周二・节假日) 开场17:00／开演18:00（预定） 场馆 TACHIKAWA STAGE GARDEN 出演 Morfonica 门票 票价  arena站立 S区(附赠特制周边)：22,000日元(含税) arena站立…"
-date: "2026-09-22"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "TACHIKAWA STAGE GARDEN"
 org: ["M"]
 url: "https://bang-dream.com/events/morfonica_live_2026/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [演出概要](#Performance_overview)

@@ -1,14 +1,13 @@
 ---
+date: ["2023-11-18"]
 title: "ANIMAX MUSIX 2023"
 description: "RAISE A SUILEN、MyGO!!!!!出演"
-date: "2023-11-18"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "横滨体育馆"
 org: ["other"]
 url: "https://bang-dream.com/events/animax2023/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - ![](https://img.tano.asia/i/2ce5a0be-0321-496d-a1ad-ce8b170f8764.webp)

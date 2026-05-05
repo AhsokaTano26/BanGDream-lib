@@ -1,14 +1,13 @@
 ---
+date: ["2026-01-12"]
 title: "卡片战斗!! 先导者 15周年纪念 武士道新春大发表会2026"
 description: "ブシロード集团为您带来TCG、现场演出、职业摔角、游戏、动画最新情报的「新春大型发布会」。2026年将庆祝卡片战斗!! 先导者15周年，作为《卡片战斗!! 先导者 15周年纪念 Bushiroad新春大型发布会2026》举办！《卡片战斗!! 先导者 15th Anniversary…"
-date: "2026-01-12"
 status: "activity"
 author: "BanG Dream! Project"
 location: "卡纳迪维亚大厅"
 org: ["other"]
 url: "https://bang-dream.com/events/2026newyear_launch_event/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Bushiroad集团为大家带来TCG、演唱会、职业摔跤、游戏、动漫最新情报的“新春大发布会”。

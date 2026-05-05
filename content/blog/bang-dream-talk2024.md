@@ -1,14 +1,13 @@
 ---
+date: ["2024-11-30"]
 title: "邦邦！新鲜多彩♪收获祭 feat. Dreamer's Tunes"
 description: "Band Dream!的谈话活动举办！正在播出的「BanG Dream! presents Dreamer's Tunes」特别活动！公演概要 会场门票 配信门票 周边商品销售 周边商品通贩 CD销售 注意事项 咨询 公演名 Band Dream!新鲜多彩♪收获祭 feat. Dreamer's Tunes 日程 2024年11月30日(周六)…"
-date: "2024-11-30"
 status: "activity"
 author: "BanG Dream! Project"
 location: "所泽樱花城 日本展馆 A厅"
 org: ["other"]
 url: "https://bang-dream.com/events/bang-dream-talk2024/"
 ---
-
 <!-- translated-by: deepseek -->
 
 BanG Dream! 谈话活动举办！

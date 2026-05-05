@@ -1,14 +1,13 @@
 ---
+date: ["2021-12-11", "2021-12-12"]
 title: "Roselia「Edelstein」"
 description: "Roselia单独演唱会的举办已决定！本次公演将呈现至今为止发行的单曲收录曲目中的珠玉歌单。敬请期待！来自“ARGONAVIS项目”的开场表演也已确定！在12月12日（周日）举办的Roselia名古屋国际会议场世纪厅“Edelstein”公演中，来自ARGONAVI…"
-date: "2021-12-11"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "名古屋国际会议场世纪大厅"
 org: ["R"]
 url: "https://bang-dream.com/events/roselia2021/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Roselia单独演唱会决定举办！

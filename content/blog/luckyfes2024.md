@@ -1,14 +1,13 @@
 ---
+date: ["2024-07-13", "2024-07-14", "2024-07-15"]
 title: "LuckyFes'24"
 description: "7月14日(周日) Roselia出演、15日(周一･节假日) RAISE A SUILEN出演"
-date: "2024-07-13"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "国营常陆海滨公园"
 org: ["other"]
 url: "https://bang-dream.com/events/luckyfes2024/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「LuckyFes'24」中，来自BanG Dream!的Roselia・RAISE A SUILEN确定出演！

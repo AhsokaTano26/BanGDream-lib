@@ -1,14 +1,13 @@
 ---
+date: ["2024-03-23", "2024-03-30", "2024-03-31", "2024-01-27", "2024-02-07"]
 title: "RAISE A SUILEN 亚洲巡演 2024"
 description: "2024年3月、RAISE A SUILEN 首次ASIA TOUR的举办决定！ 公演名 ・RAISE A SUILEN ASIA TOUR 2024 IN TAIPEI ・RAISE A SUILEN ASIA TOUR 2024 IN SHANGHAI 日程・会场 台北公演 日程：2024年3月23日(周六) 开场17:00／开演18:00(预定)…"
-date: "2024-03-31"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "台北演出：Zepp New Taipei、上海演出：上海宛平剧院 大剧场"
 org: ["RAS"]
 url: "https://bang-dream.com/events/ras-asiatour2024/"
 ---
-
 <!-- translated-by: deepseek -->
 
 2024年3月，RAISE A SUILEN 首次ASIA TOUR举办决定！

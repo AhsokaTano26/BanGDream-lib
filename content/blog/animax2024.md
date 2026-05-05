@@ -1,14 +1,13 @@
 ---
+date: ["2024-11-23"]
 title: "ANIMAX MUSIX 2024 秋季"
 description: "Poppin'Party、Ave Mujica出演"
-date: "2024-11-23"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "横滨体育馆"
 org: ["other"]
 url: "https://bang-dream.com/events/animax2024/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - ![](https://img.tano.asia/i/18316b25-b819-487f-b32c-ed9c4239cb14.webp)

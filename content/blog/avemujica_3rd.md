@@ -1,14 +1,13 @@
 ---
+date: ["2024-10-13"]
 title: "Ave Mujica 第3次演唱会「Veritas」"
 description: "公演概要 会场门票 配信门票 周边商品销售 周边商品网购 CD销售 寄存处 穿梭巴士 停车场 交通导览 注意事项 咨询处 关于演出效果 在Ave Mujica 3rd LIVE「Veritas」中，计划销售支持无线控制的腕带灯作为官方周边。通过无线操作，预定实现与舞台灯光联动的效果，更加…"
-date: "2024-10-13"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "河口湖星剧场"
 org: ["Ave"]
 url: "https://bang-dream.com/events/avemujica_3rd/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#Performance_overview)

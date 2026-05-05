@@ -1,14 +1,13 @@
 ---
+date: ["2020-01-27", "2019-09-18", "2019-11-08", "2019-11-25", "2019-12-21", "2019-12-07", "2019-12-22", "2020-01-17", "2020-01-24", "2020-01-25"]
 title: "Pastel＊Palettes特別公演 〜まんまるお山に彩りスペシャル☆〜"
 description: "日時 2020年1月27日(周一) 开场 18:00／开演19:00（预定） 举办地点 Zepp Tokyo 出演 前岛亚美（Pastel＊Palettes 丸山彩役） 票务信息 费用 ・1F站席：6,500日元（不含税） ・2F指定席：7,000日元（不含税） ※另需饮料费 ※设有女性区域 ※学龄前儿童不得入场 销售信息 CD先行抽选受理 20…"
-date: "2020-01-27"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Zepp Tokyo"
 org: ["pp"]
 url: "https://bang-dream.com/events/psplsp/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ## 日期时间

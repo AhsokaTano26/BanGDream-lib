@@ -1,14 +1,13 @@
 ---
+date: ["2023-10-22"]
 title: "Morfonica 谈话活动「欢迎来到莫尼会♪〜ZEPP TOUR 2023 forte 慰劳会〜」"
 description: "关于活动的重要通知（2023年10月20日追记） 关于西尾夕香的出演，因确认其新冠病毒检测结果为阳性，故不得不取消本次演出。 向一直期待的各位致以诚挚的歉意。 恳请理解，谢谢。 来信征集！ Morfonica Z…"
-date: "2023-10-22"
 status: "activity"
 author: "BanG Dream! Project"
 location: "飞艇剧院"
 org: ["M"]
 url: "https://bang-dream.com/events/morfonica_talk_2023/"
 ---
-
 <!-- translated-by: deepseek -->
 
 **活动相关重要通知（2023年10月20日追加）**

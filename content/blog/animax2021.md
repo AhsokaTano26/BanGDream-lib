@@ -1,14 +1,13 @@
 ---
+date: ["2021-11-20"]
 title: "ANIMAX MUSIX 2021"
 description: "Poppin'Party、Roselia出演"
-date: "2021-11-20"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "横滨体育馆"
 org: ["other"]
 url: "https://bang-dream.com/events/animax2021/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - ![](https://img.tano.asia/i/92f4f7f3-3385-4e7f-845c-86e03a8561b5.webp)

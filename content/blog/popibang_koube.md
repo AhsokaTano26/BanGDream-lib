@@ -1,14 +1,13 @@
 ---
+date: ["2021-04-04", "2021-03-01", "2021-03-08", "2021-03-19", "2021-04-01"]
 title: "ぽぴばん！的出游in神户"
 description: "这是由Poppin'Party的成员们做自己想做的事情的、由Poppin'Party为Poppin'Party而制作的节目「ぽぴばん！～ぽぴぱのばんぐみ～」。终于首次活动决定举办！！地点竟然是神户！请一定来玩哦♪「ぽぴばん！のおでかけin神户」活动概要 举办日期 2021年4月4日（周日） 第1场 12:00开场 13:00开演预定 第2场 17:…"
-date: "2021-04-04"
 status: "activity"
 author: "BanG Dream! Project"
 location: "神户艺术中心 艺术剧场"
 org: ["other"]
 url: "https://bang-dream.com/events/popibang_koube/"
 ---
-
 <!-- translated-by: deepseek -->
 
 popipa成员做自己想做的事，由popipa为popipa打造的节目「ぽぴばん！～ぽぴぱのばんぐみ～」。

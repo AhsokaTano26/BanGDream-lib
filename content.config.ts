@@ -14,7 +14,7 @@ export default defineContentConfig({
       schema: z.object({
         title: z.string(),
         description: z.string(),
-        date: z.string(),
+        date: z.array(z.string()).min(1),
         status: z.enum(["on_site", "activity", "other"]),
         author: z.string(),
         location: z.string(),

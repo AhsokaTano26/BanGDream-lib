@@ -1,14 +1,13 @@
 ---
+date: ["2026-01-07"]
 title: "Morfonica 谈话活动「欢迎来到莫尼会♪～放学后的茶会～」"
 description: "公演概要 会场门票 周边销售 注意事项 咨询 演出名 Morfonica 谈话活动「欢迎来到モニ会♪～放学后的茶会～」 日期 2026年1月7日(周三) 第1场 开场13:00／开演14:00（预定） 第2场 开场17:00／开演18:00（预定） 会场 飞行船剧院 出演 Morfonica 门票 费用 指定席：5,500日元(含税) 指…"
-date: "2026-01-07"
 status: "activity"
 author: "BanG Dream! Project"
 location: "飞艇剧院"
 org: ["M"]
 url: "https://bang-dream.com/events/morfonica_talk_2026/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#Performance_overview)

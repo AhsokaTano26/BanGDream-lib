@@ -1,14 +1,13 @@
 ---
+date: ["2024-12-22"]
 title: "MyGO!!!!! 7th LIVE「即使没有答案」"
 description: "公演概要 会场门票 配信门票 周边通贩 周边销售・赞助区域 开场中物贩 CD销售 注意事项 咨询 公演名 MyGO!!!!! 7th LIVE「答案什么的没有也没关系」 日期 2024年12月22日(周日) 开场17:00／开演18:00（预定） 会场 日比谷公园大音乐堂 ※雨天时公演也预定举行，但若天气恶劣则不得不中止公演…"
-date: "2024-12-22"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "日比谷公园大音乐堂"
 org: ["mygo"]
 url: "https://bang-dream.com/events/mygo_7th/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#h2slv9b5o8w1bk1rm59g0sk91wppb0d)

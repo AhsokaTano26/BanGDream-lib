@@ -1,14 +1,13 @@
 ---
+date: ["2025-11-02", "2025-11-29", "2026-01-25", "2025-10-18", "2025-10-06", "2025-10-13", "2025-07-02", "2025-10-05"]
 title: "JR东海 presents 出发前进！BanG Dream! 10周年纪念谈话之旅！"
 description: "公演名 日程・会场 出演 门票 征集信件中！ 周边商品信息 公演相关注意事项 关于祝贺花篮 咨询方式 公演名 JR东海 presents 出发前进！BanG Dream! 10周年纪念谈话之旅！ 日程・会场 大阪公演 日程：2025年11月2日(周日) 会场：朝日生命Hall 第1场 开场12:45／开演13:30（预定） 第2场 开场16:45／开演17:…"
-date: "2026-01-29"
 status: "activity"
 author: "BanG Dream! Project"
 location: "朝日生命大厅、Lives NAGOYA、日经大厅"
 org: ["other"]
 url: "https://bang-dream.com/events/bangdream-10th-talkjourney/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演名](#h2slv9b5o8w1bk1rm59g0sk91wppb0d)

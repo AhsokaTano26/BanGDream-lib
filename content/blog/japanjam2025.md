@@ -1,14 +1,13 @@
 ---
+date: ["2025-04-29", "2025-05-03", "2025-05-05"]
 title: "JAPAN JAM 2025"
 description: "5月5日(周一･节假日) Ave Mujica出演"
-date: "2025-05-05"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "千叶市苏我体育公园"
 org: ["other"]
 url: "https://bang-dream.com/events/japanjam2025/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「JAPAN JAM 2025」中，来自BanG Dream!的Ave Mujica确定出演！

@@ -1,14 +1,13 @@
 ---
+date: ["2020-06-30", "2020-05-01", "2020-10-07", "2020-03-31", "2020-03-17", "2020-03-30"]
 title: "【举办中止】Morfonica Debut Event「Prelude」"
 description: "※2020年6月30日(周二) 18:00补充说明 【关于演出/活动的重要通知】 对于原定于2020年5月1日(周五)举办、之后已宣布延期的本次公演，鉴于当前状况，敬请谅解，我们不得不决定中止本次公演。给各位正在考虑参加的观众带来不便，我们深感抱歉…"
-date: "2020-05-01"
 status: "activity"
 author: "BanG Dream! Project"
 location: "舞滨圆形剧场"
 org: ["M"]
 url: "https://bang-dream.com/events/morfonica_prelude/"
 ---
-
 <!-- translated-by: deepseek -->
 
 **※2020年6月30日(星期二) 18:00追记**

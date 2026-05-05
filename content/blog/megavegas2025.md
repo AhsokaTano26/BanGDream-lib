@@ -1,14 +1,13 @@
 ---
+date: ["2025-03-22", "2025-03-23"]
 title: "MEGA VEGAS 2025"
 description: "3月23日(周日) RAISE A SUILEN出演"
-date: "2025-03-23"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "神户世界纪念厅"
 org: ["other"]
 url: "https://bang-dream.com/events/megavegas2025/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「MEGA VEGAS 2025」中，BanG Dream!项目旗下的RAISE A SUILEN确定出演！

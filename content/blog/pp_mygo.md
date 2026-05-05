@@ -1,14 +1,13 @@
 ---
+date: ["2024-04-29"]
 title: "Poppin'Party×MyGO!!!!! 联合演唱会「Divide/Unite」"
 description: "公演概要 会场门票 配信门票 周边销售信息 周边通贩信息 Bushiroad ID抽选会企划 展位出展 东海道新干线联动企划 CD销售 注意事项 咨询 公演名 Poppin'Party×MyGO!!!!! 联合演唱会「Divide/Unite」 日程 2024年4月29日(周一・节假日) 开场17:00／开演18:00（预定） 会场 横滨体育馆 出演 P…"
-date: "2024-04-29"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "横滨体育馆"
 org: ["ppp", "mygo"]
 url: "https://bang-dream.com/events/pp_mygo/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [演出概要](#h2sltoj9gtqq0uhz5ij0lys1ikoe5z)

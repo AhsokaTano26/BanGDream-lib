@@ -1,14 +1,13 @@
 ---
+date: ["2025-11-20"]
 title: "梦限大缪泰普 出道2周年纪念直播！ 公开收录"
 description: "公演概要 会场 门票 咨询 公演名 梦限大みゅーたいぷ 出道2周年纪念配信！ 公开收录 日程 2025年11月20日(周四) 开场19:00／开演19:30（预定） 会场 Animate剧场 出演 梦限大みゅーたいぷ 门票 费用 全席指定：4,400日元(含税) ※每种票最多可申请1张 销售信息 一般发售 受理期间：2025年9月27日(周六)…"
-date: "2025-11-20"
 status: "activity"
 author: "BanG Dream! Project"
 location: "安利美特剧场"
 org: ["mxd"]
 url: "https://bang-dream.com/events/yumemita_secondanniversary/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#h2slv9b5o8w1bk1rm59g0sk91wppb0d)

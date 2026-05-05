@@ -1,14 +1,13 @@
 ---
+date: ["2025-11-29", "2025-11-30"]
 title: "梦限大缪泰普 47都道府县制霸之旅 「超级位置 〜梦限大篇〜」@石川"
 description: "11月30日(周日) 夢限大みゅーたいぷ出演"
-date: "2025-11-30"
 status: "activity"
 author: "BanG Dream! Project"
 location: "北国新闻赤羽大厅"
 org: ["mxd"]
 url: "https://bang-dream.com/events/yumemita_superposition_mugendai_ishikawa/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「动画·石川站」中，来自BanG Dream!项目的「夢限大みゅーたいぷ」确定出演！

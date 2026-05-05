@@ -1,14 +1,13 @@
 ---
+date: ["2023-03-11", "2023-03-12"]
 title: "MEGA VEGAS 2023"
 description: "3月12日(周日) RAISE A SUILEN出演"
-date: "2023-03-11"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "神户世界纪念厅"
 org: ["other"]
 url: "https://bang-dream.com/events/megavegas2023/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「MEGA VEGAS 2023」中，来自BanG Dream!项目的RAISE A SUILEN已确定出演！

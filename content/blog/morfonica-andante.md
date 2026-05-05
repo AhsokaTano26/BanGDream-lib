@@ -1,14 +1,13 @@
 ---
+date: ["2021-05-21"]
 title: "Morfonica Special Live「行板」"
 description: "票务 直播 周边销售 注意事项 Morfonica特别演唱会决定举办！敬请期待作为Morfonica单独活动第二次的舞台！演唱会特别配信决定！5月21日(周五)在Zepp Haneda举办的Morfonica Special Live「Andante」已决定立即进行特别配信！Morfonica第二次…"
-date: "2021-05-21"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Zepp羽田"
 org: ["M"]
 url: "https://bang-dream.com/events/morfonica-andante/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [门票](#ticket)

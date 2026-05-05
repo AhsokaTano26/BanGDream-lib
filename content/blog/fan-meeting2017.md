@@ -1,14 +1,13 @@
 ---
+date: ["2017-10-31", "2017-11-03", "2017-11-04"]
 title: "Poppin'Party粉丝见面会2017!"
 description: "一夜限りのスペシャルファンミーティングが開催決定！ Poppin'Partyがお送りするトークショー、生アフレコ、ミニライブなど盛りだくさんの内容でお届け！ みんなで一緒に楽しもう♪ ※「限定チケットホルダー」のデザインを公開しました！ 「限定チケットホルダー」はイベント当日、入場時にお渡しをいたします。 ≪お便り募集のお知らせ≫ Poppin'Party…"
-date: "2017-11-04"
 status: "activity"
 author: "BanG Dream! Project"
 location: "丰洲PIT"
 org: ["ppp"]
 url: "https://bang-dream.com/events/fan-meeting2017/"
 ---
-
 <!-- translated-by: deepseek -->
 
 一夜限りのスペシャルファンミーティングが開催決定！

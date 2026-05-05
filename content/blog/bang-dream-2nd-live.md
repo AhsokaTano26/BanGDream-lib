@@ -1,14 +1,13 @@
 ---
+date: ["2016-08-03", "2016-09-05", "2016-10-15"]
 title: "BanG Dream! Second☆LIVE Starrin' PARTY 2016!"
 description: "「BanG Dream! Second☆LIVE Starrin' PARTY 2016!」在TOKYO DOME CITY HALL于11.13举办决定！能够尽情享受5人现场表演的专场演唱会再次举办决定!! 会场进一步扩大，越来越强大的Poppin'Party！门票先行抽选申请券收录于2nd单曲「STAR BEAT…"
-date: "2016-11-03"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "东京巨蛋城大厅"
 org: ["other"]
 url: "https://bang-dream.com/events/bang-dream-2nd-live/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「BanG Dream! Second☆LIVE Starrin' PARTY 2016!」确定于11月13日在TOKYO DOME CITY HALL举办！

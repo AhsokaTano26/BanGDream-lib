@@ -1,14 +1,13 @@
 ---
+date: ["2022-06-18"]
 title: "RAISE A SUILEN×Morfonica「Mythology Chapter 2」"
 description: "RAISE A SUILEN与Morfonica的双专场演唱会决定举办。2021年9月在BanG Dream! 9th☆LIVE「Mythology」中同台演出的这两支乐队带来的“Chapter 2”不容错过。演出名称 RAISE A SUILEN×Morfonica「Mythology Chapter 2」日期 2022年6月18日(周六…"
-date: "2022-06-18"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "富士急高地·针叶树林"
 org: ["M", "RAS"]
 url: "https://bang-dream.com/events/mythology2/"
 ---
-
 <!-- translated-by: deepseek -->
 
 RAISE A SUILEN与Morfonica的联合演出决定举办。

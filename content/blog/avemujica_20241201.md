@@ -1,14 +1,13 @@
 ---
+date: ["2024-12-01", "2024-10-18", "2024-10-21", "2024-11-16"]
 title: "电视动画《BanG Dream! Ave Mujica》#1 世界最快同步上映会"
 description: "公演名 TV动画《BanG Dream! Ave Mujica》#1 世界最速同时上映会 日程 2024年12月1日（周日） 上映时间 13:30～14:00（预定） 会场 109 Cinemas Premium新宿 影院3 门票 费用 指定席：￥1,000（含税） ※门票仅在e+接受预订。影院及影院网站不进行销售。 ※本…"
-date: "2024-12-01"
 status: "activity"
 author: "BanG Dream! Project"
 location: "109 Cinemas Premium 新宿"
 org: ["Ave"]
 url: "https://bang-dream.com/events/avemujica_20241201/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ## 公演名称

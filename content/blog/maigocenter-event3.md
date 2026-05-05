@@ -1,14 +1,13 @@
 ---
+date: ["2026-05-09", "2026-08-08", "2026-04-25", "2026-03-25", "2026-04-05", "2026-02-04", "2026-03-08", "2025-12-06", "2026-01-05"]
 title: "MyGO!!!!!的「迷子集会」出差版 第三弹 - 日常的筑叶书 -"
 description: "MyGO!!!!!成员为大家送上的广播节目「MyGO!!!!!的迷子集会（マイゴセンター）」的出差版活动第3弹决定举办。 公演概要 门票 商品销售 注意事项 祝贺花 咨询 公演名 MyGO!!!!!的「迷子集会」出差版 第三弹 - 日常的筑叶书 - 日程·会场 大阪公演 日程：2026年5月9日(周六) 白天场 开场13:15／开演1…"
-date: "2026-05-09"
 status: "activity"
 author: "BanG Dream! Project"
 location: "COOL JAPAN PARK OSAKA WW大厅、鸿巢市文化中心（克莱亚鸿巢）大礼堂"
 org: ["mygo"]
 url: "https://bang-dream.com/events/maigocenter-event3/"
 ---
-
 <!-- translated-by: deepseek -->
 
 MyGO!!!!!成员为您带来的广播节目「MyGO!!!!!的迷子集会(MyGO中心)」的出差版活动第3弹决定举办。

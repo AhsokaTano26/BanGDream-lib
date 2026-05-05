@@ -1,14 +1,13 @@
 ---
+date: ["2025-02-02"]
 title: "Ave Mujica「KiLLKiSS」购买者限定免费演出"
 description: "公演概要 会场门票 免费直播 周边通贩 周边销售 CD销售 注意事项 联系方式 关于演出效果 本次公演，计划销售作为官方周边的支持无线控制的腕带灯。通过无线操作，计划实现与舞台灯光联动的效果，为您带来更具一体感的体验和美丽的景色。 ※除无线控制时外，可从全部12种颜色中选择您喜欢的颜色…"
-date: "2025-02-02"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "KT Zepp 横滨"
 org: ["Ave"]
 url: "https://bang-dream.com/events/avemujica_2025free/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#h2slv9b5o8w1bk1rm59g0sk91wppb0d)

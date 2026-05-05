@@ -1,14 +1,13 @@
 ---
+date: ["2025-08-23"]
 title: "Poppin'Party 全球现场演唱会 2025「Shiny High-Five!!」"
 description: "公演概要 会场 门票 咨询 公演名 BanG Dream! 上海公演2025 Poppin'Party Global LIVE 2025「Shiny High-Five!!」 日程 2025年8月23日(周六) 开场17:00／开演19:00（当地时间・预定） 会场 浦发银行东方体育中心 出演 Poppin'Party 门票 票价 内场席A：1,…"
-date: "2025-08-23"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "浦发银行东方体育中心"
 org: ["ppp"]
 url: "https://bang-dream.com/events/ppp_live2025_shanghai/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#h2slv9b5o8w1bk1rm59g0sk91wppb0d)

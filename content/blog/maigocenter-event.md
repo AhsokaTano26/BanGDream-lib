@@ -1,14 +1,13 @@
 ---
+date: ["2024-06-22"]
 title: "MyGO!!!!!的「迷子集会」出差版 -名为奏字音的日常-"
 description: "由MyGO!!!!!成员呈现的广播节目「MyGO!!!!!的迷子集会（MyGO Center）」的出差版活动确定举办。 公演概要 会场门票 直播门票 周边商品销售信息 CD销售 注意事项 咨询 公演名称 MyGO!!!!!的「迷子集会」出差版 -名为奏字音的日常- 日程 2024年6月22日(周六) 白天场 开场14:30／开演15:30（预定…"
-date: "2024-06-22"
 status: "activity"
 author: "BanG Dream! Project"
 location: "TFT大厅 1000"
 org: ["mygo"]
 url: "https://bang-dream.com/events/maigocenter-event/"
 ---
-
 <!-- translated-by: deepseek -->
 
 content/blog/maigocenter-event.md

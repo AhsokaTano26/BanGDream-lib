@@ -1,14 +1,13 @@
 ---
+date: ["2020-11-06", "2020-11-09", "2020-10-07", "2020-05-27", "2020-07-20", "2020-08-24", "2020-03-06", "2020-09-01", "2020-09-08", "2020-09-14", "2020-09-16", "2020-09-26", "2020-09-30", "2020-10-02", "2020-10-03", "2020-10-05", "2020-10-04", "2020-10-06", "2020-10-31", "2020-11-08"]
 title: "Morfonica 1st Live「Cantabile」"
 description: "门票 现场直播 周边商品 演出注意事项 现场特别直播决定！！ 本场演出的现场特别直播已确定！ 详情请点击： https://liveviewing.jp/contents/cantabile-breakthrough/ 日程 2020年11月6日 (周五) 19:00 开始 存档配信期间：直播结束后准备就绪后～…"
-date: "2020-10-07"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "东京花园剧场"
 org: ["M"]
 url: "https://bang-dream.com/events/morfonica_aut_2020/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [チケット](#ticket)

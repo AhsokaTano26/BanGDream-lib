@@ -1,14 +1,13 @@
 ---
+date: ["2024-12-21", "2024-12-22", "2024-12-05", "2024-12-12"]
 title: "MyGO!!!!! 7th LIVE「即使没有答案」事前/当日周边贩卖"
 description: "MyGO!!!!! 7th LIVE「即使没有答案」的举办纪念，事前/当日商品贩卖将在贝尔萨尔秋叶原举行！会场除了商品贩卖，还准备了赞助展位和扭蛋区☆ TV动画「BanG Dream! Ave Mujica」的展示活动，以及梦限大みゅーたいぷ的免费演出也预定举办！欢迎任何人前来♪ 事前贩卖・当日物…"
-date: "2024-12-21"
 status: "activity"
 author: "BanG Dream! Project"
 location: "ベルサール秋葉原"
 org: ["other"]
 url: "https://bang-dream.com/events/20241221_jizenbuppan/"
 ---
-
 <!-- translated-by: deepseek -->
 
 [MyGO!!!!! 7th LIVE「答案什么的并不存在」](https://bang-dream.com/events/mygo_7th)的举办纪念提前/当日周边销售在贝尔萨尔秋叶原举行！

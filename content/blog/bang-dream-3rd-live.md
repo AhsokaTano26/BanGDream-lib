@@ -1,14 +1,13 @@
 ---
+date: ["2017-02-05", "2016-12-06", "2016-12-11", "2016-12-20", "2016-12-26", "2017-01-07", "2017-01-15", "2017-01-24", "2017-01-26", "2017-01-28", "2017-02-03"]
 title: "BanG Dream! 第三次☆现场演唱会 Sparklin' PARTY 2017!"
 description: "「BanG Dream! 3rd LIVE」TOKYO DOME CITY HALL于2017.2.5举办决定！很快就要举行下一次单独演唱会的Poppin'Party令人目不转睛！「BanG Dream! 3rd☆LIVE Sparklin' PARTY 2017!」举办日期：2017年2月5日（周日）开场 16:00／开演 17:00 会场：…"
-date: "2017-02-05"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "东京巨蛋城大厅"
 org: ["other"]
 url: "https://bang-dream.com/events/bang-dream-3rd-live/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「BanG Dream! 3rd LIVE」TOKYO DOME CITY HALL 于2017.2.5举办决定！

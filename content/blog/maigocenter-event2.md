@@ -1,14 +1,13 @@
 ---
+date: ["2025-08-16"]
 title: "MyGO!!!!!的「迷子集会」出差版 第二弹 - 日常的碎片 -"
 description: "MyGO!!!!!成员为大家带来的广播节目「MyGO!!!!!的迷子集会(マイゴセンター)」的出差版活动第2弹确定举办。  \n公演概要  \n会场门票  \n配信门票  \n周边通贩  \n周边售卖  \nCD售卖  \n注意事项  \n祝贺花  \n咨询  \n公演名称  \nMyGO!!!!!的「迷子集会」出差版 第二弹 - 日常的碎片 -  \n日程  \n2025年8月16日(周六)  \n白天场  \n开场…"
-date: "2025-08-16"
 status: "activity"
 author: "BanG Dream! Project"
 location: "飞艇剧院"
 org: ["mygo"]
 url: "https://bang-dream.com/events/maigocenter-event2/"
 ---
-
 <!-- translated-by: deepseek -->
 
 MyGO!!!!!成员带来的广播节目「MyGO!!!!!的迷子集会（MyGO中心）」的出差版活动第2弹确定举办。

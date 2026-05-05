@@ -1,14 +1,13 @@
 ---
+date: ["2022-08-06", "2022-06-28", "2022-07-07", "2022-07-09", "2022-07-22"]
 title: "BanG Dream! 广播谈话盛典 vol.1 ～Roselia×RAISE A SUILEN～"
 description: "BanG Dream! 的谈话活动决定举办！在温馨的氛围中与现场的大家一起嗨起来吧♪ 活动举办概要 举办日期 2022年8月6日(周六) 两场公演 第1场：开场13:00/开演13:30 第2场：开场17:00/开演17:30 会场 Science Hall（科学技术馆） 出演声优 Roselia 工藤晴香（冰川纱夜役）、樱川惠（宇田川亚子役…"
-date: "2022-08-06"
 status: "activity"
 author: "BanG Dream! Project"
 location: "科学馆（科学技术馆）"
 org: ["R", "RAS"]
 url: "https://bang-dream.com/events/talk_roselia_ras/"
 ---
-
 <!-- translated-by: deepseek -->
 
 BanG Dream!的谈话活动举办决定！

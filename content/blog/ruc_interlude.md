@@ -1,14 +1,13 @@
 ---
+date: ["2020-12-12", "2020-12-11", "2020-12-27", "2020-10-21", "2020-11-01", "2020-11-30"]
 title: "Roselia×RAISE A SUILEN联合在线演唱会「Rausch und/and Craziness -interlude-」"
 description: "活动信息 门票 周边通贩 相关特番 公演名 「Rausch und/and Craziness -interlude-」 日期时间 2020年12月12日(周六) 18:00～ 出演 Roselia×RAISE A SUILEN 门票 费用 5,500日元（含税） ※上述票价以外，可能产生各种手续费。 播出平台 U-NEXT…"
-date: "2020-12-12"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "付费在线直播"
 org: ["R", "RAS"]
 url: "https://bang-dream.com/events/ruc_interlude/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [活动信息](#event)

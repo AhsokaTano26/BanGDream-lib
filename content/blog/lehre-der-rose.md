@@ -1,14 +1,13 @@
 ---
+date: ["2026-08-29", "2026-08-30"]
 title: "Roselia「Lehre der Rose」 - Roselia 10周年纪念最佳专辑「Lehre der Rose」发行纪念演唱会"
 description: "为纪念Roselia 10th Anniversary Best Album「Lehre der Rose」的发行，将举办单独2天现场演唱会！ 演出概要 门票 注意事项 咨询 演出名称 Roselia「Lehre der Rose」 - Roselia 10th Anniversary Best Album「Lehre der Rose」リ…"
-date: "2026-08-29"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "有明体育馆"
 org: ["R"]
 url: "https://bang-dream.com/events/lehre-der-rose/"
 ---
-
 <!-- translated-by: deepseek -->
 
 [Roselia 10th Anniversary Best Album「Lehre der Rose」](https://bang-dream.com/discographies/4181)的发行纪念，将举办单独演唱会2DAYS！

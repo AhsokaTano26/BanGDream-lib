@@ -1,14 +1,13 @@
 ---
+date: ["2026-01-22"]
 title: "RAISE A SUILEN×Fear, and Loathing in Las Vegas「淹没噪音」"
 description: "公演概要 门票 周边通贩 周边销售 CD・Blu-ray销售 注意事项 咨询 ★2026年1月22日追记 因天气影响无法到场的顾客，我们将实施全额退票。详细事项将于日后通知，希望退票的顾客，请保管好您手中的电子门票，不要使用。计划到场的顾客，请注意脚下…"
-date: "2026-01-22"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Zepp大阪海湾边"
 org: ["RAS"]
 url: "https://bang-dream.com/events/ras-vegas2026/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#Performance_overview)

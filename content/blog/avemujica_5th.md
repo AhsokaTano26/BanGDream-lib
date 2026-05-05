@@ -1,14 +1,13 @@
 ---
+date: ["2025-07-26", "2025-07-27"]
 title: "Ave Mujica 第5次LIVE「Nova Historia」"
 description: "公演概要 会场门票 配信门票 开头免费配信 周边通贩 周边销售 扭蛋 CD销售 「推し旅」合作企划 梦之结唱 AVER 体验角 新日本蛋白 武士道创意 合作饮品 注意事项 祝贺花束 咨询 【关于公演规则】（2025年7月17日追记） 在我司主办公演举办之际，平日以来大多数各位都遵守规则……"
-date: "2025-07-26"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "LaLa arena TOKYO-BAY"
 org: ["Ave"]
 url: "https://bang-dream.com/events/avemujica_5th/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#Performance_overview)

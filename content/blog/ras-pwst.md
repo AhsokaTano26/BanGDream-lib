@@ -1,14 +1,13 @@
 ---
+date: ["2021-04-03"]
 title: "RAISE A SUILEN 特别在线演唱会 2021"
 description: "「日清食品 POWER STATION [REBOOT]」中RAISE A SUILEN的配信演唱会决定举办！敬请关注其高超的音乐性和演奏技巧、激烈的表演！此外，作为演唱会购买特典，将从购票者中抽选5名赠送签名海报！请备好门票，享受配信！日程 2021年4月3日…"
-date: "2021-04-03"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "日清食品 POWER STATION [REBOOT]（付费在线直播）"
 org: ["RAS"]
 url: "https://bang-dream.com/events/ras-pwst/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ![](https://img.tano.asia/i/66d2767b-0881-4012-9e76-261df0878a53.webp)

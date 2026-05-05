@@ -1,14 +1,13 @@
 ---
+date: ["2025-02-23"]
 title: "Roselia的RADIO SHOUT! -Spaß-"
 description: "公演概要 会场门票 配信门票 周边销售 周边通贩 注意事项 咨询 公演名 Roselia的RADIO SHOUT! -Spaß- 日程 2025年2月23日(周日) 第1部 开场 13:30 / 开演 14:30（预定） 第2部 开场 17:00 / 开演 18:00（预定） 会场 新都市大厅 出演 Roselia 门票 费用 S席：9,35…"
-date: "2025-02-23"
 status: "activity"
 author: "BanG Dream! Project"
 location: "新都市大厅"
 org: ["R"]
 url: "https://bang-dream.com/events/radioshout_event2025/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#Performance_overview)

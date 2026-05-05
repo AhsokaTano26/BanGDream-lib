@@ -62,7 +62,7 @@
 
               <span v-if="page.date" class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-blue-50 text-blue-600 rounded-sm">
                 <Icon name="lucide:calendar-range" class="w-2.5 h-2.5" />
-                {{ page.date }}
+                {{ formatContentDateList(page.date) }}
               </span>
 
               <span v-if="page.author" class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-purple-50 text-purple-600 rounded-sm">
@@ -136,6 +136,7 @@
 
 <script setup>
 import { getTagStyle, mapOrgStyles, getContrastTextColor } from '~~/utils/tag-registry'
+import { formatContentDateList } from '~~/utils/content-date'
 /**
  * @component PostDetailLayout
  * @description 万能详情页渲染引擎。采用“协议式”开发模式，通过 Props 传入集合名称，自动匹配 UI 主题、图标及元数据标签。

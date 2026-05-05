@@ -1,14 +1,13 @@
 ---
+date: ["2019-12-30", "2019-10-30", "2019-11-04"]
 title: "rockin'on presents COUNTDOWN JAPAN 19/20"
 description: "Poppin'Party的「rockin'on presents COUNTDOWN JAPAN 19/20」出演决定！继「rockin'on presents ROCK IN JAPAN FESTIVAL 2019」之后，敬请期待活跃舞台不断扩展的Poppin'Party的演出！活动名称 COUNTDOWN JAPAN 19/20 日期 20…"
-date: "2019-12-30"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "幕张展览中心国际展览馆1～11展厅·活动大厅"
 org: ["other"]
 url: "https://bang-dream.com/events/popipa_cdj1920/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Poppin'Party将出演「rockin'on presents COUNTDOWN JAPAN 19/20」！

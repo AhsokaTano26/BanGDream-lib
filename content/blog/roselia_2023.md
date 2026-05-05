@@ -1,14 +1,13 @@
 ---
+date: ["2023-09-16"]
 title: "Roselia「Farbe」"
 description: "公演名 Roselia「Farbe」 日程 9月16日(周六)、17日(周日) 开场17:00／开演18:00（预定） 会场 有明体育馆 出演 Roselia 开场表演（※每天18:00～预定） DAY1：MyGO!!!!! DAY2：Ave Mujica 门票 费用 高级座位(附特制周边)：22,000日元(含税) ※达到预定数量…"
-date: "2023-09-16"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "有明体育馆"
 org: ["R"]
 url: "https://bang-dream.com/events/roselia_2023/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ## 公演名

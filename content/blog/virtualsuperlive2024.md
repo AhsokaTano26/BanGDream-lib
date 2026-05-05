@@ -1,14 +1,13 @@
 ---
+date: ["2024-05-03"]
 title: "上海·申放送-Virtual Super Live-2024 in Shanghai"
 description: "「上海·申放送-Virtual Super Live-2024 in Shanghai」中，梦之结唱 POPY/ROSE 确定出演！ 公演名 上海·申放送-Virtual Super Live-2024 in Shanghai 日程 2024年5月3日(周五) 开演19:00 (预定) ※记载时间为当地时间。 会场 蜚声上海PHASE LIVE H…"
-date: "2024-05-03"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "蜚声上海PHASE LIVE HOUSE"
 org: ["other"]
 url: "https://bang-dream.com/events/virtualsuperlive2024/"
 ---
-
 <!-- translated-by: deepseek -->
 
 梦之结唱 POPY/ROSE 确定出演「上海·申放送-Virtual Super Live-2024 in Shanghai」！

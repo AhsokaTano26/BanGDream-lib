@@ -1,14 +1,13 @@
 ---
+date: ["2023-04-09"]
 title: "MyGO!!!!! 4th LIVE「在前进之音中」"
 description: "バンドリ！から生まれる“現実(リアル)”と“仮想(キャラクター)”が同期するバンド「MyGO!!!!!」。 2023年初の単独公演となる4th LIVEが開催決定。 声出しに関するご案内（2023年1月30日 14:00更新） 先日（2023年1月27日）、政府より発表されたイベント収容人数の上限規制の撤廃に伴い、 本公演では、全編声出し（不織布マスク着用）…"
-date: "2023-04-09"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "TACHIKAWA STAGE GARDEN"
 org: ["mygo"]
 url: "https://bang-dream.com/events/mygo_4th/"
 ---
-
 <!-- translated-by: deepseek -->
 
 バンドリ！から生まれる“現実(リアル)”と“仮想(キャラクター)”が同期するバンド「MyGO!!!!!」。

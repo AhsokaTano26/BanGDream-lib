@@ -1,14 +1,13 @@
 ---
+date: ["2021-11-12", "2021-11-26", "2021-12-04", "2021-09-29", "2021-10-13", "2021-10-30", "2021-11-15", "2021-11-29", "2021-12-07"]
 title: "RAISE A SUILEN ZEPP TOUR 2021「BE LIGHT」追加公演"
 description: "2021年5月起进行的RAISE A SUILEN ZEPP TOUR 2021「BE LIGHT」追加公演决定举办！将在札幌、福冈、横滨3个城市进行演出！公演名 RAISE A SUILEN ZEPP TOUR 2021「BE LIGHT」追加公演 日程・场地 ・札幌公演 2021年11月12日(周五) 开场18:00 ／开演1…"
-date: "2021-11-12"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Zepp札幌、Zepp福冈、KT Zepp横滨"
 org: ["RAS"]
 url: "https://bang-dream.com/events/ras-tour2021-encore/"
 ---
-
 <!-- translated-by: deepseek -->
 
 2021年5月开始进行的[RAISE A SUILEN ZEPP TOUR 2021「BE LIGHT」](https://bang-dream.com/events/ras-tour2021)追加公演决定举办！

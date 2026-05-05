@@ -1,14 +1,13 @@
 ---
+date: ["2018-07-17"]
 title: "THE THIRD(暂定) 第2场演唱会"
 description: "日程 2018年7月17日（周二） 开场18:00 开演19:00 会场 マイナビBLITZ赤坂 出演 THE THIRD(仮)【Raychell(Vo+Ba)、小原莉子(Gt)、夏芽(Dr)、倉知玲鳳(Key+Vo)】 嘉宾：前島亜美（Pastel＊Palettes 丸山彩役） 票务信息 票价：7,000日元（含税）※不含饮料费 座位种类：站立…"
-date: "2018-07-17"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "マイナビBLITZ赤坂"
 org: ["other"]
 url: "https://bang-dream.com/events/thethird2nd/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ## 日程

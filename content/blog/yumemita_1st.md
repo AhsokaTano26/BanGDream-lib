@@ -1,14 +1,13 @@
 ---
+date: ["2024-08-24"]
 title: "梦限大缪型 1st LIVE「蜕变」"
 description: "公演概要 会场门票 部分免费直播 周边商品销售信息 周边商品通贩 注意事项 咨询 公演名称 梦限大MyuType 1st LIVE「Metamorphose」 日程 2024年8月24日(周六) 开场17:00／开演18:00（预定） 会场 1000 CLUB 出演 梦限大MyuType 门票 ※SOLD OUT！ 票价 5,500日元(含税) ※另需饮料费…"
-date: "2024-08-24"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "1000俱乐部"
 org: ["mxd"]
 url: "https://bang-dream.com/events/yumemita_1st/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#h31slqw8iajt1l6n6ky1km63dtaw234b)

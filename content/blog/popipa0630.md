@@ -1,14 +1,13 @@
 ---
+date: ["2018-06-30", "2018-05-30"]
 title: "Poppin'Party 2015-2017 LIVE BEST发售纪念特别谈话活动"
 description: "举办时间 2018年6月30日(周六) 第1场 11:30集合 12:30开演 第2场 13:30集合 14:30开演 会场 TOWER RECORDS涩谷店 B1 CUTUP STUDIO 出演 Poppin'Party成员 ・爱美 ・大冢纱英 ・西本梨美 ・大桥彩香 ・伊藤彩沙 参加方法 5/29(周二)10:00起，在TOWER RECORDS涩谷店购买以下指定商品的顾客…"
-date: "2018-06-30"
 status: "activity"
 author: "BanG Dream! Project"
 location: "塔唱片涩谷店 B1 CUTUP STUDIO"
 org: ["ppp"]
 url: "https://bang-dream.com/events/popipa0630/"
 ---
-
 <!-- translated-by: deepseek -->
 
 #### 举办时间

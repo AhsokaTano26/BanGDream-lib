@@ -1,14 +1,13 @@
 ---
+date: ["2025-04-26", "2025-04-27"]
 title: "MyGO!!!!!×Ave Mujica 联合演唱会「分岔路的，前方」"
 description: "MyGO!!!!!与Ave Mujica的联合演唱会决定举办。 公演概要 会场门票 在线配信门票 会场地图 周边商品销售 周边商品通贩 扭蛋 出展信息 「推し旅」合作企划 注意事项 庆祝花篮 咨询处 公演名称 MyGO!!!!!×Ave Mujica 联合演唱会「分岔路的前方」 DAY1 : Petrichor / DAY2 :…"
-date: "2025-04-26"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Kアリーナ横滨"
 org: ["mygo", "Ave"]
 url: "https://bang-dream.com/events/mygo-avemujica2025/"
 ---
-
 <!-- translated-by: deepseek -->
 
 MyGO!!!!!与Ave Mujica的联合演唱会决定举办。

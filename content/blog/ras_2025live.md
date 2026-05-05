@@ -1,14 +1,13 @@
 ---
+date: ["2025-11-15", "2025-11-16"]
 title: "RAISE A SUILEN 2DAYS LIVE「RUMBLEHEADZ」"
 description: "演出概要 门票 门票交易 配信门票 周边通贩 周边销售 CD销售 注意事项 庆祝花篮 咨询 演出名称 RAISE A SUILEN 2DAYS LIVE「RUMBLEHEADZ」 日程 2025年11月15日(周六) 开场17:00／开演18:00（预定） 11月16日(周日) 开场16:00／开演17:00（预定） 会场 TACHIKAW…"
-date: "2025-11-15"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "TACHIKAWA STAGE GARDEN"
 org: ["RAS"]
 url: "https://bang-dream.com/events/ras_2025live/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [演出概要](#Performance_overview)

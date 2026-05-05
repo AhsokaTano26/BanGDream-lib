@@ -1,14 +1,13 @@
 ---
+date: ["2022-03-19", "2022-03-20", "2022-03-16", "2022-03-18", "2022-05-13", "2022-03-10", "2022-03-06", "2022-01-29", "2022-02-06"]
 title: "BanG Dream! 5周年纪念粉丝节 in 秋叶原"
 description: "为纪念智能手机游戏「BanG Dream! 少女乐团派对！」上线5周年，决定举办为期2天的现实活动！活动内的舞台节目中，包含了由《Garupa》出演声优带来的谈话活动以及BanG Dream!项目新情报发表环节等不容错过的丰富企划！Craft Egg Store、Bushiroad Creative的限时商店…"
-date: "2022-03-19"
 status: "activity"
 author: "BanG Dream! Project"
 location: "ベルサール秋葉原"
 org: ["other"]
 url: "https://bang-dream.com/events/gbp5th_akihabara/"
 ---
-
 <!-- translated-by: deepseek -->
 
 智能手机游戏「BanG Dream! 少女乐团派对！」迎来发布5周年，决定举办为期2天的真实活动！

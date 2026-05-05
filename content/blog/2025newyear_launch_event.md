@@ -1,14 +1,13 @@
 ---
+date: ["2025-01-13"]
 title: "ブシロード新春大発表会 2025"
 description: "ブシロード集团宣布将举办“Bushiroad新春大发表会 2025”，届时将带来TCG、LIVE、职业摔角、游戏、动画的最新情报！本次发表会将持续5个半小时，内容充实。除了预定于2025年1月播出的TV动画《BanG Dream! Ave Mujica》的相关信息外，还将公布BanG Dream!项目的最新动态！此外，还将从BanG Dream!带来梦想（虚拟）与现实（"
-date: "2025-01-13"
 status: "activity"
 author: "BanG Dream! Project"
 location: "东京巨蛋城大厅"
 org: ["other"]
 url: "https://bang-dream.com/events/2025newyear_launch_event/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ブシロードグループがTCG・ライブ・プロレス・ゲーム・アニメの最新情報をお届けする「ブシロード新春大発表会 2025」の開催が決定！

@@ -1,14 +1,13 @@
 ---
+date: ["2026-04-03", "2026-04-04"]
 title: "中央音乐与娱乐节 2026"
 description: "4月4日(周六) Ave Mujica出演"
-date: "2026-04-04"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "KT Zepp 横滨"
 org: ["Ave"]
 url: "https://bang-dream.com/events/central_music_entertainment_festival_2026/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026」中，BanG Dream!项目的Ave Mujica已确定出演。

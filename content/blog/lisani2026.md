@@ -1,14 +1,13 @@
 ---
+date: ["2026-01-31", "2026-02-01"]
 title: "LisAni！LIVE 2026"
 description: "1月31日(周六) 梦限大缪泰普出演"
-date: "2026-01-31"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "幕张展览馆 活动大厅"
 org: ["mxd"]
 url: "https://bang-dream.com/events/lisani2026/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「LisAni！LIVE 2026」中，来自BanG Dream!企划的梦限大μ'ty的出演已确定！

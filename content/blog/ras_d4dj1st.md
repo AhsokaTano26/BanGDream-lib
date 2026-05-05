@@ -1,14 +1,13 @@
 ---
+date: ["2019-07-21", "2019-04-08", "2019-04-23", "2019-05-06", "2019-05-20", "2019-05-21", "2019-05-27", "2019-06-06", "2019-07-20"]
 title: "RAISE A SUILEN「Heaven and Earth」特别追加公演　UNSTOPPABLE LIVE"
 description: "在「D4DJ 1st LIVE」中，RAISE A SUILEN「Heaven and Earth」特别追加公演 UNSTOPPABLE LIVE确定举办！公演名称 RAISE A SUILEN「Heaven and Earth」特别追加公演 UNSTOPPABLE LIVE 举办日期 2019年7月21日(周日) 开场15:00 开演时间16:00 ※开…"
-date: "2019-07-21"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "幕張メッセ 国際展示場1ホール"
 org: ["RAS"]
 url: "https://bang-dream.com/events/ras_d4dj1st/"
 ---
-
 <!-- translated-by: deepseek -->
 
 在「D4DJ 1st LIVE」上，RAISE A SUILEN「Heaven and Earth」特别追加公演 UNSTOPPABLE LIVE 决定举办！

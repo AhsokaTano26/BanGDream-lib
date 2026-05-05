@@ -1,14 +1,13 @@
 ---
+date: ["2019-11-29", "2019-11-30", "2019-12-01", "2019-12-18", "2020-02-19", "2020-01-08", "2020-01-15", "2020-01-22", "2020-03-04", "2020-03-11", "2020-03-18", "2020-04-08", "2020-12-06", "2020-01-09", "2020-12-05"]
 title: "Roselia×RAISE A SUILEN合同ライブ「Rausch und/and Craziness」前日祭"
 description: "Roselia×RAISE A SUILEN联合演唱会「Rausch und/and Craziness」前夜祭，确定举办！！除了演唱会周边的先行销售（部分商品除外）外，还有参展·展示等丰富多彩的内容！！详情将陆续公布！！敬请期待后续消息♪ 展示 官方周边 赞助·参展 时间 2019年11月29日(周五) 10:30～20:00 ※最后入场…"
-date: "2019-11-29"
 status: "activity"
 author: "BanG Dream! Project"
 location: "东京国际展览中心青海展示楼A厅"
 org: ["R", "RAS"]
 url: "https://bang-dream.com/events/ruc_fes/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Roselia×RAISE A SUILEN联合演唱会「Rausch und/and Craziness」前夜祭，举办决定！！

@@ -1,14 +1,13 @@
 ---
+date: ["2019-12-29", "2019-11-30", "2019-12-08", "2019-12-22", "2019-12-02", "2019-12-21", "2019-12-27", "2020-01-10", "2020-01-22"]
 title: "THE CREATION～我们是RAISE A SUILEN～"
 description: "公演名 THE CREATION～We are RAISE A SUILEN～ 会场 LINE CUBE SHIBUYA 日期时间 2019年12月29日(周日) 开场17:00/开演18:00 预定 出演 RAISE A SUILEN 门票 费用 ・普通指定席 8,000日元+税 ※学龄前儿童不得入场 售票信息 【官网先行抽选受理】 申请URL： htt…"
-date: "2019-12-29"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "LINE CUBE SHIBUYA"
 org: ["RAS"]
 url: "https://bang-dream.com/events/the_creation/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ## 公演名

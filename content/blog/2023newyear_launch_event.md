@@ -1,14 +1,13 @@
 ---
+date: ["2023-01-09"]
 title: "武士道新春大发布会 2023"
 description: "RAISE A SUILEN出演（第2部分 现场演出部分）"
-date: "2023-01-09"
 status: "activity"
 author: "BanG Dream! Project"
 location: "东京巨蛋城大厅"
 org: ["other"]
 url: "https://bang-dream.com/events/2023newyear_launch_event/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Bushiroad集团决定举办“Bushiroad新春大发表会 2023”，为您带来TCG、现场演出、职业摔跤、游戏、动漫的最新信息！

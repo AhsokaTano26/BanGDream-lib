@@ -1,14 +1,13 @@
 ---
+date: ["2020-11-23"]
 title: "Poppin'Party JOYFUL PARTY, FUN TIME!"
 description: "在\"日清食品 POWER STATION [REBOOT]\"中，Poppin'Party的线上演唱会确定举办！日期：2020年11月23日（周一·节假日）20:00～21:00（预定）出演：Poppin'Party门票费用：普通门票：3,300日元（含税）高级门票：6,600日元（含税）（※高级门票包含打赏费用…"
-date: "2020-11-23"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "日清食品 POWER STATION [REBOOT]（付费在线直播）"
 org: ["ppp"]
 url: "https://bang-dream.com/events/ppp-pwst/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「日清食品 POWER STATION [REBOOT]」Poppin'Party 的线上直播演唱会确定举办！

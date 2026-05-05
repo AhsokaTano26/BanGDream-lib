@@ -1,14 +1,13 @@
 ---
+date: ["2025-03-20"]
 title: "Poppin'Partyトークイベント「ポピパの新学期！」"
 description: "公演概要 会场门票 配信门票 商品销售 商品邮购 来信征集 注意事项 咨询 公演名 Poppin'Party谈话活动「PoppiPa的新学期！」 日程 2025年3月20日（周四·节假日） 第1部 开场 13:00 / 开演 14:00（预定） 第2部 开场 17:00 / 开演 18:00（预定） 会场 所泽樱花城 日本展馆 会…"
-date: "2025-03-20"
 status: "activity"
 author: "BanG Dream! Project"
 location: "所泽樱花城 日本展馆 A厅"
 org: ["ppp"]
 url: "https://bang-dream.com/events/pp_event_2025/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#h2slv9b5o8w1bk1rm59g0sk91wppb0d)

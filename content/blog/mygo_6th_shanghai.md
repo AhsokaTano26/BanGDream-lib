@@ -1,14 +1,13 @@
 ---
+date: ["2024-09-21"]
 title: "MyGO!!!!! 6th LIVE「找到的景色，携带着」上海追加公演"
 description: "演出概要 会场门票 注意事项 咨询 演出名称 MyGO!!!!! 6th LIVE「找到的景色，相伴而行」上海追加公演 日期 2024年9月21日(周六) 开场17:00／开演19:00（当地时间・预定） 会场 国家会展中心（上海）虹馆EH 出演 MyGO!!!!! 门票 票价 arena前方座位（附特制周边）：1,398元 arena座位（特制周边…"
-date: "2024-09-21"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "国家会展中心（上海）虹馆EH"
 org: ["mygo"]
 url: "https://bang-dream.com/events/mygo_6th_shanghai/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#h2slv9b5o8w1bk1rm59g0sk91wppb0d)

@@ -1,14 +1,13 @@
 ---
+date: ["2022-05-01", "2022-05-03"]
 title: "JAPAN JAM 2022"
 description: "5月3日(周二･节假日) RAISE A SUILEN出演"
-date: "2022-05-03"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "千叶市苏我体育公园"
 org: ["other"]
 url: "https://bang-dream.com/events/japanjam2022/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「JAPAN JAM 2022」中，来自Bang Dream!的RAISE A SUILEN已确定出演！

@@ -1,14 +1,13 @@
 ---
+date: ["2019-07-28"]
 title: "WONDERFUL HOBBY LIFE FOR YOU!!『RAISE A SUILEN』舞台"
 description: "RAISE A SUILEN的成员已确定出演「WONDERFUL HOBBY LIFE FOR YOU!!」展区特设舞台的活动！除迷你演唱会外，还计划设有谈话环节等。关于舞台的详细信息将在活动官方网站随时更新。日程 7月28日（周日）11:00 - 11:40 出演 RAISE A SUILEN…"
-date: "2019-07-28"
 status: "activity"
 author: "BanG Dream! Project"
 location: "幕张展览中心 国际展览中心 1号馆"
 org: ["RAS"]
 url: "https://bang-dream.com/events/whl4u_ras/"
 ---
-
 <!-- translated-by: deepseek -->
 
 RAISE A SUILEN的成员确定将出演「WONDERFUL HOBBY LIFE FOR YOU!!」展区特设舞台的活动！

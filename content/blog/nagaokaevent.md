@@ -1,14 +1,13 @@
 ---
+date: ["2018-03-21"]
 title: "Poppin'Party 9th Single・Roselia 5th Single发行纪念联动交付会"
 description: "出演者 Poppin'Party中，爱美（户山香澄役）、西本りみ（牛込りみ役） Roselia中，相羽爱奈（凑友希那役） 举办内容 特典交付会 开始时间 3月21日（周三） 14:00～ 举办地点 アオーレ长冈内活动 「长冈技科大×Bushiroad×新日本职业摔跤×长冈市― 今后的常在战场与米百俵 ―」 活动内厅C 特设舞台 http:/…"
-date: "2018-03-21"
 status: "activity"
 author: "BanG Dream! Project"
 location: "长冈Aore"
 org: ["ppp", "R"]
 url: "https://bang-dream.com/events/nagaokaevent/"
 ---
-
 <!-- translated-by: deepseek -->
 
 出演者 Poppin'Party中，爱美（户山香澄役）、西本梨美（牛込里美役）

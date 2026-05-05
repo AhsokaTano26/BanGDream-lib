@@ -1,14 +1,13 @@
 ---
+date: ["2025-10-11"]
 title: "Roselia的RADIO SHOUT! -rede weiter-"
 description: "公演概要 门票 周边商品销售 咨询 演出名称 Roselia的RADIO SHOUT! -rede weiter- 日程 2025年10月11日(周六) 第1部 开场 14:15／开演 15:00（预定） 第2部 开场 17:15／开演 18:00（预定） 会场 饭野大厅 出演 第1部 工藤晴香、樱川芽 第2部 工藤晴香、樱川芽、相羽爱奈 门票 费用…"
-date: "2025-10-11"
 status: "activity"
 author: "BanG Dream! Project"
 location: "饭野大厅"
 org: ["R"]
 url: "https://bang-dream.com/events/radioshout_rede_weiter/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#Performance_overview)

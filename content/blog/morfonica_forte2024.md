@@ -1,14 +1,13 @@
 ---
+date: ["2024-04-14"]
 title: "Morfonica概念演唱会「forte」"
 description: "公演概要 会场门票 配信门票 周边通贩信息 周边销售信息 CD销售 东海道新干线联动企划 注意事项 咨询 公演名 Morfonica Concept LIVE「forte」 日程 2024年4月14日(日) 开场17:00／开演18:00 (预定) 会场 Zepp DiverCity (TOKYO) 出演 Morfonica 门票 费用…"
-date: "2024-04-14"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Zepp DiverCity (东京)"
 org: ["M"]
 url: "https://bang-dream.com/events/morfonica_forte2024/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#h2sluwj3ybbcnycmi13plkmgd2ei3f)

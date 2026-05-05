@@ -1,14 +1,13 @@
 ---
+date: ["2023-06-04"]
 title: "Ave Mujica 第0次现场演出「在舞台上的第一天」"
 description: "公演名 Ave Mujica 0th LIVE「Primo die in scaena」 日程 2023年6月4日(日) 开场 17:30／开演 18:30（预定） 会场 中野Sunplaza 出演 Ave Mujica https://avemujica.bang-dream.com/ 门票 费用 指定席：7,150日元(含税) 销售信息 FC先行（HP先行抽…"
-date: "2023-06-04"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "中野太阳广场"
 org: ["Ave"]
 url: "https://bang-dream.com/events/avemujica_0th/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ## 演出名称

@@ -1,14 +1,13 @@
 ---
+date: ["2023-07-16"]
 title: "LuckyFes"
 description: "「LuckyFes」に、バンドリ！よりRAISE A SUILENの出演が決定！ 公演名 LuckyFes 日程 7月15日(土)、16日(日)、17日(月・祝) 開場9:00／開演11:00（予定） 7月16日(日) 12:30よりRAISE A SUILENが出演！ タイムテーブル 会場 国営ひたち海浜公園（茨城県ひたちなか市） チケット 詳細は公式サイ…"
-date: "2023-07-16"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "国営ひたち海浜公園（茨城県ひたちなか市）"
 org: ["other"]
 url: "https://bang-dream.com/events/luckyfes/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「LuckyFes」中，来自BanG Dream!的RAISE A SUILEN确定出演！

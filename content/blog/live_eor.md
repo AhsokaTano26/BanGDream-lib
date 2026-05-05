@@ -1,14 +1,13 @@
 ---
+date: ["2022-05-21"]
 title: "Roselia单独演唱会「Episode of Roselia」"
 description: "在剧场版《BanG Dream! Episode of Roselia》中编织故事的Roselia，接下来将以真实乐队\"Roselia\"的身份，向您展现过去以及未来的\"Roselia\"。 演出名 Episode of Roselia DAY1 : Weißklee Episode of Roselia DAY2 : Rose 日程 20…"
-date: "2022-05-21"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "富士急高地·针叶树林"
 org: ["R"]
 url: "https://bang-dream.com/events/live_eor/"
 ---
-
 <!-- translated-by: deepseek -->
 
 在剧场版《BanG Dream! Episode of Roselia》中编织故事的Roselia，接下来将作为现实乐队"Roselia"，

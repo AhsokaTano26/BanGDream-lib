@@ -1,14 +1,13 @@
 ---
+date: ["2025-01-12", "2025-12-05"]
 title: "MyGO!!!!!×トゲナシトゲアリ「Avoid Note」"
 description: "MyGO!!!!!与Togenashi Togeari的联合演唱会决定举办！ 演出概要 会场门票 直播门票 周边通贩 周边销售 注意事项 咨询处 演出名称 MyGO!!!!!×Togenashi Togeari「Avoid Note」 日期 2025年1月12日(周日) 开场16:30／开演18:00（预定） 关于开场时间变更（12月5日追记） 关于本演出，敬请…"
-date: "2025-01-12"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "东京巨蛋城大厅"
 org: ["mygo"]
 url: "https://bang-dream.com/events/mygo-togetoge/"
 ---
-
 <!-- translated-by: deepseek -->
 
 MyGO!!!!!与Togenashi Togeari的联合演出确定举办！

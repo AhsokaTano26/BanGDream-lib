@@ -113,6 +113,7 @@
 <script setup>
 import { computed, onMounted, ref, watchEffect } from 'vue';
 import { Lunar } from 'lunar-javascript';
+import { normalizeContentDateList } from '~~/utils/content-date'
 
 const quote = "Stay focused, be present.";
 const monthNamesEn = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
@@ -224,8 +225,6 @@ const { data: eventMap } = await useAsyncData('calendar-events', async () => {
   const [blogPosts, activityPosts] = await Promise.all([
     queryCollection('blog').all(),
     queryCollection('media').all(),
-    queryCollection('news').all(),
-    queryCollection('discographies').all(),
   ]);
 
   const combined = [...blogPosts, ...activityPosts];
@@ -233,18 +232,20 @@ const { data: eventMap } = await useAsyncData('calendar-events', async () => {
 
   combined.forEach(post => {
     if (!post.date) return;
-    const dateKey = getPostDateKey(post.date);
-
-    if (!map[dateKey]) map[dateKey] = [];
+    const dates = normalizeContentDateList(post.date);
+    if (!dates.length) return;
 
     // 【核心逻辑】：type 和 status 等效处理
     const rawType = post.type || post.status || 'default';
     const safeType = String(rawType).toLowerCase();
 
-    map[dateKey].push({
-      id: post.path,
-      title: post.title,
-      type: safeType
+    dates.forEach((dateKey) => {
+      if (!map[dateKey]) map[dateKey] = [];
+      map[dateKey].push({
+        id: post.path,
+        title: post.title,
+        type: safeType
+      });
     });
   });
   return map;

@@ -1,14 +1,13 @@
 ---
+date: ["2023-03-10", "2023-03-26", "2023-03-18", "2023-03-19", "2023-03-31"]
 title: "ガルパ6周年記念ファンフェスタ"
 description: "为纪念智能手机游戏《BanG Dream! 少女乐团派对！》上线6周年，决定举办联动3个城市的「ガルパ6周年纪念粉丝庆典」！将用竖旗、海报等ガル帕的视觉元素装点街道！3个城市都将展出全部35种竖旗！欢迎大家来玩哦♪ 时间 2023年3月10日（周五）～3月26日（周日） 举办…"
-date: "2023-03-10"
 status: "activity"
 author: "BanG Dream! Project"
 location: "东京・秋叶原、名古屋・大须、大阪・日本桥"
 org: ["other"]
 url: "https://bang-dream.com/events/gbp6th_fanfesta/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ![](https://img.tano.asia/i/44c36320-0828-4539-a80f-4578c1e882be.webp)

@@ -1,14 +1,13 @@
 ---
+date: ["2025-02-16"]
 title: "夢限大My Type 2nd LIVE「Discovery☆Journey」"
 description: "公演概要 会场门票 周边商品销售 周边商品网购 CD销售 注意事项 庆祝花篮 在线慰问品接收 咨询 公演名称 梦限大みゅーたいぷ 2nd LIVE「でぃすかばりー☆じゃーにー」 日程 2025年2月16日(周日) 日场 开场14:15／开演15:15（预定） 夜场 开场18:00／开演19:00（预定） 会场 Zepp Shinjuku (TOK…"
-date: "2025-02-16"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Zepp 新宿 (东京)"
 org: ["mxd"]
 url: "https://bang-dream.com/events/yumemita_2nd/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#h2slv9b5o8w1bk1rm59g0sk91wppb0d)

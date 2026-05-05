@@ -1,14 +1,13 @@
 ---
+date: ["2025-09-13", "2025-09-14"]
 title: "长野阿尼埃拉节2025"
 description: "9月14日(周日) RAISE A SUILEN出演"
-date: "2025-09-14"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "驹场公园"
 org: ["other"]
 url: "https://bang-dream.com/events/anierafesta2025/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「长野Aniera Festa 2025」中，来自BanG Dream!的RAISE A SUILEN将出演！

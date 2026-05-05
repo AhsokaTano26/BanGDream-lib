@@ -1,14 +1,13 @@
 ---
+date: ["2026-08-14"]
 title: "SUMMER SONIC 2026"
 description: "8月14日(周五)大阪公演・16日(周日)东京公演 Ave Mujica出演"
-date: "2026-08-14"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "世博纪念公园、ZOZO海洋体育场＆幕张展览馆"
 org: ["Ave"]
 url: "https://bang-dream.com/events/summer-sonic-2026/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「SUMMER SONIC 2026」中，BanG Dream!的Ave Mujica确定出演

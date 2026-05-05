@@ -1,14 +1,13 @@
 ---
+date: ["2021-10-17", "2021-11-07", "2021-11-17", "2021-08-22", "2021-09-06", "2021-10-03", "2021-11-20", "2021-10-15", "2021-10-22"]
 title: "香澄和多惠的放学后留校之旅"
 description: "Poppin'Party中，由Gt.&Vo. 爱美（户山香澄役）＆ Gt. 大塚纱英（花园多惠役）举办的原声现场巡演决定！各日程分别举办2场演出♪ 敬请期待与乐队现场不同的、独特的原声现场！千秋乐演出的现场直播决定！（10/17 20点更新）11月17日(周三)横滨演出＜夜场＞的现场直…"
-date: "2021-10-17"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Zepp难波, Zepp名古屋, KT Zepp横滨"
 org: ["other"]
 url: "https://bang-dream.com/events/inokori-tours/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Poppin'Party中，Gt.&Vo. 愛美（戶山香澄役）＆ Gt. 大塚紗英（花園たえ役）的Acoustic Live Tour決定舉辦！

@@ -1,14 +1,13 @@
 ---
+date: ["2021-08-14"]
 title: "武士道游戏节2021"
 description: "8月14日(周六)、15日(周日)举办的Bushiroad游戏节2021中，「BanG Dream! 少女乐团派对！」将参加！14日(周六)为纪念第3届Garupa杯，将举办由Garupa角色进行的Garupa表演赛！敬请光临♪ 舞台名称 第3届Garupa杯表演赛 in Bushiroad游戏节 日期时间 8月14日(周六) 16:00～…"
-date: "2021-08-14"
 status: "activity"
 author: "BanG Dream! Project"
 location: "ベルサール秋葉原"
 org: ["other"]
 url: "https://bang-dream.com/events/bushifes2021/"
 ---
-
 <!-- translated-by: deepseek -->
 
 8月14日(周六)、15日(周日)举办的武士道游戏节2021中，「BanG Dream! 少女乐团派对！」将参展！

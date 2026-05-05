@@ -1,14 +1,13 @@
 ---
+date: ["2025-09-12"]
 title: "Roselia 16th・17th Single 购买者限定抽选制免费演唱会「Stolz」"
 description: "关于实施本人身份确认（2025年8月15日追记）・为防止转卖，入场前将对所有顾客进行本人身份确认。请准备1份带有本人照片的官方身份证明（驾驶证、护照、在留卡、残疾人手册、带照片的信用卡、带照片的居民基本台账卡、个人编号卡等）或1份带照片的学生证（学生手册、学生证）。照片…"
-date: "2025-09-12"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "duo MUSIC EXCHANGE"
 org: ["R"]
 url: "https://bang-dream.com/events/roselia_2025free/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ###### 关于实施本人身份确认 (2025年8月15日追记)

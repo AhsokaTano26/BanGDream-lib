@@ -1,14 +1,13 @@
 ---
+date: ["2021-02-27", "2021-02-25", "2021-03-14"]
 title: "Pastel＊Palettes 纯声音演唱会「Flowerful＊」"
 description: "Sound Only Live第2弹是Pastel＊Palettes！我们将以使用全新绘制插图的有声影像形式呈现！将于YouTube「BanG Dream!频道☆」免费播出。此外，现场周边商品也将发售！敬请期待Pastel＊Palettes的单独演唱会♪ 关于Sound Only Live Sound Only Live是指，…"
-date: "2021-02-27"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "YouTube「Bandori频道☆」"
 org: ["pp"]
 url: "https://bang-dream.com/events/sol_flowerful/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Sound Only Live第2弹是Pastel＊Palettes！

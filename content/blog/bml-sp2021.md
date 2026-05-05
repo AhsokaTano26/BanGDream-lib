@@ -1,14 +1,13 @@
 ---
+date: ["2021-07-10"]
 title: "Bilibili Macro Link – Star Phase 2021（BML-SP2021）"
 description: "Poppin'Party出演"
-date: "2021-07-10"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "付费在线直播"
 org: ["other"]
 url: "https://bang-dream.com/events/bml-sp2021/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ![](https://img.tano.asia/i/92f4f7f3-3385-4e7f-845c-86e03a8561b5.webp)

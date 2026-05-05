@@ -1,14 +1,13 @@
 ---
+date: ["2016-09-21"]
 title: "「BanG Dream!」项目发布会"
 description: "12月7日（周三）在池袋太阳城喷水广场举办“项目发布会”的决定！将向在Animate和Gamers购买第3张单曲《刚刚开始奔跑的你/Teardrops》的顾客，抽选赠送附带伴手礼的优先观看区参加券！活动将有Poppin'Party的5位成员出演，除了介绍动画的最新情报外，还预定举行迷你演唱会♪ 此外…"
-date: "2016-09-21"
 status: "activity"
 author: "BanG Dream! Project"
 location: "池袋阳光城喷泉广场"
 org: ["other"]
 url: "https://bang-dream.com/events/project/"
 ---
-
 <!-- translated-by: deepseek -->
 
 12月7日（周三）在池袋太阳城喷水广场举办的"项目发布会"正式确定！将通过抽选方式，向在Animate·Gamers购买第3张单曲《刚刚开始奔跑的你/泪滴》的顾客赠送附赠伴手礼的优先观览区参加券！活动将有Poppin'Party的5位成员登台，除了介绍动画最新情报外，还计划举办迷你演唱会♪

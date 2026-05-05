@@ -1,14 +1,13 @@
 ---
+date: ["2019-07-30"]
 title: "Poppin'Party×SILENT SIREN「NO GIRL NO CRY」发售纪念交付会"
 description: "Poppin'Party×SILENT SIREN单曲「NO GIRL NO CRY」发售纪念，将举办交付会。将在举办店铺发放参加券，请确认以下店铺指引。举办日期时间 7/30(周二) TOWER RECORDS涩谷店 【集合时间】18:30 【开演】19:00 活动内容：交付会 ※Poppin'Party 2L尺寸…"
-date: "2019-07-30"
 status: "activity"
 author: "BanG Dream! Project"
 location: "7月30日(周二) 塔唱片涩谷店、7月31日(周三) GAMERS新宿店"
 org: ["ppp"]
 url: "https://bang-dream.com/events/ngnc_release/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Poppin'Party×SILENT SIREN单曲「NO GIRL NO CRY」发售纪念，将举办交付会。

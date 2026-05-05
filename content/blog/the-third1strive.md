@@ -1,14 +1,13 @@
 ---
+date: ["2018-03-25", "2018-02-07", "2018-02-26", "2018-03-03", "2018-03-07"]
 title: "THE THIRD（暂定）第1场演唱会"
 description: "1月13日、14日的Garupa Live中担任各主唱伴奏乐队的成员，开始了新的乐队活动！值得纪念的首场Live确定举办！我们将呈现以Garupa原创三乐队歌曲翻唱为主的专场演唱会！≪公演详情≫◆公演名称：THE THIRD（暂定）1st Live ◆日期：2018年3月25日（周日）开场17:00 开演1…"
-date: "2018-03-25"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "下北泽花园"
 org: ["other"]
 url: "https://bang-dream.com/events/the-third1strive/"
 ---
-
 <!-- translated-by: deepseek -->
 
 1月13日、14日的Garupa Live中担任各主唱伴奏乐队的成员，

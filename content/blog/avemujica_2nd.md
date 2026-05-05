@@ -1,14 +1,13 @@
 ---
+date: ["2024-06-08", "2024-07-07", "2024-04-24", "2024-05-08", "2024-05-25", "2024-06-15", "2024-06-19", "2024-06-25", "2023-06-02", "2023-06-08", "2023-07-07"]
 title: "Ave Mujica 2nd LIVE「追寻光芒」"
 description: "她们所追寻的是 “光”  \n公演概要  \n会场门票  \n配信门票  \n周边商品销售信息  \n周边商品通贩  \nCD销售  \n注意事项  \n联系方式  \n公演名称 Ave Mujica 2nd LIVE「Quaerere Lumina」  \n日程·会场  \n·神奈川公演  \n日程：2024年6月8日(周六) 开馆17:00／开演18:00（预定）  \n会场：神奈川县民大厅 大礼堂  \n·爱知公演  \n日程：…"
-date: "2024-07-07"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "神奈川县民大厅 大礼堂、爱知县艺术剧场 大礼堂"
 org: ["Ave"]
 url: "https://bang-dream.com/events/avemujica_2nd/"
 ---
-
 <!-- translated-by: deepseek -->
 
 她们所追寻的是“光”

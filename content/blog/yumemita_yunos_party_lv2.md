@@ -1,14 +1,13 @@
 ---
+date: ["2025-12-29"]
 title: "千石优诺主办DJ活动「YUNO's PARTY Lv.2」"
 description: "公演概要 会场门票 注意事项 祝贺花 咨询 公演名 千石Yuno主办DJ活动「YUNO's PARTY Lv.2」 日程 2025年12月29日(周一) 开场17:00／开演18:00（预定） 会场 代官山UNIT 出演 千石Yuno（梦限大Mewtype） 嘉宾：各务华梨、小岩井小鸟、DJ Genki 门票 费用 附赠品站票：7,1…"
-date: "2025-12-29"
 status: "activity"
 author: "BanG Dream! Project"
 location: "代官山UNIT"
 org: ["other"]
 url: "https://bang-dream.com/events/yumemita_yunos_party_lv2/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [演出概要](#h2slv9b5o8w1bk1rm59g0sk91wppb0d)

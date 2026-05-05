@@ -1,14 +1,13 @@
 ---
+date: ["2019-12-12", "2019-08-21", "2019-09-15", "2019-10-08", "2019-10-20", "2019-10-19", "2019-11-10", "2019-11-23", "2019-12-11"]
 title: "「BanG Dream! 3rd Season」制作发布会"
 description: "2020年1月起预定播出，动画《BanG Dream! 3rd Season》的制作发布会＆Bang Dream!首次大型圣诞活动的举办决定！第1部「BanG Dream! 3rd Season」制作发布会 第2部「BanG Dream! Xmas Party 2019」 日期 ・第1部「BanG Dream! 3rd Season」制作发布会 ※Y…"
-date: "2019-12-12"
 status: "activity"
 author: "BanG Dream! Project"
 location: "东京巨蛋城大厅"
 org: ["other"]
 url: "https://bang-dream.com/events/3rdxmas/"
 ---
-
 <!-- translated-by: deepseek -->
 
 2020年1月起预定播出，动画《BanG Dream! 3rd Season》制作发布会＆BanG Dream!首次大型圣诞活动决定举办！

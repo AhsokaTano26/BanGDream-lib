@@ -1,14 +1,13 @@
 ---
+date: ["2024-02-12", "2024-03-19", "2024-03-22", "2024-04-11", "2023-11-05", "2023-12-04", "2023-12-24", "2023-02-12", "2023-04-11", "2024-01-06", "2024-02-19", "2024-04-18", "2024-03-29", "2024-02-03", "2024-04-30", "2023-06-02", "2023-03-19", "2023-03-22"]
 title: "MyGO!!!!! ZEPP TOUR 2024「彷徨的渴望」"
 description: "公演概要 会场门票 配信门票 周边商品销售信息 周边商品通贩信息 CD销售 东海道新干线联动企划 注意事项 咨询 公演名 MyGO!!!!! ZEPP TOUR 2024「彷徨的渴望」 日程・会场 ・东京公演 日程：2024年2月12日(周一･节假日) 开场17:00／开演18:00 (预定) 会场：Zepp Haneda (TOKYO) ・福冈公演 日…"
-date: "2024-04-11"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Zepp Haneda (TOKYO)、Zepp Fukuoka、Zepp Osaka Bayside、Zepp Nagoya"
 org: ["mygo"]
 url: "https://bang-dream.com/events/mygo_tour2024/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#h31slqw8iajt1l6n6ky1km63dtaw234b)

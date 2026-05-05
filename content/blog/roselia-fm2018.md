@@ -1,14 +1,13 @@
 ---
+date: ["2018-09-17", "2018-07-24", "2018-07-31"]
 title: "Roselia Fan Meeting 2018"
 description: "日時 2018年9月17日（周一・节假日） 第1场 开场14:30 / 开演15:30 第2场 开场18:00 / 开演19:00 内容 脱口秀&迷你演唱会 会场 川崎市运动文化中心 出演 Roselia（◇湊友希那：相羽爱奈 ◇冰川纱夜：工藤晴香 ◇今井莉莎：中岛由贵 ◇宇田川亚子：樱川惠 ◇白金燐子：明坂聪美） 票务信息 先行抽选预约 受理决定！…"
-date: "2018-09-17"
 status: "activity"
 author: "BanG Dream! Project"
 location: "川崎卡尔茨"
 org: ["R"]
 url: "https://bang-dream.com/events/roselia-fm2018/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ## 日期时间

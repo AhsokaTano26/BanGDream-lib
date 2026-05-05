@@ -1,14 +1,13 @@
 ---
+date: ["2019-01-19"]
 title: "ANIMAX MUSIX 2019 OSAKA 由ひかりTV支持"
 description: "「ANIMAX MUSIX 2019 OSAKA supported byひかりTV」にPoppin’Partyが出演！ 開催日程 2019年1月19日（土） 開場13:00 開演14:00（予定） 出演アーティスト 伊藤美来、大橋彩香、SCREEN mode、鈴木みのり、寺島拓篤、Poppin’Party、Machico、三森すずこ、山崎はるか、Run G…"
-date: "2019-01-19"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "大阪城大厅"
 org: ["other"]
 url: "https://bang-dream.com/events/animax-2019/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「ANIMAX MUSIX 2019 OSAKA supported by ひかりTV」Poppin'Party出演！

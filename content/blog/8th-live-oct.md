@@ -1,14 +1,13 @@
 ---
+date: ["2020-11-07", "2020-11-10", "2020-11-08", "2020-11-11", "2020-10-08", "2020-10-09", "2020-06-24", "2020-07-20", "2020-08-24", "2020-09-01", "2020-09-08", "2020-09-14", "2020-09-16", "2020-09-27", "2020-10-01", "2020-10-03", "2020-10-04", "2020-10-06", "2020-10-05", "2020-10-07", "2020-10-02", "2020-10-31"]
 title: "BanG Dream! 第8次☆LIVE「Breakthrough!」"
 description: "票务 周边 现场直播 演出注意事项 特别直播决定！！ 本场演出的特别直播已决定实施！详情请见： https://liveviewing.jp/contents/cantabile-breakthrough/ 日程 ・闪闪发光☆Festa Day! 2020年11月7日 (周六) 19:00 开始 存档配…"
-date: "2020-10-08"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "东京花园剧场"
 org: ["other"]
 url: "https://bang-dream.com/events/8th-live-oct/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [门票](#ticket)

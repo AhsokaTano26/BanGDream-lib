@@ -1,14 +1,13 @@
 ---
+date: ["2019-10-05"]
 title: "マグロック2019"
 description: "2019年10月5日(周六)・6日(周日)举办的马格洛克2019中，RAISE A SUILEN确定出演！ ※RAS仅于10月5日(周六)出演。 公演名 马格洛克2019 会场 清水海洋公园(Espal Dream Plaza旁) 日期 2019年10月5日(周六)・6日(周日) OPEN 10:00 / START 11:00 ※RAS仅于10月5日(周六…"
-date: "2019-10-05"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "清水海洋公园（埃斯帕尔斯梦想广场旁）"
 org: ["other"]
 url: "https://bang-dream.com/events/magurock2019/"
 ---
-
 <!-- translated-by: deepseek -->
 
 2019年10月5日(周六)・6日(周日)举办的Magurock2019中，RAISE A SUILEN的出演已确定！

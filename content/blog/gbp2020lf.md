@@ -1,14 +1,13 @@
 ---
+date: ["2020-05-09"]
 title: "BanG Dream! Special☆LIVE Girls Band Party! 2020 后日祭"
 description: "※4月8日(周三)15:00补充 【关于伴随紧急事态宣言的退款期限延长】 鉴于因新型冠状病毒感染症发布的紧急事态宣言，考虑到顾客和店铺的安全，将延长“大Vanguard祭2020&Bushiroad祭2020”入场门票的退款处理期限。 ▼适用期间 ◆Ticket Pia 【变更前】4月1日(周三)～4月15日(周三) 【变更后】4月1日(周三)～…"
-date: "2020-05-10"
 status: "activity"
 author: "BanG Dream! Project"
 location: "东京Big Sight 青海展示楼"
 org: ["other"]
 url: "https://bang-dream.com/events/gbp2020lf/"
 ---
-
 <!-- translated-by: deepseek -->
 
 **※4月8日(周三) 15:00追记**

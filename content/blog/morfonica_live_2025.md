@@ -1,14 +1,13 @@
 ---
+date: ["2025-12-30"]
 title: "Morfonica 5周年纪念演唱会「Maestoso」"
 description: "公演概要 会场门票 配信门票 门票交易 周边通贩 周边销售 CD・Blu-ray销售 注意事项 祝贺花篮 咨询 公演名 Morfonica 5th Anniversary LIVE「Maestoso」 日期 2025年12月30日(周二) 开场 17:00／开演 18:00（预定） 会场 大宫Sonic City 大礼堂 出演 Morfon…"
-date: "2025-12-30"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "大宫Sonic City 大礼堂"
 org: ["M"]
 url: "https://bang-dream.com/events/morfonica_live_2025/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#Performance_overview)

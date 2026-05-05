@@ -1,14 +1,13 @@
 ---
+date: ["2023-07-20", "2023-09-06", "2023-10-05", "2023-04-19", "2023-06-09", "2023-06-16", "2023-03-15", "2023-04-24", "2023-05-11", "2023-05-29", "2023-06-24", "2023-09-30", "2023-09-28", "2023-10-12", "2023-06-02"]
 title: "Morfonica ZEPP TOUR 2023「forte」"
 description: "Morfonica主办的东名阪巡演决定！制作人公开信公开！【9/28(周四)追记】来自Morfonica负责制作人的“制作人公开信”已公开！请务必一读面向巡演的想法。详情请点击这里 公演名称 Morfonica ZEPP TOUR 2023「forte」 日程・会场 ・大阪公演 2023年7月20日(周四) 开场18…"
-date: "2023-10-05"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Zepp Osaka Bayside、Zepp Nagoya、Zepp Haneda"
 org: ["M"]
 url: "https://bang-dream.com/events/morfonica_tour_forte/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Morfonica的东名阪巡演确定！

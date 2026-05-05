@@ -1,14 +1,13 @@
 ---
+date: ["2023-03-18", "2023-03-19", "2023-01-27", "2023-02-19", "2023-03-04", "2023-03-14"]
 title: "Garupa 6周年纪念粉丝节 in 秋叶原"
 description: "为纪念手机游戏《BanG Dream! 少女乐团派对！》发布6周年，决定举办为期两天的线下活动！今年的活动也安排了舞台节目♪ 此外，还提供付费座位观览！另外，Craft Egg Store、ESP、Bushiroad Creative的期间限定店也将出展！让我们一起嗨起来吧♪…"
-date: "2023-03-18"
 status: "activity"
 author: "BanG Dream! Project"
 location: "ベルサール秋葉原"
 org: ["other"]
 url: "https://bang-dream.com/events/gbp6th_akihabara/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ![](https://img.tano.asia/i/1075b7c7-8a19-4d1f-8685-4b68a0bc29d0.webp)

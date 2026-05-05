@@ -1,14 +1,13 @@
 ---
+date: ["2025-04-19"]
 title: "Morfonica LIVE「Rubato」"
 description: "公演概要 会场门票 流媒体门票 商品销售 商品邮购 CD销售 注意事项 咨询 公演名 Morfonica LIVE「Rubato」 日程 2025年4月19日(周六) 开场17:00／开演18:00（预定） 会场 丰洲PIT 出演 Morfonica 门票 ※已售罄！ 价格 优先区域(前方区域・附赠特制商品)：22,00…"
-date: "2025-04-19"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "丰洲PIT"
 org: ["M"]
 url: "https://bang-dream.com/events/morfonica_live2025/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [演出概要](#Performance_overview)

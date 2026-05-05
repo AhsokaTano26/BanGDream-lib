@@ -1,14 +1,13 @@
 ---
+date: ["2022-07-24", "2022-08-21", "2022-08-14"]
 title: "可口可乐 SUMMER STATION 音乐LIVE"
 description: "8月14日(周日) Morfonica出演"
-date: "2022-08-14"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "コカ・コーラ SUMMER STATION LIVEアリーナ（六本木ヒルズアリーナ）"
 org: ["other"]
 url: "https://bang-dream.com/events/summerstation2022/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「可口可乐 SUMMER STATION 音乐LIVE」中，BanG Dream!的Morfonica确定出演！

@@ -1,14 +1,13 @@
 ---
+date: ["2020-01-16"]
 title: "Roselia的RADIO SHOUT! -Lachen- 名古屋场"
 description: "\"Roselia的RADIO SHOUT!\"单独谈话活动决定举办！ in Nagoya in Tokyo 日程 2020年1月16日(周四) 18:00开场／19:00开演(预定) ～ 20:30结束预定（演出时长：约1小时30分钟） 会场 Zepp Nagoya 出演 Roselia（相羽爱奈、工藤晴香、中岛由贵、樱川惠、志崎桦音） 嘉宾出演…"
-date: "2020-01-16"
 status: "activity"
 author: "BanG Dream! Project"
 location: "名古屋Zepp"
 org: ["R"]
 url: "https://bang-dream.com/events/rsl-nagoya/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「Roselia的RADIO SHOUT!」单人对谈活动举办决定！

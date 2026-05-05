@@ -1,14 +1,13 @@
 ---
+date: ["2024-03-09"]
 title: "MEGA VEGAS 2024"
 description: "3月9日(周六) Ave Mujica出演"
-date: "2024-03-09"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "神户世界纪念厅"
 org: ["other"]
 url: "https://bang-dream.com/events/megavegas2024/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「MEGA VEGAS 2023」中，来自BanG Dream!项目的Ave Mujica将出演！

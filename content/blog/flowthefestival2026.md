@@ -1,14 +1,13 @@
 ---
+date: ["2026-06-06", "2026-06-07"]
 title: "FLOW THE FESTIVAL 2026"
 description: "6月6日（周六）RAISE A SUILEN出演"
-date: "2026-06-06"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "PIA ARENA MM"
 org: ["RAS"]
 url: "https://bang-dream.com/events/flowthefestival2026/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「FLOW THE FESTIVAL 2026」中，来自BanG Dream!项目的RAISE A SUILEN确定出演！

@@ -1,14 +1,13 @@
 ---
+date: ["2017-10-08", "2017-08-29", "2017-09-08", "2017-09-13", "2017-09-19", "2017-09-23"]
 title: "Roselia 2nd Live「Zeit」"
 description: "关于 商品信息 现场观看 会场 幕张展览馆活动大厅 日期时间 2017年10月8日(周日) 开场18:00／开演19:00 出演者 Roselia 凑友希那（CAST：相羽爱奈）、冰川纱夜（CAST：工藤晴香）、今井丽莎（CAST:远藤祐里香）、宇田川亚子（CAST：樱川惠）、白金燐子（CAST：明坂聪美）…"
-date: "2017-10-08"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "幕张活动大厅"
 org: ["R"]
 url: "https://bang-dream.com/events/roselia-2nd-live/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - ABOUT

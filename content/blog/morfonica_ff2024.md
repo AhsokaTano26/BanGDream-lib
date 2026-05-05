@@ -1,14 +1,13 @@
 ---
+date: ["2024-10-12"]
 title: "Morfonica Concept LIVE「ff」"
 description: "公演概要 会场门票 配信门票 周边销售 周边通贩 CD销售 衣帽寄存 接驳巴士 停车场 交通旅游 注意事项 咨询 公演名 Morfonica Concept LIVE「ff」 日程 2024年10月12日(周六) 开场16:00／开演17:00（预定） 会场 河口湖斯特拉剧场 出演 Morfonica 门票 费用 S席（特制グ…"
-date: "2024-10-12"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "河口湖星剧场"
 org: ["M"]
 url: "https://bang-dream.com/events/morfonica_ff2024/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#Performance_overview)

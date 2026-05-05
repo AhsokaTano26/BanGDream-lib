@@ -1,14 +1,13 @@
 ---
+date: ["2018-07-07", "2018-07-08", "2018-02-16", "2018-02-26"]
 title: "ラジオ大阪開局60周年記念ライブイベント「V-STATION THE LIVE Passion」"
 description: "为纪念大阪电台开播60周年，现场活动「V-STATION THE LIVE Passion」决定举办！！ Poppin’Party将于7/7（周六）出演！ 大阪电台开播60周年纪念・1314V-STATION20周年纪念「岩田光央・铃村健一 Sweet Ignition」15周年纪念『V-STATION THE LIVE! Passio…"
-date: "2018-07-07"
 status: "activity"
 author: "BanG Dream! Project"
 location: "神户世界纪念厅"
 org: ["other"]
 url: "https://bang-dream.com/events/radio_osaka/"
 ---
-
 <!-- translated-by: deepseek -->
 
 content/blog/radio_osaka.md

@@ -1,14 +1,13 @@
 ---
+date: ["2018-11-07"]
 title: "Roselia 演唱会「Vier」"
 description: "日程 2018年11月7日（星期三）开场18:00 开演19:00 预定 内容 演唱会 ※由谈话活动变更而来。 会场 品川Stellar Ball 出演 Roselia（◇凑友希那：相羽爱奈 ◇冰川纱夜：工藤晴香 ◇今井莉莎：中岛由贵 ◇宇田川亚子：樱川惠） 门票信息 票价：7,000日元（不含税）※另需饮料费 座位类型：站立 「月刊Bushiroad」…"
-date: "2018-11-07"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "品川星之大厅"
 org: ["R"]
 url: "https://bang-dream.com/events/vier/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ## 日程

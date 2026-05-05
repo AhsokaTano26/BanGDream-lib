@@ -1,14 +1,13 @@
 ---
+date: ["2025-02-24"]
 title: "Pastel＊Palettes 特别活动「Together!!」"
 description: "Pastel＊Palettes 成员5人举办的脱口秀&迷你演唱会活动正式确定！活动内还计划设置「梦之结唱 PASTEL」的揭晓环节。  \n演出概要  \n会场门票  \n直播门票  \n周边商品销售  \n周边商品通贩  \n注意事项  \n咨询  \n演出名称  \nPastel＊Palettes Special Event「Together!!」  \n日期  \n2025…"
-date: "2025-02-24"
 status: "activity"
 author: "BanG Dream! Project"
 location: "LINE CUBE SHIBUYA"
 org: ["pp"]
 url: "https://bang-dream.com/events/psplsp2025/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Pastel＊Palettes 5位成员带来的脱口秀&迷你演唱会活动决定举办！

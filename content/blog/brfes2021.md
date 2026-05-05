@@ -1,14 +1,13 @@
 ---
+date: ["2021-02-06"]
 title: "【举办延期】BUSHIROAD ROCK FESTIVAL 2021"
 description: "ブシロードが送るメディアミックスプロジェクト、「BanG Dream!」「ARGONAVIS from BanG Dream!」「D4DJ」のロックアーティストが登場するライブが開催決定。熱い二日間をお見逃しなく！ BUSHIROAD ROCK FESTIVAL 2021 特設サイト 【すべてのお客様向け】払戻について（2022年1月18日(火)18時更新）…"
-date: "2021-02-06"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "武藏野之森综合体育广场"
 org: ["other"]
 url: "https://bang-dream.com/events/brfes2021/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Bushiroad推出的媒体混合项目，"BanG Dream!"、"ARGONAVIS from BanG Dream!"、"D4DJ"的摇滚艺术家登场的演唱会决定举办。火热的两天不容错过！

@@ -1,14 +1,13 @@
 ---
+date: ["2019-03-17", "2018-12-12", "2019-01-30", "2019-12-01"]
 title: "Poppin'Party 12th Single「キズナミュージック♪」＆ 1st Album「Poppin’on!」発売記念 連動スペシャルトークイベント"
 description: "開催日时 2019年3月17日(周日) 集合时间：12:00 集合地点：1F楼梯前 开演时间：13:00 ※仅限中选者入场，无自由入场。 会场 Tower Records涩谷店B1F CUTUP STUDIO 出演 Poppin'Party（爱美、大塚纱英、西本梨美、大桥彩香、伊藤彩沙） 参加方法 ■第2次抽选已确定！ 参加方法 1/29(周二)1…"
-date: "2019-03-17"
 status: "activity"
 author: "BanG Dream! Project"
 location: "塔唱片涩谷店 B1 CUTUP STUDIO"
 org: ["ppp"]
 url: "https://bang-dream.com/events/popipa0317/"
 ---
-
 <!-- translated-by: deepseek -->
 
 #### 举办日期

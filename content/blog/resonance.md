@@ -1,14 +1,13 @@
 ---
+date: ["2022-04-24"]
 title: "Morfonica Concept LIVE「共振」"
 description: "2022年4月24日（周日），Morfonica单独演唱会确定举办。切勿错过5人演奏出的音之共鸣！  \n公演名 Morfonica Concept LIVE「Resonance」  \n日程 2022年4月24日（周日）  \n开演17:00／开演18:00（预定）  \n会场 TOKYO DOME CITY HALL  \n出演 Morfonica（进藤天音、直田姬奈、mi…"
-date: "2022-04-24"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "东京巨蛋城大厅"
 org: ["M"]
 url: "https://bang-dream.com/events/resonance/"
 ---
-
 <!-- translated-by: deepseek -->
 
 2022年4月24日(周日)，Morfonica单独演唱会将举办。

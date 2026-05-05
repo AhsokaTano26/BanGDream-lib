@@ -1,14 +1,13 @@
 ---
+date: ["2017-07-29"]
 title: "Roselia 第1场演唱会「Rosenlied」追加公演"
 description: "6月30日(周五)在涩谷duo音乐交流中心举办的首场演唱会的追加公演已迅速确定！「Roselia 1st Live Rosenlied」 举办日期：2017年7月29日（周六） 时间：18:00开馆 19:00开演 场馆：有明竞技场 ◇票价（指定席） 【普通】6,500日元+税／【视野不佳席】6,000日元+税 Ros…"
-date: "2017-07-29"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "有明体育馆"
 org: ["R"]
 url: "https://bang-dream.com/events/roselia-1st-live-rosenlied-add/"
 ---
-
 <!-- translated-by: deepseek -->
 
 6月30日(周五)在涩谷duo music exchange举办的1st演唱会追加公演，已迅速决定追加公演！

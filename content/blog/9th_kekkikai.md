@@ -1,14 +1,13 @@
 ---
+date: ["2021-08-07", "2021-08-08", "2021-07-26"]
 title: "9th☆LIVE前夕！在富士急举行的誓师大会！"
 description: "直播：YouTube「BanG Dream!频道☆」"
-date: "2021-08-07"
 status: "activity"
 author: "BanG Dream! Project"
 location: "富士急高原乐园"
 org: ["other"]
 url: "https://bang-dream.com/events/9th_kekkikai/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - ![](https://img.tano.asia/i/91cf671f-664d-43b3-b2e6-514fa6412cf1.webp)

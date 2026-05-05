@@ -1,14 +1,13 @@
 ---
+date: ["2025-01-23"]
 title: "NANIMONO × 梦限大みゅーたいぷ 『新人类会梦想成为什么人吗？』"
 description: "NANIMONO×夢限大みゅーたいぷ的对盘演出决定！ 日程 门票 公演名 NANIMONO × 夢限大みゅーたいぷ 『新人類会梦想成为何物吗？』 日程 2025年1月23日(周四) 开场18:00／开演19:00（预定） 1月23日(周四) 对盘LIVE决定！ 会场 Veats Shibuya 出演 NANIMONO / 夢限大みゅーたいぷ…"
-date: "2025-01-23"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Veats涩谷"
 org: ["mxd"]
 url: "https://bang-dream.com/events/yumemita_nanimono_taiban/"
 ---
-
 <!-- translated-by: deepseek -->
 
 content/blog/yumemita_nanimono_taiban.md

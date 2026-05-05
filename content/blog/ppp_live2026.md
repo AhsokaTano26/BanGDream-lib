@@ -1,14 +1,13 @@
 ---
+date: ["2026-01-03"]
 title: "Poppin'Party 新年演唱会「Happy BanG Year!!」"
 description: "公演概要 门票 配信门票 门票交易 周边通贩 周边销售 CD・Blu-ray销售 注意事项 庆祝花篮 咨询 公演名 Poppin'Party New Year LIVE「Happy BanG Year!!」 日程 2026年1月3日(周六) 开场 17:00／开演 18:00（预定） 会场 东京花园剧场 出演 Poppin'Pa…"
-date: "2026-01-03"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "东京花园剧场"
 org: ["ppp"]
 url: "https://bang-dream.com/events/ppp_live2026/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#Performance_overview)

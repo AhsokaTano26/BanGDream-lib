@@ -1,14 +1,13 @@
 ---
+date: ["2017-06-30", "2017-04-19", "2017-02-05", "2017-04-30"]
 title: "Roselia 第1场演唱会「罗森之歌」"
 description: "2017年6月30日（周五）举办的 Roselia 1st Live 演唱会标题已确定！ Roselia 1st Live Rosenlied 主视觉图公开！ 在「BanG Dream! 3rd☆LIVE Sparklin’ PARTY 2017!」中完成震撼现场首秀的Roselia，其个人演唱会迅速决定！ 面向智能手机…"
-date: "2017-06-30"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "涩谷双人音乐交流"
 org: ["R"]
 url: "https://bang-dream.com/events/roselia-1st-live/"
 ---
-
 <!-- translated-by: deepseek -->
 
 2017年6月30日(周五)举办的Roselia 1st Live演唱会标题已确定！

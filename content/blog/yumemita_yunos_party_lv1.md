@@ -1,14 +1,13 @@
 ---
+date: ["2024-12-27"]
 title: "夢限大みゅーたいぷ　千石ユノ主催DJイベント「YUNO’s PARTY Lv.1」"
 description: "公演概要 会場チケット 注意事項 お問合せ 公演名 夢限大みゅーたいぷ 千石ユノ主催DJイベント「YUNO’s PARTY Lv.1」 日程 2024年12月27日(金) 開場17:00／開演18:00（予定） 【入場方法のご案内】 本公演は、立ち位置指定でのスタンディングとなります。 ご入場時にランダムで番号を記載した整理券をお渡ししますので、 ご自身の番…"
-date: "2024-12-27"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "秋叶原Entas"
 org: ["mxd"]
 url: "https://bang-dream.com/events/yumemita_yunos_party_lv1/"
 ---
-
 <!-- translated-by: deepseek -->
 
 [https://eplus.jp/ yunospartylv1/](https://eplus.jp/%20yunospartylv1/)![](https://img.tano.asia/i/add88151-4669-4263-a68b-05d50a46f76b.webp)

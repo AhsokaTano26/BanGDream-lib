@@ -1,14 +1,13 @@
 ---
+date: ["2026-08-08", "2026-08-09"]
 title: "幸运节'26"
 description: "8月9日(周日) RAISE A SUILEN・MyGO!!!!!出演"
-date: "2026-08-09"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "国营常陆海滨公园"
 org: ["RAS", "mygo"]
 url: "https://bang-dream.com/events/luckyfes2026/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「LuckyFes'26」中，来自Bushiroad的RAISE A SUILEN・MyGO!!!!!确定出演！

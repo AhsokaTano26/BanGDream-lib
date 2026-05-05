@@ -1,14 +1,13 @@
 ---
+date: ["2025-05-10", "2025-05-11"]
 title: "マチ★アソビvol.28"
 description: "5月10日(周六)・11日(周日) 梦限大みゅーたいぷ出演"
-date: "2025-05-10"
 status: "activity"
 author: "BanG Dream! Project"
 location: "德岛县德岛市 新町桥东公园周边"
 org: ["other"]
 url: "https://bang-dream.com/events/machiasobi2025/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「マチ★アソビvol.28」中，来自BanG Dream!项目的梦限大myu type将出演！

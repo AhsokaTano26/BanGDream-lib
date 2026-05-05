@@ -1,14 +1,13 @@
 ---
+date: ["2020-05-04", "2020-05-06"]
 title: "rockin'on presents JAPAN JAM 2020"
 description: "4/30(周四)18:00追记 「J Fest App里的JAPAN JAM」实施决定！关于公演中止的「rockin'on presents JAPAN JAM 2020」，决定实施通过原本预定出演JAPAN JAM 2020的艺人们过去的演出视频以及给各位的留言来进行的“线上音乐节体验”节目。【日期】…"
-date: "2020-05-06"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "千叶市苏我体育公园 （千叶市中央区）"
 org: ["other"]
 url: "https://bang-dream.com/events/ras_japanjam2020/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ![](https://img.tano.asia/i/66d2767b-0881-4012-9e76-261df0878a53.webp)

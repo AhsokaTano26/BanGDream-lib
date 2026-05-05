@@ -1,14 +1,13 @@
 ---
+date: ["2021-01-11", "2021-04-01", "2021-04-24", "2022-07-30", "2022-03-14", "2022-03-27", "2022-04-09", "2022-04-24", "2022-05-09", "2022-07-10", "2022-07-16", "2022-07-22", "2022-08-05", "2022-08-01", "2022-07-18"]
 title: "BanG Dream！心动夏祭！2022"
 description: "2021年1月举办的Bang Dream！特别活动「らうくれ！」＆「あすはも！」的会场门票延期活动确定举办！Bang Dream！的演员们将身着浴衣登场哦！今年夏天也一起享受Bang Dream！吧♪ 延期通知 关于此前延期的「Bang Dream！特别活动「らうくれ！」＆「あすはも！」」，现已决定举办延期公演。…"
-date: "2022-07-30"
 status: "activity"
 author: "BanG Dream! Project"
 location: "LINE CUBE SHIBUYA"
 org: ["other"]
 url: "https://bang-dream.com/events/bangdream_summer2022/"
 ---
-
 <!-- translated-by: deepseek -->
 
 2021年1月举办的BanG Dream!特别活动“らうくれ！”＆“あすはも！”的现场门票替换活动决定举办！

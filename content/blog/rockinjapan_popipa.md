@@ -1,14 +1,13 @@
 ---
+date: ["2019-08-11", "2019-06-19", "2019-05-22", "2019-05-27"]
 title: "rockin'on 呈献 ROCK IN JAPAN FESTIVAL 2019"
 description: "Poppin'Party确定出演「rockin'on presents ROCK IN JAPAN FESTIVAL 2019」！继对邦演唱会后，敬请期待Poppin'Party迈向全新舞台的表演！活动名称 rockin'on presents ROCK IN JAPAN FESTIVAL 2019 日期 2019年8月11…"
-date: "2019-08-11"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "国営ひたち海浜公園（茨城県ひたちなか市）"
 org: ["other"]
 url: "https://bang-dream.com/events/rockinjapan_popipa/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Poppin'Party的「rockin'on presents ROCK IN JAPAN FESTIVAL 2019」出演确定！

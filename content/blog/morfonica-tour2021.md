@@ -1,14 +1,13 @@
 ---
+date: ["2021-10-28", "2021-11-05", "2021-10-06", "2021-10-13", "2021-10-23", "2021-10-31", "2021-11-08"]
 title: "Morfonica ZEPP TOUR 2021「Amabile」"
 description: "结成一年的半年后，Morfonica首次巡演即将举办！在东京、大阪的舞台上，为大家呈现不断成长的Morfonica。演出名称 Morfonica ZEPP TOUR 2021「Amabile」日程・会场 ・大阪公演 2021年10月28日(周四) 开场18:00 ／开演19:00 预定 ＠Zepp Osaka Bayside ・东京公演 20…"
-date: "2021-10-28"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Zepp Osaka Bayside、Zepp Haneda"
 org: ["M"]
 url: "https://bang-dream.com/events/morfonica-tour2021/"
 ---
-
 <!-- translated-by: deepseek -->
 
 结成1年半，Morfonica首次巡演决定举办！

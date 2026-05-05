@@ -1,14 +1,13 @@
 ---
+date: ["2025-09-07"]
 title: "夢限大みゅーたいぷ 4th LIVE「アンロック・ザ・フューチャー」"
 description: "公演概要 会场门票 周边通贩 部分免费直播 周边销售 CD销售 注意事项 祝贺花篮 联系我们 公演名称 梦限大みゅーたいぷ 4th LIVE「解锁未来」 日期 2025年9月7日(日) 开场17:00／开演18:00（预定） 会场 TACHIKAWA STAGE GARDEN 出演 梦限大みゅーたいぷ 门票 费用 附周边指…"
-date: "2025-09-07"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "TACHIKAWA STAGE GARDEN"
 org: ["mxd"]
 url: "https://bang-dream.com/events/yumemita_4th/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#h2slv9b5o8w1bk1rm59g0sk91wppb0d)

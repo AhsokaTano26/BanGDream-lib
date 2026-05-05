@@ -1,14 +1,13 @@
 ---
+date: ["2023-12-30"]
 title: "Comic Market 103"
 description: "BanG Dream!（バンドリ！）决定参展Comic Market 103！将销售和展示MyGO!!!!!・Ave Mujica的周边商品♪在BanG Dream!（バンドリ！）展位，将展示MyGO!!!!!・高松燈、Ave Mujica・奥布利维奥尼斯的服装！使用闪光灯拍摄照片会发生变化！？使用「闪光打印」的照片展…"
-date: "2023-12-30"
 status: "activity"
 author: "BanG Dream! Project"
 location: "有明・東京国際展示場 (東京ビッグサイト)"
 org: ["other"]
 url: "https://bang-dream.com/events/comiket103/"
 ---
-
 <!-- translated-by: deepseek -->
 
 BanG Dream!（邦邦！）决定出展Comic Market 103！

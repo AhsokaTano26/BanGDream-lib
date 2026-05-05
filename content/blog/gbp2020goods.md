@@ -1,14 +1,13 @@
 ---
+date: ["2020-03-31", "2020-05-02", "2020-03-17", "2020-03-26"]
 title: "BanG Dream! Special☆LIVE Girls Band Party! 2020 前日物贩"
 description: "※2020年3月31日(周二) 15:00补充 【关于演唱会・活动的重要通知】 鉴于新型冠状病毒感染症扩大而要求避免不必要非紧急的外出， 本活动决定中止举办。（※另行探讨销售方法） 此外， 关于今后的应对措施目前正在调整中， 一旦确定，将在BanG Dream!官方网站・官方Twitter上通知…"
-date: "2020-05-02"
 status: "activity"
 author: "BanG Dream! Project"
 location: "ベルサール秋葉原"
 org: ["other"]
 url: "https://bang-dream.com/events/gbp2020goods/"
 ---
-
 <!-- translated-by: deepseek -->
 
 **※2020年3月31日(周二) 15:00追记**

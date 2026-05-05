@@ -1,14 +1,13 @@
 ---
+date: ["2019-09-29", "2019-07-20"]
 title: "山小屋・ばさらか presents 阿苏摇滚音乐节 2019 in北九州"
 description: "2019年9月29日(周日) 在三国世界体育场北九州举办的“山小屋・ばさらかpresents 阿苏摇滚音乐节 2019 in北九州”中，BanG Dream!项目旗下的RAISE A SUILEN确定出演。本次演出将是RAS首次登上九州的舞台。7月在神户的单独公演、幕张的追加单独公演…"
-date: "2019-09-29"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "ミクニワールドスタジアム北九州"
 org: ["other"]
 url: "https://bang-dream.com/events/ras_asorock/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ![](https://img.tano.asia/i/09b284be-201e-4b0a-823e-8ae446c14283.webp)

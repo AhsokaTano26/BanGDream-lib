@@ -1,14 +1,13 @@
 ---
+date: ["2020-07-04", "2020-08-09", "2020-07-19", "2020-06-20", "2020-07-21", "2020-07-15"]
 title: "バンドリ！＆スタァライト展 in Gallery AaMo"
 description: "「在家玩BanG Dream! & Starlight展」决定举办！ （※8/5(周三)19:00追记） BanG Dream! & Starlight的联合展示活动，在家也能享受！ 详情请点击这里→ https://bushiroad.com/galleryaamo2020_home Gallery AaMo决定举办BanG Dream! & Starlight的联合展示活动！ 只有在这里才能体验…"
-date: "2020-07-15"
 status: "activity"
 author: "BanG Dream! Project"
 location: "Gallery AaMo"
 org: ["other"]
 url: "https://bang-dream.com/events/gbp_exhibition/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ###### "在家享受Bandori! & Starlight展"举办决定！(※8/5(周三)19:00追记)

@@ -1,14 +1,13 @@
 ---
+date: ["2020-02-09", "2019-11-27", "2019-12-29", "2020-01-08", "2020-01-25", "2019-12-25", "2020-01-13", "2020-02-01", "2020-02-07", "2020-01-30", "2020-02-17"]
 title: "RAISE A SUILEN 「Craziness」"
 description: "公演名 RAISE A SUILEN 「Craziness」 会场 静冈EcoPa Arena 日期 2020年2月9日(周日) 开场16:00/开演17:00 预定 出演 RAISE A SUILEN 门票 票价 ・Premium座椅(附赠特制周边) 18,000日元+税 ・普通指定席 9,000日元+税 ※学龄前儿童不可入场 【Premium座椅特制周边】 设计…"
-date: "2020-02-09"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "静岡エコパアリーナ"
 org: ["RAS"]
 url: "https://bang-dream.com/events/ras_craziness/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ## 公演名称

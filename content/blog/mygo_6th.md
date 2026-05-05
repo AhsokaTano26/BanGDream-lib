@@ -1,14 +1,13 @@
 ---
+date: ["2024-07-27", "2024-07-28"]
 title: "MyGO!!!!! 6th LIVE「携我所见之景」"
 description: "公演概要 会场门票 配信门票 会场MAP 周边销售信息 周边通贩 餐饮・赞助区域 CD销售 注意事项 咨询 公演名 MyGO!!!!! 6th LIVE「见到的景色，随身携带」 日程 2024年7月27日(周六) 开场17:00／开演18:00（预定） 7月28日(周日) 开场16:00／开演17:00（预定） 会场 武藏野之森综合体育…"
-date: "2024-07-27"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "武藏野之森综合体育广场"
 org: ["mygo"]
 url: "https://bang-dream.com/events/mygo_6th/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#h2slv9b5o8w1bk1rm59g0sk91wppb0d)

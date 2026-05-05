@@ -1,14 +1,13 @@
 ---
+date: ["2025-05-26"]
 title: "Poppin'Party 10th Anniversary LIVE「星之鼓动」"
 description: "公演概要 会场门票 配信门票 周边销售 周边邮购 CD销售 「星之鼓动」举办纪念商店 注意事项 祝贺花篮 咨询 公演名 Poppin'Party 10th Anniversary LIVE「星之鼓动」 日程 2025年5月26日(周一) 开场17:30／开演18:30（预定） 会场 日本武道馆 出演 Poppin'Party 门票…"
-date: "2025-05-26"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "日本武道馆"
 org: ["ppp"]
 url: "https://bang-dream.com/events/ppp_live2025/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#Performance_overview)

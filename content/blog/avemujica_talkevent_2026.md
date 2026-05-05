@@ -1,14 +1,13 @@
 ---
+date: ["2026-01-10", "2026-02-21", "2026-11-23", "2026-10-14", "2026-11-02", "2026-08-30", "2026-09-21", "2026-07-24", "2026-08-05"]
 title: "Ave Mujica 谈话活动「UNMASQUERADE」"
 description: "公演概要 门票 周边商品销售 注意事项 庆贺花篮 咨询 公演名 Ave Mujica 脱口秀活动「UNMASQUERADE」 日期・会场 东京公演 日期：2026年1月10日(周六) 第1场 开场12:45／开演13:30（预定） 第2场 开场16:45／开演17:30（预定） 会场：Kanadevia Hall（前 TOKYO DOME CITY HA…"
-date: "2026-02-21"
 status: "activity"
 author: "BanG Dream! Project"
 location: "Kanadevia Hall、松下IMP大厅"
 org: ["Ave"]
 url: "https://bang-dream.com/events/avemujica_talkevent_2026/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#Performance_overview)

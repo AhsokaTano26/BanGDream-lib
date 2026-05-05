@@ -1,14 +1,13 @@
 ---
+date: ["2025-11-03"]
 title: "集え！ゆめみた筋トレ部 ～君も部員にならないか？～"
 description: "公演概要 会場チケット 注意事項 お問い合わせ 公演名 集え！ゆめみた筋トレ部 ～君も部員にならないか？～ 日程 2025年11月3日(月・祝) 昼の部：開場：14:30／開演：15:00（予定） 夜の部：開場：17:30／開演：18:00（予定） 会場 学校跡地の飯田橋でっかいレンタルスペース 出演 仲町あられ・藤都子 チケット 料金 スタンディング（立ち…"
-date: "2025-11-03"
 status: "activity"
 author: "BanG Dream! Project"
 location: "学校旧址的饭田桥巨大租赁空间"
 org: ["other"]
 url: "https://bang-dream.com/events/yumemita_kinntorebu/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#h2slv9b5o8w1bk1rm59g0sk91wppb0d)

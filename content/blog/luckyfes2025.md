@@ -1,14 +1,13 @@
 ---
+date: ["2025-08-09", "2025-08-11"]
 title: "LuckyFes'25"
 description: "8月11日(周一・节假日) RAISE A SUILEN出演"
-date: "2025-08-11"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "国营常陆海滨公园"
 org: ["other"]
 url: "https://bang-dream.com/events/luckyfes2025/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「LuckyFes'25」中，来自BanG Dream!的RAISE A SUILEN确定出演！

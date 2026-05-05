@@ -1,14 +1,13 @@
 ---
+date: ["2025-08-16"]
 title: "SUMMER SONIC 2025"
 description: "8月16日(周六) Ave Mujica出演"
-date: "2025-08-16"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "ZOZO海洋体育场&幕张展览馆"
 org: ["Ave"]
 url: "https://bang-dream.com/events/summersonic2025/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「SUMMER SONIC 2025」东京公演中，来自BanG Dream!的Ave Mujica确定出演

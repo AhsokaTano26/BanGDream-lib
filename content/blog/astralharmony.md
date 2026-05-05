@@ -1,14 +1,13 @@
 ---
+date: ["2021-02-23"]
 title: "Poppin'Party×Morfonica 友情LIVE「Astral Harmony」"
 description: "票券 现场观影 周边 注意事项 现场特别配信决定！ 2021年3月14日(周日) 22:00～ ※错过的配信 截至3月31日(周日)23:59 https://bang-dream.com/news/1149 公演名 Poppin'Party×Morfonica Friendship LIVE「Astral Harmony」 日程 2021年…"
-date: "2021-02-23"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "横滨体育馆"
 org: ["ppp", "M"]
 url: "https://bang-dream.com/events/astralharmony/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [门票](#ticket)

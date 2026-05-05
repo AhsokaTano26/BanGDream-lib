@@ -1,14 +1,13 @@
 ---
+date: ["2022-03-06", "2022-03-21", "2022-03-19", "2022-03-20"]
 title: "ガルパ5周年纪念粉丝庆典"
 description: "智能手机游戏《BanG Dream! 少女乐团派对！》发布5周年纪念的三城联动活动“Garupa5周年纪念粉丝庆典”决定举办！用Garupa的视觉元素装扮整个街道！旗帜在三个城市共计展出35种！欢迎大家前来游玩哦♪ 举办地点 东京·秋叶原 名古屋·大须 大阪·日本桥 举办期间 2022年3月6…"
-date: "2022-03-06"
 status: "activity"
 author: "BanG Dream! Project"
 location: "东京・秋叶原、名古屋・大须、大阪・日本桥"
 org: ["other"]
 url: "https://bang-dream.com/events/gbp5th_fanfesta/"
 ---
-
 <!-- translated-by: deepseek -->
 
 智能手机游戏《BanG Dream! 少女乐团派对！》发行5周年纪念，三城联动活动“Garupa 5周年纪念粉丝庆典”决定举办！

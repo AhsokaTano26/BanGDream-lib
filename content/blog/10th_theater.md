@@ -1,14 +1,13 @@
 ---
+date: ["2022-09-23", "2022-09-24", "2022-09-22", "2022-09-25", "2022-09-09", "2022-09-14", "2022-09-17"]
 title: "BanG Dream! 10th☆LIVE 举办纪念　BanG Dream! 剧场"
 description: "为纪念「BanG Dream! 10th☆LIVE」的举办，决定举办放映动画和演唱会影像的实体活动！ 邮件征集表格请点击这里！ 活动名称 BanG Dream! 10th☆LIVE 举办纪念  BanG Dream! 剧场 DAY1 : 「BE LIGHT」放映会&RAS广播番外篇 DAY2 : Roselia单独演唱会EoR先行放映会&Lady…"
-date: "2022-09-23"
 status: "activity"
 author: "BanG Dream! Project"
 location: "飞艇剧院"
 org: ["other"]
 url: "https://bang-dream.com/events/10th_theater/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「BanG Dream! 10th☆LIVE」的举办纪念，决定举办放映动画和演唱会影像的线下活动！

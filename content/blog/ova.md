@@ -1,14 +1,13 @@
 ---
+date: ["2017-06-20", "2017-07-02", "2017-07-07", "2017-07-09", "2017-08-12"]
 title: "完全新作OVA舞台挨拶付先行上映会"
 description: "TV动画《BanG Dream!》终于迎来了最终回。但是故事还没有结束！！预定于11月22日发售的Blu-ray Vol.7中将收录完全新作OVA《玩过头了！》！！6月21日发售的Blu-ray Vol.2中封入了本次活动的最快先行销售申请券★ 参加活动，比任何人都更早享受完全新作OVA吧！！这样的活…"
-date: "2017-07-15"
 status: "activity"
 author: "BanG Dream! Project"
 location: "预计在全国7个城市举办"
 org: ["other"]
 url: "https://bang-dream.com/events/ova/"
 ---
-
 <!-- translated-by: deepseek -->
 
 TV动画终于迎来了最终回的「BanG Dream!」。然而故事还远远没有结束！！

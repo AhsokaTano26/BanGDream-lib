@@ -6,7 +6,7 @@
       <div v-for="post in list" :key="post._path"
            class="group border-b border-gray-100 py-4 hover:bg-gray-50 transition-colors cursor-pointer">
         <NuxtLink :to="post._path">
-          <span class="text-xs text-gray-400 font-mono">{{ post.date }}</span>
+          <span class="text-xs text-gray-400 font-mono">{{ formatContentDateList(post.date) }}</span>
           <h4 class="text-md font-bold group-hover:text-blue-500">{{ post.title }}</h4>
           <p class="text-sm text-gray-500 line-clamp-2">{{ post.description }}</p>
         </NuxtLink>
@@ -16,6 +16,7 @@
 </template>
 
 <script setup>
+import { formatContentDateList } from '~~/utils/content-date'
 /**
  * @component BlogListSidebar
  * @description 博客简易列表组件。常用于侧边栏或首页“最新动态”区块，通过 ContentList 自动抓取指定目录内容。

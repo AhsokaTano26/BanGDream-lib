@@ -1,14 +1,13 @@
 ---
+date: ["2019-10-26", "2019-10-27"]
 title: "ANIMAX MUSIX 2019 KOBE"
 description: "「ANIMAX MUSIX 2019 KOBE」10/26有【RAISE A SUILEN】、10/27有【Roselia】出演！ 举办日程 2019年10月26日（周六）、10月27日（周日） 各日15:00开场、16:00开演 出演艺人 【Day1】2019年10月26日（周六） 小仓唯、KOTOKO、TRUE、Machico、RAISE A…"
-date: "2019-10-26"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "神户世界纪念厅"
 org: ["other"]
 url: "https://bang-dream.com/events/animax2019/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「ANIMAX MUSIX 2019 KOBE」10月26日【RAISE A SUILEN】、10月27日【Roselia】将出演！

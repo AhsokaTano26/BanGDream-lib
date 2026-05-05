@@ -1,14 +1,13 @@
 ---
+date: ["2025-05-24"]
 title: "ANISAMA WORLD 2025 在桃园"
 description: "RAISE A SUILEN出演"
-date: "2025-05-24"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "桃园会展中心"
 org: ["other"]
 url: "https://bang-dream.com/events/asl-taoyuan2025/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「ANISAMA WORLD 2025 in TAOYUAN」中，来自BanG Dream!的RAISE A SUILEN确定出演！

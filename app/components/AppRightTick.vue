@@ -15,7 +15,7 @@
       <div v-for="post in upcomingPosts" :key="post.path" class="relative group">
         <div class="flex items-baseline gap-2 mb-1">
           <span class="text-[10px] font-mono font-black text-blue-500 bg-blue-50 px-1.5 py-0.5 rounded">
-            {{ post.date.replace(/-/g, '.') }}
+            {{ formatContentDateList(post.date) }}
           </span>
           <span v-if="getDaysReady(post.date) <= 7" class="text-[9px] text-red-400 font-bold uppercase animate-bounce">
             Soon
@@ -65,43 +65,28 @@
  * 3. 动态计算距离天数，若小于等于 7 天则激活 "Soon" 动画标签。
  * * @style
  * - 响应式设计：在 LG 断点以下占据全宽，以上则固定为 72 像素宽度。
- * - 交互反馈：悬停时标题位移并变色，渐变分割线提供节奏感。
- */
+  * - 交互反馈：悬停时标题位移并变色，渐变分割线提供节奏感。
+  */
 
-const today = new Date().toISOString()
+import { formatContentDateList, getPrimaryContentDate } from '~~/utils/content-date'
+
+const today = new Date().toISOString().slice(0, 10)
 
 const { data: upcomingPosts } = await useAsyncData('upcoming-combined', async () => {
   // 1. 并行获取两个集合的数据
   const [blogs, activities] = await Promise.all([
-    queryCollection('blog')
-        .where('date', '>=', today)
-        .order('date', 'ASC')
-        .limit(5) // 先各自限额，减少传输量
-        .all(),
-    queryCollection('media')
-        .where('date', '>=', today)
-        .order('date', 'ASC')
-        .limit(5) // 先各自限额，减少传输量
-        .all(),
-    queryCollection('news')
-        .where('date', '>=', today)
-        .order('date', 'ASC')
-        .limit(5) // 先各自限额，减少传输量
-        .all(),
-    queryCollection('discographies')
-        .where('date', '>=', today)
-        .order('date', 'ASC')
-        .limit(5) // 先各自限额，减少传输量
-        .all(),
+    queryCollection('blog').all(),
+    queryCollection('media').all(),
   ])
 
   // 2. 合并数组
   const combined = [...blogs, ...activities]
+      .filter((post) => getPrimaryContentDate(post.date) >= today)
 
   // 3. 统一排序（升序：离今天最近的排在前面）
   combined.sort((a, b) => {
-    const dateA = new Date(a.date).getTime()
-    const dateB = new Date(b.date).getTime()
+    const dateA = new Date(getPrimaryContentDate(a.date)).getTime()
+    const dateB = new Date(getPrimaryContentDate(b.date)).getTime()
     return dateA - dateB
   })
 
@@ -111,7 +96,9 @@ const { data: upcomingPosts } = await useAsyncData('upcoming-combined', async ()
 
 // 计算距离天数 (用于显示 "Soon" 标签)
 const getDaysReady = (targetDate) => {
-  const diffTime = new Date(targetDate) - new Date(today)
+  const firstDate = getPrimaryContentDate(targetDate)
+  if (!firstDate) return Number.POSITIVE_INFINITY
+  const diffTime = new Date(firstDate) - new Date(today)
   return Math.ceil(diffTime / (1000 * 60 * 60 * 24))
 }
 </script>

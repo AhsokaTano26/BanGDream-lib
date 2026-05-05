@@ -1,14 +1,13 @@
 ---
+date: ["2025-12-07"]
 title: "RAISE A SUILEN×トゲナシトゲアリ「RAISE MY CATHARSIS」"
 description: "公演概要 存档配信 门票 门票转让 周边通贩 会场地图 周边销售 餐饮・赞助区域 CD・Blu-ray销售 注意事项 祝贺花束 咨询 各音乐配信服务中公开预习播放列表！ URL： https://lnk.to/RAISE_MY_CATHARSIS_prewe ※并非演唱会的曲目列表。 公演名 RAI…"
-date: "2025-12-07"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "京王竞技场 TOKYO"
 org: ["RAS"]
 url: "https://bang-dream.com/events/ras-togetoge/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#Performance_overview)

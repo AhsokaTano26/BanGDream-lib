@@ -1,14 +1,13 @@
 ---
+date: ["2022-07-03", "2022-04-29", "2022-05-30", "2022-06-18"]
 title: "MyGO!!!!! 1st LIVE「我们在这里呐喊」"
 description: "MyGO!!!!! 1st LIVE「僕たちはここで叫ぶ」 立希（Dr.）出演キャンセルならびに開場・開演時間変更に関するお知らせ 平素よりMyGO!!!!!を応援していただき、誠にありがとうございます。 MyGO!!!!! 1st LIVE「僕たちはここで叫ぶ」につきまして、諸般の事情により、立希（Dr.）の出演をキャンセルとさせていただきます。 本公演は…"
-date: "2022-07-03"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "涩谷 duo MUSIC EXCHANGE"
 org: ["mygo"]
 url: "https://bang-dream.com/events/mygo_1st/"
 ---
-
 <!-- translated-by: deepseek -->
 
 **MyGO!!!!! 1st LIVE「我们在这里呐喊」**

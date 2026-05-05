@@ -1,14 +1,13 @@
 ---
+date: ["2021-04-20", "2021-05-05", "2021-06-26", "2021-05-22", "2021-05-23", "2021-06-02", "2021-06-03", "2021-06-30", "2021-07-01", "2021-07-06", "2021-07-25", "2021-05-21", "2021-06-06", "2021-03-31", "2021-04-11"]
 title: "RAISE A SUILEN ZEPP TOUR 2021「BE LIGHT」"
 description: "票务 直播 周边销售 注意事项 RAISE A SUILEN首次巡演决定举办！将在东京、名古屋、大阪呈现RAS的舞台。东京公演特别直播已确定！5月22日(星期六)在Zepp Haneda举办的RAISE A SUILEN ZEPP TOUR 2021「BE LIGHT」东京公演即将进行特别直播！…"
-date: "2021-05-22"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Zepp Haneda,Zepp Nagoya,Zepp Namba"
 org: ["RAS"]
 url: "https://bang-dream.com/events/ras-tour2021/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [チケット](#ticket)

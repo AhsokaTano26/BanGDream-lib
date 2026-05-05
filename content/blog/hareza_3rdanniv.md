@@ -1,14 +1,13 @@
 ---
+date: ["2023-08-05"]
 title: "Hareza之日 3rd Anniversary SUMMER FESTIVAL 2023"
 description: "8月5日(周六)的舞台演出！"
-date: "2023-08-05"
 status: "activity"
 author: "BanG Dream! Project"
 location: "中池袋公园"
 org: ["other"]
 url: "https://bang-dream.com/events/hareza_3rdanniv/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「Hareza池袋」周年纪念活动「[Hareza之日 3rd Anniversary SUMMER FESTIVAL 2023](https://hareza-ikebukuro.com/event/#post-1236)」内的舞台上，动画《BanG Dream! It's MyGO!!!!!》的出演声优将进行脱口秀！

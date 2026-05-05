@@ -9,6 +9,7 @@ import random
 import re
 import sys
 import time
+from datetime import datetime, timedelta
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
@@ -80,6 +81,14 @@ EVENT_STATUS_MAP = {
     "event": "activity",
     "other": "other",
 }
+
+EVENT_DATE_RANGE_RE = re.compile(
+    r"(?P<year>\d{4})年(?P<month>\d{1,2})月(?P<start_day>\d{1,2})日(?:\([^)]+\))?"
+    r"(?:\s*(?:[・、/]|(?:～|〜|~|－|—|-))\s*"
+    r"(?:(?P<end_year>\d{4})年)?(?:(?P<end_month>\d{1,2})月)?(?P<end_day>\d{1,2})日(?:\([^)]+\))?)?"
+)
+EVENT_DATE_TOKEN_RE = re.compile(r"(?:(?P<year>\d{4})年)?(?P<month>\d{1,2})月(?P<day>\d{1,2})日")
+EVENT_SLUG_DAY_RE = re.compile(r"(?:^|[-_])day(?P<index>\d+)(?:$|[-_])", re.I)
 
 DISCO_STATUS_MAP = {
     "cd": "cd",
@@ -160,8 +169,13 @@ class Crawler:
             }
         )
 
+    def fetch_page(self, url: str) -> tuple[BeautifulSoup, str]:
+        response = self.fetch("GET", url)
+        return BeautifulSoup(response.text, "html.parser"), response.url
+
     def fetch_html(self, url: str) -> BeautifulSoup:
-        return BeautifulSoup(self.fetch("GET", url).text, "html.parser")
+        soup, _ = self.fetch_page(url)
+        return soup
 
     def sleep(self) -> None:
         if self.delay > 0:
@@ -230,6 +244,8 @@ class Crawler:
         total_pages: int | None = None
         total_items: int | None = None
         while True:
+            if total_pages is not None and page > total_pages:
+                break
             params["page"] = str(page)
             query = "&".join(f"{key}={requests.utils.quote(value)}" for key, value in params.items())
             url = f"{API_BASE}/{endpoint}?{query}"
@@ -700,23 +716,49 @@ class Crawler:
                 .get("cf_events_dates_start")
                 or item["date"]
             )
+            date_text = " ".join(
+                part
+                for part in [
+                    title,
+                    description,
+                    self.text_from_html(item.get("content", {}).get("rendered", "")),
+                    item.get("acf", {})
+                    .get("cf_events_dates", {})
+                    .get("cf_events_dates_schedule_text")
+                    or "",
+                ]
+                if part
+            )
+            date_list = self.collect_event_date_list(
+                candidates=[
+                    title,
+                    description,
+                    self.text_from_html(item.get("content", {}).get("rendered", "")),
+                    item.get("acf", {}).get("cf_events_dates", {}).get("cf_events_dates_schedule_text") or "",
+                    json.dumps(item.get("acf", {}).get("cf_events_dates", {}), ensure_ascii=False),
+                ],
+                fallback=[date_value[:10]] if date_value else [],
+            )
+            if not date_list and date_text:
+                date_list = self.parse_event_date_list(date_text)
             location = item.get("acf", {}).get("cf_events_place") or ""
+            frontmatter = {
+                "title": title,
+                "description": description,
+                "date": date_list or [date_value[:10]],
+                "status": status,
+                "author": self.extract_author(item),
+                "location": location,
+                "org": unique_keep_order(orgs) or ["other"],
+                "url": item["link"],
+            }
             result.append(
                 CrawlerItem(
                     title=title,
                     slug=slug,
                     url=item["link"],
                     signature=signature,
-                    frontmatter={
-                        "title": title,
-                        "description": description,
-                        "date": date_value[:10],
-                        "status": status,
-                        "author": self.extract_author(item),
-                        "location": location,
-                        "org": unique_keep_order(orgs) or ["other"],
-                        "url": item["link"],
-                    },
+                    frontmatter=frontmatter,
                     body_html=self.rewrite_images(
                         item.get("content", {}).get("rendered", ""),
                         subdir=f"blog/{slug}",
@@ -857,10 +899,10 @@ class Crawler:
                 title = self.infer_title_from_link(detail_url)
             slug = Path(urlparse(detail_url).path.rstrip("/")).name
             self.progress(f"[{collection}] {current_index}/{total} {slug} fetching")
-            detail = self.fetch_html(detail_url)
+            detail, canonical_url = self.fetch_page(detail_url)
             page_title = self.extract_page_title(detail) or title
             body = self.extract_main_html(detail)
-            source_slug = slug
+            source_slug = Path(urlparse(canonical_url).path.rstrip("/")).name or slug
             signature = self.item_signature_from_text(
                 page_title,
                 self.extract_description(detail),
@@ -878,11 +920,11 @@ class Crawler:
                 subdir=f"{collection}/{source_slug}",
                 collection=collection,
                 page_slug=source_slug,
-                page_url=detail_url,
+                page_url=canonical_url,
             )
             frontmatter = self.extract_archive_frontmatter(
                 detail,
-                detail_url=detail_url,
+                detail_url=canonical_url,
                 title=page_title,
                 current_group=current_group,
                 type_mapping=type_mapping,
@@ -893,7 +935,7 @@ class Crawler:
                 CrawlerItem(
                     title=page_title,
                     slug=source_slug,
-                    url=detail_url,
+                    url=canonical_url,
                     signature=signature,
                     frontmatter=frontmatter,
                     body_html=body,
@@ -918,12 +960,13 @@ class Crawler:
 
     def build_single_page(self, page_url: str, collection: str | None = None) -> CrawlerItem:
         target_collection = collection or self.infer_collection_from_url(page_url)
-        soup = self.fetch_html(page_url)
-        slug = Path(urlparse(page_url).path.rstrip("/")).name or "item"
+        soup, canonical_url = self.fetch_page(page_url)
+        slug = Path(urlparse(page_url).path.rstrip("/")).name or Path(urlparse(canonical_url).path.rstrip("/")).name or "item"
         title = self.extract_page_title(soup) or self.infer_title_from_link(page_url)
         description = self.extract_description(soup)
         published = self.extract_meta(soup, "article:published_time") or self.extract_meta(soup, "og:updated_time") or ""
         author = self.extract_meta(soup, "author") or self.extract_meta(soup, "article:author") or "BanG Dream! Project"
+        body_text = self.extract_text(soup)
         body = self.extract_main_html(soup)
         signature = self.item_signature_from_text(title, description, self.extract_text(soup), body)
         body = self.rewrite_images(
@@ -931,7 +974,7 @@ class Crawler:
             subdir=f"{target_collection}/{slug}",
             collection=target_collection,
             page_slug=slug,
-            page_url=page_url,
+            page_url=canonical_url,
         )
 
         frontmatter: dict[str, Any] = {
@@ -943,6 +986,12 @@ class Crawler:
         }
         orgs = self.extract_orgs_from_text(title + " " + description + " " + self.extract_text(soup))
         if target_collection == "blog":
+            date_list = self.collect_event_date_list(
+                candidates=[title, description, body_text],
+                fallback=[(published or "")[:10]] if (published or "")[:10] else [],
+                page_slug=slug,
+            )
+            frontmatter["date"] = date_list or ([(published or "")[:10]] if (published or "")[:10] else [])
             frontmatter["status"] = "activity"
             frontmatter["location"] = ""
             frontmatter["org"] = orgs or ["other"]
@@ -1057,6 +1106,95 @@ class Crawler:
             return normalize_spaces(html.unescape(node["content"]))
         content = self.extract_text(soup)
         return truncate_text(content)
+
+    def collect_event_date_list(
+        self,
+        candidates: list[str],
+        fallback: list[str] | None = None,
+        page_slug: str = "",
+    ) -> list[str]:
+        text = " ".join(part for part in candidates if part)
+        dates = self.parse_event_date_list(text)
+        if not dates and fallback:
+            dates = [self.normalize_date_text(value) for value in fallback if self.normalize_date_text(value)]
+        if not dates:
+            return []
+        day_index = self.extract_day_index(page_slug)
+        if day_index is not None and 1 <= day_index <= len(dates):
+            return [dates[day_index - 1]]
+        return dates
+
+    def extract_day_index(self, page_slug: str) -> int | None:
+        match = EVENT_SLUG_DAY_RE.search(page_slug or "")
+        if not match:
+            return None
+        return int(match.group("index"))
+
+    def parse_event_date_list(self, text: str) -> list[str]:
+        normalized = normalize_spaces(text)
+        if not normalized:
+            return []
+        result: list[str] = []
+        current_year: int | None = None
+        current_month: int | None = None
+        for match in EVENT_DATE_TOKEN_RE.finditer(normalized):
+            year_text = match.group("year")
+            if year_text:
+                current_year = int(year_text)
+            month_text = match.group("month")
+            if month_text:
+                current_month = int(month_text)
+            if current_year is None or current_month is None:
+                continue
+            value = f"{current_year:04d}-{current_month:02d}-{int(match.group('day')):02d}"
+            if value not in result:
+                result.append(value)
+        return result
+
+    def normalize_date_text(self, value: str) -> str:
+        match = re.match(r"^\d{4}-\d{2}-\d{2}", value.strip())
+        return match.group(0) if match else value.strip()
+
+    def expand_date_range(self, start: str, end: str) -> list[str]:
+        try:
+            start_dt = datetime.strptime(start[:10], "%Y-%m-%d").date()
+            end_dt = datetime.strptime(end[:10], "%Y-%m-%d").date()
+        except ValueError:
+            return [start[:10]]
+        if end_dt < start_dt:
+            return [start_dt.isoformat()]
+        total_days = (end_dt - start_dt).days
+        return [(start_dt + timedelta(days=offset)).isoformat() for offset in range(total_days + 1)]
+
+    def extract_event_dates(
+        self,
+        title: str,
+        description: str,
+        text: str,
+        fallback: str = "",
+    ) -> tuple[str, str | None]:
+        candidates = [title, description, text]
+        for candidate in candidates:
+            date_value, end_date_value = self.parse_event_date_range(candidate)
+            if date_value:
+                return date_value, end_date_value
+        return fallback, None
+
+    def parse_event_date_range(self, text: str) -> tuple[str, str | None]:
+        match = EVENT_DATE_RANGE_RE.search(normalize_spaces(text))
+        if not match:
+            return "", None
+        year = match.group("year")
+        month = int(match.group("month"))
+        start_day = int(match.group("start_day"))
+        start_date = f"{year}-{month:02d}-{start_day:02d}"
+        end_day = match.group("end_day")
+        if not end_day:
+            return start_date, None
+        end_year = match.group("end_year") or year
+        end_month = int(match.group("end_month") or month)
+        end_date = f"{end_year}-{end_month:02d}-{int(end_day):02d}"
+        return start_date, end_date
 
     def extract_text(self, soup: BeautifulSoup) -> str:
         text = soup.get_text(" ", strip=True)

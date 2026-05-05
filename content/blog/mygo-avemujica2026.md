@@ -1,14 +1,13 @@
 ---
+date: ["2026-03-01", "2026-01-31", "2026-12-18", "2026-01-15", "2026-11-12", "2026-12-08", "2025-11-18", "2025-11-24", "2025-12-08", "2026-02-14", "2026-03-08", "2026-02-19", "2026-02-25", "2026-02-28", "2026-02-27"]
 title: "MyGO!!!!!×Ave Mujica 双人联合演出「“moment / memory”」"
 description: "公演概要 会场门票 配信门票 门票交易 会场地图 邦多利！10周年特别区域 参展信息 周边通贩 周边销售 注意事项 祝贺花篮 咨询 公演名称 MyGO!!!!!×Ave Mujica 双人演唱会「“moment / memory”」 日期 2026年3月1日(周日) 开场15:30／开演17:00（预定） 会场 K Arena 横滨…"
-date: "2026-03-01"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Kアリーナ横滨"
 org: ["mygo", "Ave", "millsage", "dumb"]
 url: "https://bang-dream.com/events/mygo-avemujica2026/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#Performance_overview)

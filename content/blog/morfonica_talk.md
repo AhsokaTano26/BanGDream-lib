@@ -1,14 +1,13 @@
 ---
+date: ["2021-12-05"]
 title: "Morfonica 谈话活动「欢迎来到莫妮会♪」"
 description: "Morfonica的谈话活动确定举办！包括Morfonica成员设计的环节等，丰富多彩的有趣策划♪ 此外，在YouTube的“BanG Dream!频道☆”上将公开活动举办前Morfonica成员的情况！而且，“欢迎来到Monikai♪”的开头部分将免费发布！正在犹豫是否购买直播票的朋友请务必观看♪ 第1部： h…"
-date: "2021-12-05"
 status: "activity"
 author: "BanG Dream! Project"
 location: "日经大厅"
 org: ["M"]
 url: "https://bang-dream.com/events/morfonica_talk/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Morfonica的谈话活动决定举办！

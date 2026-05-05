@@ -1,14 +1,13 @@
 ---
+date: ["2024-12-14"]
 title: "Roselia「寂静之夜，玫瑰之夜」"
 description: "公演概要 会場チケット 配信チケット 会場MAP グッズ販売 グッズ通販 飲食・協賛エリア CD販売 注意事項 お問合せ 公演名 Roselia「Stille Nacht, Rosen Nacht」 日程 2024年12月14日(土) 開場15:30／開演17:00（予定） 会場 武蔵野の森総合スポーツプラザ 出演 Roselia ゲストアクト：Ave Mu…"
-date: "2024-12-14"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "武藏野之森综合体育广场"
 org: ["R"]
 url: "https://bang-dream.com/events/roselia2024winter/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#h2slv9b5o8w1bk1rm59g0sk91wppb0d)

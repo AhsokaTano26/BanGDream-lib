@@ -1,14 +1,13 @@
 ---
+date: ["2025-05-03", "2025-05-04", "2025-05-07"]
 title: "梦限大缪型 3rd LIVE「自由瞬间」"
 description: "公演概要 会场门票 周边销售 周边通贩 CD销售 注意事项 祝贺花 咨询 演出名称 梦限大缪类型 3rd LIVE「自由时刻」 日程 大阪公演 日程：2025年5月3日(周六) 开场17:00／开演18:00（预定） 会场：UMEDA CLUB QUATTRO 爱知公演 日程：2025年5月4日(周日) 开场16:30／开演…"
-date: "2025-05-03"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "UMEDA CLUB QUATTRO、NAGOYA CLUB QUATTRO、Spotify O-EAST"
 org: ["mxd"]
 url: "https://bang-dream.com/events/yumemita_3rd/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [公演概要](#kouen)

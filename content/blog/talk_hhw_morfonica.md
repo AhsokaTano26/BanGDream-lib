@@ -1,14 +1,13 @@
 ---
+date: ["2022-10-29", "2022-09-19", "2022-09-26", "2022-09-28", "2022-10-10"]
 title: "BanG Dream! RADIO TALK FES vol.2 ～你好、快乐世界！×Morfonica～"
 description: "Bandori！谈话活动第二弹！「Hello, Happy World！的RADIO微笑！」「Moni卡拉电台」环节也将复活！和会场的大家一起嗨起来吧♪ 举办日期 2022年10月29日(周六) 两场公演 第1场：开场13:00／开演13:30 第2场：开场17:00／开演17:30 会场 飞行船剧场 出演声优 Hello, Happy World! 伊藤…"
-date: "2022-10-29"
 status: "activity"
 author: "BanG Dream! Project"
 location: "飞艇剧院"
 org: ["HHP", "M"]
 url: "https://bang-dream.com/events/talk_hhw_morfonica/"
 ---
-
 <!-- translated-by: deepseek -->
 
 BanG Dream! 的脱口秀活动第二弹！

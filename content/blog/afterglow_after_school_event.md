@@ -1,14 +1,13 @@
 ---
+date: ["2024-04-06"]
 title: "Afterglow「After School Event 夕景の一頁」"
 description: "Afterglow的脱口秀活动确定举办！ 公演名称 Afterglow「After School Event 夕景的一页」 日期 2024年4月6日(周六) 第1场 开场 13:30 / 开演 14:30（预定） 第2场 开场 17:30 / 开演 18:30（预定） 场地 Zepp Haneda (TOKYO) 出演 Afterglow 门票 费用…"
-date: "2024-04-06"
 status: "activity"
 author: "BanG Dream! Project"
 location: "Zepp Haneda（东京）"
 org: ["a"]
 url: "https://bang-dream.com/events/afterglow_after_school_event/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Afterglowによるトークイベントが開催決定！

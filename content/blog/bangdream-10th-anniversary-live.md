@@ -1,14 +1,13 @@
 ---
+date: ["2026-02-28", "2026-01-09"]
 title: "BanG Dream! 10周年纪念LIVE「In the name of BanG Dream!」"
 description: "公演概要 门票 配信门票 海外直播观影 门票交易 会场地图 BanG Dream! 10周年特别区域 出展信息 周边通贩 周边销售 注意事项 祝贺花篮 咨询 公演名 BanG Dream! 10周年纪念演唱会「In the name of BanG Dream!」 日期 2026年2月28日(周六) 开场 13…"
-date: "2026-02-28"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Kアリーナ横滨"
 org: ["ppp", "a", "pp", "R", "HHP", "M", "RAS", "mygo", "Ave", "mxd"]
 url: "https://bang-dream.com/events/bangdream-10th-anniversary-live/"
 ---
-
 <!-- translated-by: deepseek -->
 
 - [演出概要](#Performance_overview)

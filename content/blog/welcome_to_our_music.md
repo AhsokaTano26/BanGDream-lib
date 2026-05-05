@@ -1,14 +1,13 @@
 ---
+date: ["2021-05-15", "2021-06-06"]
 title: "frontmatter:title\n\n你好，快乐世界！ Sound Only Live「欢迎 to OUR MUSIC♪」"
 description: "Sound Only Live第3弹是Hello, Happy World！使用全新绘制的插图，以带影像的形式呈现！将在YouTube「BanG Dream!频道☆」免费播出。此外，还决定销售现场周边！敬请期待HHW的单独演唱会♪ 什么是Sound Only Live Sound Only Live，是成员们交织出的「音之…"
-date: "2021-05-15"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "YouTube「Bandori频道☆」"
 org: ["HHP"]
 url: "https://bang-dream.com/events/welcome_to_our_music/"
 ---
-
 <!-- translated-by: deepseek -->
 
 Sound Only Live第3弹是Hello, Happy World!

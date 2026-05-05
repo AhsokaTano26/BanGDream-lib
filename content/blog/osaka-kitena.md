@@ -1,14 +1,13 @@
 ---
+date: ["2023-11-26"]
 title: "中之島アニメBOX「BanG Dream! It's MyGO!!!!!特别脱口秀」"
 description: "MyGO!!!!!出演"
-date: "2023-11-26"
 status: "activity"
 author: "BanG Dream! Project"
 location: "大阪市中央公会堂「大集会室」"
 org: ["mygo"]
 url: "https://bang-dream.com/events/osaka-kitena/"
 ---
-
 <!-- translated-by: deepseek -->
 
 在汇集了动画、cosplay等流行文化的活动"中之岛动画BOX"中，

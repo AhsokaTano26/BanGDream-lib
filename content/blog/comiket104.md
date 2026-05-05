@@ -1,14 +1,13 @@
 ---
+date: ["2024-08-11"]
 title: "Comic Market 104"
 description: "BanG Dream!（バンドリ！）决定参展Comic Market 104！在BanG Dream!（バンドリ！）展位，将使用MyGO!!!!!新绘制插图进行展示！另外，还有使用剧场版《BanG Dream! It's MyGO!!!!! 前篇：春日的暖阳、迷途猫》主视觉图的拍照点♪…"
-date: "2024-08-11"
 status: "activity"
 author: "BanG Dream! Project"
 location: "有明・東京国際展示場 (東京ビッグサイト)"
 org: ["other"]
 url: "https://bang-dream.com/events/comiket104/"
 ---
-
 <!-- translated-by: deepseek -->
 
 BanG Dream!（バンドリ！）决定参展Comic Market 104！

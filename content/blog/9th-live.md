@@ -1,19 +1,18 @@
 ---
+date: ["2021-08-21", "2021-08-22", "2021-09-04", "2021-09-05"]
 title: "BanG Dream! 9th☆LIVE「Mythology」 | BanG Dream!（バンドリ！）官方网站"
 description: "动画、游戏、漫画、声优现场演出等多种媒体混合展开的次世代少女乐队项目BanG Dream!（バンドリ！）官方网站"
-date: ""
 author: "BanG Dream! Project"
 url: "https://bang-dream.com/events/9th-live/"
 status: "activity"
 location: ""
 org: ["R", "M"]
 ---
-
 <!-- translated-by: deepseek -->
 
 # BanG Dream! 9th☆LIVE「Mythology」
 
-![](/assets/bang-dream/blog/9th-live/8e29adf65577369f.jpg)
+![](https://img.tano.asia/i/5ac7d36a-754a-4646-8e97-58b0c5c5a49b.webp)
 - [8.21-22 开始]https://bang-dream.com/9th-live-thebeginning)
 - [9.4-5 神话](https://bang-dream.com/9th-live-mythology)
 
@@ -68,7 +67,7 @@ org: ["R", "M"]
 
 BanG Dream! 9th☆LIVE「Mythology」
 
-![](/assets/bang-dream/blog/9th-live/ef3c91e01d0905e8.png)
+![](https://img.tano.asia/i/732f5bf0-cfc8-4408-b4fb-d33557e29a0c.webp)
 
 ## 会场
 
@@ -100,10 +99,10 @@ RAISE A SUILEN×Morfonica
 ・高级座位（附特制周边） 18,000日元+税
 ・普通指定席 9,000日元+税
 
-- ![](/assets/bang-dream/blog/9th-live/2019c26a3f71203d.jpg)
+- ![](https://img.tano.asia/i/8594c5fa-6f35-4b79-a265-1607bbfc5e3d.webp)
   
   9月4日(周六) 特制周边
-- ![](/assets/bang-dream/blog/9th-live/34d18aaf2d021b10.jpg)
+- ![](https://img.tano.asia/i/a34ce1ca-a1c4-4f1b-86d9-f80af7b71de1.webp)
   
 9月5日（周日）特制周边
 
@@ -193,7 +192,7 @@ RAISE A SUILEN×Morfonica
 从主要城市轻松到达会场！还有与酒店打包的方案♪
 还附赠旅游参加者限定周边！请务必选择能让您尽情享受演出的方案。
 
-![](/assets/bang-dream/blog/9th-live/fa90df59c07d27cc.png)
+![](https://img.tano.asia/i/e413fcbd-c499-4988-9d2e-890d4627ef42.webp)
 
 ###### 申请受理期间
 
@@ -202,7 +201,7 @@ RAISE A SUILEN×Morfonica
 
 ## 通贩信息
 
-[![](/assets/bang-dream/blog/9th-live/bab22fa4f9067f22.jpg)](https://bushiroad-store.com/pages/bd9th)
+[![](https://img.tano.asia/i/de6cd139-bd22-490c-a0d8-48c02f338b31.webp)](https://bushiroad-store.com/pages/bd9th)
 
 BanG Dream! 9th☆LIVE「Mythology」的商品将进行通贩！
 
@@ -210,8 +209,8 @@ BanG Dream! 9th☆LIVE「Mythology」的商品将进行通贩！
 详情请点击⇒[https://bushiroad-store.com/pages/bd9th]https://bushiroad-store.com/pages/bd9th)
 ## 周边信息
 ### 周边列表
-- [![](/assets/bang-dream/blog/9th-live/60747d098e0c5a1f.jpg)](https://bang-dream.com/2025/renew/f2a481d8-a45d-4fe0-934b-84e9686b2b42.jpg)
-- [![](/assets/bang-dream/blog/9th-live/051ee78f4c61b81e.jpg)](https://bang-dream.com/2025/renew/2cbd6214-3231-4e25-9850-db858383490d.jpg)
+- [![](https://img.tano.asia/i/f26978e0-185e-4564-8ce7-caacf28b7f54.webp)](https://bang-dream.com/2025/renew/f2a481d8-a45d-4fe0-934b-84e9686b2b42.jpg)
+- [![](https://img.tano.asia/i/c977e583-937a-4ba2-8a1e-bf7428dff9c4.webp)](https://bang-dream.com/2025/renew/2cbd6214-3231-4e25-9850-db858383490d.jpg)
 
 ## 当日商品销售信息
 
@@ -339,7 +338,7 @@ BanG Dream! 9th☆LIVE「Mythology」的商品将进行通贩！
 前来时请务必携带印有QR码的纸质整理券，不要丢失。
 确认整理券后，即可进入物贩会场。
 
-※整理券将被回收。请注意不要丢失。/assets/bang-dream/blog/9th-live/92a6d86c9f7c2132.jpg)
+※整理券将被回收。请注意不要丢失。https://img.tano.asia/i/e96d8d82-ad41-4c62-aac2-35dff02b75ac.webp)
 
 ・关于数字整理券的注意事项
 ※整理券由工作人员发放。

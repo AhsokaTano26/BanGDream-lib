@@ -1,14 +1,13 @@
 ---
+date: ["2022-11-26"]
 title: "MyGO!!!!! 3rd LIVE「怀抱声音而活」"
 description: "从BanG Dream!诞生的“现实”与“虚拟（角色）”同步的乐队「MyGO!!!!!」。首次在大阪公演的3rd LIVE决定举办。  \n公演名称 MyGO!!!!! 3rd LIVE「怀抱声音而活」  \n日期 2022年11月26日(周六) 开场17:00／开演18:00（预定）  \n场地 COOL JAPAN PARK OSAKA WW厅…"
-date: "2022-11-26"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "COOL JAPAN PARK OSAKA WW厅"
 org: ["mygo"]
 url: "https://bang-dream.com/events/mygo_3rd/"
 ---
-
 <!-- translated-by: deepseek -->
 
 从Bang Dream!诞生的“现实”与“虚拟（角色）”同步的乐队「MyGO!!!!!」。

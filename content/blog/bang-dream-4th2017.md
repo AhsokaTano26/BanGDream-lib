@@ -1,14 +1,13 @@
 ---
+date: ["2017-08-21", "2017-08-18", "2017-09-01"]
 title: "BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道館"
 description: "「BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道馆」2017.8.21举办决定！ ＋＋＋＋＋＋＋＋＋ 「BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道馆」 ■出演：Poppin'Party 成员 ◇户山香澄：爱美 / ◇花园多惠：大冢纱英 / ◇牛込里美：西本…"
-date: "2017-08-21"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "日本武道馆"
 org: ["other"]
 url: "https://bang-dream.com/events/bang-dream-4th2017/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「BanG Dream! 4th☆LIVE Miracle PARTY 2017! at 日本武道馆」2017.8.21 举办决定！

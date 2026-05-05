@@ -1,14 +1,13 @@
 ---
+date: ["2024-12-01", "2024-12-07", "2024-12-21"]
 title: "电视动画「BanG Dream! Ave Mujica」全球先行上映会"
 description: "公演名 TVアニメ「BanG Dream! Ave Mujica」#1 先行上映会 日程 （現地時間） 東京 2024年12月1日（日） 13:30～ 109シネマズプレミアム新宿 シアター3 詳細： https://bang-dream.com/events/avemujica_20241201 シンガポール（AFA 2024） 2024年12月1日（日）…"
-date: "2024-12-01"
 status: "activity"
 author: "BanG Dream! Project"
 location: ""
 org: ["Ave"]
 url: "https://bang-dream.com/events/avemujica_global/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ## 演出名称

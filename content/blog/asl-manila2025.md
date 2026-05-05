@@ -1,14 +1,13 @@
 ---
+date: ["2025-06-07"]
 title: "ANISAMA WORLD 2025 in 马尼拉"
 description: "Ave Mujica出演"
-date: "2025-06-07"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "Smart阿拉内塔体育馆"
 org: ["other"]
 url: "https://bang-dream.com/events/asl-manila2025/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「ANISAMA WORLD 2025 in MANILA」中，来自BanG Dream!的Ave Mujica确定出演！

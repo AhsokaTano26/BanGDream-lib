@@ -1,14 +1,13 @@
 ---
+date: ["2023-04-30", "2023-05-03", "2023-05-04"]
 title: "JAPAN JAM 2023"
 description: "5月4日(周四･节假日) Roselia出演"
-date: "2023-05-04"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "千叶市苏我体育公园"
 org: ["other"]
 url: "https://bang-dream.com/events/japanjam2023/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「JAPAN JAM 2023」中，来自BanG Dream!的Roselia确定出演！

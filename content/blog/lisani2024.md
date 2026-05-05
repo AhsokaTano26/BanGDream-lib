@@ -1,14 +1,13 @@
 ---
+date: ["2024-01-27", "2024-01-28"]
 title: "LisAni！LIVE 2024"
 description: "28日(周日) MyGO!!!!!出演"
-date: "2024-01-28"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "日本武道馆"
 org: ["other"]
 url: "https://bang-dream.com/events/lisani2024/"
 ---
-
 <!-- translated-by: deepseek -->
 
 「LisAni！LIVE 2024」中，来自BanG Dream！企划的MyGO!!!!!确定出演！

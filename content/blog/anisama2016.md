@@ -1,14 +1,13 @@
 ---
+date: ["2016-08-26", "2016-08-27", "2016-08-28", "2016-08-25", "2016-09-05", "2016-08-22"]
 title: "Animelo Summer Live 2016 刻-TOKI-"
 description: "世界最大的动漫歌曲现场活动「Animelo Summer Live」中，Poppin'Party的出演已经确定！Poppin'Party将于第二天8月27日（周六）出演。请大家期待每年惯例的大型音乐节上登场的Poppin'Party的五位成员！\n＊＊＊＊＊＊＊\n活动名称：Animelo Summer Live 2016 刻-TOKI-\n日期…"
-date: "2016-08-17"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "埼玉超级竞技场"
 org: ["other"]
 url: "https://bang-dream.com/events/anisama2016/"
 ---
-
 <!-- translated-by: deepseek -->
 
 世界最大规模的动漫歌曲演唱会活动“Animelo Summer Live”中，Poppin'Party的出演已经确定！

@@ -1,14 +1,13 @@
 ---
+date: ["2020-12-19", "2020-12-31"]
 title: "Afterglow Sound Only Live「As ever」"
 description: "バンドリ！初のSound Only Liveが開催決定！第1弾はAfterglow！ 新規描き下ろしイラストを使用した映像付きでお届けいたします！ YouTube「バンドリちゃんねる☆」にて無料配信します。 また、ライブグッズの販売も決定！ Afterglowの単独ライブをぜひお楽しみに♪ Sound Only Liveとは Sound Only Liveと…"
-date: "2020-12-19"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "YouTube「BanG Dream！频道☆」免费直播"
 org: ["a"]
 url: "https://bang-dream.com/events/sol_asever/"
 ---
-
 <!-- translated-by: deepseek -->
 
 バンドリ！首次Sound Only Live举办决定！第1弹是Afterglow！

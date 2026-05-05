@@ -1,14 +1,13 @@
 ---
+date: ["2020-10-18", "2020-10-01"]
 title: "第8届动漫玉祭 TBS广播 presents Roselia脱口秀 from BanG Dream!"
 description: "以“动画与旅游”为主题的“Ani玉祭”活动中，由TBS电台举办的“Ani玉祭特别活动”将邀请Roselia成员出演！除了放映成员们精选的附带评论的演唱会影像外，还将现场配音智能手机游戏《BanG Dream! 少女乐团派对！》中的剧情。此外，于8月举办的“BanG Dream! 8th☆LIVE”夏季…"
-date: "2020-10-18"
 status: "activity"
 author: "BanG Dream! Project"
 location: "配信イベント"
 org: ["R"]
 url: "https://bang-dream.com/events/anitama-tbs-roselia/"
 ---
-
 <!-- translated-by: deepseek -->
 
 以“动画与观光”为主题的「Ani玉祭」活动中，由TBS广播举办的「Ani玉祭特别活动」中，Roselia成员将出演！

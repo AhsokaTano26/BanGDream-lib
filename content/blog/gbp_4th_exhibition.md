@@ -1,14 +1,13 @@
 ---
+date: ["2021-03-14", "2021-03-31", "2021-03-26", "2021-02-22"]
 title: "Garupa 4周年纪念展 in Gallery AaMo"
 description: "为纪念Garupa 4周年，举办大型展示活动！用户记者招募决定！「Garupa 4周年纪念展」的用户记者招募已决定！日程为3月13日（周六）和14日（周日）！通过抽选，每天邀请10名用户参加Garupa展。关于招募的详细信息请从这里确认！URL： https://bang-dream.com/news/…"
-date: "2021-03-14"
 status: "activity"
 author: "BanG Dream! Project"
 location: "Gallery AaMo"
 org: ["other"]
 url: "https://bang-dream.com/events/gbp_4th_exhibition/"
 ---
-
 <!-- translated-by: deepseek -->
 
 为了纪念Garupa 4周年，举办大型展示活动！

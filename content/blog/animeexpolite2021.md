@@ -1,14 +1,13 @@
 ---
+date: ["2021-07-04", "2021-07-03", "2021-07-06", "2021-07-17", "2021-07-16"]
 title: "ANIME EXPO LITE 2021 × LisAni！LIVE L.A."
 description: "Morfonica出演"
-date: "2021-07-04"
 status: "on_site"
 author: "BanG Dream! Project"
 location: "付费在线直播"
 org: ["other"]
 url: "https://bang-dream.com/events/animeexpolite2021/"
 ---
-
 <!-- translated-by: deepseek -->
 
 ![](https://img.tano.asia/i/5c51cf89-f2fb-4cbb-8f25-264f1f6eaa06.webp)
