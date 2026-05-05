@@ -1,37 +1,39 @@
 ---
 title: "JAPAN JAM 2022"
-description: "5/3(火･祝) RAISE A SUILEN出演"
+description: "5月3日(周二･节假日) RAISE A SUILEN出演"
 date: "2022-05-03"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "千葉市蘇我スポーツ公園"
+location: "千叶市苏我体育公园"
 org: ["other"]
 url: "https://bang-dream.com/events/japanjam2022/"
 ---
 
-「JAPAN JAM 2022」に、バンドリ！からRAISE A SUILENの出演が決定！
+<!-- translated-by: deepseek -->
 
-## 公演名
+「JAPAN JAM 2022」中，来自Bang Dream!的RAISE A SUILEN已确定出演！
+
+## 演出名称
 
 rockin'on presents JAPAN JAM 2022
 
 ## 日程
 
-2022年5月1日(日)・3日(火・祝)・4日(水・祝)・5日(木・祝)・7日(土)
+2022年5月1日(周日)・3日(周二・节假日)・4日(周三・节假日)・5日(周四・节假日)・7日(周六)
 
-###### 5月3日(火・祝) 10:30～ SUNSET STAGEにてRAISE A SUILENが出演！
+###### 5月3日(周二・节假日) 10:30～ 在SUNSET STAGE RAISE A SUILEN将出演！
 
 ![](https://img.tano.asia/i/66d2767b-0881-4012-9e76-261df0878a53.webp)
 
-###### タイムテーブル
+###### 时间表
 
 ![](https://img.tano.asia/i/a6fe6f25-a4cb-409f-9a6e-403755dadce7.webp)
 
-## 会場
+## 会场
 
-千葉市蘇我スポーツ公園（千葉市中央区）
+千叶市苏我体育公园（千叶市中央区）
 
-#### JAPAN JAM 2022 公式サイト
+#### JAPAN JAM 2022 官方网站
 
 [http://japanjam.jp/](http://japanjam.jp/)
 

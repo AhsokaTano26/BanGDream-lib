@@ -1,49 +1,51 @@
 ---
-title: "ヴァイスシュヴァルツ15周年記念ライブ"
+title: "Weiß Schwarz 15周年纪念演唱会"
 description: "Morfonica出演"
 date: "2023-11-02"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "東京ガーデンシアター"
+location: "东京花园剧场"
 org: ["other"]
 url: "https://bang-dream.com/events/ws15th-live/"
 ---
 
-ヴァイスシュヴァルツ15周年記念ライブの開催が決定！
+<!-- translated-by: deepseek -->
 
-## 公演名
+Weiß Schwarz 15周年纪念演唱会决定举办！
 
-ヴァイスシュヴァルツ15周年記念ライブ
+## 演唱会名称
 
-## 日程
+Weiß Schwarz 15周年纪念演唱会
 
-2023年11月2日(木)
+## 日期
 
-## 会場
+2023年11月2日（周四）
 
-東京ガーデンシアター
+## 会场
+
+东京花园剧场
 
 ## 出演
 
-バンドリ！よりMorfonicaの出演が決定！
+来自BanG Dream!的Morfonica确定出演！
 
 ![](https://img.tano.asia/i/9c54a8f8-5ed6-4817-b1c4-6c56945c4bec.webp)
 
-## チケット
+## 门票
 
-### 料金
+### 费用
 
-**特典付きアリーナ席チケット 16,500円（税込）**
-【特典】ヴァイスシュヴァルツPRカード１枚（箔押し加工Ver.）
-ヴァイスシュヴァルツ15周年記念ライブ 記念ロングTシャツ
+**附带特典的arena座位门票 16,500日元（含税）**
+【特典】Weiß Schwarz PR卡1张（烫金加工Ver.）
+Weiß Schwarz 15周年纪念演唱会 纪念长款T恤
 
-**一般チケット 8,800円（税込）**
-【特典】ヴァイスシュヴァルツPRカード１枚
+**普通门票 8,800日元（含税）**
+【特典】Weiß Schwarz PR卡1张
 
-### 販売情報
+### 销售信息
 
-[ライブ公式ページ](https://bushiroad-music.com/1226)をご確認ください。
+请确认[演唱会官方页面](https://bushiroad-music.com/1226)。
 
-#### ヴァイスシュヴァルツ15周年記念ライブ ライブページ
+#### Weiß Schwarz 15周年纪念演唱会 演唱会页面
 
 [https://bushiroad-music.com/1226](https://bushiroad-music.com/1226)

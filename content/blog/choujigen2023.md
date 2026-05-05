@@ -1,13 +1,15 @@
 ---
-title: "オダイバ‼︎超次元音楽祭  ヨコハマからハッピーバレンタインフェス2023"
-description: "2月12日(日) Morfonica出演"
+title: "台场‼︎超次元音乐祭  从横滨开始的快乐情人节嘉年华2023"
+description: "2月12日(周日) Morfonica出演"
 date: "2023-02-12"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "ぴあアリーナMM"
+location: "PIA ARENA MM"
 org: ["other"]
 url: "https://bang-dream.com/events/choujigen2023/"
 ---
+
+<!-- translated-by: deepseek -->
 
 「オダイバ‼︎超次元音楽祭 ヨコハマからハッピーバレンタインフェス2023」にBanG Dream!プロジェクトより、Morfonicaの出演が決定！
 

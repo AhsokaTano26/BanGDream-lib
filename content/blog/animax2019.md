@@ -1,53 +1,55 @@
 ---
 title: "ANIMAX MUSIX 2019 KOBE"
-description: "「ANIMAX MUSIX 2019 KOBE」10/26に【RAISE A SUILEN】、10/27に【Roselia】が出演します！ 開催日程 2019年10月26日（土）、10月27日（日） 各日15:00開場、16:00開演 出演アーティスト 【Day1】2019年10月26日（土） 小倉唯、KOTOKO、TRUE、Machico、RAISE A…"
+description: "「ANIMAX MUSIX 2019 KOBE」10/26有【RAISE A SUILEN】、10/27有【Roselia】出演！ 举办日程 2019年10月26日（周六）、10月27日（周日） 各日15:00开场、16:00开演 出演艺人 【Day1】2019年10月26日（周六） 小仓唯、KOTOKO、TRUE、Machico、RAISE A…"
 date: "2019-10-26"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "神戸ワールド記念ホール"
+location: "神户世界纪念厅"
 org: ["other"]
 url: "https://bang-dream.com/events/animax2019/"
 ---
 
-「ANIMAX MUSIX 2019 KOBE」10/26に【RAISE A SUILEN】、10/27に【Roselia】が出演します！
+<!-- translated-by: deepseek -->
 
-## 開催日程
+「ANIMAX MUSIX 2019 KOBE」10月26日【RAISE A SUILEN】、10月27日【Roselia】将出演！
 
-2019年10月26日（土）、10月27日（日）
-各日15:00開場、16:00開演
+## 举办日程
 
-## 出演アーティスト
+2019年10月26日（周六）、10月27日（周日）
+每天15:00开场、16:00开演
 
-【Day1】2019年10月26日（土）
+## 出演艺人
 
-小倉唯、KOTOKO、TRUE、Machico、RAISE A SUILEN and more...（五十音順）
+【Day1】2019年10月26日（周六）
 
-【Day2】2019年10月27日（日）
+小仓唯、KOTOKO、TRUE、Machico、RAISE A SUILEN and more...（按五十音顺序）
 
-石原夏織、伊藤美来、茅原実里、PENGUIN RESEARCH、Roselia and more...（五十音順）
+【Day2】2019年10月27日（周日）
 
-## 開催場所
+石原夏织、伊藤美来、茅原实里、PENGUIN RESEARCH、Roselia and more...（按五十音顺序）
 
-神戸ワールド記念ホール
+## 举办地点
 
-## 料 金
+神户世界纪念大厅
 
-・プレミアムシート：15,000円（税込）[限定グッズ付]
+## 费用
 
-※アリーナ席前方ブロック予定。
+・高级座位：15,000日元（含税）[附限定周边]
 
-※プレミアムシート限定グッズは、イベント当日会場にてお渡しとなります。
+※预计为内场前方区域座位。
 
-・指定席：8,500円（税込）
+※高级座位限定周边将于活动当天在会场发放。
 
-・指定席2日通し券：16,600円（税込）
+・指定座位：8,500日元（含税）
 
-## チケット情報
+・指定座位两日通票：16,600日元（含税）
 
-各先行予約：ANIMAX MUSIX 公式サイト内「チケット情報」をご覧ください。
+## 票务信息
+
+各先行预约：请查看ANIMAX MUSIX官网内的“票务信息”。
 [https://musix.animax.co.jp/kobe/tickets/](https://musix.animax.co.jp/kobe/tickets/)
 
 ---
 
-イベント公式サイト[https://musix.animax.co.jp/](https://musix.animax.co.jp/)
-イベント公式ツイッター[https://twitter.com/animaxmusixjp](https://twitter.com/animaxmusixjp)
+活动官网[https://musix.animax.co.jp/](https://musix.animax.co.jp/)
+活动官方推特[https://twitter.com/animaxmusixjp](https://twitter.com/animaxmusixjp)

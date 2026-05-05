@@ -1,50 +1,52 @@
 ---
 title: "マグロック2019"
-description: "2019年10月5日(土)・6日(日)開催のマグロック2019にRAISE A SUILENの出演が決定！ ※RASは10月5日(土)のみの出演となります。 公演名 マグロック2019 会場 清水マリンパーク(エスパルスドリームプラザ横) 日時 2019年10月5日(土)・6日(日) OPEN 10:00 / START 11:00 ※RASは10月5日(土…"
+description: "2019年10月5日(周六)・6日(周日)举办的马格洛克2019中，RAISE A SUILEN确定出演！ ※RAS仅于10月5日(周六)出演。 公演名 马格洛克2019 会场 清水海洋公园(Espal Dream Plaza旁) 日期 2019年10月5日(周六)・6日(周日) OPEN 10:00 / START 11:00 ※RAS仅于10月5日(周六…"
 date: "2019-10-05"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "清水マリンパーク(エスパルスドリームプラザ横)"
+location: "清水海洋公园（埃斯帕尔斯梦想广场旁）"
 org: ["other"]
 url: "https://bang-dream.com/events/magurock2019/"
 ---
 
-2019年10月5日(土)・6日(日)開催のマグロック2019にRAISE A SUILENの出演が決定！
+<!-- translated-by: deepseek -->
 
-※RASは10月5日(土)のみの出演となります。
+2019年10月5日(周六)・6日(周日)举办的Magurock2019中，RAISE A SUILEN的出演已确定！
 
-## 公演名
+※RAS仅出演10月5日(周六)的场次。
 
-マグロック2019
+## 演出名称
 
-## 会場
+Magurock2019
 
-清水マリンパーク(エスパルスドリームプラザ横)
+## 会场
 
-## 日時
+清水海洋公园（Espals Dream Plaza旁）
 
-2019年10月5日(土)・6日(日)
+## 日期时间
 
-OPEN 10:00 / START 11:00
+2019年10月5日(周六)・6日(周日)
 
-※RASは10月5日(土)のみの出演となります。
+开场 10:00 / 开演 11:00
 
-## チケット
+※RAS仅出演10月5日(周六)的场次。
 
-各日1日券 ¥7,800-(税込/１ドリンク別)
-両日通し券 ¥14,000-(税込/初回入場時１ドリンク別)
+## 门票
 
-※未就学児は保護者１名につき１名まで無料、ただし入場できるエリア制限あり。
-※入場制限実施の可能性あり。
-※出演者変更キャンセルに伴う払戻しはいたしません
-※イベント公式ページの「[お客様へのお願い、注意事項](http://magurockfujisonic.com/2019/attention#attention)」を必ず確認、了承の上、チケットをご購入下さい。
-※[その他注意事項](http://magurockfujisonic.com/2019/attention#mania)をよくお読みいただいたうえでお申し込みください。
+各日单日券 ¥7,800-(含税/不含1杯饮料)
+两日通票 ¥14,000-(含税/首次入场时不含1杯饮料)
 
-###### チケットに関するお問い合わせ先
+※学龄前儿童可在1位监护人陪同下最多1名免费入场，但入场区域有限制。
+※可能会实施入场限制。
+※因出演者变更取消恕不退款。
+※请务必确认并同意活动官方网站上的「[对客人的请求、注意事项](http://magurockfujisonic.com/2019/attention#attention)」后再购买门票。
+※请在仔细阅读[其他注意事项](http://magurockfujisonic.com/2019/attention#mania)后再进行申请。
 
-クリエイティブマン:03-3499-6669 / 静岡朝日テレビ事業部:054-251-3302
+###### 门票咨询处
 
-## 詳細情報はこちら
+Creative Man: 03-3499-6669 / 静冈朝日电视台事业部: 054-251-3302
 
-公式HP：[http://magurockfujisonic.com/2019/](http://magurockfujisonic.com/2019/)
-公式Twitter：[https://twitter.com/magurofujisonic](https://twitter.com/magurofujisonic)
+## 详细信息请点击这里
+
+官方网站：[http://magurockfujisonic.com/2019/](http://magurockfujisonic.com/2019/)
+官方Twitter：[https://twitter.com/magurofujisonic](https://twitter.com/magurofujisonic)

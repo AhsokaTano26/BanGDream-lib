@@ -1,6 +1,6 @@
 ---
-title: "Afterglow | アーティスト | BanG Dream!（バンドリ！）公式サイト"
-description: "幼馴染5人組で結成されたガールズバンド、Afterglow（アフターグロウ）のメンバーをご紹介！"
+title: "Afterglow | 艺术家 | BanG Dream!（BanG Dream!）官方网站"
+description: "介绍由青梅竹马五人组成的少女乐队Afterglow的成员！"
 date: ""
 author: "BanG Dream! Project"
 org: ["a"]
@@ -11,6 +11,8 @@ theme:
   bgImage: null
 ---
 
-[![BanG Dream! 2nd Season](https://img.tano.asia/i/8048393b-d8c3-4dfb-b626-f7fb3145ff1b.webp)
+<!-- translated-by: deepseek -->
+
+[![BanG Dream! 第二季](https://img.tano.asia/i/8048393b-d8c3-4dfb-b626-f7fb3145ff1b.webp)
 
 ### BanG Dream! 2nd Season](https://anime.bang-dream.com/2nd/)

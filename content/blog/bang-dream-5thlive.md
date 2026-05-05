@@ -1,12 +1,12 @@
 ---
-title: "BanG Dream! 5th☆LIVE"
-description: "ライブフェス"
+title: "BanG Dream! 第5次☆LIVE"
+description: "音乐节"
 date: "2018-05-12"
 status: "activity"
 author: "BanG Dream! Project"
-location: "幕張メッセ国際展示場1〜3ホール"
+location: "幕张展览中心国际展示场1〜3号展厅"
 org: ["other"]
 url: "https://bang-dream.com/events/bang-dream-5thlive/"
 ---
 
-
+<!-- translated-by: deepseek -->

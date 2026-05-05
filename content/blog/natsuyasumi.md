@@ -1,5 +1,5 @@
 ---
-title: "ガルパなつやすみin秋葉原"
+title: "邦邦暑假in秋叶原"
 description: ""
 date: "2018-08-10"
 status: "activity"
@@ -9,4 +9,4 @@ org: ["other"]
 url: "https://bang-dream.com/events/natsuyasumi/"
 ---
 
-
+<!-- translated-by: deepseek -->

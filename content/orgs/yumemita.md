@@ -1,6 +1,6 @@
 ---
-title: "夢限大みゅーたいぷ | アーティスト | BanG Dream!（バンドリ！）公式サイト"
-description: "「夢と現実を飛び越える運命共同体」夢限大みゅーたいぷのメンバーをご紹介！"
+title: "梦限大みゅーたいぷ | 艺人 | BanG Dream!（バンドリ！）官方网站"
+description: "「跨越梦想与现实的命运共同体」梦限大みゅーたいぷ的成员介绍！"
 date: ""
 author: "BanG Dream! Project"
 org: ["other"]
@@ -11,6 +11,8 @@ theme:
   bgImage: null
 ---
 
-[![バンドリ！ ゆめ∞みた](https://img.tano.asia/i/6406df14-4a4f-4745-84b4-d701185cdee6.webp)
+<!-- translated-by: deepseek -->
 
-### バンドリ！ ゆめ∞みた](https://anime.bang-dream.com/yumemita/)
+[![BanG Dream! 梦想∞实现](https://img.tano.asia/i/6406df14-4a4f-4745-84b4-d701185cdee6.webp)
+
+### BanG Dream! 梦想∞实现](https://anime.bang-dream.com/yumemita/)

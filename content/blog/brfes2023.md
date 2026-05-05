@@ -1,13 +1,15 @@
 ---
-title: "BUSHIROAD ROCK FESTIVAL 2023"
+title: "武士道摇滚音乐节 2023"
 description: "RAISE A SUILEN、Morfonica出演"
 date: "2023-05-27"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "富士急ハイランド・コニファーフォレスト"
+location: "富士急高地·针叶树林"
 org: ["other"]
 url: "https://bang-dream.com/events/brfes2023/"
 ---
+
+<!-- translated-by: deepseek -->
 
 ブシロードが送るメディアミックスプロジェクトから、様々なアーティストが登場するライブが開催決定！
 

@@ -1,57 +1,59 @@
 ---
-title: "WONDERFUL HOBBY LIFE FOR YOU!!『RAISE A SUILEN』ステージ"
-description: "RAISE A SUILENのメンバーが「WONDERFUL HOBBY LIFE FOR YOU!!」ブース特設ステージでのイベントに出演決定！ ミニライブの他、トークコーナーなどを予定しております。 ステージについての詳細情報はイベント公式サイトにて随時更新予定です。 日程 7月28日（日）11:00 - 11:40 出演 RAISE A SUILEN…"
+title: "WONDERFUL HOBBY LIFE FOR YOU!!『RAISE A SUILEN』舞台"
+description: "RAISE A SUILEN的成员已确定出演「WONDERFUL HOBBY LIFE FOR YOU!!」展区特设舞台的活动！除迷你演唱会外，还计划设有谈话环节等。关于舞台的详细信息将在活动官方网站随时更新。日程 7月28日（周日）11:00 - 11:40 出演 RAISE A SUILEN…"
 date: "2019-07-28"
 status: "activity"
 author: "BanG Dream! Project"
-location: "幕張メッセ 国際展示場 1ホール"
+location: "幕张展览中心 国际展览中心 1号馆"
 org: ["RAS"]
 url: "https://bang-dream.com/events/whl4u_ras/"
 ---
 
-RAISE A SUILENのメンバーが「WONDERFUL HOBBY LIFE FOR YOU!!」ブース特設ステージでのイベントに出演決定！
-ミニライブの他、トークコーナーなどを予定しております。
+<!-- translated-by: deepseek -->
 
-ステージについての詳細情報はイベント公式サイトにて随時更新予定です。
+RAISE A SUILEN的成员确定将出演「WONDERFUL HOBBY LIFE FOR YOU!!」展区特设舞台的活动！
+除迷你演唱会外，还计划设置谈话环节等。
+
+关于舞台的详细信息将在活动官方网站上随时更新。
 
 ## 日程
 
-7月28日（日）11:00 - 11:40
+7月28日（周日）11:00 - 11:40
 
 ## 出演
 
 **RAISE A SUILEN**
 
-Raychell（レイヤ役）
-小原莉子（ロック役）
-夏芽（マスキング役）
-倉知玲鳳（パレオ役）
-紡木吏佐（チュチュ役）
+Raychell（LAYER役）
+小原莉子（LOCK役）
+夏芽（MASKING役）
+仓知玲凤（PAREO役）
+纺木吏佐（CHU²役）
 
-## 入場券
+## 入场券
 
-2,500円（税込み）
-(入場チケット兼公式ガイドブック/小学生以下無料)
-開場時に優先的に入場できるダイレクトパスもあります。
+2,500日元（含税）
+（入场券兼官方指南手册/小学生以下免费）
+还有可在开馆时优先入场的直达通行证。
 
-券種についての詳細はワンフェス公式サイトをご確認ください。
+关于票种的详细信息请确认WonFes官方网站。
 
-ワンフェス公式サイト：[http://wf.kaiyodo.net/](http://wf.kaiyodo.net/)
+WonFes官方网站：[http://wf.kaiyodo.net/](http://wf.kaiyodo.net/)
 
-## 公式生放送
+## 官方直播
 
 【YouTube】
 [https://www.youtube.com/watch?v=j88aI1jOWXs](https://www.youtube.com/watch?v=j88aI1jOWXs)
 
-【ニコニコ生放送】
+【Niconico直播】
 [https://live.nicovideo.jp/gate/lv320858122](https://live.nicovideo.jp/gate/lv320858122)
 
 【Periscope】
 [https://www.pscp.tv/GSC_GUMA/](https://www.pscp.tv/GSC_GUMA/)
 
-## イベント公式サイト
+## 活动官方网站
 
-ステージ観覧についての詳細情報はイベント公式サイトをご確認下さい。
+关于舞台观览的详细信息请确认活动官方网站。
 
-ワンダーフェスティバル 2019［夏］会場内 『WONDERFUL HOBBY LIFE FOR YOU!! 30』
+Wonder Festival 2019［夏］会场内 『WONDERFUL HOBBY LIFE FOR YOU!! 30』
 [http://whl4u.jp/](http://whl4u.jp/)

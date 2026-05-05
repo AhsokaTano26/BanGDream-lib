@@ -1,50 +1,52 @@
 ---
-title: "RAISE A SUILEN SPECIAL ONLINE LIVE 2021"
-description: "「日清食品 POWER STATION [REBOOT]」でRAISE A SUILENの配信ライブが開催決定！ 高い音楽性と演奏テクニック、激しいパフォーマンスにご注目ください！ さらに、ライブ購入特典として、チケットを購入した方の中から抽選で５名様にサイン入りポスターのプレゼントも！ ぜひチケットをご用意の上、配信をお楽しみに！ 日程 2021年4月3日…"
+title: "RAISE A SUILEN 特别在线演唱会 2021"
+description: "「日清食品 POWER STATION [REBOOT]」中RAISE A SUILEN的配信演唱会决定举办！敬请关注其高超的音乐性和演奏技巧、激烈的表演！此外，作为演唱会购买特典，将从购票者中抽选5名赠送签名海报！请备好门票，享受配信！日程 2021年4月3日…"
 date: "2021-04-03"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "日清食品 POWER STATION [REBOOT]（有料オンライン配信）"
+location: "日清食品 POWER STATION [REBOOT]（付费在线直播）"
 org: ["RAS"]
 url: "https://bang-dream.com/events/ras-pwst/"
 ---
 
+<!-- translated-by: deepseek -->
+
 ![](https://img.tano.asia/i/66d2767b-0881-4012-9e76-261df0878a53.webp)
 
-「日清食品 POWER STATION [REBOOT]」でRAISE A SUILENの配信ライブが開催決定！
-高い音楽性と演奏テクニック、激しいパフォーマンスにご注目ください！
+「日清食品 POWER STATION [REBOOT]」中RAISE A SUILEN的直播演唱会决定举办！
+敬请关注他们高度的音乐性和演奏技巧，以及激烈的表演！
 
-さらに、ライブ購入特典として、チケットを購入した方の中から抽選で５名様にサイン入りポスターのプレゼントも！
-ぜひチケットをご用意の上、配信をお楽しみに！
+此外，作为购买演唱会特典，将从购票者中抽选5名幸运观众赠送签名海报！
+请准备好门票，享受直播！
 
 ## 日程
 
-2021年4月3日(土) 19:00～20:00 (予定)
+2021年4月3日(周六) 19:00～20:00 (预定)
 
 ## 出演
 
 RAISE A SUILEN
 
-## チケット
+## 门票
 
-### 料金
+### 票价
 
-・一般チケット：3,300円 (税込)
-・プレミアムチケット：6,600円 (税込) （※このライブ限定で使える20回の投げ銭付き）
+・普通门票：3,300日元 (含税)
+・高级门票：6,600日元 (含税) (※附赠20次可用于本场直播的打赏机会)
 
-### チケット販売
+### 门票销售
 
 [https://nissin-ps.com/live/detail/6e38263f](https://nissin-ps.com/live/detail/6e38263f)
 
-### アーカイブ配信
+### 回放直播
 
-2021年4月10日(土) 23:59まで
-※本配信終了直後はご視聴になれません。しばらくお時間をおいてお試しください。
+截至2021年4月10日(周六) 23:59
+※本直播结束后无法立即观看，请稍等一段时间后再试。
 
-「日清食品 POWER STATION [REBOOT]」公式サイト
+「日清食品 POWER STATION [REBOOT]」官方网站
 
 [https://nissin-ps.com/](https://nissin-ps.com/)
 
-#### 「日清食品 POWER STATION [REBOOT]」公式ツイッター
+#### 「日清食品 POWER STATION [REBOOT]」官方推特
 
 [@nissin_psr](https://twitter.com/nissin_psr)

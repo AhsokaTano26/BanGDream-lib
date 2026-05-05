@@ -903,6 +903,79 @@ class Crawler:
                 return result[:limit]
         return result
 
+    def infer_collection_from_url(self, page_url: str) -> str:
+        path = urlparse(page_url).path.strip("/")
+        first = path.split("/", 1)[0] if path else ""
+        mapping = {
+            "events": "blog",
+            "news": "news",
+            "discographies": "discographies",
+            "discography": "discographies",
+            "media": "media",
+            "artist": "orgs",
+        }
+        return mapping.get(first, "news")
+
+    def build_single_page(self, page_url: str, collection: str | None = None) -> CrawlerItem:
+        target_collection = collection or self.infer_collection_from_url(page_url)
+        soup = self.fetch_html(page_url)
+        slug = Path(urlparse(page_url).path.rstrip("/")).name or "item"
+        title = self.extract_page_title(soup) or self.infer_title_from_link(page_url)
+        description = self.extract_description(soup)
+        published = self.extract_meta(soup, "article:published_time") or self.extract_meta(soup, "og:updated_time") or ""
+        author = self.extract_meta(soup, "author") or self.extract_meta(soup, "article:author") or "BanG Dream! Project"
+        body = self.extract_main_html(soup)
+        signature = self.item_signature_from_text(title, description, self.extract_text(soup), body)
+        body = self.rewrite_images(
+            body,
+            subdir=f"{target_collection}/{slug}",
+            collection=target_collection,
+            page_slug=slug,
+            page_url=page_url,
+        )
+
+        frontmatter: dict[str, Any] = {
+            "title": title,
+            "description": description,
+            "date": (published or "")[:10],
+            "author": author,
+            "url": page_url,
+        }
+        orgs = self.extract_orgs_from_text(title + " " + description + " " + self.extract_text(soup))
+        if target_collection == "blog":
+            frontmatter["status"] = "activity"
+            frontmatter["location"] = ""
+            frontmatter["org"] = orgs or ["other"]
+        elif target_collection == "news":
+            frontmatter["status"] = "notice"
+            frontmatter["org"] = orgs or ["other"]
+        elif target_collection == "discographies":
+            frontmatter["status"] = "cd"
+            frontmatter["org"] = orgs or ["other"]
+        elif target_collection == "media":
+            frontmatter["type"] = "online"
+            frontmatter["status"] = "finish" if self.is_finished(soup) else "stop"
+            frontmatter["org"] = orgs or ["other"]
+        elif target_collection == "orgs":
+            frontmatter["author"] = author
+            frontmatter["founded"] = ""
+            frontmatter["theme"] = self.extract_theme(
+                soup,
+                collection=target_collection,
+                page_slug=slug,
+                page_url=page_url,
+            )
+        else:
+            frontmatter["org"] = orgs or ["other"]
+        return CrawlerItem(
+            title=title,
+            slug=slug,
+            url=page_url,
+            signature=signature,
+            frontmatter=frontmatter,
+            body_html=body,
+        )
+
     def is_detail_link(self, href: str, archive_url: str) -> bool:
         abs_url = urljoin(archive_url, href)
         parsed = urlparse(abs_url)
@@ -1190,6 +1263,12 @@ def print_failure_summary(failures: list[ImageFailure]) -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Crawl bang-dream.com into Nuxt Content markdown.")
+    parser.add_argument("--url", default=None, help="Crawl a single article URL instead of a collection.")
+    parser.add_argument(
+        "--collection",
+        default=None,
+        help="Collection for --url mode. If omitted, it is inferred from the URL path.",
+    )
     parser.add_argument(
         "--collections",
         nargs="+",
@@ -1290,6 +1369,20 @@ def main() -> None:
     )
     try:
         failure_cursor = 0
+        if args.url:
+            page_collection = args.collection or crawler.infer_collection_from_url(args.url)
+            item = crawler.build_single_page(args.url, collection=page_collection)
+            output_path = crawler.save_page(page_collection, item)
+            store.upsert_page(page_collection, item, output_path)
+            if state is not None:
+                store.set_crawl_state(page_collection, item.slug, item.signature)
+            while failure_cursor < len(crawler.image_failures):
+                store.insert_image_failure(crawler.image_failures[failure_cursor])
+                failure_cursor += 1
+            store.commit()
+            print(f"{page_collection}: 1 page")
+            print_failure_summary(crawler.image_failures)
+            return
         for collection in args.collections:
             skip_slugs: set[str] = set()
             if state is None and (collection_dir := CONTENT_ROOT / collection).exists():

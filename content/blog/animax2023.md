@@ -4,61 +4,63 @@ description: "RAISE A SUILEN、MyGO!!!!!出演"
 date: "2023-11-18"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "横浜アリーナ"
+location: "横滨体育馆"
 org: ["other"]
 url: "https://bang-dream.com/events/animax2023/"
 ---
 
+<!-- translated-by: deepseek -->
+
 - ![](https://img.tano.asia/i/2ce5a0be-0321-496d-a1ad-ce8b170f8764.webp)
 - ![](https://img.tano.asia/i/a9f51836-32ef-4b35-8bed-5dfd37052186.webp)
 
-うたって！はじけて！アニメミュージックの“祭”‼️ ANIMAX MUSIX 2023 開催決定‼️
-バンドリ！からはRAISE A SUILENとMyGO!!!!!の出演が決定！
+唱吧！嗨起来！动画音乐的“祭典”‼️ ANIMAX MUSIX 2023 举办决定‼️
+BanG Dream! 团体中，RAISE A SUILEN和MyGO!!!!!的出演也已确定！
 
-## 公演名
+## 公演名称
 
 ANIMAX MUSIX 2023
 
 ## 日程
 
-2023年11月18日(土)
-開場13:00／開演14:30／終了予定 20:30
-※公演時間は約6時間を予定しております。開演・終演時間は変更になる場合がございます。
+2023年11月18日（周六）
+开场13:00 / 开演14:30 / 预计结束20:30
+※公演时间预计约6小时。开演・结束时间可能会有变更。
 
-## 会場
+## 会场
 
-横浜アリーナ
+横滨体育馆
 
-## グッズ販売について
+## 关于周边商品销售
 
-RAISE A SUILENとMyGO!!!!!のグッズ販売が決定！
-会場へお越しの方は是非、ブースへお立ち寄りください。
+RAISE A SUILEN和MyGO!!!!!的周边商品销售已决定！
+前来会场的各位，请务必光顾摊位。
 
-###### グッズ一覧
+###### 周边商品一览
 
 [![](https://img.tano.asia/i/715c040e-c47d-4d13-a987-e5c1002aa84e.webp)](https://bang-dream.com/2025/renew/9dbe0d9f-c013-436e-9c42-8721d3d1f26b.jpg)
 
-###### 販売場所
+###### 销售地点
 
-横浜アリーナ内
+横滨体育馆内
 
-###### 販売時間
+###### 销售时间
 
-2023年11月18日 (土) 9:00～14:30
-※販売時間は変更になる可能性がございます。
+2023年11月18日（周六）9:00～14:30
+※销售时间可能发生变更。
 
-###### 注意事項
+###### 注意事项
 
-お会計は現金のほか、クレジットカード(VISA/MasterCard/JCB/Diners/American Express/Diners Club/Discover/UnionPay(銀聯)がお使いいただけます。
+付款除现金外，还可使用信用卡（VISA/MasterCard/JCB/Diners/American Express/Diners Club/Discover/UnionPay（银联））。
 
-※デビットカードはお使いいただけません。
-※クレジットカードのお支払い方法は「一括払い」 のみとさせていただきます。
-※不良品の交換は、 当日お買い上げいただいた会場でのみ対応させて頂きます。
-※お会計後は、不良品以外の返品・返金・交換は出来ません。
-※会場近隣の施設・店舗への迷惑になる行為はご遠慮ください。
-※当日の混雑緩和のため、物販購入後から開場時間までの間は、 会場付近での待機はご遠慮ください。
-当日の販売情報は、ブシロード イベントグッズ＆完売情報X（[https://twitter.com/Bushi_goods](https://twitter.com/Bushi_goods)）よりチェックしてください。
+※不能使用借记卡。
+※信用卡的支付方式仅限“一次性付清”。
+※仅限当天在购买会场处理不良品的换货。
+※付款后，除不良品外不接受退货、退款、换货。
+※请避免对会场附近设施・店铺造成困扰的行为。
+※为避免当天拥堵，请在购买商品后至开场前不要在场馆附近等候。
+当天的销售信息，请通过Bushiroad活动周边&售罄信息X（[https://twitter.com/Bushi_goods](https://twitter.com/Bushi_goods)）确认。
 
-#### ANIMAX MUSIX 2023 公式サイト
+#### ANIMAX MUSIX 2023 官方网站
 
 [https://www.animax.co.jp/animaxmusix/](https://www.animax.co.jp/animaxmusix/)

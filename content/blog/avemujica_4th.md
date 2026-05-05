@@ -1,13 +1,15 @@
 ---
 title: "Ave Mujica 4th LIVE「Adventus」"
-description: "公演概要 会場チケット 配信チケット 会場MAP グッズ販売 グッズ通販 飲食・協賛エリア CD販売 注意事項 お問合せ 公演内でアニメ先行上映が決定 公演内ではTVアニメ「BanG Dream! Ave Mujica」#1の先行上映が決定。 2025年1月からの放送開始を前に、Ave Mujicaの物語をご覧いただけます。 公演演出について Ave Muj…"
+description: "公演概要 会场门票 配信门票 会场地图 周边商品销售 周边商品通贩 餐饮・赞助区域 CD销售 注意事项 咨询 公演内动画先行上映决定 公演内将决定先行上映TV动画《BanG Dream! Ave Mujica》#1。在2025年1月开播之前，可以欣赏Ave Mujica的故事。关于公演演出 Ave Muj…"
 date: "2024-12-15"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "武蔵野の森総合スポーツプラザ"
+location: "武藏野之森综合体育广场"
 org: ["Ave"]
 url: "https://bang-dream.com/events/avemujica_4th/"
 ---
+
+<!-- translated-by: deepseek -->
 
 - [公演概要](#h2slv9b5o8w1bk1rm59g0sk91wppb0d)
 - [会場チケット](#h15slv9b5suq1bbu9hv1aqqlxj11ajzm1)

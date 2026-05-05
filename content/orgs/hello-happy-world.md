@@ -1,6 +1,6 @@
 ---
 title: "ハロー、ハッピーワールド！ | アーティスト | BanG Dream!（バンドリ！）公式サイト"
-description: "世界を笑顔にするために結成された異色のガールズバンド、ハロー、ハッピーワールド！のメンバーをご紹介！"
+description: "为了给世界带来笑容而结成的独特女子乐队，Hello, Happy World! 的成员介绍！"
 date: ""
 author: "BanG Dream! Project"
 org: ["M"]
@@ -11,6 +11,8 @@ theme:
   bgImage: null
 ---
 
-[![BanG Dream! 2nd Season](https://img.tano.asia/i/8048393b-d8c3-4dfb-b626-f7fb3145ff1b.webp)
+<!-- translated-by: deepseek -->
+
+[![BanG Dream! 第二季](https://img.tano.asia/i/8048393b-d8c3-4dfb-b626-f7fb3145ff1b.webp)
 
 ### BanG Dream! 2nd Season](https://anime.bang-dream.com/2nd/)

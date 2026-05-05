@@ -1,5 +1,5 @@
 ---
-title: "劇場版「BanG Dream! FILM LIVE」舞台挨拶ツアー"
+title: "剧场版「BanG Dream! FILM LIVE」舞台问候巡回"
 description: ""
 date: "2019-09-14"
 status: "activity"
@@ -9,4 +9,4 @@ org: ["other"]
 url: "https://bang-dream.com/events/fltour/"
 ---
 
-
+<!-- translated-by: deepseek -->

@@ -1,6 +1,6 @@
 ---
-title: "RAISE A SUILEN | アーティスト | BanG Dream!（バンドリ！）公式サイト"
-description: "チュチュが作った『最強の音楽を奏でる最強のバンド』、RAISE A SUILEN（レイズ ア スイレン）のメンバーをご紹介！"
+title: "RAISE A SUILEN | 艺术家 | BanG Dream!（バンドリ！）官方网站"
+description: "介绍由Chuchu创建的『奏响最强音乐的最强乐队』、RAISE A SUILEN（レイズ ア スイレン）的成员！"
 date: ""
 author: "BanG Dream! Project"
 org: ["mygo"]
@@ -11,6 +11,8 @@ theme:
   bgImage: null
 ---
 
-[![BanG Dream! 2nd Season](https://img.tano.asia/i/8048393b-d8c3-4dfb-b626-f7fb3145ff1b.webp)
+<!-- translated-by: deepseek -->
+
+[![BanG Dream! 第2季](https://img.tano.asia/i/8048393b-d8c3-4dfb-b626-f7fb3145ff1b.webp)
 
 ### BanG Dream! 2nd Season](https://anime.bang-dream.com/2nd/)

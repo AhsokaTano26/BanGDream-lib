@@ -1,6 +1,6 @@
 ---
-title: "コミック版 BanG Dream! バンドリ"
-description: 少女乐队企划《BanG Dream!》官方漫画版！
+title: "漫画版 BanG Dream! バンドリ"
+description: "少女乐队企划《BanG Dream!》官方漫画版！"
 date: 2016-12-17
 type: article
 author: Tano
@@ -8,6 +8,8 @@ url: https://gekkan-bushi.com/comics/comic-bang-dream-km/
 status: finish
 org: ppp
 ---
+
+<!-- translated-by: deepseek -->
 
 # 漫画版 BanG Dream! (BanG Dream! 少女乐队派对)
 
@@ -29,22 +31,22 @@ org: ppp
 
 <div align="center">
   <img src="/assets/media/comic-bang-dream-km-5.png" alt="漫画版 BanG Dream!" />
-    コミック版 BanG Dream! バンドリ 1巻
+    漫画版 BanG Dream! 乐队少女 第1卷
 </div>
 
 
 
 <div align="center">
   <img src="/assets/media/comic-bang-dream-km-1.jpg" alt="漫画版 BanG Dream!" />
-コミック版 BanG Dream! バンドリ 2巻
+漫画版 BanG Dream! 乐队少女 第2卷
 </div>
 
 <div align="center">
   <img src="/assets/media/comic-bang-dream-km-2.png" alt="漫画版 BanG Dream!" />
-コミック版 BanG Dream! バンドリ 3巻
+漫画版 BanG Dream! 乐队少女 第3卷
 </div>
 
 <div align="center">
   <img src="/assets/media/comic-bang-dream-km-4.jpg" alt="漫画版 BanG Dream!" />
-コミック版 BanG Dream! バンドリ 4巻
+漫画版 BanG Dream! 乐队少女 第4卷
 </div>

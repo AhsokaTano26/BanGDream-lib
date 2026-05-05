@@ -1,32 +1,32 @@
 ---
-title: "Harezaの日 4th Anniversary SUMMER FESTIVAL 2024"
+title: "Hareza的日 4th Anniversary SUMMER FESTIVAL 2024"
 description: "「Hareza池袋」の周年を記念したイベント「 Harezaの日 4th Anniversary SUMMER FESTIVAL 2024 」にて、 劇場版「BanG Dream! It's MyGO!!!!!」スペシャルトークイベントを開催！ 入場料は無料！ぜひ遊びに来てくださいね♪ イベント 概要 日時 2024年8月4日（日）17:30～18:15 会…"
 date: "2024-08-04"
 status: "activity"
 author: "BanG Dream! Project"
-location: "中池袋公園"
+location: "中池袋公园"
 org: ["other"]
 url: "https://bang-dream.com/events/hareza_4thanniv/"
 ---
 
-「Hareza池袋」の周年を記念したイベント「[Harezaの日 4th Anniversary SUMMER FESTIVAL 2024](https://hareza-ikebukuro.com/event/#post-1723)」にて、
-劇場版「BanG Dream! It's MyGO!!!!!」スペシャルトークイベントを開催！
-入場料は無料！ぜひ遊びに来てくださいね♪
+<!-- translated-by: deepseek -->
 
-### イベント 概要
+「Hareza池袋」的周年纪念活动「[Hareza之日 4th Anniversary SUMMER FESTIVAL 2024](https://hareza-ikebukuro.com/event/#post-1723)」中，将举办剧场版「BanG Dream! It's MyGO!!!!!」特别脱口秀活动！入场免费！请一定来玩哦♪
 
-## 日時
+### 活动概要
 
-2024年8月4日（日）17:30～18:15
+## 日期时间
 
-## 会場
+2024年8月4日（周日）17:30～18:15
 
-中池袋公園
+## 会场
+
+中池袋公园
 
 ## 出演
 
-羊宮妃那（高松燈 役）、立石凛（千早愛音 役）、青木陽菜（要楽奈 役）、小日向美香（長崎そよ 役）、林鼓子（椎名立希 役）
+羊宫妃那（高松灯 役）、立石凛（千早爱音 役）、青木阳菜（要乐奈 役）、小日向美香（长崎爽世 役）、林鼓子（椎名立希 役）
 
-## 入場料
+## 入场费
 
-無料
+免费

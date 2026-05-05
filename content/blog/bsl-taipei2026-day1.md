@@ -1,5 +1,5 @@
 ---
-title: "BanG Dream! Special LIVE in TAIPEI DAY1 : MyGO!!!!!×Ave Mujica「\"moment / memory\"」"
+title: "BanG Dream! Special LIVE in TAIPEI DAY1 : MyGO!!!!!×Ave Mujica「moment / memory」"
 description: ""
 date: "2026-04-11"
 status: "on_site"
@@ -9,4 +9,4 @@ org: ["mygo", "Ave"]
 url: "https://bang-dream.com/events/bsl-taipei2026-day1/"
 ---
 
-
+<!-- translated-by: deepseek -->

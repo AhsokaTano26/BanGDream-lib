@@ -1,13 +1,15 @@
 ---
 title: "BiliBIli Macro Link – Star Phase × Anisong World Matsuri 2018"
-description: "中国・上海で開催される「BILIBILI MACRO LINK -STAR PHASE × Anisong World Matsuri 2018」に、 Poppin’Partyの出演が決定いたしました！ Poppin’Partyの初上海ライブ、ぜひお楽しみに！ ＊＊＊＊＊＊＊ イベント名：BiliBIli Macro Link – Star Phase ×…"
+description: "在中国·上海举办的“BILIBILI MACRO LINK -STAR PHASE × Anisong World Matsuri 2018”中，Poppin’Party已确定出演！敬请期待Poppin’Party的首次上海演唱会！ ＊＊＊＊＊＊＊ 活动名称：BiliBIli Macro Link – Star Phase ×…"
 date: "2018-07-21"
 status: "activity"
 author: "BanG Dream! Project"
-location: "メルセデスベンツアリーナ(中国・上海)"
+location: "梅赛德斯-奔驰文化中心（中国·上海）"
 org: ["other"]
 url: "https://bang-dream.com/events/bmlsp2018/"
 ---
+
+<!-- translated-by: deepseek -->
 
 中国・上海で開催される「BILIBILI MACRO LINK -STAR PHASE × Anisong World Matsuri 2018」に、 Poppin’Partyの出演が決定いたしました！
 Poppin’Partyの初上海ライブ、ぜひお楽しみに！

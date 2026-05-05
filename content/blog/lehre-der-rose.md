@@ -1,83 +1,85 @@
 ---
-title: "Roselia「Lehre der Rose」 - Roselia 10th Anniversary Best Album「Lehre der Rose」リリース記念ライブ"
-description: "Roselia 10th Anniversary Best Album「Lehre der Rose」 のリリースを記念して、単独ライブ2DAYSが開催！ 公演概要 チケット 注意事項 お問合せ 公演名 Roselia「Lehre der Rose」 - Roselia 10th Anniversary Best Album「Lehre der Rose」リ…"
+title: "Roselia「Lehre der Rose」 - Roselia 10周年纪念最佳专辑「Lehre der Rose」发行纪念演唱会"
+description: "为纪念Roselia 10th Anniversary Best Album「Lehre der Rose」的发行，将举办单独2天现场演唱会！ 演出概要 门票 注意事项 咨询 演出名称 Roselia「Lehre der Rose」 - Roselia 10th Anniversary Best Album「Lehre der Rose」リ…"
 date: "2026-08-29"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "有明アリーナ"
+location: "有明体育馆"
 org: ["R"]
 url: "https://bang-dream.com/events/lehre-der-rose/"
 ---
 
-[Roselia 10th Anniversary Best Album「Lehre der Rose」](https://bang-dream.com/discographies/4181)のリリースを記念して、単独ライブ2DAYSが開催！
+<!-- translated-by: deepseek -->
 
-- [公演概要](#Performance_overview)
-- [チケット](#Ticket)
-- [注意事項](#Notice)
-- [お問合せ](#Contact)
+[Roselia 10th Anniversary Best Album「Lehre der Rose」](https://bang-dream.com/discographies/4181)的发行纪念，将举办单独演唱会2DAYS！
 
-## 公演名
+- [演出概要](#Performance_overview)
+- [门票](#Ticket)
+- [注意事项](#Notice)
+- [咨询](#Contact)
 
-Roselia「Lehre der Rose」 - Roselia 10th Anniversary Best Album「Lehre der Rose」リリース記念ライブ
+## 演出名称
+
+Roselia「Lehre der Rose」 - Roselia 10th Anniversary Best Album「Lehre der Rose」发行纪念演唱会
 
 ## 日程
 
 DAY1
-2026年8月29日(土) 開場16:30／開演18:00(予定)
+2026年8月29日(周六) 开场16:30／开演18:00(预定)
 
 DAY2
-2026年8月30日(日) 開場15:30／開演17:00(予定)
+2026年8月30日(周日) 开场15:30／开演17:00(预定)
 
-## 会場
+## 会场
 
-有明アリーナ
+有明竞技场
 
 ## 出演
 
 Roselia
 
-## チケット
+## 门票
 
-### 料金
+### 费用
 
-プレミアムシート(特製グッズ付き)：22,000円(税込)
-一般指定席(特製グッズ付き) ：15,400円(税込)
-一般指定席 ：9,900円(税込)
+高级座位(附赠特制周边)：22,000日元(含税)
+普通指定席(附赠特制周边)：15,400日元(含税)
+普通指定席：9,900日元(含税)
 
-###### グッズ付きチケット特典
+###### 附赠周边门票特典
 
-※詳細は後日公開いたします。
+※详情将于日后公开。
 
-###### 会場座席イメージ
+###### 会场座位图
 
 ![](https://img.tano.asia/i/a7c4309e-3ca9-4dd8-9233-45d8bed79058.webp)
 
-### 販売情報
+### 销售信息
 
-###### 最速先行抽選
+###### 最速先行抽选
 
-受付期間：2026年4月29日(水・祝) 10:00～ 5月31日(日) 23:59
-受付URL：[https://eplus.jp/serial/roselia_19thsg/](https://eplus.jp/serial/roselia_19thsg/)
+受理期间：2026年4月29日(周三·节假日) 10:00～ 5月31日(周日) 23:59
+受理URL：[https://eplus.jp/serial/roselia_19thsg/](https://eplus.jp/serial/roselia_19thsg/)
 
-※[Roselia 19th Single「Fear Nothing」](https://bang-dream.com/discographies/4178/)初回生産分に封入の申込券でご応募いただけます。
-※申込券1枚で、DAY1・DAY2に1回ずつご応募いただけます。
-※1回につき2枚までお申込みいただけます。
+※可使用[Roselia 19th Single「Fear Nothing」](https://bang-dream.com/discographies/4178/)初回生产批次中附带的中请券进行申请。
+※1张申请券可分别用于DAY1和DAY2各申请1次。
+※每次最多可申请2张。
 
-## 公演に関する注意事項
+## 演出相关注意事项
 
-ブシロードミュージック主催ライブイベントにおける注意事項につきましては、下記リンク先を必ずご一読の上、遵守いただけますようお願い申し上げます。
+关于Bushiroad Music主办演唱会活动的注意事项，请务必阅读以下链接并遵守。
 [https://bushiroad-music.com/news/321](https://bushiroad-music.com/news/321)
 
-※その他の注意事項は後日公開いたします。
+※其他注意事项将于日后公开。
 
-## お問合せ先
+## 咨询方式
 
-【公演に関するお問い合わせ】
-クリエイティブマンプロダクション
-電話番号：03-3499-6669
-お問い合わせ時間：月・水・金曜日 12:00～16:00
+【演出相关咨询】
+Creative Man Production
+电话号码：03-3499-6669
+咨询时间：周一、周三、周五 12:00～16:00
 [https://www.creativeman.co.jp/](https://www.creativeman.co.jp/)
 
-【チケットに関するお問い合わせ】
-イープラスお客様サポート
+【门票相关咨询】
+e+客户支持
 [https://support-qa.eplus.jp/](https://support-qa.eplus.jp/)

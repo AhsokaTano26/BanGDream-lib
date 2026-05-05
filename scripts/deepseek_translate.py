@@ -26,6 +26,8 @@ MARKDOWN_URL_RE = re.compile(r"(!?\[[^\]]*\]\()([^)]+)(\))")
 AUTOLINK_RE = re.compile(r"<(https?://[^>\s]+)>")
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n?", re.S)
 FRONTMATTER_LINE_RE = re.compile(r"^(\s*)([A-Za-z0-9_]+):(\s*)(.*)$")
+PLACEHOLDER_TOKEN_RE = re.compile(r"__(?:DS_SEG|DS_URL)_\d+__")
+REASONING_OUTPUT_RE = re.compile(r"(?:^|\n)(?:译文|翻译)[:：]\s*", re.M)
 
 
 def split_frontmatter(text: str) -> tuple[str | None, str]:
@@ -99,6 +101,20 @@ def _normalize_output(content: str) -> str:
     return text
 
 
+def _extract_response_text(message: dict[str, Any]) -> str:
+    content = message.get("content")
+    if isinstance(content, str) and content.strip():
+        return content
+    reasoning = message.get("reasoning_content")
+    if isinstance(reasoning, str) and reasoning.strip():
+        text = reasoning.strip()
+        match = REASONING_OUTPUT_RE.search(text)
+        if match:
+            text = text[match.end():].strip()
+        return text
+    return ""
+
+
 def _quote_yaml(value: str) -> str:
     return json.dumps(value, ensure_ascii=False)
 
@@ -151,13 +167,26 @@ def translate_markdown_body(
     context: str = "",
 ) -> str:
     protected, segment_store, url_store = _protect_markdown(body)
-    translated = translator.translate_text(protected, context=context)
+    translated = _translate_protected_markdown(protected, translator, context=context)
     translated = _normalize_output(translated)
     url_store.validate(translated)
     segment_store.validate(translated)
     translated = url_store.restore(translated)
     translated = segment_store.restore(translated)
     return translated
+
+
+def _translate_protected_markdown(text: str, translator: "DeepSeekTranslator", context: str = "") -> str:
+    parts = PLACEHOLDER_TOKEN_RE.split(text)
+    tokens = PLACEHOLDER_TOKEN_RE.findall(text)
+    translated_parts: list[str] = []
+    for index, part in enumerate(parts):
+        if part:
+            chunk_context = f"{context}#chunk:{index}" if context else f"chunk:{index}"
+            translated_parts.append(translator.translate_text(part, context=chunk_context))
+        if index < len(tokens):
+            translated_parts.append(tokens[index])
+    return "".join(translated_parts)
 
 
 def translate_document(
@@ -267,8 +296,10 @@ class DeepSeekTranslator:
             if not choices:
                 raise RuntimeError(f"Unexpected DeepSeek response: {data!r}")
             message = choices[0].get("message") if isinstance(choices[0], dict) else None
-            content = message.get("content") if isinstance(message, dict) else None
-            if not isinstance(content, str) or not content.strip():
+            if not isinstance(message, dict):
+                raise RuntimeError(f"Unexpected DeepSeek response: {data!r}")
+            content = _extract_response_text(message)
+            if not content.strip():
                 raise RuntimeError(f"Empty DeepSeek translation response: {data!r}")
             return content
         if last_error is not None:

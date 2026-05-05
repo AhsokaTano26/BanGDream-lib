@@ -1,115 +1,117 @@
 ---
-title: "Roselia×RAISE A SUILEN合同オンラインライブ「Rausch und/and Craziness -interlude-」"
-description: "イベント情報 チケット グッズ通販 関連特番 公演名 「Rausch und/and Craziness -interlude-」 日時 2020年12月12日(土) 18:00～ 出演 Roselia×RAISE A SUILEN チケット 料金 5,500円（税込） ※上記チケット代以外に、各種手数料がかかる場合がございます。 配信メディア U-NEXT…"
+title: "Roselia×RAISE A SUILEN联合在线演唱会「Rausch und/and Craziness -interlude-」"
+description: "活动信息 门票 周边通贩 相关特番 公演名 「Rausch und/and Craziness -interlude-」 日期时间 2020年12月12日(周六) 18:00～ 出演 Roselia×RAISE A SUILEN 门票 费用 5,500日元（含税） ※上述票价以外，可能产生各种手续费。 播出平台 U-NEXT…"
 date: "2020-12-12"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "有料オンライン配信"
+location: "付费在线直播"
 org: ["R", "RAS"]
 url: "https://bang-dream.com/events/ruc_interlude/"
 ---
 
-- [イベント情報](#event)
-- [チケット](#ticket)
-- [グッズ通販](#goods)
-- [関連特番](#media)
+<!-- translated-by: deepseek -->
 
-## 公演名
+- [活动信息](#event)
+- [门票](#ticket)
+- [周边通贩](#goods)
+- [相关特番](#media)
+
+## 公演名称
 
 「Rausch und/and Craziness -interlude-」
 
-## 日時
+## 日期时间
 
-2020年12月12日(土) 18:00～
+2020年12月12日(周六) 18:00～
 
 ## 出演
 
 Roselia×RAISE A SUILEN
 
-## チケット
+## 门票
 
-### 料金
+### 费用
 
-5,500円（税込）
-※上記チケット代以外に、各種手数料がかかる場合がございます。
+5,500日元（含税）
+※除上述门票费用外，可能还需支付各种手续费。
 
-### 配信メディア
+### 播放平台
 
-U-NEXT、PIA LIVE STREAM、ローチケ LIVE STREAMING、Thumva、ニコニコ生放送、ABEMA
-※どの配信メディアよりご覧いただいても、配信内容は全て同じです。
+U-NEXT、PIA LIVE STREAM、罗森票务LIVE STREAMING、Thumva、niconico生放送、ABEMA
+※无论通过哪个平台观看，播放内容完全相同。
 
-### 販売情報
+### 销售信息
 
-下記特設サイトよりご確認ください。
+请查看以下特设网站。
 [https://liveviewing.jp/contents/ruc_interlude/](https://liveviewing.jp/contents/ruc_interlude/)
 
-## 期間限定通販
+## 期间限定通贩
 
 [![](https://img.tano.asia/i/b41d97dd-2b1e-4a02-9543-79f9bbf8c5f6.webp)](https://bushiroad-ecshop.com/pages/interlude)
 
-Roselia×RAISE A SUILEN合同オンラインライブ「Rausch und/and Craziness -interlude-」のグッズを期間限定通販いたします。
+Roselia×RAISE A SUILEN联合在线演唱会「Rausch und/and Craziness -interlude-」的周边商品进行期间限定通贩。
 
-通販期間：2020年12月11日(金)15:00～ 12月27日(日)23:59
-発送時期：2021年1月下旬（予定）
+通贩期间：2020年12月11日(周五)15:00～ 12月27日(周日)23:59
+发货时间：2021年1月下旬（预定）
 
-詳細はこちら⇒[https://bushiroad- ecshop.com/pages/interlude](https://bushiroad-ecshop.com/pages/interlude)
+详情请点击⇒[https://bushiroad- ecshop.com/pages/interlude](https://bushiroad-ecshop.com/pages/interlude)
 
-## 先行通販 ※終了しました
+## 先行通贩 ※已结束
 
 [![](https://img.tano.asia/i/3e1b999c-02d1-4892-912b-14bdf02358e4.webp)](https://bushiroad-ecshop.com/pages/interlude-pre)
 
-Roselia×RAISE A SUILEN合同オンラインライブ「Rausch und/and Craziness -interlude-」のグッズを先行通販いたします。
+Roselia×RAISE A SUILEN联合在线演唱会「Rausch und/and Craziness -interlude-」的周边商品进行先行通贩。
 
-通販期間：2020年10月21日(水)15:00～ 11月1日(日)23:59
-発送時期：2020年11月中旬（予定）
+通贩期间：2020年10月21日(周三)15:00～ 11月1日(周日)23:59
+发货时间：2020年11月中旬（预定）
 
-詳細はこちら⇒[https://bushiroad-ecshop.com/pages/interlude-pre](https://bushiroad-ecshop.com/pages/interlude-pre)
+详情请点击⇒[https://bushiroad-ecshop.com/pages/interlude-pre](https://bushiroad-ecshop.com/pages/interlude-pre)
 
-## 特番情報
+## 特番信息
 
-### Roselia×RAISE A SUILEN合同オンラインライブ開催記念特番
+### Roselia×RAISE A SUILEN联合在线演唱会举办纪念特番
 
 [![](https://img.tano.asia/i/3eeb085c-c1e0-44c0-a992-3840b8331b29.webp)](https://live2.nicovideo.jp/watch/lv329081141)
 
-「Rausch und/and Craziness -interlude-」の開催を記念した特番の放送が決定！
-ライブの見どころや、ニコ生ならではの企画を予定！ぜひリアルタイムでご視聴ください♪
+「Rausch und/and Craziness -interlude-」举办的纪念特番即将播出！
+预定有演唱会看点及niconico生放送独有的企划！请务必实时收看♪
 
-###### 日時
+###### 日期时间
 
-11月30日(月) 21:00～
+11月30日(周一) 21:00～
 
 ###### 出演
 
 ・Roselia
-工藤晴香（氷川紗夜役）
-櫻川めぐ（宇田川あこ役）
+工藤晴香（冰川纱夜 役）
+樱川惠（宇田川亚子 役）
 
 ・RAISE A SUILEN
-Raychell（レイヤ役）
-小原莉子（ロック役）
+Raychell（LAYER 役）
+小原莉子（LOCK 役）
 
-###### 配信
+###### 播放
 
-ニコニコ生放送
+niconico生放送
 [https://live2.nicovideo.jp/watch/lv329081141](https://live2.nicovideo.jp/watch/lv329081141)
 
 ### 「Rausch und/and Craziness -interlude-」前夜祭@ABEMA
 
 ![](https://img.tano.asia/i/f2a45679-28c9-4fae-9b61-8317aaf76f22.webp)
 
-「ABEMAアニメチャンネル」にて『「Rausch und/and Craziness -interlude-」前夜祭@ABEMA』配信決定！
-翌日のライブに向けた思いや見所を語ります。ぜひご視聴ください♪
+「ABEMA动画频道」将播出「Rausch und/and Craziness -interlude-」前夜祭@ABEMA！
+畅谈对次日演唱会的期待与看点。请务必收看♪
 
-###### 日時
+###### 日期时间
 
-12月11日(金) 20:00～
+12月11日(周五) 20:00～
 
 ###### 出演
 
-中島由貴（今井リサ役）
-紡木吏佐（チュチュ役）
+中岛由贵（今井丽莎 役）
+纺木吏佐（Chu² 役）
 
-###### 配信
+###### 播放
 
-ABEMAアニメチャンネル
+ABEMA动画频道
 [https://abema.tv/channels/abema-anime/slots/B9hMfCxgSoU119](https://abema.tv/channels/abema-anime/slots/B9hMfCxgSoU119)

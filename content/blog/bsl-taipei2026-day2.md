@@ -1,5 +1,5 @@
 ---
-title: "BanG Dream! Special LIVE in TAIPEI DAY2 : Poppin'Party×Roselia「DREAMS GO ON」"
+title: "BanG Dream! 台北特别演唱会 DAY2 : Poppin'Party×Roselia「DREAMS GO ON」"
 description: ""
 date: "2026-04-12"
 status: "on_site"
@@ -9,4 +9,4 @@ org: ["ppp", "R"]
 url: "https://bang-dream.com/events/bsl-taipei2026-day2/"
 ---
 
-
+<!-- translated-by: deepseek -->

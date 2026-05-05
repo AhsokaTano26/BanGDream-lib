@@ -1,6 +1,6 @@
 ---
-title: "BanG Dream! Special☆LIVE Girls Band Party! 2020 前日物販"
-description: "※2020年3月31日(火) 15:00追記 【ライブ・イベントに関する重要なご案内】 新型コロナウイルス感染症の拡大に伴う不要不急の外出の自粛要請 を受け、 本イベントの開催を中止することとなりました。（※別途販売方法を検討中） なお、 今後の対応に関しましては現在調整中となっておりますので、 決定し次第バンドリ！公式HP・ 公式Twitterにてご案内い…"
+title: "BanG Dream! Special☆LIVE Girls Band Party! 2020 前日物贩"
+description: "※2020年3月31日(周二) 15:00补充 【关于演唱会・活动的重要通知】 鉴于新型冠状病毒感染症扩大而要求避免不必要非紧急的外出， 本活动决定中止举办。（※另行探讨销售方法） 此外， 关于今后的应对措施目前正在调整中， 一旦确定，将在BanG Dream!官方网站・官方Twitter上通知…"
 date: "2020-05-02"
 status: "activity"
 author: "BanG Dream! Project"
@@ -9,187 +9,189 @@ org: ["other"]
 url: "https://bang-dream.com/events/gbp2020goods/"
 ---
 
-**※2020年3月31日(火) 15:00追記**
+<!-- translated-by: deepseek -->
 
-【ライブ・イベントに関する重要なご案内】
-新型コロナウイルス感染症の拡大に伴う不要不急の外出の自粛要請 を受け、
-本イベントの開催を中止することとなりました。（※別途販売方法を検討中）
+**※2020年3月31日(周二) 15:00追记**
 
-なお、 今後の対応に関しましては現在調整中となっておりますので、
-決定し次第バンドリ！公式HP・ 公式Twitterにてご案内いたします。
+【关于演出/活动的重要通知】
+由于新型冠状病毒感染症扩散，政府要求避免不必要非紧急的外出，
+本活动决定中止举办。（※另行探讨销售方法）
 
-お客様や演者・ スタッフの健康を第一に考えての判断となりますので、
-多大なるご迷惑をおかけいたしますことをご了承いただけますよう お願い申し上げます。
+此外，关于后续应对措施目前正在调整中，
+一旦确定，将在BanG Dream!官网及官方Twitter上通知。
 
-詳細につきましては下記URLよりご確認ください。
+此次决定优先考虑顾客、演出者及工作人员的健康，
+给您带来的不便，深表歉意，敬请谅解。
+
+详情请从下方URL确认。
 [https://bushiroad.com/information/83](https://bushiroad.com/information/83)
 
-5月2日(土) BanG Dream! Special☆LIVE Girls Band Party! 2020前日物販にて新商品を含むライブグッズの先行販売を行います。
+5月2日(周六) BanG Dream! Special☆LIVE Girls Band Party! 2020 前一天的商品销售中，将先行销售包含新商品的演出周边。
 
-## 開催日時
+## 举办日期
 
-2020年5月2日(土) 8：00～20：00(予定)
+2020年5月2日(周六) 8:00～20:00(预定)
 
-## 場所
+## 地点
 
-ベルサール秋葉原（[アクセス](https://www.bellesalle.co.jp/shisetsu/tokyo/bs_akihabara/access/)）
+贝尔萨尔秋叶原（[交通方式](https://www.bellesalle.co.jp/shisetsu/tokyo/bs_akihabara/access/)）
 
-## グッズ情報
+## 周边信息
 
 ![](https://img.tano.asia/i/ceb10c07-83b6-4e4f-ae97-ba8b4adaa820.webp)
 
-SOLD OUT
+已售罄
 
-【EC限定／物販エリア優先入場券付き】BanG Dream! Special☆LIVE Girls Band Party! 2020 バングルライト
+【EC限定／附商品区优先入场券】BanG Dream! Special☆LIVE Girls Band Party! 2020 手环灯
 
-価格: 4,000円 (税込)
+价格: 4,000日元 (含税)
 
 ![](https://img.tano.asia/i/22acb66b-f16a-4412-a3bf-34f10ada6e86.webp)
 
-SOLD OUT
+已售罄
 
-BanG Dream! スペシャルパーティーブレード
+BanG Dream! 特别派对扇
 
-価格: 4,200円 (税込)
+价格: 4,200日元 (含税)
 
 ![](https://img.tano.asia/i/aa74f763-ba7a-4318-802d-aee8d984f0f9.webp)
 
-SOLD OUT
+已售罄
 
-BanG Dream! Special☆LIVE Girls Band Party! 2020 Tシャツ
+BanG Dream! Special☆LIVE Girls Band Party! 2020 T恤
 
-価格: 4,000円 (税込)
+价格: 4,000日元 (含税)
 
-※物販エリア優先入場券についての注意事項は[こちら](https://bang-dream.com/goods/1709)からご確認ください。
+※关于商品区优先入场券的注意事项请从[此处](https://bang-dream.com/goods/1709)确认。
 
 ![](https://img.tano.asia/i/6c681153-e004-4419-803b-451d94eb26e0.webp)
 
-SOLD OUT
+已售罄
 
-BanG Dream! Special☆LIVE Girls Band Party! 2020 タオル
+BanG Dream! Special☆LIVE Girls Band Party! 2020 毛巾
 
-価格: 2,000円 (税込)
+价格: 2,000日元 (含税)
 
 ![](https://img.tano.asia/i/2cf44e2b-3074-4dd8-adef-d3907f24f25f.webp)
 
-SOLD OUT
+已售罄
 
-BanG Dream! Special☆LIVE Girls Band Party! 2020 記念ラバーバンド
+BanG Dream! Special☆LIVE Girls Band Party! 2020 纪念橡皮手环
 
-価格: 1,000円 (税込)
+价格: 1,000日元 (含税)
 
 ![](https://img.tano.asia/i/1699b9c6-3119-4a21-9da1-c7db88cbbffb.webp)
 
-SOLD OUT
+已售罄
 
-BanG Dream! Special☆LIVE Girls Band Party! 2020 ベースボールシャツ
+BanG Dream! Special☆LIVE Girls Band Party! 2020 棒球衫
 
-価格: 6,000円 (税込)
+价格: 6,000日元 (含税)
 
 ![](https://img.tano.asia/i/efcc7166-6e44-4d34-b9ea-dd15720604a2.webp)
 
-SOLD OUT
+已售罄
 
-BanG Dream! Special☆LIVE Girls Band Party! 2020 記念色紙
+BanG Dream! Special☆LIVE Girls Band Party! 2020 纪念色纸
 
-価格: 1,500円 (税込)
+价格: 1,500日元 (含税)
 
 ![](https://img.tano.asia/i/60cc885b-ecbf-4b2d-9a8a-a134e3506b09.webp)
 
-SOLD OUT
+已售罄
 
-BanG Dream! Special☆LIVE Girls Band Party! 2020 クリアファイル
+BanG Dream! Special☆LIVE Girls Band Party! 2020 透明文件夹
 
-価格: 400円 (税込)
+价格: 400日元 (含税)
 
 ![](https://img.tano.asia/i/58de4315-2261-4d0c-ac19-97a54634493f.webp)
 
-SOLD OUT
+已售罄
 
-BanG Dream! Special☆LIVE Girls Band Party! 2020 記念トレーディング缶バッジ（全18種）
+BanG Dream! Special☆LIVE Girls Band Party! 2020 纪念交换徽章（共18种）
 
-価格:500円 (税込)
+价格: 500日元 (含税)
 
 ![](https://img.tano.asia/i/6b2d19de-9e62-43ab-bfc0-44021d93d8a1.webp)
 
-SOLD OUT
+已售罄
 
-BanG Dream! Special☆LIVE Girls Band Party! 2020 記念キーホルダー
+BanG Dream! Special☆LIVE Girls Band Party! 2020 纪念钥匙扣
 
-価格:1,500円 (税込)
+价格: 1,500日元 (含税)
 
 ![](https://img.tano.asia/i/0f48477f-a1ec-4c9e-b143-afb4ff313af2.webp)
 
-SOLD OUT
+已售罄
 
-BanG Dream! Special☆LIVE Girls Band Party! 2020 ラバーバンド（全6種）
+BanG Dream! Special☆LIVE Girls Band Party! 2020 橡皮手环（共6种）
 
-価格: 各1,000円 (税込)
+价格: 各1,000日元 (含税)
 
 ![](https://img.tano.asia/i/f45760fc-6690-429a-a349-53102cae0600.webp)
 
-SOLD OUT
+已售罄
 
-BanG Dream! バンドマフラータオル（全6種）
+BanG Dream! 乐队长毛巾（共6种）
 
-価格:各2,000円 (税込)
+价格: 各2,000日元 (含税)
 
 ![](https://img.tano.asia/i/a46fd405-84bc-41f7-ae71-b814f8b59029.webp)
 
-SOLD OUT
+已售罄
 
-BanG Dream! Special☆LIVE Girls Band Party! 2020 キーケース（全6種）
+BanG Dream! Special☆LIVE Girls Band Party! 2020 钥匙包（共6种）
 
-価格: 各3,000円 (税込)
+价格: 各3,000日元 (含税)
 
 ![](https://img.tano.asia/i/d01706e4-5d24-412f-ba72-d95c589e82b2.webp)
 
-SOLD OUT
+已售罄
 
-BanG Dream! キャップ Vol.2（全6種）
+BanG Dream! 帽子 Vol.2（共6种）
 
-価格: 各3,500円 (税込)
+价格: 各3,500日元 (含税)
 
-## ご購入制限
+## 购买限制
 
-お一人様1会計あたり各商品制限数を設けております。多くのお客様のお手元に届くように、ご理解とご協力をよろしくお願いいたします。
+每人每笔交易每件商品设有数量限制。为了让更多顾客能够购买到，敬请理解与配合。
 
-・各商品…3個
-・トレーディング商品…3BOX
+・各商品…3个
+・交换商品…3BOX
 
-※購入制限以上の個数をお求めの場合は、グッズ購入列の最後尾に並びなおしていただきますようお願いいたします。
-※販売状況によっては、購入制限数を変更させていただく場合がございます。
-※キャラクター違い、サイズ違い商品は別商品とさせていただきます。
+※如需购买超过限制数量的商品，请重新排队至商品购买队列末尾。
+※根据销售情况，可能会更改购买限制数量。
+※角色不同、尺寸不同的商品视为不同商品。
 
-## 完売情報
+## 售罄信息
 
-当日の完売情報は、ブシロードグッズ＆EC＆完売情報Twitter（[‎@BushiM_info](https://twitter.com/BushiM_info)）よりチェックしてください
+当天的售罄信息请通过 Bushiroad 周边&EC&售罄信息 Twitter（[‎@BushiM_info](https://twitter.com/BushiM_info)）确认。
 
-## 先行通販
+## 先行邮购
 
-新商品グッズの先行通販を[ブシロード EC SHOP](https://bushiroad-ecshop.com/)にて行います。
-**期間：3月17日15時～3月26日13時**
+新商品周边的先行邮购将在[Bushiroad EC SHOP](https://bushiroad-ecshop.com/)进行。
+**期间：3月17日15:00～3月26日13:00**
 
-通販ページはこちら→[https://bushiroad-ecshop.com/pages/BDGBP2020-pre](https://bushiroad-ecshop.com/pages/BDGBP2020-pre)
+邮购页面在此→[https://bushiroad-ecshop.com/pages/BDGBP2020-pre](https://bushiroad-ecshop.com/pages/BDGBP2020-pre)
 
-## 注意事項
+## 注意事项
 
-・グッズ販売の開始時間、終了時間は変更させて頂く場合がございます。
+・商品销售的开始时间、结束时间可能会变更。
 
-・商品の在庫には数に限りがございます。売り切れの際はご容赦ください。
+・商品库存数量有限。售罄时敬请谅解。
 
-・商品は予告なしに仕様変更、販売中止とさせて頂く場合がございます。
+・商品可能会在无预告的情况下变更规格或中止销售。
 
-・スタッフの指示に従って頂けない場合、販売をお断りすることがございます。
+・若不遵守工作人员指示，可能会被拒绝购买。
 
-・会場周辺は公共の場所ですので、 前日深夜からの徹夜待ち、公共交通機関の運行する前の早朝からの待機は近隣へのご迷惑となりますので、お控えください。
+・会场周边为公共区域，请避免在前一天深夜起彻夜等候，或公共交通运行前的清晨起等候，以免给附近居民造成困扰。
 
-・グッズ購入列の形成はスタッフの指示によって行います。
+・商品购买队列将根据工作人员指示形成。
 
-・グッズ購入列が混みあった場合、形成を制限させて頂く場合がございます。
+・若商品购买队列拥挤，可能会限制队列形成。
 
-・ご購入いただいた商品は、初期不良または当社の責による商品の欠損・破損を除き、返品・交換には応じられませんので、サイズ・色などをよくご確認の上ご購入ください。
+・购买的商品除初始不良或本公司责任导致的商品缺损、破损外，恕不接受退货或换货，请在确认尺寸、颜色等后购买。
 
-・不良品の交換は、お買い上げいただいた当日、会場でのみ対応させていただきます。交換の際はレシートが必要となります。
+・次品换货仅限购买当日于会场处理。换货时需出示收据。
 
-・本イベントで販売を予定している商品は他のイベントや限定通販などでの販売する可能性もございます。
+・本活动计划销售的商品可能会在其他活动或限定邮购等处销售。

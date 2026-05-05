@@ -1,5 +1,5 @@
 ---
-title: "中之島アニメBOX「BanG Dream! It's MyGO!!!!!スペシャルトークショー」"
+title: "中之島アニメBOX「BanG Dream! It's MyGO!!!!!特别脱口秀」"
 description: "MyGO!!!!!出演"
 date: "2023-11-26"
 status: "activity"
@@ -9,26 +9,28 @@ org: ["mygo"]
 url: "https://bang-dream.com/events/osaka-kitena/"
 ---
 
-アニメやコスプレなどのポップカルチャーが大集結するイベント「中之島アニメBOX」にて
-「BanG Dream! It's MyGO!!!!!スペシャルトークショー」の開催が決定！
+<!-- translated-by: deepseek -->
 
-## 日時
+在汇集了动画、cosplay等流行文化的活动"中之岛动画BOX"中，
+决定举办"BanG Dream! It's MyGO!!!!!特别脱口秀"！
 
-2023年11月26日(日) 13:00～14:00
+## 日期时间
 
-## 場所
+2023年11月26日(周日) 13:00～14:00
 
-大阪市中央公会堂「大集会室」
+## 地点
+
+大阪市中央公会堂"大集会室"
 
 ## 出演
 
-羊宮妃那（高松燈役）、小日向美香（長崎そよ役）
+羊宫妃那（饰演高松灯）、小日向美香（饰演长崎爽世）
 
-## 参加費
+## 参加费用
 
-無料
+免费
 
 ## 参加方法
 
-公式サイトをご確認ください。
+请确认官方网站。
 [https://osaka-kitena.jp/](https://osaka-kitena.jp/)

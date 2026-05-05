@@ -1,65 +1,67 @@
 ---
-title: "ブシロード新春大発表会 2023"
-description: "RAISE A SUILEN出演（第2部 ライブパート）"
+title: "武士道新春大发布会 2023"
+description: "RAISE A SUILEN出演（第2部分 现场演出部分）"
 date: "2023-01-09"
 status: "activity"
 author: "BanG Dream! Project"
-location: "TOKYO DOME CITY HALL"
+location: "东京巨蛋城大厅"
 org: ["other"]
 url: "https://bang-dream.com/events/2023newyear_launch_event/"
 ---
 
-ブシロードグループがTCG・ライブ・プロレス・ゲーム・アニメの最新情報をお届けする「ブシロード新春大発表会 2023」の開催が決定！
-第2部にて「ガルパ6周年超大型アップデート発表会」を開催いたします♪
+<!-- translated-by: deepseek -->
 
-スマートフォン向けゲーム「バンドリ！ ガールズバンドパーティ！」の6周年で行われるアップデートの詳細を発表いたします。
-見逃せない情報が盛り沢山ですので、ぜひご覧ください！
+Bushiroad集团决定举办“Bushiroad新春大发表会 2023”，为您带来TCG、现场演出、职业摔跤、游戏、动漫的最新信息！
+在第二部中，我们将举办“Garupa 6周年超大型更新发表会”♪
 
-さらにはRAISE A SUILENによるライブも開催！
+我们将公布智能手机游戏《BanG Dream! 少女乐团派对！》六周年更新的详细信息。
+其中包含大量不容错过的信息，请务必收看！
 
-なんと、発表会の入場は無料！現地での観覧をお待ちしております♪
+此外，还将举办RAISE A SUILEN的现场演出！
 
-「ブシロード新春大発表会 2023」詳細はこちら
+而且，发表会的入场是免费的！期待您到场观看♪
+
+“Bushiroad新春大发表会 2023”详情请点击此处
 ⇒[https://bushiroad.com/2023newyear_launch_event](https://bushiroad.com/2023newyear_launch_event)
 
 ## 日程
 
-2023年1月9日（月・祝）19:00～
+2023年1月9日（周一・节假日）19:00～
 
-## 会場
+## 会场
 
 TOKYO DOME CITY HALL
 
 ## 出演
 
-愛美（戸山香澄役）、相羽あいな（湊友希那役）、湯田雅（Craft Egg）、沢村英祐（Craft Egg）
-ライブパート：RAISE A SUILEN
+爱美（户山香澄 役）、相羽爱奈（凑友希那 役）、汤田雅（Craft Egg）、泽村英祐（Craft Egg）
+现场演出部分：RAISE A SUILEN
 
-## 観覧チケット
+## 观览门票
 
-###### 入場料
+###### 入场费
 
-無料
+免费
 
-###### 応募方法
+###### 申请方法
 
-月刊ブシロード2022年12月号 ※11月8日(火)発売 封入シリアルにて最速先行開始！
+月刊Bushiroad 2022年12月号 ※11月8日(周二)发售 附赠序列号可最速优先申请！
 
-###### 応募期間
+###### 申请期间
 
-2022年11月8日(火) 12:00～11月27日(日) 23:59
+2022年11月8日(周二) 12:00～11月27日(周日) 23:59
 
-###### 応募フォーム
+###### 申请表单
 
 [https://eplus.jp/2023newyear_launch_event/gekkan/](https://eplus.jp/2023newyear_launch_event/gekkan/)
 
-## 配信
+## 直播
 
-YouTube「バンドリちゃんねる☆」
+YouTube「Bandori频道☆」
 
 [https://youtu.be/7UGHPVSlPxM](https://youtu.be/7UGHPVSlPxM)
 
 ---
 
-ブシロード新春大発表会 2023 公式サイト
+Bushiroad新春大发表会 2023 官方网站
 [https://bushiroad.com/2023newyear_launch_event](https://bushiroad.com/2023newyear_launch_event)

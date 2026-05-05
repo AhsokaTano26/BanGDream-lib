@@ -4,43 +4,45 @@ description: "Morfonica出演"
 date: "2021-07-04"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "有料オンライン配信"
+location: "付费在线直播"
 org: ["other"]
 url: "https://bang-dream.com/events/animeexpolite2021/"
 ---
 
+<!-- translated-by: deepseek -->
+
 ![](https://img.tano.asia/i/5c51cf89-f2fb-4cbb-8f25-264f1f6eaa06.webp)
 
-“ANIME EXPO LITE 2021 × LisAni！LIVE L.A.”へ、バンドリ！からMorfonicaの出演が決定しました！
+来自BanG Dream!的Morfonica决定出演“ANIME EXPO LITE 2021 × LisAni！LIVE L.A.”！
 
-北米最大のアニメイベント“Anime Expo”によるオンライン配信イベント“Anime Expo Lite 2021”内での配信で日本時間の7月4日（日）7:00より配信スタート！
-ぜひご覧ください♪
+该演出将在北美最大动漫活动“Anime Expo”的线上配信活动“Anime Expo Lite 2021”中进行播出，于日本时间7月4日（周日）7:00开始播出！
+敬请观看♪
 
-## 公演名
+## 公演名称
 
 ANIME EXPO LITE 2021 × LisAni！LIVE L.A.
 
-## 配信日程（日本時間）
+## 播出日程（日本时间）
 
-2021年7月4日（日）7:00～9:30
+2021年7月4日（周日）7:00～9:30
 
-※時間は前後する場合がございます
-※LA現地時間＝7月3日（土）15:00～17:30
+※时间可能前后有所变动
+※LA当地时间＝7月3日（周六）15:00～17:30
 
-#### 見逃し配信（日本時間）
+#### 回放配信（日本时间）
 
-2021年7月6日（火）4:00～7月17日（土）15:55まで
+2021年7月6日（周二）4:00～7月17日（周六）15:55为止
 
-※LA現地時間：7月16日（金）23:55まで
+※LA当地时间：至7月16日（周五）23:55
 
-## 出演者（五十音順）
+## 出演者（按五十音顺序）
 
-ASCA／JO☆STARS／BURNOUT SYNDROMES／Morfonica（BanG Dream!）／Liella!（ラブライブ！スーパースター! !）
+ASCA／JO☆STARS／BURNOUT SYNDROMES／Morfonica（BanG Dream!）／Liella!（Love Live! Superstar!!）
 
-## チケット購入（※日本国内用）
+## 门票购买（※日本国内用）
 
 [https://www.anime-expo.org/ anime-expo-lite-lisani-live- la-ticket-how-to](https://www.anime-expo.org/anime-expo-lite-lisani-live-la-ticket-how-to)
 
-#### “Anime Expo Lite 2021”公式サイト
+#### “Anime Expo Lite 2021”官方网站
 
 [https://www.tixr.com/groups/ animeexpolite/events/anime- expo-lite-2021-benefitting- hate-is-a-virus-23015](https://www.tixr.com/groups/animeexpolite/events/anime-expo-lite-2021-benefitting-hate-is-a-virus-23015)

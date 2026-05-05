@@ -4,9 +4,9 @@ description: ""
 date: "2023-11-05"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "東京ガーデンシアター"
+location: "东京花园剧场"
 org: ["RAS"]
 url: "https://bang-dream.com/events/12th_ras/"
 ---
 
-
+<!-- translated-by: deepseek -->

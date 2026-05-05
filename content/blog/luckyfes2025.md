@@ -1,78 +1,80 @@
 ---
 title: "LuckyFes'25"
-description: "8月11日(月・祝) RAISE A SUILEN出演"
+description: "8月11日(周一・节假日) RAISE A SUILEN出演"
 date: "2025-08-11"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "国営ひたち海浜公園"
+location: "国营常陆海滨公园"
 org: ["other"]
 url: "https://bang-dream.com/events/luckyfes2025/"
 ---
 
-「LuckyFes'25」に、バンドリ！からRAISE A SUILENの出演が決定！
+<!-- translated-by: deepseek -->
 
-## 公演名
+「LuckyFes'25」中，来自BanG Dream!的RAISE A SUILEN确定出演！
+
+## 演出名称
 
 LuckyFes'25
 
 ## 日程
 
-2025年8月9日(土)・10日(日)・11日(月･祝)
-開場 8:00／開演 10:00（予定）
+2025年8月9日(周六)・10日(周日)・11日(周一・节假日)
+开场 8:00／开演 10:00（预定）
 
-###### 8月11日(月・祝) 13:20～ GARDEN STAGE に、RAISE A SUILENが出演！
+###### 8月11日(周一・节假日) 13:20～ GARDEN STAGE，RAISE A SUILEN出演！
 ![](https://img.tano.asia/i/2ce5a0be-0321-496d-a1ad-ce8b170f8764.webp)
 
-## タイムテーブル
+## 时间表
 
 ![](https://img.tano.asia/i/2c484ffc-ff47-4e76-8d9b-67e35202ea73.webp)
 
-## 会場
+## 会场
 
-国営ひたち海浜公園（茨城県ひたちなか市）
+国营常陆海滨公园（茨城县常陆那珂市）
 
-## チケット
+## 门票
 
-詳細は公式サイトをご確認ください。
+详情请查看官方网站。
 [https://luckyfes.com/](https://luckyfes.com/)
 
-※公式HPの注意事項等をご一読の上チケットをご購入ください。
+※请阅读官网注意事项等后再购买门票。
 
-## LuckyFes'25無料独占生中継
+## LuckyFes'25免费独家直播
 
 ![](https://img.tano.asia/i/31df5e08-f2c8-4707-8f85-4a6907937c6a.webp)
 
-「ABEMA（アベマ）」にて、「LuckyFes'25無料独占生中継」が決定いたしました。
-ぜひ配信でも「LuckyFes'25」をお楽しみください。
+在「ABEMA」上，决定进行「LuckyFes'25免费独家直播」。
+请务必通过直播尽情享受「LuckyFes'25」。
 
-##### 配信詳細
+##### 直播详情
 
-放送チャンネル：LuckyFesチャンネル
+播出频道：LuckyFes频道
 
-8月11日(月・祝) RAISE A SUILEN出演
+8月11日(周一・节假日) RAISE A SUILEN出演
 
-『LuckyFes'25独占生中継！DAY3』
+『LuckyFes'25独家直播！DAY3』
 [https://abema.go.link/HcRXk](https://abema.go.link/HcRXk)
 
-## グッズ販売
+## 周边商品销售
 
-会場内の「アーティストグッズ売り場」にてRAISE A SUILEN関連商品の販売が決定いたしました。また会場先行で新商品の販売もいたします。
-ご来場予定の方は是非お立ち寄りください。
+决定在会场内的「艺人周边商品售卖区」销售RAISE A SUILEN相关商品。此外，还会在会场先行销售新商品。
+计划到场的各位请务必光临。
 
-###### 先行販売新商品
+###### 先行销售新商品
 
-・BanG Dream! ビッグシルエットTシャツ RAISE A SUILEN 2025 Summer ver.
-・BanG Dream! バンドマフラータオル RAISE A SUILEN 2025 Summer ver.
+・BanG Dream! 大轮廓T恤 RAISE A SUILEN 2025 Summer ver.
+・BanG Dream! 乐队围巾毛巾 RAISE A SUILEN 2025 Summer ver.
 
-###### 販売商品一覧
+###### 销售商品一览
 
 ![](https://img.tano.asia/i/37ddda2e-84e1-456a-a3c6-512a287a1b15.webp)
 
-※販売価格はイベント価格となります。
-※販売は出演日の8月11日(月・祝)のみとなります。
-※8月11日(月・祝)にご入場いただけるチケットをお持ちの方のみご利用いただけます。
-※詳細な販売場所や時間につきましては「LuckyFes'25」の公式サイトよりご確認ください。
+※销售价格为活动价格。
+※仅限出演日8月11日(周一・节假日)销售。
+※仅限持有8月11日(周一・节假日)入场门票者购买。
+※详细销售地点及时间请从「LuckyFes'25」官方网站确认。
 
-## お問い合わせ
+## 咨询
 
 [LuckyFes infomation](https://luckyfes.com/contact)

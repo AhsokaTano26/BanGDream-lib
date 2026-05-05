@@ -1,28 +1,30 @@
 ---
-title: "Pastel＊Palettes Sound Only Live「Flowerful＊」"
-description: "Sound Only Live第2弾はPastel＊Palettes！ 新規描き下ろしイラストを使用した映像付きでお届けいたします！ YouTube「バンドリちゃんねる☆」にて無料配信します。 また、ライブグッズの販売も決定！ Pastel＊Palettes単独ライブをぜひお楽しみに♪ Sound Only Liveとは Sound Only Liveとは、…"
+title: "Pastel＊Palettes 纯声音演唱会「Flowerful＊」"
+description: "Sound Only Live第2弹是Pastel＊Palettes！我们将以使用全新绘制插图的有声影像形式呈现！将于YouTube「BanG Dream!频道☆」免费播出。此外，现场周边商品也将发售！敬请期待Pastel＊Palettes的单独演唱会♪ 关于Sound Only Live Sound Only Live是指，…"
 date: "2021-02-27"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "YouTube「バンドリちゃんねる☆」"
+location: "YouTube「Bandori频道☆」"
 org: ["pp"]
 url: "https://bang-dream.com/events/sol_flowerful/"
 ---
 
-Sound Only Live第2弾はPastel＊Palettes！
-新規描き下ろしイラストを使用した映像付きでお届けいたします！
-YouTube「バンドリちゃんねる☆」にて無料配信します。
-また、ライブグッズの販売も決定！
-Pastel＊Palettes単独ライブをぜひお楽しみに♪
+<!-- translated-by: deepseek -->
 
-###### Sound Only Liveとは
+Sound Only Live第2弹是Pastel＊Palettes！
+使用全新绘制插图的附带影像版为您呈现！
+将在YouTube「BanG Dream!频道☆」免费播出。
+另外，演唱会周边商品也将开售！
+敬请期待Pastel＊Palettes单独演唱会♪
 
-Sound Only Liveとは、メンバーが織りなす「音のみ」のオンライン配信ライブ！
-メンバーたちの掛け合いや、ライブを盛り上げるMCもお楽しみいただけます。
+###### 什么是Sound Only Live
 
-「Flowerful＊」の予告PVは[こちら](https://youtu.be/rGVeyixBQLc)☆
+Sound Only Live是成员们编织的「仅凭声音」的线上直播演唱会！
+您也可以欣赏到成员们的互动以及炒热现场的MC。
 
-## 公演名
+「Flowerful＊」的预告PV请点击[这里](https://youtu.be/rGVeyixBQLc)☆
+
+## 演出名称
 
 Pastel＊Palettes Sound Only Live「Flowerful＊」
 
@@ -30,35 +32,35 @@ Pastel＊Palettes Sound Only Live「Flowerful＊」
 
 Pastel＊Palettes
 
-## 日時
+## 日期时间
 
-2021年2月27日(土)・28日(日) 19:00～
-※30分前より配信を開始いたします。
+2021年2月27日(周六)・28日(周日) 19:00～
+※直播将于开播前30分钟开始。
 
-※公演内容は両日とも同じものになります。
-※本公演のアーカイブ配信はございません。
-※本公演ではスーパーチャットをご利用いただけます。
+※两场公演内容相同。
+※本场演出无存档回放。
+※本场演出可使用超级留言功能。
 
-## 配信URL
+## 直播URL
 
 ###### YouTube Live
 
-YouTube「[バンドリちゃんねる☆](https://www.youtube.com/channel/UCN-bFIdJM0gQlgX7h6LKcZA)」にて無料配信！
-配信URLは後日公開いたします。
+在YouTube「[BanG Dream!频道☆](https://www.youtube.com/channel/UCN-bFIdJM0gQlgX7h6LKcZA)」免费播出！
+直播URL将于日后公开。
 
-## 通販情報
+## 通贩信息
 
-###### 通販情報
+###### 通贩信息
 
 ![](https://img.tano.asia/i/5d480d42-ac34-4a88-8d63-1b071fa131c5.webp)
 
-Pastel＊Palettes Sound Only Live「Flowerful＊」 の新商品を期間限定で通販いたします。
+Pastel＊Palettes Sound Only Live「Flowerful＊」的新商品将限期通贩。
 
-通販期間：2021年2月25日(木)23:00～3月14日( 日)23:59
-発送時期：2021年4月下旬（予定）
+通贩期间：2021年2月25日(周四)23:00～3月14日(周日)23:59
+发货时间：2021年4月下旬（预定）
 
-詳細はこちら⇒[https://bushiroad-ecshop.com/pages/Flowerful](https://bushiroad-ecshop.com/pages/Flowerful)
+详情请点击⇒[https://bushiroad-ecshop.com/pages/Flowerful](https://bushiroad-ecshop.com/pages/Flowerful)
 
-###### 先行通販
+###### 先行通贩
 
-終了いたしました。
+已结束。

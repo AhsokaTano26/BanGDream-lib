@@ -120,6 +120,18 @@ python3 scripts/bang_dream_crawler.py --collections news blog discographies medi
 python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs --connect-timeout 8 --read-timeout 15
 ```
 
+如果你只想抓某一篇文章，可以直接传 URL：
+
+```bash
+python3 scripts/bang_dream_crawler.py --url "https://bang-dream.com/events/9th-live/"
+```
+
+如果要手动指定写入到哪个集合：
+
+```bash
+python3 scripts/bang_dream_crawler.py --url "https://bang-dream.com/events/9th-live/" --collection blog
+```
+
 脚本还会把抓到的数据写入 `data/contents.sqlite`，方便你本地检查页面、签名和图片失败记录。
 现在爬虫状态、图床缓存和翻译缓存也都统一写进这个数据库，不再依赖独立的 `cache/*.json` 文件。
 仓库里旧的 `cache/*.json` 只作为迁移来源，后续运行不会再写它们。
@@ -314,6 +326,8 @@ python3 scripts/translate_markdown_docs.py content
 - `--frontmatter-fields title,description,location`：控制翻译哪些 frontmatter 字段
 - `--db-path ...`：SQLite 数据库位置
 - 密钥统一读取根目录 `.env`
+
+翻译时会在终端显示进度条，方便看当前处理到哪一篇了。
 
 ### 8.10 `data/contents.sqlite` 的表和字段说明
 

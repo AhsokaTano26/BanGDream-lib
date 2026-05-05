@@ -1,31 +1,33 @@
 ---
-title: "Harezaの日 3rd Anniversary SUMMER FESTIVAL 2023"
-description: "8月5日(土)のステージに出演！"
+title: "Hareza之日 3rd Anniversary SUMMER FESTIVAL 2023"
+description: "8月5日(周六)的舞台演出！"
 date: "2023-08-05"
 status: "activity"
 author: "BanG Dream! Project"
-location: "中池袋公園"
+location: "中池袋公园"
 org: ["other"]
 url: "https://bang-dream.com/events/hareza_3rdanniv/"
 ---
 
-「Hareza池袋」の周年を記念したイベント「[Harezaの日 3rd Anniversary SUMMER FESTIVAL 2023](https://hareza-ikebukuro.com/event/#post-1236)」内のステージにて、アニメ「BanG Dream! It's MyGO!!!!!」に出演のキャストがトークショーを行います！
-入場料は無料！ぜひ遊びに来てくださいね♪
+<!-- translated-by: deepseek -->
 
-### トークショー 概要
+「Hareza池袋」周年纪念活动「[Hareza之日 3rd Anniversary SUMMER FESTIVAL 2023](https://hareza-ikebukuro.com/event/#post-1236)」内的舞台上，动画《BanG Dream! It's MyGO!!!!!》的出演声优将进行脱口秀！
+入场免费！欢迎大家来玩哦♪
 
-## 日時
+### 脱口秀 概要
 
-2023年8月5日（土）16:15～16:45
+## 日期时间
 
-## 会場
+2023年8月5日（周六）16:15～16:45
 
-中池袋公園
+## 场馆
+
+中池袋公园
 
 ## 出演
 
-羊宮妃那（高松燈 役）、立石凛（千早愛音 役）、青木陽菜（要楽奈 役）
+羊宫妃那（高松灯 役）、立石凛（千早爱音 役）、青木阳菜（要乐奈 役）
 
-## 入場料
+## 入场费
 
-無料
+免费

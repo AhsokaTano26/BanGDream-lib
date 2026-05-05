@@ -1,48 +1,50 @@
 ---
-title: "Poppin'Party×SILENT SIREN「NO GIRL NO CRY」発売記念お渡し会"
-description: "Poppin'Party×SILENT SIREN Single「NO GIRL NO CRY」発売を記念し、お渡し会を開催いたします。 開催店舗にて参加券を配布いたしますので下記店舗ご案内をご確認ください。 開催日時 7/30(火) タワーレコード渋谷店 【集合時間】18:30 【開演】19:00 イベント内容：お渡し会 ※Poppin'Party 2L判…"
+title: "Poppin'Party×SILENT SIREN「NO GIRL NO CRY」发售纪念交付会"
+description: "Poppin'Party×SILENT SIREN单曲「NO GIRL NO CRY」发售纪念，将举办交付会。将在举办店铺发放参加券，请确认以下店铺指引。举办日期时间 7/30(周二) TOWER RECORDS涩谷店 【集合时间】18:30 【开演】19:00 活动内容：交付会 ※Poppin'Party 2L尺寸…"
 date: "2019-07-30"
 status: "activity"
 author: "BanG Dream! Project"
-location: "7/30(火) タワーレコード渋谷店、7/31(水) ゲーマーズ新宿店"
+location: "7月30日(周二) 塔唱片涩谷店、7月31日(周三) GAMERS新宿店"
 org: ["ppp"]
 url: "https://bang-dream.com/events/ngnc_release/"
 ---
 
-Poppin'Party×SILENT SIREN Single「NO GIRL NO CRY」発売を記念し、お渡し会を開催いたします。
-開催店舗にて参加券を配布いたしますので下記店舗ご案内をご確認ください。
+<!-- translated-by: deepseek -->
 
-## 開催日時
+Poppin'Party×SILENT SIREN单曲「NO GIRL NO CRY」发售纪念，将举办交付会。
+将在举办店铺发放参加券，请确认以下店铺指南。
 
-###### 7/30(火) タワーレコード渋谷店
+## 举办时间
 
-【集合時間】18:30 【開演】19:00
-イベント内容：お渡し会
-※Poppin'Party 2L判ブロマイド、SILENT SIREN ヴァイスシュヴァルツPRカードをお渡しいたします。
-キャスト：Poppin’Party 【大塚紗英 、伊藤彩沙 】、SILENT SIREN 【すぅ 、あいにゃん 】
-※参加券は7/30(火)店舗オープン時より先着順にてお渡しいたします。
+###### 7/30(周二) Tower Records涩谷店
 
-[【タワーレコード渋谷店詳細情報】](https://tower.jp/store/event/2019/07/003095)
+【集合时间】18:30 【开演】19:00
+活动内容：交付会
+※将交付Poppin'Party 2L尺寸照片、SILENT SIREN Weiss Schwarz PR卡。
+出演：Poppin'Party 【大塚纱英、伊藤彩沙】、SILENT SIREN 【すぅ、あいにゃん】
+※参加券将于7/30(周二)店铺开业时起按先到先得发放。
+
+[【Tower Records涩谷店详细信息】](https://tower.jp/store/event/2019/07/003095)
 [https://tower.jp/store/event/2019/07/003095](https://tower.jp/store/event/2019/07/003095)
 
-###### 7/31(水) ゲーマーズ新宿店
+###### 7/31(周三) Gamers新宿店
 
-【集合時間】18:30 【開演】19:00
-イベント内容：お渡し会
-※Poppin'Party 2L判ブロマイド、SILENT SIREN ヴァイスシュヴァルツPRカードをお渡しいたします。
-キャスト：Poppin’Party 【愛美、西本りみ 】、SILENT SIREN 【ひなんちゅ 、ゆかるん 】
-※参加券は7/31(水)11:00より先着順にてお渡しいたします。
+【集合时间】18:30 【开演】19:00
+活动内容：交付会
+※将交付Poppin'Party 2L尺寸照片、SILENT SIREN Weiss Schwarz PR卡。
+出演：Poppin'Party 【爱美、西本梨美】、SILENT SIREN 【ひなんちゅ、ゆかるん】
+※参加券将于7/31(周三)11:00起按先到先得发放。
 
-[【ゲーマーズ新宿店詳細情報】](https://www.gamers.co.jp/shop/event/114471/)
+[【Gamers新宿店详细信息】](https://www.gamers.co.jp/shop/event/114471/)
 [https://www.gamers.co.jp/shop/event/114471/](https://www.gamers.co.jp/shop/event/114471/)
 
-## 注意事項
+## 注意事项
 
-※集合時間に遅れますと、最後尾にお並び頂く場合がございます。予めご了承ください。
-※参加券の配布方法につきましては各法人様へお問い合わせください。
-※参加券の第三者への譲渡・オークション等での転売は固く禁止いたします。このような行為を発見致しましたら、参加券を没収いたします。予めご了承ください。
-※トラブルやアーティストの都合・天候の影響により、予告なくイベント内容が変更、中止となる場合がございます。予めご了承ください。
-※イベントの実施・運営にあたりましてはスタッフの指示に必ず従ってください。
-※その他本イベントに関するお問い合わせは各店舗様へお問い合わせをお願いいたします。
+※若迟到集合时间，可能会请您排在队伍末尾。敬请谅解。
+※关于参加券的发放方式，请向各商家咨询。
+※严禁将参加券转让给第三方或在拍卖等渠道转售。若发现此类行为，将没收参加券。敬请谅解。
+※由于纠纷、艺人原因或天气影响，活动内容可能不经预告发生变更或中止。敬请谅解。
+※在活动的实施和运营过程中，请务必遵守工作人员的指示。
+※其他关于本活动的咨询，请向各店铺咨询。
 
-追加情報は随時更新を致します。
+追加信息将随时更新。

@@ -1,5 +1,5 @@
 ---
-title: "バンドリ！ ラジオ祭り！"
+title: "BanG Dream！ 广播祭！"
 description: ""
 date: "2019-02-08"
 status: "activity"
@@ -9,4 +9,4 @@ org: ["other"]
 url: "https://bang-dream.com/events/radio-fes/"
 ---
 
-
+<!-- translated-by: deepseek -->

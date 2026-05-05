@@ -1,46 +1,48 @@
 ---
 title: "Poppin'Party JOYFUL PARTY, FUN TIME!"
-description: "「日清食品 POWER STATION [REBOOT]」でPoppin'Partyの配信ライブが開催決定！ 日程 2020年11月23日(月･祝) 20:00～21:00 (予定) 出演 Poppin'Party チケット 料金 一般チケット：3,300円 (税込) プレミアムチケット：6,600円 (税込) （※プレミアムチケットには投げ銭の料金が含まれ…"
+description: "在\"日清食品 POWER STATION [REBOOT]\"中，Poppin'Party的线上演唱会确定举办！日期：2020年11月23日（周一·节假日）20:00～21:00（预定）出演：Poppin'Party门票费用：普通门票：3,300日元（含税）高级门票：6,600日元（含税）（※高级门票包含打赏费用…"
 date: "2020-11-23"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "日清食品 POWER STATION [REBOOT]（有料オンライン配信）"
+location: "日清食品 POWER STATION [REBOOT]（付费在线直播）"
 org: ["ppp"]
 url: "https://bang-dream.com/events/ppp-pwst/"
 ---
 
-「日清食品 POWER STATION [REBOOT]」でPoppin'Partyの配信ライブが開催決定！
+<!-- translated-by: deepseek -->
+
+「日清食品 POWER STATION [REBOOT]」Poppin'Party 的线上直播演唱会确定举办！
 
 ## 日程
 
-2020年11月23日(月･祝) 20:00～21:00 (予定)
+2020年11月23日(周一·节假日) 20:00～21:00 (预定)
 
 ## 出演
 
 Poppin'Party
 
-## チケット
+## 门票
 
-### 料金
+### 费用
 
-一般チケット：3,300円 (税込)
-プレミアムチケット：6,600円 (税込)
-（※プレミアムチケットには投げ銭の料金が含まれています。）
+普通门票：3,300日元 (含税)
+高级门票：6,600日元 (含税)
+（※高级门票包含打赏费用。）
 
-### チケット販売
+### 售票
 
-2020年11月9日(月) 10:00より
+2020年11月9日(周一) 10:00起
 [https://nissin-ps.com/live/show/live/5.html](https://nissin-ps.com/live/show/live/5.html)
 
-### アーカイブ配信
+### 回放配信
 
-2020年11月24日(火) 23:59まで
-（※アーカイブ配信は、チケットを購入された方のみ視聴していただけます。アーカイブ配信のみの視聴も可能です。）
+截至2020年11月24日(周二) 23:59
+（※回放配信仅供已购票的观众观看。也可以仅观看回放。）
 
-「日清食品 POWER STATION [REBOOT]」公式サイト
+「日清食品 POWER STATION [REBOOT]」官方网站
 
 [https://nissin-ps.com/](https://nissin-ps.com/)
 
-#### 「日清食品 POWER STATION [REBOOT]」公式ツイッター
+#### 「日清食品 POWER STATION [REBOOT]」官方推特
 
 [@nissin_psr](https://twitter.com/nissin_psr)

@@ -1,6 +1,6 @@
 ---
-title: "バンドリ！TV LIVE 2026 | メディア | BanG Dream!（バンドリ！）公式サイト"
-description: "BanG Dream!（バンドリ！）公式サイト。ラジオ、テレビ、配信、生放送等のご案内。"
+title: "バンドリ！TV LIVE 2026 | 媒体 | BanG Dream!（バンドリ！）官方网站"
+description: "BanG Dream!（バンドリ！）官方网站。提供广播、电视、网络配信、直播等的介绍。"
 date: ""
 author: "BanG Dream! Project"
 org: ["other"]
@@ -9,34 +9,36 @@ type: "online"
 status: "finish"
 ---
 
-Media
+<!-- translated-by: deepseek -->
 
-# バンドリ！TV LIVE 2026
+媒体
+
+# BanG Dream! TV LIVE 2026
 
 ![](https://img.tano.asia/i/a3b5af87-2eea-4766-a196-d2fa068eff52.webp)
 
-## 番組紹介
+## 节目介绍
 
-「バンドリ！TV LIVE 2026」はアニメやゲームに出演しているキャストにより、バンドリ！プロジェクトの最新情報などをお届けする生配信番組です！
-YouTube Live配信いたします。
+「BanG Dream! TV LIVE 2026」是由参与动画和游戏的演员带来的，为您传递BanG Dream!项目最新信息的直播节目！
+将在YouTube Live进行直播。
 
-グッズやイベントなどの最新情報をお伝えするコーナー、 各回のキャストにあわせた特別企画など、
-盛りだくさんの内容となっておりますので、ぜひご覧ください！
+介绍周边商品和活动等最新信息的环节，以及配合每期嘉宾的特别企划等，
+内容丰富多彩，敬请收看！
 
-## 放送情報
+## 播出信息
 
-###### 放送時間
+###### 播出时间
 
-毎週木曜日 22:03ごろ～
+每周四 22:03左右～
 
-###### 配信媒体
+###### 播出平台
 
 ・YouTube LIVE
-「[バンドリちゃんねる☆](https://www.youtube.com/channel/UCN-bFIdJM0gQlgX7h6LKcZA)」
+「[BanG Dream!频道☆https://www.youtube.com/channel/UCN-bFIdJM0gQlgX7h6LKcZA)」
 
-## 配信アーカイブ
+## 发布存档
 
-過去に配信したもののアーカイブは[こちら](https://youtube.com/playlist?list=PLvRmS87ezZfpnV-KtU1vz--KFUz5zIQYo)からご覧いただけます！
+过去发布内容的存档是[こちら](https://youtube.com/playlist?list=PLvRmS87ezZfpnV-KtU1vz--KFUz5zIQYo)即可观看！
 
 SHARE
 

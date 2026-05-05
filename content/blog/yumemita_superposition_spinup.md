@@ -1,5 +1,5 @@
 ---
-title: "夢限大みゅーたいぷ 47都道府県制覇の旅「スーパーポジション 〜スピンアップ編〜」"
+title: "梦限大缪泰普 47都道府县制霸之旅「超级位置 ～旋转加速篇～」"
 description: ""
 date: "2026-01-24"
 status: "on_site"
@@ -9,4 +9,4 @@ org: ["mxd"]
 url: "https://bang-dream.com/events/yumemita_superposition_spinup/"
 ---
 
-
+<!-- translated-by: deepseek -->

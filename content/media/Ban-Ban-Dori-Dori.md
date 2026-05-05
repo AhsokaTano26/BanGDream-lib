@@ -1,6 +1,6 @@
 ---
-title: "Ban-Ban-Dori-Dori"
-description: 官方带头玩梗！《BanG Dream!》史上最“混沌”衍生漫画！
+title: "班-班-多利-多利"
+description: "官方带头玩梗！《BanG Dream!》史上最“混沌”衍生漫画！"
 date: 2025-03-14
 type: article
 author: Tano
@@ -8,6 +8,8 @@ url: https://www.corocoro.jp/title/870
 status: finish
 org: ppp
 ---
+
+<!-- translated-by: deepseek -->
 
 # BanG Dream! feat. Nyanyomelon！
 

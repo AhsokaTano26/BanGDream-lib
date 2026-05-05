@@ -1,5 +1,5 @@
 ---
-title: "Galaxy×バンドリ！ ガールズバンドパーティ！"
+title: "Galaxy×BanG Dream！少女乐团派对！"
 description: ""
 date: "2019-11-02"
 status: "activity"
@@ -9,4 +9,4 @@ org: ["other"]
 url: "https://bang-dream.com/events/gbp_galaxy/"
 ---
 
-
+<!-- translated-by: deepseek -->

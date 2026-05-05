@@ -1,60 +1,64 @@
 ---
-title: "NANIMONO × 夢限大みゅーたいぷ 『新人類は何者かになる夢を見るか？』"
-description: "NANIMONO×夢限大みゅーたいぷの対バンライブが決定！ 日程 チケット 公演名 NANIMONO × 夢限大みゅーたいぷ 『新人類は何者かになる夢を見るか？』 日程 2025年1月23日(木) 開場18:00／開演19:00（予定） 1月23日(木) 対バンLIVEが決定！ 会場 Veats Shibuya 出演 NANIMONO / 夢限大みゅーたいぷ…"
+title: "NANIMONO × 梦限大みゅーたいぷ 『新人类会梦想成为什么人吗？』"
+description: "NANIMONO×夢限大みゅーたいぷ的对盘演出决定！ 日程 门票 公演名 NANIMONO × 夢限大みゅーたいぷ 『新人類会梦想成为何物吗？』 日程 2025年1月23日(周四) 开场18:00／开演19:00（预定） 1月23日(周四) 对盘LIVE决定！ 会场 Veats Shibuya 出演 NANIMONO / 夢限大みゅーたいぷ…"
 date: "2025-01-23"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "Veats Shibuya"
+location: "Veats涩谷"
 org: ["mxd"]
 url: "https://bang-dream.com/events/yumemita_nanimono_taiban/"
 ---
 
-NANIMONO×夢限大みゅーたいぷの対バンライブが決定！
+<!-- translated-by: deepseek -->
+
+content/blog/yumemita_nanimono_taiban.md
+
+NANIMONO×梦限大MyuType的对盘演出决定！
 
 - [日程](#nittei)
-- [チケット](#ticket)
+- [门票](#ticket)
 
-## 公演名
+## 公演名称
 
-NANIMONO × 夢限大みゅーたいぷ
-『新人類は何者かになる夢を見るか？』
+NANIMONO × 梦限大MyuType
+『新人类别会梦见自己成为何物吗？』
 
-## 日程
+## 日期
 
-2025年1月23日(木) 開場18:00／開演19:00（予定）
+2025年1月23日（周四） 开场18:00／开演19:00（预定）
 
-###### 1月23日(木) 対バンLIVEが決定！
+###### 1月23日（周四） 对盘LIVE决定！
 
 ![](https://img.tano.asia/i/22de9025-15c4-438c-ad8e-19dc8b0baafd.webp)
 
-## 会場
+## 会场
 
 Veats Shibuya
 
 ## 出演
 
-NANIMONO / 夢限大みゅーたいぷ
+NANIMONO / 梦限大MyuType
 
-## チケット
+## 门票
 
-詳細は公式サイトをご確認ください。
+详情请确认官方网站。
 
 [https://nanimono-official.com/#/schedule/yPyJD62B1FPCjyZnBToOE](https://nanimono-official.com/#/schedule/yPyJD62B1FPCjyZnBToOE)
-※公式HPの注意事項等をご一読の上チケットをご購入ください。
+※请阅读官网的注意事项等后再购买门票。
 ![](https://img.tano.asia/i/f8cd7f50-77de-4b00-a6f1-54f8862975d8.webp)
 
-##### チケット販売
+##### 门票销售
 
-・2F最前VIP ¥8,000 (税込)
-→2FとABエリアでの観覧となります
+・2F最前VIP ¥8,000（含税）
+→可在2F和AB区域观看
 
-・前方S ¥6,000 (税込)
-→前方エリアでの観覧となります
+・前方S ¥6,000（含税）
+→可在前方区域观看
 
-・ 一般A ¥3,000 (税込)
-→前方エリアの後ろ、一般エリアでの観覧となります
+・一般A ¥3,000（含税）
+→可在前方区域后方、一般区域观看
 
-・夢限大エリアB ¥888 (税込)
-→後方エリアでの観覧となります
+・梦限大区域B ¥888（含税）
+→可在后方区域观看
 
-※別途ドリンク代が必要です。
+※需另付饮料费。

@@ -1,29 +1,31 @@
 ---
 title: "SUMMER SONIC 2026"
-description: "8月14日(金)大阪公演・16日(日)東京公演 Ave Mujica出演"
+description: "8月14日(周五)大阪公演・16日(周日)东京公演 Ave Mujica出演"
 date: "2026-08-14"
 status: "on_site"
 author: "BanG Dream! Project"
-location: "万博記念公園、ZOZOマリンスタジアム＆幕張メッセ"
+location: "世博纪念公园、ZOZO海洋体育场＆幕张展览馆"
 org: ["Ave"]
 url: "https://bang-dream.com/events/summer-sonic-2026/"
 ---
 
-「SUMMER SONIC 2026」に、バンドリ！からAve Mujicaの出演が決定
+<!-- translated-by: deepseek -->
 
-## 公演名
+「SUMMER SONIC 2026」中，BanG Dream!的Ave Mujica确定出演
+
+## 演出名称
 
 SUMMER SONIC 2026
 
 ## 日程
 
-2026年8月14日(金)・15日(土)・16日(日)
+2026年8月14日（周五）・15日（周六）・16日（周日）
 
-###### 8月14日(金)大阪公演・16日(日)東京公演にAve Mujicaが出演
+###### 8月14日（周五）大阪公演・16日（周日）东京公演将有Ave Mujica出演
 
 ![](https://img.tano.asia/i/dcb9ef72-0369-4f5c-89fa-d86c0e9f1156.webp)
 
-## 出演アーティスト情報
+## 演出艺人信息
 
 [![](https://img.tano.asia/i/47d125a7-70cf-437a-bd28-14ad89725bc9.webp)](https://bang-dream.com/wordpress/wp-content/uploads/2026/03/25134743/58ffb661-5a350b14-dd0d89c8-b811d196.jpg)
 
@@ -33,10 +35,10 @@ OSAKA
 
 TOKYO
 
-## 会場
+## 会场
 
-万博記念公園（大阪会場）
-ZOZOマリンスタジアム＆幕張メッセ（東京会場）
+万博纪念公园（大阪会场）
+ZOZO海洋球场&幕张展览馆（东京会场）
 
 #### SUMMER SONIC 2026
 

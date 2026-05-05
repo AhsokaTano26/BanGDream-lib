@@ -1,6 +1,6 @@
 ---
 title: "バンドリ！＆スタァライト展 in Gallery AaMo"
-description: "「おうちでバンドリ！＆スタァライト展」開催決定！ （※8/5(水)19:00追記） バンドリ！＆スタァライトの合同展示イベントをおうちでも楽しんじゃおう！ 詳しくはこちら→ https://bushiroad.com/galleryaamo2020_home Gallery AaMoで、バンドリ！＆スタァライトの合同展示イベントが開催決定！ ここでしか体験で…"
+description: "「在家玩BanG Dream! & Starlight展」决定举办！ （※8/5(周三)19:00追记） BanG Dream! & Starlight的联合展示活动，在家也能享受！ 详情请点击这里→ https://bushiroad.com/galleryaamo2020_home Gallery AaMo决定举办BanG Dream! & Starlight的联合展示活动！ 只有在这里才能体验…"
 date: "2020-07-15"
 status: "activity"
 author: "BanG Dream! Project"
@@ -9,172 +9,174 @@ org: ["other"]
 url: "https://bang-dream.com/events/gbp_exhibition/"
 ---
 
-###### 「おうちでバンドリ！＆スタァライト展」開催決定！（※8/5(水)19:00追記）
+<!-- translated-by: deepseek -->
 
-バンドリ！＆スタァライトの合同展示イベントをおうちでも楽しんじゃおう！
-詳しくはこちら→[https://bushiroad.com/galleryaamo2020_home](https://bushiroad.com/galleryaamo2020_home)
+###### "在家享受Bandori! & Starlight展"举办决定！(※8/5(周三)19:00追记)
 
-Gallery AaMoで、バンドリ！＆スタァライトの合同展示イベントが開催決定！
-ここでしか体験できない、バンドリ！、少女☆歌劇 レヴュースタァライト、アルゴナビスの世界に浸っちゃおう！
+Bandori! & Starlight的联合展示活动，在家也能尽情享受！
+详情请点击这里→[https://bushiroad.com/galleryaamo2020_home](https://bushiroad.com/galleryaamo2020_home)
 
-### ガルパ展 in Gallery AaMo
+在Gallery AaMo，Bandori! & Starlight联合展示活动举办决定！
+沉浸在这只有在这里才能体验到的、Bandori!、少女☆歌剧 Revue Starlight、ARGONAVIS的世界吧！
 
-「バンドリ！ ガールズバンドパーティ！」の大型展示イベント！
-ガルパの過去イベントをメンバーと一緒に振り返ろう♪
-前期、後期に分かれて全7バンドの展示＆オリジナルボイスドラマをお届けします。
-さらに、ガルパ記念イラスト展も登場！
-ガルパのこれまでの歩みをぜひ体感してください！
+### Garupa展 in Gallery AaMo
 
-## ガルパ展 in Gallery AaMo 詳細
+"BanG Dream! 少女乐团派对！"的大型展示活动！
+和成员们一起回顾Garupa的过往活动吧♪
+分为前期和后期，展示全部7支乐队并送上原创语音剧。
+另外，还有Garupa纪念插画展登场！
+请务必来感受Garupa至今的历程！
+
+## Garupa展 in Gallery AaMo 详情
 
 ###### 展示
 
-**＜ガルパバンド特設ブース＞**
+**<Garupa乐队特设展位>**
 
-「バンドリ！ ガールズバンドパーティ！」に登場する、全7バンドの特設ブースが登場！
-ブースでは、今年3月から新しくなった各バンドイラストの等身大スタンディポップや、
-ガルパで登場したイラストを用いたシャドウボックス（複数枚）が展示されます。
-音声ガイダンスを聴きながら、各バンドの歩みを体感しよう！
+"BanG Dream! 少女乐团派对！"中登场的全部7支乐队的特设展位登场！
+展位中，有今年3月起焕然一新的各乐队插画等身大立牌，
+以及使用了Garupa中出现插画的投影箱（多张）。
+一边聆听语音导览，一边感受各乐队的历程吧！
 
 - ![](https://img.tano.asia/i/16a7bf72-8bd3-4763-bef5-1239311175db.webp)
   
-  等身大スタンディポップ
+  等身大立牌
 - ![](https://img.tano.asia/i/10f68abd-94bc-428b-b6ff-2e2d1fc462a0.webp)
   
-  シャドウボックス
+  投影箱
 
-※前期は「Poppin'Party」「Afterglow」「Pastel＊Palettes」、
-後期は「Roselia」「ハロー、ハッピーワールド！」「Morfonica」「RAISE A SUILEN」が登場します。
+※前期为"Poppin'Party""Afterglow""Pastel＊Palettes"，
+后期为"Roselia""Hello, Happy World!""Morfonica""RAISE A SUILEN"登场。
 
-**＜Twitter記念イラスト展＞**
+**<Twitter纪念插画展>**
 
-ガルパ公式Twitterで投稿した、記念イラスト展を開催！
-ガルパの歴史を振り返ろう！
+举办在Garupa官方Twitter上投稿的纪念插画展！
+回顾Garupa的历史吧！
 
-###### 音声ガイダンス
+###### 语音导览
 
-全7バンドの新規録り下ろしボイスドラマが登場！
-バンドメンバーがいつもと変わらない日常の中で、これまでの思い出トークをしちゃいます！
-ぜひ展示と一緒にお楽しみください！
+全部7支乐队的全新录制语音剧登场！
+乐队成员在一如既往的日常中，聊起至今的回忆话题！
+请务必和展示一起享受！
 
-※前期は「Poppin'Party」「Afterglow」「Pastel＊Palettes」、
-後期は「Roselia」「ハロー、ハッピーワールド！」「Morfonica」「RAISE A SUILEN」が登場します。
+※前期为"Poppin'Party""Afterglow""Pastel＊Palettes"，
+后期为"Roselia""Hello, Happy World!""Morfonica""RAISE A SUILEN"登场。
 
-音声ガイダンスの詳細はこちら→[https://bushiroad.com/galleryaamo2020](https://bushiroad.com/galleryaamo2020)
+语音导览详情请点击这里→[https://bushiroad.com/galleryaamo2020](https://bushiroad.com/galleryaamo2020)
 
-###### 来場プレゼント
+###### 来场赠品
 
-ミッシェルお面
-今年3月から衣装が新しくなった「ミッシェル」のお面をプレゼント！
+米歇尔面具
+赠送今年3月起服装焕然一新的"米歇尔"面具！
 
 ![](https://img.tano.asia/i/b2f030f5-456c-4b21-8d53-7f6732970a80.webp)
 
-※画像はイメージです。実際の商品とは異なる場合がございます。
+※图片仅供参考。可能与实际商品有所不同。
 
-###### グッズ情報
+###### 周边信息
 
-描き起こしイラストを使用したグッズもたくさん！
-詳しくはこちら→[https://bang-dream.com/news/921](https://bang-dream.com/news/921)
+使用全新绘制插图的周边也有许多！
+详情请点击这里→[https://bang-dream.com/news/921](https://bang-dream.com/news/921)
 
-## バンドリ！＆スタァライト展 in Gallery AaMo 詳細
+## Bandori! & Starlight展 in Gallery AaMo 详情
 
-###### 開催日時
+###### 举办日期时间
 
-2020年7月4日(土)～8月9日(日) ※休館日：7/20(月)
+2020年7月4日(周六)～8月9日(周日) ※闭馆日：7/20(周一)
 
-時間：平日 12:00～20:00
-土日祝 10:00～20:00
+时间：平日 12:00～20:00
+周末及节假日 10:00～20:00
 
-###### 会場
+###### 会场
 
-Gallery AaMo (ギャラリー アーモ)
+Gallery AaMo (画廊 AaMo)
 
-###### 料金
+###### 票价
 
-**＜7月4日(土)～7月19日(日)＞**
+**<7月4日(周六)～7月19日(周日)>**
 
-**【1】AMチケット（音声ガイダンス 3コンテンツ付） 5,500円（税込）**
-※ AMチケットをご購入のお客様は、全5種の音声ガイダンスよりお好きな組み合わせで3種をお楽しみ頂けます。
-例）「バンドリ！ ガールズバンドパーティ！」より2種、「アルゴナビス from BanG Dream! 」1種の計3種
-※ AMチケットをご購入頂いた方だけのスペシャルボイスもお楽しみ頂けます。
+**【1】AM门票（附语音导览3项内容） 5,500日元（含税）**
+※ 购买AM门票的顾客，可从全部5种语音导览中任意选择3种组合享受。
+例）"BanG Dream! 少女乐团派对！"2种、"ARGONAVIS from BanG Dream!"1种，共3种
+※ 还可享受仅限购买AM门票的顾客才能听到的特别语音。
 
-**【2】PMチケット（音声ガイダンス 1コンテンツ付） 2,500円（税込）**
-※ PMチケットをご購入のお客様は、全5種の音声ガイダンスより、1種をお楽しみ頂けます。
+**【2】PM门票（附语音导览1项内容） 2,500日元（含税）**
+※ 购买PM门票的顾客，可从全部5种语音导览中选择1种享受。
 
-販売開始：6月20日（土）12時
-※ 先着での販売となります。
+开始销售：6月20日（周六）12:00
+※ 按先到先得销售。
 
-**前期音声ガイダンス（全5種）**
-A：バンドリ！ 音声ガイダンス①（Poppin’Party）
-B：バンドリ！ 音声ガイダンス②（Afterglow）
-C：バンドリ！ 音声ガイダンス③（Pastel＊Palettes）
-D：スタァライト 音声ガイダンス
-E：アルゴナビス 音声ガイダンス
+**前期语音导览（全部5种）**
+A：BanG Dream! 语音导览①（Poppin'Party）
+B：BanG Dream! 语音导览②（Afterglow）
+C：BanG Dream! 语音导览③（Pastel＊Palettes）
+D：Starlight 语音导览
+E：ARGONAVIS 语音导览
 
-※音声ガイド機は耳にあててご使用いただけます。ご自身で3. 5㎜ステレオミニプラグ式のイヤホンをご用意いただければ、 ご使用いただけます。
-（Lightning イヤホンやワイヤレスイヤホンには対応しておりません。）
+※语音导览机可贴近耳朵使用。自行准备3.5mm立体声迷你插头式耳机即可使用。
+（不支持Lightning耳机或无线耳机。）
 
-販売サイト：CNプレイガイド
+销售网站：CN Play Guide
 [http://www.cnplayguide.com/galleryaamo2020/](http://www.cnplayguide.com/galleryaamo2020/)
 
-**<7月21日(火)～8月9日(日)>**
+**<7月21日(周二)～8月9日(周日)>**
 
-**【1】AMチケット（音声ガイダンス 複数コンテンツ付） 5,500円（税込）**
+**【1】AM门票（附语音导览多项内容） 5,500日元（含税）**
 
-※ AMチケットをご購入のお客様は、全6種の音声ガイダンスよりお好きな組み合わせ3種または4種をお楽しみ頂けます。
-「バンドリ！ ガールズバンドパーティ！」 のみ希望される場合は4種類の音声ガイダンスをお楽しみ頂けます 。
-複数作品の音声ガイダンスを希望される場合は3種類の音声ガイダ ンスをお楽しみ頂けます。
+※ 购买AM门票的顾客，可从全部6种语音导览中任意组合选择3种或4种享受。
+仅希望选择"BanG Dream! 少女乐团派对！"时，可享受4种语音导览。
+希望选择多部作品语音导览时，可享受3种语音导览。
 例）
-「バンドリ！ ガールズバンドパーティ！」より4種
-※「バンドリ！ ガールズバンドパーティ！」 より3種のみお選び頂くことはできません。
-「バンドリ！ ガールズバンドパーティ！」より2種、「アルゴナビス from BanG Dream! 」1種の計3種
-「バンドリ！ ガールズバンドパーティ！」より1種、「少女☆歌劇 レヴュースタァライト」より1種、「アルゴナビス from BanG Dream! 」より1種の計3種
-※ AMチケットをご購入頂いた方だけのスペシャルボイスもお楽しみ 頂けます。
+"BanG Dream! 少女乐团派对！"中选4种
+※ 不可仅从"BanG Dream! 少女乐团派对！"中选择3种。
+"BanG Dream! 少女乐团派对！"中选2种、"ARGONAVIS from BanG Dream!"中选1种，共3种
+"BanG Dream! 少女乐团派对！"中选1种、"少女☆歌剧 Revue Starlight"中选1种、"ARGONAVIS from BanG Dream!"中选1种，共3种
+※ 还可享受仅限购买AM门票的顾客才能听到的特别语音。
 
-**【2】PMチケット（音声ガイダンス 1コンテンツ付） 2,500円（税込）**
-※ PMチケットをご購入のお客様は、全6種の音声ガイダンスより、 1種をお楽しみ頂けます。
+**【2】PM门票（附语音导览1项内容） 2,500日元（含税）**
+※ 购买PM门票的顾客，可从全部6种语音导览中选择1种享受。
 
-販売開始：7月15日(水) 19時
-※ 先着での販売となります。
+开始销售：7月15日(周三) 19:00
+※ 按先到先得销售。
 
-**後期音声ガイダンス（全6種）**
-A：バンドリ！ 音声ガイダンス①（Roselia）
-B：バンドリ！ 音声ガイダンス②（ハロー、ハッピーワールド！）
-C：バンドリ！ 音声ガイダンス③（RAISE A SUILEN）
-D：バンドリ！ 音声ガイダンス④（Morfonica）
-E：スタァライト 音声ガイダンス
-F：アルゴナビス 音声ガイダンス
+**后期语音导览（全部6种）**
+A：BanG Dream! 语音导览①（Roselia）
+B：BanG Dream! 语音导览②（Hello, Happy World!）
+C：BanG Dream! 语音导览③（RAISE A SUILEN）
+D：BanG Dream! 语音导览④（Morfonica）
+E：Starlight 语音导览
+F：ARGONAVIS 语音导览
 
-※音声ガイド機は耳にあててご使用いただけます。ご自身で3. 5㎜ステレオミニプラグ式のイヤホンをご用意いただければ、 ご使用いただけます。
-（Lightning イヤホンやワイヤレスイヤホンには対応しておりません。）
+※语音导览机可贴近耳朵使用。自行准备3.5mm立体声迷你插头式耳机即可使用。
+（不支持Lightning耳机或无线耳机。）
 
-販売サイト：CNプレイガイド
+销售网站：CN Play Guide
 [http://www.cnplayguide.com/galleryaamo2020/](http://www.cnplayguide.com/galleryaamo2020/)
 
-###### 入場特典
+###### 入场特典
 
-洗えるウレタンマスク（全6種）
-※チケットの種類に関わらず、入場特典は全6種から1種お選び頂けます。
+可清洗聚氨酯口罩（全部6种）
+※不论门票种类，入场特典可从全部6种中选择1种。
 
 ![](https://img.tano.asia/i/192c9f64-d5c6-4b8a-8206-4af9d41582d6.webp)
 
-・バンドリ！ 洗えるウレタンマスク グレー
-・バンドリ！ 洗えるウレタンマスク ホワイト
-・少女☆歌劇 レヴュースタァライト -Re LIVE- 洗えるウレタンマスク グレー
-・少女☆歌劇 レヴュースタァライト -Re LIVE- 洗えるウレタンマスク レッド
-・アルゴナビス from BanG Dream! 洗えるウレタンマスク グレー
-・アルゴナビス from BanG Dream! 洗えるウレタンマスク ブルー
+・BanG Dream! 可清洗聚氨酯口罩 灰色
+・BanG Dream! 可清洗聚氨酯口罩 白色
+・少女☆歌剧 Revue Starlight -Re LIVE- 可清洗聚氨酯口罩 灰色
+・少女☆歌剧 Revue Starlight -Re LIVE- 可清洗聚氨酯口罩 红色
+・ARGONAVIS from BanG Dream! 可清洗聚氨酯口罩 灰色
+・ARGONAVIS from BanG Dream! 可清洗聚氨酯口罩 蓝色
 
-## お問い合わせ
+## 咨询
 
-###### 本展示に関するご質問は下記までお問い合わせください。
+###### 关于本展示的疑问请咨询以下联系方式。
 
-電話番号：03-5348-0852
-FAX番号：03-5348-0854
-受付時間：月～金 11:00～12:00 / 13:00～17:00
-土日祝 10:00～18:00
-メールアドレス：support@bushiroad.com
+电话号码：03-5348-0852
+传真号码：03-5348-0854
+接待时间：周一～周五 11:00～12:00 / 13:00～17:00
+周末及节假日 10:00～18:00
+邮箱地址：support@bushiroad.com
 
-#### 「バンドリ！＆スタァライト展 in Gallery AaMo」特設サイト
+#### "BanG Dream! & Starlight展 in Gallery AaMo"特设网站
 
 [https://bushiroad.com/galleryaamo2020](https://bushiroad.com/galleryaamo2020)

@@ -1,6 +1,6 @@
 ---
-title: "コミックマーケット102"
-description: "アニメ「BanG Dream! It's MyGO!!!!!」のコミックマーケット102への出展が決定！ MyGO!!!!!キャストによるお渡し会も♪ イベント概要 お渡し会概要 コミックマーケット102 イベント概要 イベント名 コミックマーケット102 日程 2023年8月12日(土)～13日(日) 10:30～16:00 会場 有明・東京国際展示場 (…"
+title: "Comic Market 102"
+description: "动画《BanG Dream! It's MyGO!!!!!》确定出展Comic Market 102！还有MyGO!!!!!成员的见面会♪ 活动概要 见面会概要 Comic Market 102 活动概要 活动名称 Comic Market 102 日程 2023年8月12日(周六)～13日(周日) 10:30～16:00 会场 有明・东京国际展览中心 (…"
 date: "2023-08-12"
 status: "activity"
 author: "BanG Dream! Project"
@@ -8,6 +8,8 @@ location: "有明・東京国際展示場 (東京ビッグサイト)"
 org: ["other"]
 url: "https://bang-dream.com/events/comiket102/"
 ---
+
+<!-- translated-by: deepseek -->
 
 アニメ「BanG Dream! It's MyGO!!!!!」のコミックマーケット102への出展が決定！
 MyGO!!!!!キャストによるお渡し会も♪
