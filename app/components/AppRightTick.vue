@@ -90,8 +90,8 @@ const { data: upcomingPosts } = await useAsyncData('upcoming-combined', async ()
     return dateA - dateB
   })
 
-  // 4. 返回前 5 条结果
-  return combined.slice(0, 5)
+  // 4. 返回前 10 条结果
+  return combined.slice(0, 10)
 })
 
 // 计算距离天数 (用于显示 "Soon" 标签)
