@@ -24,7 +24,7 @@
 
       <time class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-blue-50 text-blue-600 rounded-sm border border-blue-100 font-bold">
         <Icon name="lucide:calendar" class="w-2.5 h-2.5" />
-        {{ props.post.date }}
+        {{ formatContentDateList(props.post.date) }}
       </time>
     </div>
 
