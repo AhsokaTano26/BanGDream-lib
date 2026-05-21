@@ -5,7 +5,7 @@ description: "动画、游戏、漫画、声优现场演出等多种媒体混合
 author: "BanG Dream! Project"
 url: "https://bang-dream.com/events/13th-live-day3/"
 status: "activity"
-location: ""
+location: "东京花园剧院"
 org: ["other"]
 ---
 <!-- translated-by: deepseek -->

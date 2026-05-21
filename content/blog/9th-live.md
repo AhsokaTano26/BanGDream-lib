@@ -5,7 +5,7 @@ description: "动画、游戏、漫画、声优现场演出等多种媒体混合
 author: "BanG Dream! Project"
 url: "https://bang-dream.com/events/9th-live/"
 status: "activity"
-location: ""
+location: "富士急乐园・针叶树林"
 org: ["R", "M"]
 ---
 <!-- translated-by: deepseek -->

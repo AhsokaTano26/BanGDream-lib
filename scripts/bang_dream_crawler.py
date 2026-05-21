@@ -89,6 +89,16 @@ EVENT_DATE_RANGE_RE = re.compile(
 )
 EVENT_DATE_TOKEN_RE = re.compile(r"(?:(?P<year>\d{4})年)?(?P<month>\d{1,2})月(?P<day>\d{1,2})日")
 EVENT_SLUG_DAY_RE = re.compile(r"(?:^|[-_])day(?P<index>\d+)(?:$|[-_])", re.I)
+EVENT_LOCATION_HINT_RE = re.compile(
+    r"(Zepp|HALL|Hall|ARENA|Arena|体育馆|体育館|劇場|剧场|东京花园剧场|东京花园剧院|"
+    r"東京ガーデンシアター|Tokyo Garden Theater|Tokyo Garden Theatre|SGC HALL ARIAKE|"
+    r"Kanadevia Hall|松下IMP大厅|富士急乐园|富士急高原乐园|针叶树林|Conifer Forest)",
+    re.I,
+)
+EVENT_LOCATION_STOP_RE = re.compile(
+    r"(?:\s*(?:开场|開場|开演|開演|销售地点|販売地点|TEL|电话|電話|咨询|問合せ|Contact|举办|举行|"
+    r"會場|会场|會場|主办|開催|終演|终演|开门|開門|内|。|，|、|!|！|\(|（)).*$",
+)
 
 DISCO_STATUS_MAP = {
     "cd": "cd",
@@ -742,6 +752,16 @@ class Crawler:
             if not date_list and date_text:
                 date_list = self.parse_event_date_list(date_text)
             location = item.get("acf", {}).get("cf_events_place") or ""
+            if not location:
+                location = "、".join(
+                    self.collect_location_list(
+                        [
+                            item.get("content", {}).get("rendered", ""),
+                            description,
+                            title,
+                        ]
+                    )
+                )
             frontmatter = {
                 "title": title,
                 "description": description,
@@ -993,7 +1013,9 @@ class Crawler:
             )
             frontmatter["date"] = date_list or ([(published or "")[:10]] if (published or "")[:10] else [])
             frontmatter["status"] = "activity"
-            frontmatter["location"] = ""
+            frontmatter["location"] = "、".join(
+                self.collect_location_list([body, description, title])
+            )
             frontmatter["org"] = orgs or ["other"]
         elif target_collection == "news":
             frontmatter["status"] = "notice"
@@ -1195,6 +1217,52 @@ class Crawler:
         end_month = int(match.group("end_month") or month)
         end_date = f"{end_year}-{end_month:02d}-{int(end_day):02d}"
         return start_date, end_date
+
+    def collect_location_list(self, candidates: list[str]) -> list[str]:
+        result: list[str] = []
+        for candidate in candidates:
+            for location in self.parse_location_candidates(candidate):
+                if location and location not in result:
+                    result.append(location)
+        return result
+
+    def parse_location_candidates(self, html_text: str) -> list[str]:
+        if not html_text:
+            return []
+
+        candidates: list[str] = []
+        for raw_line in self.extract_html(html_text).get_text("\n", strip=True).splitlines():
+            line = normalize_spaces(raw_line)
+            if not line:
+                continue
+            location = self.parse_location_line(line)
+            if location and location not in candidates:
+                candidates.append(location)
+        return candidates
+
+    def parse_location_line(self, text: str) -> str:
+        line = normalize_spaces(text)
+        if not line:
+            return ""
+
+        line = re.sub(
+            r"^[■・•●\-—–]?\s*(?:\d{4}年)?\d{1,2}月\d{1,2}日(?:[（(][^)）]+[)）])?\s*",
+            "",
+            line,
+        )
+
+        match = EVENT_LOCATION_HINT_RE.search(line)
+        if not match and not line.startswith(("会场：", "会場：")):
+            return ""
+
+        if line.startswith(("会场：", "会場：")):
+            candidate = line.split("：", 1)[1].strip()
+        else:
+            candidate = line[match.start():].strip() if match else line
+
+        candidate = EVENT_LOCATION_STOP_RE.sub("", candidate).strip()
+        candidate = candidate.strip(" \t　,，。.!！?？|/\\-")
+        return candidate
 
     def extract_text(self, soup: BeautifulSoup) -> str:
         text = soup.get_text(" ", strip=True)

@@ -4,7 +4,7 @@ title: "Poppin'Party粉丝见面会巡演2019！"
 description: "Poppin'Party将在日本全国5个地方举办粉丝见面会巡演！距离大受好评的第一届粉丝见面会已过去两年，这次Poppin'Party的成员们将前往各地与大家相见！！日程·会场 ■2019年9月5日（周四）Zepp Nagoya 开场18:00 / 开演19:00 出演：大塚纱英・大桥彩香・伊藤彩沙 ■2019年9月13日（周五…"
 status: "activity"
 author: "BanG Dream! Project"
-location: ""
+location: "Zepp Nagoya、Zepp Osaka Bayside、Zepp Fukuoka、Zepp Sapporo、Zepp DiverCity TOKYO"
 org: ["ppp"]
 url: "https://bang-dream.com/events/popipa-fm2019/"
 ---

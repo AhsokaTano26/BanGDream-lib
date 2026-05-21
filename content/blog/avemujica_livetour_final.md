@@ -5,7 +5,7 @@ description: "动画、游戏、漫画、声优现场演出等多种媒体混合
 author: "BanG Dream! Project"
 url: "https://bang-dream.com/avemujica_livetour_final/"
 status: "activity"
-location: ""
+location: "SGC HALL ARIAKE"
 org: ["Ave"]
 ---
 <!-- translated-by: deepseek -->

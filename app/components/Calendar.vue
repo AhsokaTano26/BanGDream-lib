@@ -9,7 +9,7 @@
       </p>
     </header>
 
-    <div class="glass-effect rounded-xl overflow-hidden border border-[var(--glass-border)] shadow-2xl">
+    <div v-if="hydrated" class="glass-effect rounded-xl overflow-hidden border border-[var(--glass-border)] shadow-2xl">
       <div class="p-4 flex justify-between items-center border-b border-[var(--glass-border)] bg-white/[var(--glass-opacity)]">
         <div class="flex items-center gap-3">
           <span class="text-xl font-bold text-white">{{ year }}年{{ month + 1 }}月</span>
@@ -75,8 +75,12 @@
       </div>
     </div>
 
+    <div v-else class="glass-effect rounded-xl overflow-hidden border border-[var(--glass-border)] shadow-2xl p-6 text-white/50 text-sm">
+      正在加载日历...
+    </div>
+
     <transition name="slide-up">
-      <div v-if="selectedDay" class="bg-white/5 backdrop-blur-xl p-6 border border-white/10 rounded-lg shadow-2xl">
+      <div v-if="hydrated && selectedDay" class="bg-white/5 backdrop-blur-xl p-6 border border-white/10 rounded-lg shadow-2xl">
         <div class="flex items-center justify-between mb-6">
           <h4 class="text-xs font-black text-white/80 uppercase tracking-[0.2em]">
             {{ selectedDay.dateStr }} · Timeline
@@ -176,26 +180,18 @@ const glassStyles = computed(() => ({
   '--glass-bg': `rgba(${glassConfig.tintColor}, ${glassConfig.opacity})`
 }));
 
-const timeZone = ref('UTC');
+const hydrated = ref(false);
 
-const getDateParts = (date = new Date(), zone = timeZone.value) => {
-  const parts = new Intl.DateTimeFormat('en-CA', {
-    timeZone: zone,
-    year: 'numeric',
-    month: '2-digit',
-    day: '2-digit',
-  }).formatToParts(date);
-
-  const values = Object.fromEntries(parts.map(part => [part.type, part.value]));
+const getDateParts = (date = new Date()) => {
   return {
-    year: Number(values.year),
-    month: Number(values.month) - 1,
-    day: Number(values.day),
+    year: date.getFullYear(),
+    month: date.getMonth(),
+    day: date.getDate(),
   };
 };
 
-const getDateKey = (date = new Date(), zone = timeZone.value) => {
-  const { year: y, month: m, day: d } = getDateParts(date, zone);
+const getDateKey = (date = new Date()) => {
+  const { year: y, month: m, day: d } = getDateParts(date);
   return `${y}-${String(m + 1).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
 };
 
@@ -214,10 +210,10 @@ const now = getDateParts();
 const year = ref(now.year);
 const month = ref(now.month);
 onMounted(() => {
-  timeZone.value = Intl.DateTimeFormat().resolvedOptions().timeZone || 'UTC';
-  const current = getDateParts(new Date(), timeZone.value);
+  const current = getDateParts();
   year.value = current.year;
   month.value = current.month;
+  hydrated.value = true;
 });
 
 // 数据抓取：合并 type 和 status
@@ -278,6 +274,7 @@ const selectedDay = computed(() => {
 });
 
 watchEffect(() => {
+  if (!hydrated.value) return;
   if (!selectedDateKey.value) {
     const today = days.value.find(day => day.isToday && day.events.length > 0);
     if (today) {
@@ -293,7 +290,7 @@ const selectDay = (day) => {
 const prevMonth = () => { if (month.value === 0) { month.value = 11; year.value--; } else { month.value--; } };
 const nextMonth = () => { if (month.value === 11) { month.value = 0; year.value++; } else { month.value++; } };
 const resetDate = () => {
-  const current = getDateParts(new Date(), timeZone.value);
+  const current = getDateParts();
   year.value = current.year;
   month.value = current.month;
   selectedDateKey.value = '';
