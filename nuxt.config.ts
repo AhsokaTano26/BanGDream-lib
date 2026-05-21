@@ -1,5 +1,10 @@
 export default defineNuxtConfig({
   compatibilityDate: '2026-03-24',
+  runtimeConfig: {
+    public: {
+      siteUrl: process.env.NUXT_PUBLIC_SITE_URL || 'https://bangdream.tano.asia',
+    },
+  },
   modules: [
       '@nuxtjs/tailwindcss',
       '@nuxt/content',
@@ -10,7 +15,7 @@ export default defineNuxtConfig({
   nitro: {
     prerender: {
       crawlLinks: true,
-      routes: ['/'],
+      routes: ['/', '/rss.xml'],
       failOnError: false,
     }
   },

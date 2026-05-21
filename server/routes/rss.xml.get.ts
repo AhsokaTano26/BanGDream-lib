@@ -110,7 +110,8 @@ const buildItemHtml = (post: BlogPost, schedule: string, siteUrl: string): strin
 
 export default defineEventHandler(async (event) => {
   const posts = await readBlogPosts()
-  const siteUrl = getRequestURL(event).origin
+  const runtimeConfig = useRuntimeConfig()
+  const siteUrl = runtimeConfig.public.siteUrl || getRequestURL(event).origin
 
   const items = await Promise.all(
     posts
