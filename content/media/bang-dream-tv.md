@@ -80,7 +80,7 @@ Garupa番长纱英酱也就是大冢纱英，以全连为目标挑战Garupa!!
 
 [《BanG Dream! TV剧场》](http://gekkan-bushi.com/comics/gbbdtv_gekijou/)
 
-SHARE
+分享
 
-- [https://x.com/intent/tweet?url=https%3A%2F%2Fbang-dream.com%2Fmedia%2Fbang-dream-tv%2F&text=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81TV - BanG Dream!（邦邦！）官方网站](https://x.com/intent/tweet?url=https%3A%2F%2Fbang-dream.com%2Fmedia%2Fbang-dream-tv%2F&text=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81TV - BanG Dream!（邦邦！）官方网站)https://x.com/intent/tweet?url=https://bang-dream.com/media/bang-dream-tv/&text=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81TV%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88)
+- [https://x.com/intent/tweet?url=https://bang-dream.com/media/bang-dream-tv/&text=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81TV%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88](https://x.com/intent/tweet?url=https://bang-dream.com/media/bang-dream-tv/&text=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81TV%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88)
 - [javascript:void(0);javascript:void(0);)

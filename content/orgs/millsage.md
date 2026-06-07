@@ -7,7 +7,7 @@ org: ["mygo", "millsage"]
 url: "https://bang-dream.com/artist/millsage/"
 founded: ""
 theme:
-  logo: "/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp"
+  logo: "https://img.tano.asia/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp"
   bgImage: null
 ---
 
@@ -32,19 +32,35 @@ theme:
 
 [![琴平 凪](https://img.tano.asia/i/c2ddc541-20cf-42e8-9ca9-300bfc8cc3ba.webp)
 
-琴平 凪琴平 凪](https://bang-dream.com/artist/millsage/kotohira-nagi/)[![浜崎 まほろ](https://img.tano.asia/i/485e7ac5-f99b-4604-b755-b9231a797803.webp)
-滨崎 真穗滨崎 真穗](https://bang-dream.com/artist/millsage/hamasaki-mahoro/)[![汐见 萤](https://img.tano.asia/i/31ae8fbd-ea51-4377-84e8-27ca22262e7d.webp)
-汐见 萤药师寺李有
+琴平 凪
+结川 あさき
 
-CV.药师寺李有汐见 萤役](https://bang-dream.com/artist/millsage/shiomi-hotaru/)[![和泉 朋花](https://img.tano.asia/i/727220bd-41b1-4267-954b-3342a90d82f5.webp)
+CV.结川 あさき琴平 凪役](https://bang-dream.com/artist/millsage/kotohira-nagi/)[![浜崎 まほろ](https://img.tano.asia/i/485e7ac5-f99b-4604-b755-b9231a797803.webp)
 
-和泉 朋花和泉 朋花](https://bang-dream.com/artist/millsage/izumi-houka/)[![伊泽 夏芽](https://img.tano.asia/i/0eda3857-3e91-4974-9d1a-1515643971b1.webp)
+浜崎 まほろ伊駒 ゆりえ
 
-伊泽 夏目伊泽 夏目](https://bang-dream.com/artist/millsage/izawa-natsume/)
+CV.伊駒 ゆりえ 饰演 浜崎 まほろ](https://bang-dream.com/artist/millsage/hamasaki-mahoro/)[![汐見 蛍](https://img.tano.asia/i/31ae8fbd-ea51-4377-84e8-27ca22262e7d.webp)
+
+汐见 萤药师寺 李有
+
+CV.药师寺 李有汐见 萤役](https://bang-dream.com/artist/millsage/shiomi-hotaru/)[![和泉 朋花https://img.tano.asia/i/727220bd-41b1-4267-954b-3342a90d82f5.webp)
+和泉 朋花咲川 雏乃
+
+CV.咲川 雏乃和泉 朋花役](https://bang-dream.com/artist/millsage/izumi-houka/)[![伊沢 夏芽](https://img.tano.asia/i/0eda3857-3e91-4974-9d1a-1515643971b1.webp)
+
+伊泽 夏目千春
+
+CV.千春伊泽 夏目角色](https://bang-dream.com/artist/millsage/izawa-natsume/)
+
+About
+
+## 追寻各自的“幸福”，奏响音乐的乐队。
+
+Key.&Vo.汐见萤，是以天才般的歌唱和演奏为主轴的乐队。在仅有一次的人生中，祈愿幸福与祝福——她们今天也在继续演奏音乐。
 
 ## Music
 
-[乐曲发布链接](https://bio.to/millsageDG)
+[乐曲分发链接](https://linkco.re/xxxxxxx)https://bio.to/millsageDG)
 
 ## 唱片目录
 

@@ -39,7 +39,7 @@ MyGO!!!!!的「迷子集会(MyGO Center)」是MyGO!!!!!成员随机担任主持�
 
 [https://docs.google.com/forms/d/e/1FAIpQLScUjjGaVxea2cftoHOCy66Yfh5BFl7J603MFDQShlER-fbgqQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLScUjjGaVxea2cftoHOCy66Yfh5BFl7J603MFDQShlER-fbgqQ/viewform)
 
-SHARE
+分享
 
-- [https://x.com/intent/tweet?url=https%3A%2F%2Fbang-dream.com%2Fmedia%2Fmygocenter_radio%2F&text=MyGO%21%21%21%21%21%E3%81%AE%E3%80%8C%E8%BF%B7%E5%AD%90%E9%9B%86%E4%BC%9A%E3%80%8D - BanG Dream!（バンドリ！）公式サイト](https://x.com/intent/tweet?url=https%3A%2F%2Fbang-dream.com%2Fmedia%2Fmygocenter_radio%2F&text=MyGO%21%21%21%21%21%E3%81%AE%E3%80%8C%E8%BF%B7%E5%AD%90%E9%9B%86%E4%BC%9A%E3%80%8D - BanG Dream!（バンドリ！）公式サイト)https://x.com/intent/tweet?url=https://bang-dream.com/media/mygocenter_radio/&text=MyGO!!!!!%E3%81%AE%E3%80%8C%E8%BF%B7%E5%AD%90%E9%9B%86%E4%BC%9A%E3%80%8D%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88)
+- [https://x.com/intent/tweet?url=https://bang-dream.com/media/mygocenter_radio/&text=MyGO!!!!!%E3%81%AE%E3%80%8C%E8%BF%B7%E5%AD%90%E9%9B%86%E4%BC%9A%E3%80%8D%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88](https://x.com/intent/tweet?url=https://bang-dream.com/media/mygocenter_radio/&text=MyGO!!!!!%E3%81%AE%E3%80%8C%E8%BF%B7%E5%AD%90%E9%9B%86%E4%BC%9A%E3%80%8D%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88)
 - [javascript:void(0);](javascript:void(0);)

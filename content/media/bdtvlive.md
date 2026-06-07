@@ -38,9 +38,9 @@ status: "finish"
 
 ## 发布存档
 
-过去发布内容的存档是[こちら](https://youtube.com/playlist?list=PLvRmS87ezZfpnV-KtU1vz--KFUz5zIQYo)即可观看！
+过去发布内容的存档是[こちら](https://youtube.com/playlist?list=PLvRmS87ezZfpnV-KtU1vz--KFUz5zIQYo)可以从以下链接观看！
 
 SHARE
 
-- [https://x.com/intent/tweet?url=https%3A%2F%2Fbang-dream.com%2Fmedia%2Fbdtvlive%2F&text=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81TV+LIVE+2026 - BanG Dream!（バンドリ！）公式サイト](https://x.com/intent/tweet?url=https://bang-dream.com/media/bdtvlive/&text=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81TV%20LIVE%202026%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88)
+- [https://x.com/intent/tweet?url=https://bang-dream.com/media/bdtvlive/&text=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81TV%20LIVE%202026%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88]https://x.com/intent/tweet?url=https://bang-dream.com/media/bdtvlive/&text=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81TV%20LIVE%202026%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88)
 - [javascript:void(0);](javascript:void(0);)

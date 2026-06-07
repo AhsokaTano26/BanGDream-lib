@@ -36,8 +36,6 @@ Media
 ###### YouTube播放列表在此
 
 [https://www.youtube.com/playlist?list=PLvRmS87ezZfpK_WC8jpuFXchbMr6ww3gP](https://www.youtube.com/playlist?list=PLvRmS87ezZfpK_WC8jpuFXchbMr6ww3gP)
-
 分享
-
-- [https://x.com/intent/tweet?url=https%3A%2F%2Fbang-dream.com%2Fmedia%2Fmorfonical%2F&text=MORFONICAL%2F%E3%82%82%E3%82%8B%E3%81%B5%E3%81%89%E3%81%AB%E3%81%8B%E3%82%8B - BanG Dream!（バンドリ！）官方网站](https://x.com/intent/tweet?url=https://bang-dream.com/media/morfonical/&text=MORFONICAL/%E3%82%82%E3%82%8B%E3%81%B5%E3%81%89%E3%81%AB%E3%81%8B%E3%82%8B%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88)
+- [https://x.com/intent/tweet?url=https://bang-dream.com/media/morfonical/&text=MORFONICAL/%E3%82%82%E3%82%8B%E3%81%B5%E3%81%89%E3%81%AB%E3%81%8B%E3%82%8B%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88](https://x.com/intent/tweet?url=https://bang-dream.com/media/morfonical/&text=MORFONICAL/%E3%82%82%E3%82%8B%E3%81%B5%E3%81%89%E3%81%AB%E3%81%8B%E3%82%8B%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88)
 - [javascript:void(0);](javascript:void(0);)

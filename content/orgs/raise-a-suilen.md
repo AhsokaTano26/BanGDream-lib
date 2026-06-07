@@ -7,7 +7,7 @@ org: ["mygo"]
 url: "https://bang-dream.com/artist/raise-a-suilen/"
 founded: ""
 theme:
-  logo: "/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp"
+  logo: "https://img.tano.asia/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp"
   bgImage: null
 ---
 
