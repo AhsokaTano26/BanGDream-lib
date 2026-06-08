@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
-import argparse
 import hashlib
 import mimetypes
 import random
@@ -20,6 +19,7 @@ if str(ROOT) not in sys.path:
 
 from scripts.content_store import ContentStore
 from scripts.env_loader import load_repo_env
+from scripts.interactive import ask_str, ask_int, ask_bool, ask_choice
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -230,29 +230,27 @@ def repair_existing_urls(text: str) -> tuple[str, int]:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Upload local Bang Dream images to img.tano.asia and rewrite markdown.")
-    parser.add_argument("--content-root", type=Path, default=DEFAULT_CONTENT_ROOT, help="Root directory containing markdown files.")
-    parser.add_argument("--asset-root", type=Path, default=DEFAULT_ASSET_ROOT, help="Local image root to upload.")
-    parser.add_argument("--db-path", type=Path, default=DEFAULT_DB_PATH, help="SQLite database for upload cache.")
-    parser.add_argument("--cache-file", type=Path, default=DEFAULT_DB_PATH, help=argparse.SUPPRESS)
-    parser.add_argument("--visibility", choices=["private", "public"], default="private", help="Upload visibility.")
-    parser.add_argument("--endpoint", default=None, help="Override upload endpoint.")
-    parser.add_argument("--limit", type=int, default=None, help="Optional upload limit for testing.")
-    parser.add_argument("--dry-run", action="store_true", help="Print what would change without uploading or writing files.")
-    args = parser.parse_args()
+    print("=== 上传 Markdown 图片 ===\n")
+    content_root = Path(ask_str("Markdown 内容根目录", default=str(DEFAULT_CONTENT_ROOT)))
+    asset_root = Path(ask_str("本地图片根目录", default=str(DEFAULT_ASSET_ROOT)))
+    db_path = Path(ask_str("SQLite 数据库路径", default=str(DEFAULT_DB_PATH)))
+    visibility = ask_choice("上传可见性", ["private", "public"], default="private")
+    endpoint_override = ask_str("上传 endpoint（留空使用默认）", default="")
+    limit_raw = ask_int("上传数量限制（留空不限制）", default=None)
+    dry_run = ask_bool("仅预览不实际上传？", default=False)
 
     env = load_repo_env()
     api_key = env.get("IMG_TANO_API_KEY", "").strip()
-    endpoint = resolve_endpoint(args.visibility, args.endpoint)
-    if args.visibility == "private" and not api_key:
+    endpoint = resolve_endpoint(visibility, endpoint_override or None)
+    if visibility == "private" and not api_key:
         raise SystemExit("Please set IMG_TANO_API_KEY in the repository root .env before running.")
 
-    if not args.asset_root.exists():
-        raise SystemExit(f"Asset root does not exist: {args.asset_root}")
-    if not args.content_root.exists():
-        raise SystemExit(f"Content root does not exist: {args.content_root}")
+    if not asset_root.exists():
+        raise SystemExit(f"Asset root does not exist: {asset_root}")
+    if not content_root.exists():
+        raise SystemExit(f"Content root does not exist: {content_root}")
 
-    store = ContentStore(args.db_path)
+    store = ContentStore(db_path)
 
     session = requests.Session()
     session.headers.update(
@@ -264,8 +262,8 @@ def main() -> None:
     uploader = ImageUploader(
         session=session,
         endpoint=endpoint,
-        api_key=api_key if args.visibility == "private" else "",
-        visibility=args.visibility,
+        api_key=api_key if visibility == "private" else "",
+        visibility=visibility,
         store=store,
     )
 
@@ -276,25 +274,25 @@ def main() -> None:
 
     image_files = [
         path
-        for path in sorted(args.asset_root.rglob("*"))
+        for path in sorted(asset_root.rglob("*"))
         if path.is_file()
         and not path.name.startswith(".")
         and path.suffix.lower() in IMAGE_EXTENSIONS
     ]
-    if args.limit is not None:
-        image_files = image_files[: args.limit]
+    if limit_raw is not None:
+        image_files = image_files[:limit_raw]
 
     for index, path in enumerate(image_files, start=1):
-        rel = path.relative_to(args.asset_root).as_posix()
+        rel = path.relative_to(asset_root).as_posix()
         local_url = f"/assets/bang-dream/{rel}"
         digest = sha256_file(path)
-        if args.dry_run:
-            cached = store.get_image_upload_by_path(rel, endpoint, args.visibility)
+        if dry_run:
+            cached = store.get_image_upload_by_path(rel, endpoint, visibility)
             cached_url = None
             if cached and cached[0] == digest:
                 cached_url = cached[1]
             else:
-                cached_url = store.get_image_upload_by_hash(digest, endpoint, args.visibility)
+                cached_url = store.get_image_upload_by_hash(digest, endpoint, visibility)
             url = normalize_uploaded_url(endpoint, cached_url) if cached_url else f"https://img.tano.asia/i/{digest[:16]}.webp"
         else:
             try:
@@ -325,7 +323,7 @@ def main() -> None:
 
     replacements = sorted(uploads.items(), key=lambda item: len(item[0]), reverse=True)
     modified_files: list[tuple[Path, int]] = []
-    for md_path in sorted(args.content_root.rglob("*.md")):
+    for md_path in sorted(content_root.rglob("*.md")):
         original = md_path.read_text(encoding="utf-8", errors="replace")
         updated, count = rewrite_markdown(original, replacements)
         repaired, repair_count = repair_existing_urls(updated)
@@ -333,11 +331,11 @@ def main() -> None:
         count += repair_count
         if count and updated != original:
             modified_files.append((md_path, count))
-            if not args.dry_run:
+            if not dry_run:
                 md_path.write_text(updated, encoding="utf-8")
             print(f"[md] {md_path}: {count} replacement(s)")
 
-    if not args.dry_run:
+    if not dry_run:
         store.commit()
 
     print(f"done: uploaded={uploaded} reused={reused} rewritten={len(modified_files)}")

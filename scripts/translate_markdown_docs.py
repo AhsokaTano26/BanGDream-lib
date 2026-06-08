@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
-import argparse
 import sys
 from pathlib import Path
 
@@ -11,6 +10,7 @@ if str(ROOT) not in sys.path:
 
 from scripts.deepseek_translate import DeepSeekTranslator, TRANSLATION_MARKER, is_translated_document, translate_document
 from scripts.env_loader import load_repo_env
+from scripts.interactive import ask_str, ask_bool, ask_paths
 
 
 def iter_markdown_files(path: Path) -> list[tuple[Path, Path]]:
@@ -31,25 +31,16 @@ def render_progress(done: int, total: int, width: int = 28) -> str:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Translate markdown docs to Chinese with DeepSeek (in place by default).")
-    parser.add_argument("paths", nargs="*", default=["content"], help="Files or directories to translate.")
-    parser.add_argument("--output-root", type=Path, default=None, help="Write translated files to this root instead of overwriting the source file.")
-    parser.add_argument("--force", action="store_true", help="Re-translate files even if the translation marker is present.")
-    parser.add_argument("--dry-run", action="store_true", help="Show what would change without writing files.")
-    parser.add_argument(
-        "--frontmatter-fields",
-        default="title,description,location",
-        help="Comma-separated frontmatter fields to translate.",
-    )
-    parser.add_argument("--endpoint", default="https://api.deepseek.com", help="DeepSeek API base URL.")
-    parser.add_argument("--model", default="deepseek-v4-flash", help="DeepSeek model to use.")
-    parser.add_argument(
-        "--db-path",
-        type=Path,
-        default=ROOT / "data" / "contents.sqlite",
-        help="SQLite database for translation cache.",
-    )
-    args = parser.parse_args()
+    print("=== DeepSeek 翻译 Markdown 文档 ===\n")
+    raw_paths = ask_paths("输入文件或目录路径（逗号分隔）", default=["content"])
+    output_root_raw = ask_str("输出根目录（留空则就地翻译）", default="")
+    output_root = Path(output_root_raw) if output_root_raw else None
+    force = ask_bool("强制重新翻译已翻译的文件？", default=False)
+    dry_run = ask_bool("仅预览不实际写入？", default=False)
+    frontmatter_fields_raw = ask_str("翻译的 frontmatter 字段（逗号分隔）", default="title,description,location")
+    endpoint = ask_str("DeepSeek API endpoint", default="https://api.deepseek.com")
+    model = ask_str("DeepSeek 模型", default="deepseek-v4-flash")
+    db_path = Path(ask_str("SQLite 数据库路径", default=str(ROOT / "data" / "contents.sqlite")))
 
     env = load_repo_env()
     api_key = env.get("DEEPSEEK_API_KEY", "").strip()
@@ -58,14 +49,14 @@ def main() -> None:
 
     translator = DeepSeekTranslator(
         api_key=api_key,
-        endpoint=args.endpoint,
-        model=args.model,
-        db_path=args.db_path,
+        endpoint=endpoint,
+        model=model,
+        db_path=db_path,
     )
-    fields = tuple(field.strip() for field in args.frontmatter_fields.split(",") if field.strip())
+    fields = tuple(field.strip() for field in frontmatter_fields_raw.split(",") if field.strip())
 
     tasks: list[tuple[Path, Path]] = []
-    for raw_path in args.paths:
+    for raw_path in raw_paths:
         source_root = Path(raw_path)
         tasks.extend(iter_markdown_files(source_root))
 
@@ -74,7 +65,7 @@ def main() -> None:
     skipped = 0
     for index, (file_path, relative) in enumerate(tasks, start=1):
         original = file_path.read_text(encoding="utf-8", errors="replace")
-        if not args.force and is_translated_document(original, marker=TRANSLATION_MARKER):
+        if not force and is_translated_document(original, marker=TRANSLATION_MARKER):
             skipped += 1
             sys.stderr.write(f"\r{render_progress(index, total)} skipped={skipped} written={written}")
             sys.stderr.flush()
@@ -85,12 +76,12 @@ def main() -> None:
             frontmatter_fields=fields,
             marker=TRANSLATION_MARKER,
             context=str(file_path),
-            force=args.force,
+            force=force,
         )
         target = file_path
-        if args.output_root is not None:
-            target = args.output_root / relative
-        if args.dry_run:
+        if output_root is not None:
+            target = output_root / relative
+        if dry_run:
             print(f"[dry-run] {file_path} -> {target}")
         else:
             target.parent.mkdir(parents=True, exist_ok=True)

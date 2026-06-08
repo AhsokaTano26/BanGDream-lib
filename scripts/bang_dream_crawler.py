@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
-import argparse
 import hashlib
 import html
 import json
@@ -33,6 +32,7 @@ from scripts.deepseek_translate import DeepSeekTranslator
 from scripts.content_store import ContentStore, DEFAULT_DB_PATH
 from scripts.env_loader import load_repo_env
 from scripts.upload_markdown_images import ImageUploader, resolve_endpoint
+from scripts.interactive import ask_str, ask_int, ask_float, ask_bool, ask_choice, ask_multi_choice
 
 
 BASE_URL = "https://bang-dream.com"
@@ -1468,116 +1468,108 @@ def print_failure_summary(failures: list[ImageFailure]) -> None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Crawl bang-dream.com into Nuxt Content markdown.")
-    parser.add_argument("--url", default=None, help="Crawl a single article URL instead of a collection.")
-    parser.add_argument(
-        "--collection",
-        default=None,
-        help="Collection for --url mode. If omitted, it is inferred from the URL path.",
-    )
-    parser.add_argument(
-        "--collections",
-        nargs="+",
-        default=["news", "blog", "discographies", "media", "orgs"],
-        help="Collections to generate.",
-    )
-    parser.add_argument("--limit", type=int, default=None, help="Limit items per collection.")
-    parser.add_argument("--delay", type=float, default=0.0, help="Delay between fetched pages.")
-    parser.add_argument("--max-retries", type=int, default=5, help="Max retries for one request.")
-    parser.add_argument("--backoff", type=float, default=1.8, help="Retry backoff multiplier.")
-    parser.add_argument("--jitter", type=float, default=0.4, help="Random jitter for retries and delays.")
-    parser.add_argument("--connect-timeout", type=float, default=10.0, help="Connection timeout in seconds.")
-    parser.add_argument("--read-timeout", type=float, default=20.0, help="Read timeout in seconds.")
-    parser.add_argument("--skip-images", action="store_true", help="Do not download or rewrite images.")
-    parser.add_argument(
-        "--image-storage",
-        choices=["local", "upload"],
-        default="local",
-        help="Store images locally or upload them to img.tano.asia.",
-    )
-    parser.add_argument(
-        "--image-upload-visibility",
-        choices=["private", "public"],
-        default="private",
-        help="Upload visibility when --image-storage=upload.",
-    )
-    parser.add_argument(
-        "--image-upload-endpoint",
-        default=None,
-        help="Override the image upload endpoint.",
-    )
-    parser.add_argument("--translate", action="store_true", help="Translate frontmatter fields and full body to Chinese with DeepSeek.")
-    parser.add_argument(
-        "--translate-endpoint",
-        default="https://api.deepseek.com",
-        help="DeepSeek API base URL.",
-    )
-    parser.add_argument(
-        "--translate-model",
-        default="deepseek-v4-flash",
-        help="DeepSeek model used for translation.",
-    )
-    parser.add_argument(
-        "--db-path",
-        type=Path,
-        default=DEFAULT_DB_PATH,
-        help="SQLite database used for resume, translation, and upload cache.",
-    )
-    parser.add_argument(
-        "--translate-frontmatter-fields",
-        default="title,description,location",
-        help="Comma-separated frontmatter fields to translate.",
-    )
-    parser.add_argument("--no-resume", action="store_true", help="Disable resume and state tracking.")
-    args = parser.parse_args()
+    print("=== Bang Dream 官网爬虫 ===\n")
+
+    # 模式选择
+    mode = ask_choice("爬取模式", ["单 URL 爬取", "批量集合爬取"], default="批量集合爬取")
+    single_url = ""
+    single_collection = ""
+    if mode == "单 URL 爬取":
+        single_url = ask_str("输入文章 URL")
+        single_collection = ask_str("集合名（留空自动推断）", default="")
+
+    # 集合选择
+    all_collections = ["news", "blog", "discographies", "media", "orgs"]
+    collections = all_collections
+    limit: int | None = None
+    if mode != "单 URL 爬取":
+        collections = ask_multi_choice("选择要爬取的集合", all_collections, default=all_collections)
+        limit = ask_int("每集合最大条目数（留空不限制）", default=None)
+
+    # 网络选项
+    print("\n--- 网络选项 ---")
+    delay = ask_float("请求间隔（秒）", default=0.0) or 0.0
+    max_retries = ask_int("最大重试次数", default=5) or 5
+    backoff = ask_float("退避乘数", default=1.8) or 1.8
+    jitter = ask_float("随机抖动", default=0.4) or 0.4
+    connect_timeout = ask_float("连接超时（秒）", default=10.0) or 10.0
+    read_timeout = ask_float("读取超时（秒）", default=20.0) or 20.0
+
+    # 图片选项
+    print("\n--- 图片选项 ---")
+    skip_images = ask_bool("跳过图片下载？", default=False)
+    image_storage = "local"
+    image_upload_visibility = "private"
+    image_upload_endpoint_override: str | None = None
+    if not skip_images:
+        image_storage = ask_choice("图片存储方式", ["local", "upload"], default="local")
+        if image_storage == "upload":
+            image_upload_visibility = ask_choice("上传可见性", ["private", "public"], default="private")
+            image_upload_endpoint_override = ask_str("上传 endpoint（留空使用默认）", default="") or None
+
+    # 翻译选项
+    print("\n--- 翻译选项 ---")
+    translate = ask_bool("使用 DeepSeek 翻译？", default=False)
+    translate_endpoint = "https://api.deepseek.com"
+    translate_model = "deepseek-v4-flash"
+    translate_frontmatter_fields_raw = "title,description,location"
+    if translate:
+        translate_endpoint = ask_str("DeepSeek API endpoint", default="https://api.deepseek.com")
+        translate_model = ask_str("DeepSeek 模型", default="deepseek-v4-flash")
+        translate_frontmatter_fields_raw = ask_str("翻译的 frontmatter 字段", default="title,description,location")
+
+    # 其他选项
+    print("\n--- 其他选项 ---")
+    db_path = Path(ask_str("SQLite 数据库路径", default=str(DEFAULT_DB_PATH)))
+    no_resume = ask_bool("禁用断点续爬？", default=False)
 
     env = load_repo_env()
-    store = ContentStore(args.db_path)
-    state = None if args.no_resume else store
+    store = ContentStore(db_path)
+    state = None if no_resume else store
     image_uploader = None
-    if not args.skip_images and args.image_storage == "upload":
-        endpoint = resolve_endpoint(args.image_upload_visibility, args.image_upload_endpoint)
+    if not skip_images and image_storage == "upload":
+        endpoint = resolve_endpoint(image_upload_visibility, image_upload_endpoint_override)
         api_key = env.get("IMG_TANO_API_KEY", "").strip()
-        if args.image_upload_visibility == "private" and not api_key:
+        if image_upload_visibility == "private" and not api_key:
             raise SystemExit("Please set IMG_TANO_API_KEY in the repository root .env for private image uploads.")
         image_uploader = ImageUploader(
             session=requests.Session(),
             endpoint=endpoint,
-            api_key=api_key if args.image_upload_visibility == "private" else "",
-            visibility=args.image_upload_visibility,
+            api_key=api_key if image_upload_visibility == "private" else "",
+            visibility=image_upload_visibility,
             store=store,
         )
     translator = None
     translate_fields: tuple[str, ...] = ("title", "description", "location")
-    if args.translate:
+    if translate:
         translate_api_key = env.get("DEEPSEEK_API_KEY", "").strip()
         if not translate_api_key:
             raise SystemExit("Please set DEEPSEEK_API_KEY in the repository root .env for translation.")
-        translate_fields = tuple(field.strip() for field in args.translate_frontmatter_fields.split(",") if field.strip())
+        translate_fields = tuple(field.strip() for field in translate_frontmatter_fields_raw.split(",") if field.strip())
         translator = DeepSeekTranslator(
             api_key=translate_api_key,
-            endpoint=args.translate_endpoint,
-            model=args.translate_model,
+            endpoint=translate_endpoint,
+            model=translate_model,
             store=store,
         )
     crawler = Crawler(
-        delay=args.delay,
-        download_images=not args.skip_images,
-        image_storage=args.image_storage,
+        delay=delay,
+        download_images=not skip_images,
+        image_storage=image_storage,
         image_uploader=image_uploader,
         translator=translator,
         translate_frontmatter_fields=translate_fields,
-        max_retries=args.max_retries,
-        backoff=args.backoff,
-        jitter=args.jitter,
-        connect_timeout=args.connect_timeout,
-        read_timeout=args.read_timeout,
+        max_retries=max_retries,
+        backoff=backoff,
+        jitter=jitter,
+        connect_timeout=connect_timeout,
+        read_timeout=read_timeout,
     )
     try:
         failure_cursor = 0
-        if args.url:
-            page_collection = args.collection or crawler.infer_collection_from_url(args.url)
-            item = crawler.build_single_page(args.url, collection=page_collection)
+        if single_url:
+            page_collection = single_collection or crawler.infer_collection_from_url(single_url)
+            item = crawler.build_single_page(single_url, collection=page_collection)
             output_path = crawler.save_page(page_collection, item)
             store.upsert_page(page_collection, item, output_path)
             if state is not None:
@@ -1589,16 +1581,16 @@ def main() -> None:
             print(f"{page_collection}: 1 page")
             print_failure_summary(crawler.image_failures)
             return
-        for collection in args.collections:
+        for collection in collections:
             skip_slugs: set[str] = set()
             if state is None and (collection_dir := CONTENT_ROOT / collection).exists():
                 for path in collection_dir.glob("*.md"):
-                    if not args.translate:
+                    if not translate:
                         skip_slugs.add(path.stem)
                         continue
                     if is_translated_document(path.read_text(encoding="utf-8", errors="replace"), marker=TRANSLATION_MARKER):
                         skip_slugs.add(path.stem)
-            items = collect(collection, crawler, limit=args.limit, skip_slugs=skip_slugs, state=state)
+            items = collect(collection, crawler, limit=limit, skip_slugs=skip_slugs, state=state)
             for item in items:
                 output_path = crawler.save_page(collection, item)
                 store.upsert_page(collection, item, output_path)
@@ -1609,7 +1601,7 @@ def main() -> None:
                     failure_cursor += 1
                 store.commit()
                 crawler.sleep()
-            resume_hint = f", resume={args.db_path}" if state is not None else ""
+            resume_hint = f", resume={db_path}" if state is not None else ""
             print(f"{collection}: {len(items)} pages{resume_hint}")
         while failure_cursor < len(crawler.image_failures):
             store.insert_image_failure(crawler.image_failures[failure_cursor])

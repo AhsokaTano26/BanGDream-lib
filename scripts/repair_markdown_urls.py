@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
-import argparse
 import re
 import sys
 from pathlib import Path
@@ -12,6 +11,7 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from scripts.bang_dream_crawler import sanitize_url_for_mdc
+from scripts.interactive import ask_paths
 
 
 MARKDOWN_LINK_RE = re.compile(r"(!?\[[^\]]*\]\()([^)]+)(\))")
@@ -73,12 +73,11 @@ def repair_text(text: str) -> tuple[str, int]:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Repair markdown URLs for Nuxt MDC.")
-    parser.add_argument("paths", nargs="*", default=["content"], help="Files or directories to repair.")
-    args = parser.parse_args()
+    print("=== 修复 Markdown URL ===\n")
+    raw_paths = ask_paths("输入文件或目录路径（逗号分隔）", default=["content"])
 
     targets: list[Path] = []
-    for raw in args.paths:
+    for raw in raw_paths:
         p = Path(raw)
         if p.is_dir():
             targets.extend(sorted(p.rglob("*.md")))
