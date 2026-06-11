@@ -23,7 +23,7 @@
           <h1 class="text-3xl md:text-5xl font-black text-white tracking-tighter leading-tight mb-4 drop-shadow-[0_0_15px_rgba(255,255,255,0.3)]">
             关于我们 <span class="text-pink-500 font-serif italic text-2xl">!</span>
           </h1>
-          <p class="text-[10px] text-white/30 tracking-[0.5em] uppercase">Ready? Go! Star Beat!</p>
+          <p class="text-[10px] text-white/80 tracking-[0.5em] uppercase">Ready? Go! Star Beat!</p>
         </header>
 
         <section class="relative z-10 prose prose-pink prose-invert max-w-none">
@@ -32,10 +32,10 @@
              <div class="text-lg md:text-xl font-bold bg-gradient-to-r from-pink-300 via-yellow-200 to-blue-300 bg-clip-text text-transparent italic leading-relaxed">
               「 既然相遇了，就一起寻找那颗最闪亮的星吧！ 」
             </div>
-            <div class="text-sm text-gray-400 space-y-1 not-italic opacity-80">
-              <p>为了不再因逝去的过往而落泪，</p>
-              <p>为了不再因放手的抉择而放弃，</p>
-              <p>为了此刻闪耀的你，还有大家！</p>
+            <div class="text-sm text-white/80 space-y-1 italic ">
+              <p>「 为了不再因逝去的过往而落泪， 」</p>
+              <p>「 为了不再因放手的抉择而放弃， 」</p>
+              <p>「 为了此刻闪耀的你，还有大家！ 」</p>
               <p class="pt-4 text-white font-black">
                 无论何时何地，尽情享受，尽力前进！
               </p>
@@ -47,8 +47,8 @@
               <h5 class="flex items-center gap-3 text-pink-400 font-black tracking-widest uppercase text-sm mb-4 group-hover:translate-x-2 transition-transform">
                 <span class="w-8 h-px bg-pink-500/30"></span> ● 内容存档 | Archives
               </h5>
-              <p class="pl-11 text-gray-400 text-sm leading-relaxed">
-                记录在这里的每一份「存档」，都是我们共同谱写的曲谱。无论是突如其来的 Live 公告，还是记录成长的 Timeline，都是不可替代的宝物。
+              <p class="pl-11 text-white text-sm leading-relaxed">
+                记录在这里的每一份「存档」，都是我们共同谱写的曲谱。无论是突如其来的 Live 公告，还是记录成长的 Timeline，都是不可替代的宝物。目前存档涵盖 News、Live/Event、Discographies、Media 等集合，共计 2,900+ 篇文章，均通过自动化爬虫从官网抓取并翻译为中文。
               </p>
             </div>
 
@@ -61,9 +61,25 @@
                   每个乐团都有属于自己的颜色。在「Band」与「Artist」板块，我们定格那些令人心动的演出现场，让每一份热爱都能跨越次元产生共鸣。
                 </p>
                 <div class="flex flex-wrap gap-2 pt-2">
-                  <span class="px-3 py-1 bg-white/5 border border-white/10 rounded-lg text-[10px] text-pink-300">#Discographies</span>
-                  <span class="px-3 py-1 bg-white/5 border border-white/10 rounded-lg text-[10px] text-blue-300">#Media</span>
-                  <span class="px-3 py-1 bg-white/5 border border-white/10 rounded-lg text-[10px] text-purple-300">#Personal_Archive</span>
+                  <span class="px-3 py-1 bg-pink-500/15 border border-pink-500/25 rounded-lg text-[10px] text-pink-200">#Discographies</span>
+                  <span class="px-3 py-1 bg-blue-500/15 border border-blue-500/25 rounded-lg text-[10px] text-blue-200">#Media</span>
+                  <span class="px-3 py-1 bg-purple-500/15 border border-purple-500/25 rounded-lg text-[10px] text-purple-200">#Personal_Archive</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="group">
+              <h5 class="flex items-center gap-3 text-violet-400 font-black tracking-widest uppercase text-sm mb-4 group-hover:translate-x-2 transition-transform">
+                <span class="w-8 h-px bg-violet-500/30"></span> ● 应援色与生日 | Colors & Birthdays
+              </h5>
+              <div class="pl-11 space-y-4">
+                <p class="text-gray-400 text-sm m-0">
+                  每支乐队、每位角色都有专属的应援色。「Colors」页面展示 12 支乐队的主题色与全部角色的应援色，支持点击复制色号。「Birthdays」页面按月展示 119 条角色与声优的生日记录。日历组件中也会以应援色圆点标记当天的生日。
+                </p>
+                <div class="flex flex-wrap gap-2 pt-2">
+                  <span class="px-3 py-1 bg-violet-500/15 border border-violet-500/25 rounded-lg text-[10px] text-violet-200">#Colors</span>
+                  <span class="px-3 py-1 bg-pink-500/15 border border-pink-500/25 rounded-lg text-[10px] text-pink-200">#Birthdays</span>
+                  <span class="px-3 py-1 bg-rose-500/15 border border-rose-500/25 rounded-lg text-[10px] text-rose-200">#Calendar</span>
                 </div>
               </div>
             </div>
@@ -72,9 +88,11 @@
               <h5 class="flex items-center gap-3 text-blue-400 font-black tracking-widest uppercase text-sm mb-4 group-hover:translate-x-2 transition-transform">
                 <span class="w-8 h-px bg-blue-500/30"></span> ● 致谢 | Special Thanks
               </h5>
-              <p class="pl-11 text-gray-400 text-sm leading-relaxed">
-                感谢在这座舞台上留存痕迹的每一个人。因为有你们，这个空间才有了真正的「生命力」。
-              </p>
+              <div class="pl-11 space-y-4">
+                <p class="text-gray-400 text-sm leading-relaxed">
+                  感谢在这座舞台上留存痕迹的每一个人。因为有你们，这个空间才有了真正的「生命力」。
+                </p>
+              </div>
             </div>
           </div>
 
@@ -132,6 +150,6 @@
 }
 
 :deep(.prose p) {
-  @apply text-gray-400 mb-0;
+  @apply text-gray-200 mb-0;
 }
 </style>

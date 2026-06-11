@@ -3,7 +3,7 @@
     "name": "户山香澄",
     "mmdd": "07-14",
     "kind": "character",
-    "color": "#FF3377",
+    "color": "#FF5522",
     "link": "/orgs/poppinparty",
     "org": "ppp",
     "seiyuu": "爱美"
@@ -12,7 +12,7 @@
     "name": "爱美",
     "mmdd": "12-25",
     "kind": "seiyuu",
-    "color": "#FF84AD",
+    "color": "#FF997A",
     "link": "",
     "org": "ppp",
     "seiyuu": ""
@@ -21,7 +21,7 @@
     "name": "花园多惠",
     "mmdd": "12-04",
     "kind": "character",
-    "color": "#FF3377",
+    "color": "#0077DD",
     "link": "/orgs/poppinparty",
     "org": "ppp",
     "seiyuu": "大冢纱英"
@@ -30,7 +30,7 @@
     "name": "大冢纱英",
     "mmdd": "10-10",
     "kind": "seiyuu",
-    "color": "#FF84AD",
+    "color": "#66ADEA",
     "link": "",
     "org": "ppp",
     "seiyuu": ""
@@ -39,7 +39,7 @@
     "name": "牛込里美",
     "mmdd": "03-23",
     "kind": "character",
-    "color": "#FF3377",
+    "color": "#FF55BB",
     "link": "/orgs/poppinparty",
     "org": "ppp",
     "seiyuu": "西本里美"
@@ -48,7 +48,7 @@
     "name": "西本里美",
     "mmdd": "10-25",
     "kind": "seiyuu",
-    "color": "#FF84AD",
+    "color": "#FF99D6",
     "link": "",
     "org": "ppp",
     "seiyuu": ""
@@ -57,7 +57,7 @@
     "name": "山吹沙绫",
     "mmdd": "05-19",
     "kind": "character",
-    "color": "#FF3377",
+    "color": "#FFCC11",
     "link": "/orgs/poppinparty",
     "org": "ppp",
     "seiyuu": "大桥彩香"
@@ -66,7 +66,7 @@
     "name": "大桥彩香",
     "mmdd": "09-13",
     "kind": "seiyuu",
-    "color": "#FF84AD",
+    "color": "#FFE070",
     "link": "",
     "org": "ppp",
     "seiyuu": ""
@@ -75,7 +75,7 @@
     "name": "市谷有咲",
     "mmdd": "10-27",
     "kind": "character",
-    "color": "#FF3377",
+    "color": "#AA66DD",
     "link": "/orgs/poppinparty",
     "org": "ppp",
     "seiyuu": "伊藤彩沙"
@@ -84,7 +84,7 @@
     "name": "伊藤彩沙",
     "mmdd": "08-17",
     "kind": "seiyuu",
-    "color": "#FF84AD",
+    "color": "#CCA3EA",
     "link": "",
     "org": "ppp",
     "seiyuu": ""
@@ -93,7 +93,7 @@
     "name": "美竹兰",
     "mmdd": "04-10",
     "kind": "character",
-    "color": "#E53344",
+    "color": "#EE0022",
     "link": "/orgs/afterglow",
     "org": "a",
     "seiyuu": "佐仓绫音"
@@ -102,7 +102,7 @@
     "name": "佐仓绫音",
     "mmdd": "01-29",
     "kind": "seiyuu",
-    "color": "#EF848E",
+    "color": "#F4667A",
     "link": "",
     "org": "a",
     "seiyuu": ""
@@ -111,7 +111,7 @@
     "name": "青叶摩卡",
     "mmdd": "09-03",
     "kind": "character",
-    "color": "#E53344",
+    "color": "#00CCAA",
     "link": "/orgs/afterglow",
     "org": "a",
     "seiyuu": "三泽纱千香"
@@ -120,7 +120,7 @@
     "name": "三泽纱千香",
     "mmdd": "01-13",
     "kind": "seiyuu",
-    "color": "#EF848E",
+    "color": "#66E0CC",
     "link": "",
     "org": "a",
     "seiyuu": ""
@@ -129,7 +129,7 @@
     "name": "上原绯玛丽",
     "mmdd": "10-23",
     "kind": "character",
-    "color": "#E53344",
+    "color": "#FF9999",
     "link": "/orgs/afterglow",
     "org": "a",
     "seiyuu": "加藤英美里"
@@ -138,7 +138,7 @@
     "name": "加藤英美里",
     "mmdd": "11-26",
     "kind": "seiyuu",
-    "color": "#EF848E",
+    "color": "#FFC1C1",
     "link": "",
     "org": "a",
     "seiyuu": ""
@@ -147,7 +147,7 @@
     "name": "宇田川巴",
     "mmdd": "04-15",
     "kind": "character",
-    "color": "#E53344",
+    "color": "#BB0033",
     "link": "/orgs/afterglow",
     "org": "a",
     "seiyuu": "日笠阳子"
@@ -156,7 +156,7 @@
     "name": "日笠阳子",
     "mmdd": "07-16",
     "kind": "seiyuu",
-    "color": "#EF848E",
+    "color": "#D66684",
     "link": "",
     "org": "a",
     "seiyuu": ""
@@ -165,7 +165,7 @@
     "name": "羽泽鸫",
     "mmdd": "01-07",
     "kind": "character",
-    "color": "#E53344",
+    "color": "#FFEE88",
     "link": "/orgs/afterglow",
     "org": "a",
     "seiyuu": "金元寿子"
@@ -174,7 +174,7 @@
     "name": "金元寿子",
     "mmdd": "12-16",
     "kind": "seiyuu",
-    "color": "#EF848E",
+    "color": "#FFF4B7",
     "link": "",
     "org": "a",
     "seiyuu": ""
@@ -183,7 +183,7 @@
     "name": "丸山彩",
     "mmdd": "12-27",
     "kind": "character",
-    "color": "#33DDAA",
+    "color": "#FF88BB",
     "link": "/orgs/pastel-palettes",
     "org": "pp",
     "seiyuu": "前岛亚美"
@@ -192,7 +192,7 @@
     "name": "前岛亚美",
     "mmdd": "11-22",
     "kind": "seiyuu",
-    "color": "#84EACC",
+    "color": "#FFB7D6",
     "link": "",
     "org": "pp",
     "seiyuu": ""
@@ -201,7 +201,7 @@
     "name": "冰川日菜",
     "mmdd": "03-20",
     "kind": "character",
-    "color": "#33DDAA",
+    "color": "#55DDEE",
     "link": "/orgs/pastel-palettes",
     "org": "pp",
     "seiyuu": "小泽亚李"
@@ -210,7 +210,7 @@
     "name": "小泽亚李",
     "mmdd": "08-10",
     "kind": "seiyuu",
-    "color": "#84EACC",
+    "color": "#99EAF4",
     "link": "",
     "org": "pp",
     "seiyuu": ""
@@ -219,7 +219,7 @@
     "name": "白鹭千圣",
     "mmdd": "04-06",
     "kind": "character",
-    "color": "#33DDAA",
+    "color": "#FFEEAA",
     "link": "/orgs/pastel-palettes",
     "org": "pp",
     "seiyuu": "上坂堇"
@@ -228,7 +228,7 @@
     "name": "上坂堇",
     "mmdd": "12-19",
     "kind": "seiyuu",
-    "color": "#84EACC",
+    "color": "#FFF4CC",
     "link": "",
     "org": "pp",
     "seiyuu": ""
@@ -237,7 +237,7 @@
     "name": "大和麻弥",
     "mmdd": "11-03",
     "kind": "character",
-    "color": "#33DDAA",
+    "color": "#99DD88",
     "link": "/orgs/pastel-palettes",
     "org": "pp",
     "seiyuu": "中上育实"
@@ -246,7 +246,7 @@
     "name": "中上育实",
     "mmdd": "06-18",
     "kind": "seiyuu",
-    "color": "#84EACC",
+    "color": "#C1EAB7",
     "link": "",
     "org": "pp",
     "seiyuu": ""
@@ -255,7 +255,7 @@
     "name": "若宫伊芙",
     "mmdd": "06-27",
     "kind": "character",
-    "color": "#33DDAA",
+    "color": "#DDBBFF",
     "link": "/orgs/pastel-palettes",
     "org": "pp",
     "seiyuu": "秦佐和子"
@@ -264,7 +264,7 @@
     "name": "秦佐和子",
     "mmdd": "09-14",
     "kind": "seiyuu",
-    "color": "#84EACC",
+    "color": "#EAD6FF",
     "link": "",
     "org": "pp",
     "seiyuu": ""
@@ -273,403 +273,403 @@
     "name": "凑友希那",
     "mmdd": "10-26",
     "kind": "character",
-    "color": "#3344AA",
+    "color": "#881188",
     "link": "/orgs/roselia",
-    "org": "R",
+    "org": "r",
     "seiyuu": "相羽爱奈"
   },
   {
     "name": "相羽爱奈",
     "mmdd": "10-17",
     "kind": "seiyuu",
-    "color": "#848ECC",
+    "color": "#B770B7",
     "link": "",
-    "org": "R",
+    "org": "r",
     "seiyuu": ""
   },
   {
     "name": "冰川纱夜",
     "mmdd": "03-20",
     "kind": "character",
-    "color": "#3344AA",
+    "color": "#00AABB",
     "link": "/orgs/roselia",
-    "org": "R",
+    "org": "r",
     "seiyuu": "工藤晴香"
   },
   {
     "name": "工藤晴香",
     "mmdd": "03-16",
     "kind": "seiyuu",
-    "color": "#848ECC",
+    "color": "#66CCD6",
     "link": "",
-    "org": "R",
+    "org": "r",
     "seiyuu": ""
   },
   {
     "name": "今井莉莎",
     "mmdd": "08-25",
     "kind": "character",
-    "color": "#3344AA",
+    "color": "#DD2200",
     "link": "/orgs/roselia",
-    "org": "R",
+    "org": "r",
     "seiyuu": "远藤祐里香, 中岛由贵"
   },
   {
     "name": "远藤祐里香",
     "mmdd": "06-24",
     "kind": "seiyuu",
-    "color": "#848ECC",
+    "color": "#EA7A66",
     "link": "",
-    "org": "R",
+    "org": "r",
     "seiyuu": ""
   },
   {
     "name": "中岛由贵",
     "mmdd": "09-12",
     "kind": "seiyuu",
-    "color": "#848ECC",
+    "color": "#EA7A66",
     "link": "",
-    "org": "R",
+    "org": "r",
     "seiyuu": ""
   },
   {
     "name": "宇田川亚子",
     "mmdd": "07-03",
     "kind": "character",
-    "color": "#3344AA",
+    "color": "#DD0088",
     "link": "/orgs/roselia",
-    "org": "R",
+    "org": "r",
     "seiyuu": "樱川惠"
   },
   {
     "name": "樱川惠",
     "mmdd": "10-24",
     "kind": "seiyuu",
-    "color": "#848ECC",
+    "color": "#EA66B7",
     "link": "",
-    "org": "R",
+    "org": "r",
     "seiyuu": ""
   },
   {
     "name": "白金燐子",
     "mmdd": "10-17",
     "kind": "character",
-    "color": "#3344AA",
+    "color": "#BBBBBB",
     "link": "/orgs/roselia",
-    "org": "R",
+    "org": "r",
     "seiyuu": "明坂聪美, 志崎桦音"
   },
   {
     "name": "明坂聪美",
     "mmdd": "01-02",
     "kind": "seiyuu",
-    "color": "#848ECC",
+    "color": "#D6D6D6",
     "link": "",
-    "org": "R",
+    "org": "r",
     "seiyuu": ""
   },
   {
     "name": "志崎桦音",
     "mmdd": "02-08",
     "kind": "seiyuu",
-    "color": "#848ECC",
+    "color": "#D6D6D6",
     "link": "",
-    "org": "R",
+    "org": "r",
     "seiyuu": ""
   },
   {
     "name": "弦卷心",
     "mmdd": "08-08",
     "kind": "character",
-    "color": "#FFDD00",
+    "color": "#FFEE22",
     "link": "/orgs/hello-happy-world",
-    "org": "HHP",
+    "org": "hhp",
     "seiyuu": "伊藤美来"
   },
   {
     "name": "伊藤美来",
     "mmdd": "10-12",
     "kind": "seiyuu",
-    "color": "#FFEA66",
+    "color": "#FFF47A",
     "link": "",
-    "org": "HHP",
+    "org": "hhp",
     "seiyuu": ""
   },
   {
     "name": "濑田薰",
     "mmdd": "02-28",
     "kind": "character",
-    "color": "#FFDD00",
+    "color": "#AA33CC",
     "link": "/orgs/hello-happy-world",
-    "org": "HHP",
+    "org": "hhp",
     "seiyuu": "田所梓"
   },
   {
     "name": "田所梓",
     "mmdd": "11-10",
     "kind": "seiyuu",
-    "color": "#FFEA66",
+    "color": "#CC84E0",
     "link": "",
-    "org": "HHP",
+    "org": "hhp",
     "seiyuu": ""
   },
   {
     "name": "北泽育美",
     "mmdd": "07-30",
     "kind": "character",
-    "color": "#FFDD00",
+    "color": "#FF9922",
     "link": "/orgs/hello-happy-world",
-    "org": "HHP",
+    "org": "hhp",
     "seiyuu": "吉田有里"
   },
   {
     "name": "吉田有里",
     "mmdd": "08-18",
     "kind": "seiyuu",
-    "color": "#FFEA66",
+    "color": "#FFC17A",
     "link": "",
-    "org": "HHP",
+    "org": "hhp",
     "seiyuu": ""
   },
   {
     "name": "松原花音",
     "mmdd": "05-11",
     "kind": "character",
-    "color": "#FFDD00",
+    "color": "#44DDFF",
     "link": "/orgs/hello-happy-world",
-    "org": "HHP",
+    "org": "hhp",
     "seiyuu": "丰田萌绘"
   },
   {
     "name": "丰田萌绘",
     "mmdd": "03-15",
     "kind": "seiyuu",
-    "color": "#FFEA66",
+    "color": "#8EEAFF",
     "link": "",
-    "org": "HHP",
+    "org": "hhp",
     "seiyuu": ""
   },
   {
     "name": "奥泽美咲",
     "mmdd": "10-01",
     "kind": "character",
-    "color": "#FFDD00",
+    "color": "#006699",
     "link": "/orgs/hello-happy-world",
-    "org": "HHP",
+    "org": "hhp",
     "seiyuu": "黑泽朋世"
   },
   {
     "name": "黑泽朋世",
     "mmdd": "04-10",
     "kind": "seiyuu",
-    "color": "#FFEA66",
+    "color": "#66A3C1",
     "link": "",
-    "org": "HHP",
+    "org": "hhp",
     "seiyuu": ""
   },
   {
     "name": "米歇尔",
     "mmdd": "10-01",
     "kind": "character",
-    "color": "#FFDD00",
+    "color": "#DD33CC",
     "link": "/orgs/hello-happy-world",
-    "org": "HHP",
+    "org": "hhp",
     "seiyuu": "黑泽朋世"
   },
   {
     "name": "黑泽朋世",
     "mmdd": "04-10",
     "kind": "seiyuu",
-    "color": "#FFEA66",
+    "color": "#EA84E0",
     "link": "",
-    "org": "HHP",
+    "org": "hhp",
     "seiyuu": ""
   },
   {
     "name": "仓田真白",
     "mmdd": "02-19",
     "kind": "character",
-    "color": "#87CEEB",
+    "color": "#6677CC",
     "link": "/orgs/morfonica",
-    "org": "M",
+    "org": "m",
     "seiyuu": "进藤天音"
   },
   {
     "name": "进藤天音",
     "mmdd": "04-20",
     "kind": "seiyuu",
-    "color": "#B7E1F3",
+    "color": "#A3ADE0",
     "link": "",
-    "org": "M",
+    "org": "m",
     "seiyuu": ""
   },
   {
     "name": "桐谷透子",
     "mmdd": "12-16",
     "kind": "character",
-    "color": "#87CEEB",
+    "color": "#EE6666",
     "link": "/orgs/morfonica",
-    "org": "M",
+    "org": "m",
     "seiyuu": "直田姬奈"
   },
   {
     "name": "直田姬奈",
     "mmdd": "04-17",
     "kind": "seiyuu",
-    "color": "#B7E1F3",
+    "color": "#F4A3A3",
     "link": "",
-    "org": "M",
+    "org": "m",
     "seiyuu": ""
   },
   {
     "name": "广町七深",
     "mmdd": "06-16",
     "kind": "character",
-    "color": "#87CEEB",
+    "color": "#EE7744",
     "link": "/orgs/morfonica",
-    "org": "M",
+    "org": "m",
     "seiyuu": "西尾夕香"
   },
   {
     "name": "西尾夕香",
     "mmdd": "03-31",
     "kind": "seiyuu",
-    "color": "#B7E1F3",
+    "color": "#F4AD8E",
     "link": "",
-    "org": "M",
+    "org": "m",
     "seiyuu": ""
   },
   {
     "name": "二叶筑紫",
     "mmdd": "09-15",
     "kind": "character",
-    "color": "#87CEEB",
+    "color": "#EE7788",
     "link": "/orgs/morfonica",
-    "org": "M",
+    "org": "m",
     "seiyuu": "mika"
   },
   {
     "name": "mika",
     "mmdd": "06-24",
     "kind": "seiyuu",
-    "color": "#B7E1F3",
+    "color": "#F4ADB7",
     "link": "",
-    "org": "M",
+    "org": "m",
     "seiyuu": ""
   },
   {
     "name": "八潮瑠唯",
     "mmdd": "11-19",
     "kind": "character",
-    "color": "#87CEEB",
+    "color": "#669988",
     "link": "/orgs/morfonica",
-    "org": "M",
+    "org": "m",
     "seiyuu": "Ayasa"
   },
   {
     "name": "Ayasa",
     "mmdd": "10-19",
     "kind": "seiyuu",
-    "color": "#B7E1F3",
+    "color": "#A3C1B7",
     "link": "",
-    "org": "M",
+    "org": "m",
     "seiyuu": ""
   },
   {
     "name": "和奏瑞依",
     "mmdd": "01-13",
     "kind": "character",
-    "color": "#33CCCC",
+    "color": "#CC0000",
     "link": "/orgs/raise-a-suilen",
-    "org": "RAS",
+    "org": "ras",
     "seiyuu": "Raychell"
   },
   {
     "name": "Raychell",
     "mmdd": "01-13",
     "kind": "seiyuu",
-    "color": "#84E0E0",
+    "color": "#E06666",
     "link": "",
-    "org": "RAS",
+    "org": "ras",
     "seiyuu": ""
   },
   {
     "name": "朝日六花",
     "mmdd": "07-17",
     "kind": "character",
-    "color": "#33CCCC",
+    "color": "#AAEE22",
     "link": "/orgs/raise-a-suilen",
-    "org": "RAS",
+    "org": "ras",
     "seiyuu": "小原莉子"
   },
   {
     "name": "小原莉子",
     "mmdd": "02-03",
     "kind": "seiyuu",
-    "color": "#84E0E0",
+    "color": "#CCF47A",
     "link": "",
-    "org": "RAS",
+    "org": "ras",
     "seiyuu": ""
   },
   {
     "name": "佐藤益木",
     "mmdd": "05-12",
     "kind": "character",
-    "color": "#33CCCC",
+    "color": "#EEBB44",
     "link": "/orgs/raise-a-suilen",
-    "org": "RAS",
+    "org": "ras",
     "seiyuu": "夏芽"
   },
   {
     "name": "夏芽",
     "mmdd": "07-20",
     "kind": "seiyuu",
-    "color": "#84E0E0",
+    "color": "#F4D68E",
     "link": "",
-    "org": "RAS",
+    "org": "ras",
     "seiyuu": ""
   },
   {
     "name": "鳰原令王那",
     "mmdd": "03-25",
     "kind": "character",
-    "color": "#33CCCC",
+    "color": "#FF99BB",
     "link": "/orgs/raise-a-suilen",
-    "org": "RAS",
+    "org": "ras",
     "seiyuu": "仓知玲凤"
   },
   {
     "name": "仓知玲凤",
     "mmdd": "05-22",
     "kind": "seiyuu",
-    "color": "#84E0E0",
+    "color": "#FFC1D6",
     "link": "",
-    "org": "RAS",
+    "org": "ras",
     "seiyuu": ""
   },
   {
     "name": "珠手知由",
     "mmdd": "12-07",
     "kind": "character",
-    "color": "#33CCCC",
+    "color": "#FF99BB",
     "link": "/orgs/raise-a-suilen",
-    "org": "RAS",
+    "org": "ras",
     "seiyuu": "纺木吏佐"
   },
   {
     "name": "纺木吏佐",
     "mmdd": "07-05",
     "kind": "seiyuu",
-    "color": "#84E0E0",
+    "color": "#FFC1D6",
     "link": "",
-    "org": "RAS",
+    "org": "ras",
     "seiyuu": ""
   },
   {
     "name": "高松灯",
     "mmdd": "11-22",
     "kind": "character",
-    "color": "#3388BB",
+    "color": "#77BBDD",
     "link": "/orgs/mygo",
     "org": "mygo",
     "seiyuu": "羊宫妃那"
@@ -678,7 +678,7 @@
     "name": "羊宫妃那",
     "mmdd": "03-26",
     "kind": "seiyuu",
-    "color": "#84B7D6",
+    "color": "#ADD6EA",
     "link": "",
     "org": "mygo",
     "seiyuu": ""
@@ -687,7 +687,7 @@
     "name": "千早爱音",
     "mmdd": "09-08",
     "kind": "character",
-    "color": "#3388BB",
+    "color": "#FF8899",
     "link": "/orgs/mygo",
     "org": "mygo",
     "seiyuu": "立石凛"
@@ -696,7 +696,7 @@
     "name": "立石凛",
     "mmdd": "07-10",
     "kind": "seiyuu",
-    "color": "#84B7D6",
+    "color": "#FFB7C1",
     "link": "",
     "org": "mygo",
     "seiyuu": ""
@@ -705,7 +705,7 @@
     "name": "要乐奈",
     "mmdd": "02-22",
     "kind": "character",
-    "color": "#3388BB",
+    "color": "#77DD77",
     "link": "/orgs/mygo",
     "org": "mygo",
     "seiyuu": "青木阳菜"
@@ -714,7 +714,7 @@
     "name": "青木阳菜",
     "mmdd": "01-05",
     "kind": "seiyuu",
-    "color": "#84B7D6",
+    "color": "#ADEAAD",
     "link": "",
     "org": "mygo",
     "seiyuu": ""
@@ -723,7 +723,7 @@
     "name": "长崎爽世",
     "mmdd": "05-27",
     "kind": "character",
-    "color": "#3388BB",
+    "color": "#FFDD88",
     "link": "/orgs/mygo",
     "org": "mygo",
     "seiyuu": "小日向美香"
@@ -732,7 +732,7 @@
     "name": "小日向美香",
     "mmdd": "03-14",
     "kind": "seiyuu",
-    "color": "#84B7D6",
+    "color": "#FFEAB7",
     "link": "",
     "org": "mygo",
     "seiyuu": ""
@@ -741,7 +741,7 @@
     "name": "椎名立希",
     "mmdd": "08-09",
     "kind": "character",
-    "color": "#3388BB",
+    "color": "#7777AA",
     "link": "/orgs/mygo",
     "org": "mygo",
     "seiyuu": "林鼓子"
@@ -750,7 +750,7 @@
     "name": "林鼓子",
     "mmdd": "05-15",
     "kind": "seiyuu",
-    "color": "#84B7D6",
+    "color": "#ADADCC",
     "link": "",
     "org": "mygo",
     "seiyuu": ""
@@ -759,97 +759,97 @@
     "name": "三角初华",
     "mmdd": "06-26",
     "kind": "character",
-    "color": "#881144",
+    "color": "#BB9955",
     "link": "/orgs/avemujica",
-    "org": "Ave",
+    "org": "ave",
     "seiyuu": "佐佐木李子"
   },
   {
     "name": "佐佐木李子",
     "mmdd": "11-10",
     "kind": "seiyuu",
-    "color": "#B7708E",
+    "color": "#D6C199",
     "link": "",
-    "org": "Ave",
+    "org": "ave",
     "seiyuu": ""
   },
   {
     "name": "若叶睦",
     "mmdd": "01-14",
     "kind": "character",
-    "color": "#881144",
+    "color": "#779977",
     "link": "/orgs/avemujica",
-    "org": "Ave",
+    "org": "ave",
     "seiyuu": "渡濑结月"
   },
   {
     "name": "渡濑结月",
     "mmdd": "02-18",
     "kind": "seiyuu",
-    "color": "#B7708E",
+    "color": "#ADC1AD",
     "link": "",
-    "org": "Ave",
+    "org": "ave",
     "seiyuu": ""
   },
   {
     "name": "八幡海铃",
     "mmdd": "04-07",
     "kind": "character",
-    "color": "#881144",
+    "color": "#335566",
     "link": "/orgs/avemujica",
-    "org": "Ave",
+    "org": "ave",
     "seiyuu": "冈田梦以"
   },
   {
     "name": "冈田梦以",
     "mmdd": "05-19",
     "kind": "seiyuu",
-    "color": "#B7708E",
+    "color": "#8499A3",
     "link": "",
-    "org": "Ave",
+    "org": "ave",
     "seiyuu": ""
   },
   {
     "name": "祐天寺若麦",
     "mmdd": "06-01",
     "kind": "character",
-    "color": "#881144",
+    "color": "#AA4477",
     "link": "/orgs/avemujica",
-    "org": "Ave",
+    "org": "ave",
     "seiyuu": "米泽茜"
   },
   {
     "name": "米泽茜",
     "mmdd": "12-31",
     "kind": "seiyuu",
-    "color": "#B7708E",
+    "color": "#CC8EAD",
     "link": "",
-    "org": "Ave",
+    "org": "ave",
     "seiyuu": ""
   },
   {
     "name": "丰川祥子",
     "mmdd": "02-14",
     "kind": "character",
-    "color": "#881144",
+    "color": "#7799CC",
     "link": "/orgs/avemujica",
-    "org": "Ave",
+    "org": "ave",
     "seiyuu": "高尾奏音"
   },
   {
     "name": "高尾奏音",
     "mmdd": "09-10",
     "kind": "seiyuu",
-    "color": "#B7708E",
+    "color": "#ADC1E0",
     "link": "",
-    "org": "Ave",
+    "org": "ave",
     "seiyuu": ""
   },
   {
     "name": "仲町阿拉蕾",
     "mmdd": "08-16",
     "kind": "character",
-    "color": "#FF7788",
+    "color": "#FFEE55",
     "link": "/orgs/yumemita",
     "org": "mxd",
     "seiyuu": ""
@@ -858,7 +858,7 @@
     "name": "宫永野乃花",
     "mmdd": "04-17",
     "kind": "character",
-    "color": "#FF7788",
+    "color": "#FFBBCC",
     "link": "/orgs/yumemita",
     "org": "mxd",
     "seiyuu": ""
@@ -867,7 +867,7 @@
     "name": "峰月律",
     "mmdd": "02-07",
     "kind": "character",
-    "color": "#FF7788",
+    "color": "#4477CC",
     "link": "/orgs/yumemita",
     "org": "mxd",
     "seiyuu": ""
@@ -876,7 +876,7 @@
     "name": "藤都子",
     "mmdd": "09-19",
     "kind": "character",
-    "color": "#FF7788",
+    "color": "#9977CC",
     "link": "/orgs/yumemita",
     "org": "mxd",
     "seiyuu": ""
@@ -885,7 +885,7 @@
     "name": "千石由乃",
     "mmdd": "11-04",
     "kind": "character",
-    "color": "#FF7788",
+    "color": "#EE5577",
     "link": "/orgs/yumemita",
     "org": "mxd",
     "seiyuu": ""
@@ -894,7 +894,7 @@
     "name": "汐见萤",
     "mmdd": "03-12",
     "kind": "character",
-    "color": "#AA22EE",
+    "color": "#99FF99",
     "link": "/orgs/millsage",
     "org": "millsage",
     "seiyuu": "药师寺李有"
@@ -903,7 +903,7 @@
     "name": "药师寺李有",
     "mmdd": "09-11",
     "kind": "seiyuu",
-    "color": "#CC7AF4",
+    "color": "#C1FFC1",
     "link": "",
     "org": "millsage",
     "seiyuu": ""
@@ -912,7 +912,7 @@
     "name": "伊泽枣",
     "mmdd": "03-30",
     "kind": "character",
-    "color": "#AA22EE",
+    "color": "#FF4444",
     "link": "/orgs/millsage",
     "org": "millsage",
     "seiyuu": "千春"
@@ -921,7 +921,7 @@
     "name": "千春",
     "mmdd": "04-10",
     "kind": "seiyuu",
-    "color": "#CC7AF4",
+    "color": "#FF8E8E",
     "link": "",
     "org": "millsage",
     "seiyuu": ""
@@ -930,7 +930,7 @@
     "name": "琴平凪",
     "mmdd": "12-10",
     "kind": "character",
-    "color": "#AA22EE",
+    "color": "#5555FF",
     "link": "/orgs/millsage",
     "org": "millsage",
     "seiyuu": "结川麻希"
@@ -939,7 +939,7 @@
     "name": "结川麻希",
     "mmdd": "02-15",
     "kind": "seiyuu",
-    "color": "#CC7AF4",
+    "color": "#9999FF",
     "link": "",
     "org": "millsage",
     "seiyuu": ""
@@ -948,7 +948,7 @@
     "name": "滨崎茉幌",
     "mmdd": "07-16",
     "kind": "character",
-    "color": "#AA22EE",
+    "color": "#77FFFF",
     "link": "/orgs/millsage",
     "org": "millsage",
     "seiyuu": "伊驹祐里惠"
@@ -957,7 +957,7 @@
     "name": "伊驹祐里惠",
     "mmdd": "02-24",
     "kind": "seiyuu",
-    "color": "#CC7AF4",
+    "color": "#ADFFFF",
     "link": "",
     "org": "millsage",
     "seiyuu": ""
@@ -966,7 +966,7 @@
     "name": "和泉朋花",
     "mmdd": "10-24",
     "kind": "character",
-    "color": "#AA22EE",
+    "color": "#EE99EE",
     "link": "/orgs/millsage",
     "org": "millsage",
     "seiyuu": "咲川雏乃"
@@ -975,7 +975,7 @@
     "name": "咲川雏乃",
     "mmdd": "01-22",
     "kind": "seiyuu",
-    "color": "#CC7AF4",
+    "color": "#F4C1F4",
     "link": "",
     "org": "millsage",
     "seiyuu": ""
@@ -984,7 +984,7 @@
     "name": "须贺蕾叶",
     "mmdd": "07-28",
     "kind": "character",
-    "color": "#FFAA33",
+    "color": "#FF7700",
     "link": "/orgs/ikka-dumb-rock",
     "org": "dumb",
     "seiyuu": "橘芽衣"
@@ -993,7 +993,7 @@
     "name": "橘芽衣",
     "mmdd": "11-19",
     "kind": "seiyuu",
-    "color": "#FFCC84",
+    "color": "#FFAD66",
     "link": "",
     "org": "dumb",
     "seiyuu": ""
@@ -1002,7 +1002,7 @@
     "name": "马桥心玖",
     "mmdd": "10-04",
     "kind": "character",
-    "color": "#FFAA33",
+    "color": "#22CCFF",
     "link": "/orgs/ikka-dumb-rock",
     "org": "dumb",
     "seiyuu": "凉泉樱花"
@@ -1011,7 +1011,7 @@
     "name": "凉泉樱花",
     "mmdd": "03-05",
     "kind": "seiyuu",
-    "color": "#FFCC84",
+    "color": "#7AE0FF",
     "link": "",
     "org": "dumb",
     "seiyuu": ""
@@ -1020,7 +1020,7 @@
     "name": "矢仓蓬咲",
     "mmdd": "05-06",
     "kind": "character",
-    "color": "#FFAA33",
+    "color": "#448888",
     "link": "/orgs/ikka-dumb-rock",
     "org": "dumb",
     "seiyuu": "花宫初奈"
@@ -1029,7 +1029,7 @@
     "name": "花宫初奈",
     "mmdd": "10-24",
     "kind": "seiyuu",
-    "color": "#FFCC84",
+    "color": "#8EB7B7",
     "link": "",
     "org": "dumb",
     "seiyuu": ""
@@ -1038,7 +1038,7 @@
     "name": "梅里千樱梨",
     "mmdd": "04-02",
     "kind": "character",
-    "color": "#FFAA33",
+    "color": "#FF55AA",
     "link": "/orgs/ikka-dumb-rock",
     "org": "dumb",
     "seiyuu": "菱川花菜"
@@ -1047,7 +1047,7 @@
     "name": "菱川花菜",
     "mmdd": "05-19",
     "kind": "seiyuu",
-    "color": "#FFCC84",
+    "color": "#FF99CC",
     "link": "",
     "org": "dumb",
     "seiyuu": ""
@@ -1056,7 +1056,7 @@
     "name": "四宫宁月",
     "mmdd": "03-05",
     "kind": "character",
-    "color": "#FFAA33",
+    "color": "#9999FF",
     "link": "/orgs/ikka-dumb-rock",
     "org": "dumb",
     "seiyuu": "远野光"
@@ -1065,7 +1065,7 @@
     "name": "远野光",
     "mmdd": "03-05",
     "kind": "seiyuu",
-    "color": "#FFCC84",
+    "color": "#C1C1FF",
     "link": "",
     "org": "dumb",
     "seiyuu": ""

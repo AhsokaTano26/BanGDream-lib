@@ -90,7 +90,7 @@ const REGISTRY = {
         pp: { label: 'Pastel＊Palettes', icon: 'lucide:sparkles', class: 'bg-sky-50 text-sky-600 border-sky-100', isBand: true, color: '#33DDAA' },
         r: { label: 'Roselia', icon: 'emojione-monotone:rose', class: 'bg-indigo-50 text-indigo-800 border-indigo-100', isBand: true, color: '#3344AA' },
         hhp: { label: 'Hello Happy World', icon: 'lucide:smile', class: 'bg-yellow-50 text-yellow-800 border-yellow-100', isBand: true, color: '#FFDD00' },
-        m: { label: 'Morfonica', icon: 'lucide:music-3', class: 'bg-cyan-50 text-cyan-700 border-cyan-100', isBand: true, color: '#87CEEB' },
+        m: { label: 'Morfonica', icon: 'lucide:music-3', class: 'bg-cyan-50 text-cyan-700 border-cyan-100', isBand: true, color: '#33AAFF' },
         ras: { label: 'RAISE A SUILEN', icon: 'lucide:zap', class: 'bg-lime-50 text-lime-700 border-lime-200', isBand: true, color: '#33CCCC' },
         mygo: { label: 'MyGO!!!!!', icon: 'ph:compass-rose', class: 'bg-teal-50 text-teal-700 border-teal-200', isBand: true, color: '#3388BB' },
         ave: { label: 'Ave Mujica', icon: 'boxicons:mask', class: 'bg-violet-50 text-violet-700 border-violet-200', isBand: true, color: '#881144' },
@@ -167,3 +167,20 @@ export const mapOrgStyles = (rawValue) => {
 
 // 导出原始数据以便在选择器/下拉框中使用
 export const TAG_MAPS = REGISTRY;
+
+/**
+ * 将十六进制颜色变浅（混合白色）
+ * @param {string} hexColor - 十六进制颜色，如 "#3344AA"
+ * @param {number} factor - 0~1，越大越浅，默认 0.5
+ * @returns {string} 变浅后的十六进制颜色
+ */
+export const lightenColor = (hexColor, factor = 0.5) => {
+    const hex = hexColor.replace('#', '');
+    const r = parseInt(hex.substring(0, 2), 16);
+    const g = parseInt(hex.substring(2, 4), 16);
+    const b = parseInt(hex.substring(4, 6), 16);
+    const nr = Math.round(r + (255 - r) * factor);
+    const ng = Math.round(g + (255 - g) * factor);
+    const nb = Math.round(b + (255 - b) * factor);
+    return `#${nr.toString(16).padStart(2, '0')}${ng.toString(16).padStart(2, '0')}${nb.toString(16).padStart(2, '0')}`;
+};

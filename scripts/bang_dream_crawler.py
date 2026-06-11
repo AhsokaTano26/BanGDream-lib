@@ -506,10 +506,11 @@ class Crawler:
         body_md = self.html_to_markdown(item.body_html)
         if self.translator is not None:
             frontmatter = translate_frontmatter_dict(frontmatter, self.translator, fields=self.translate_frontmatter_fields)
-            body_md = self.translator.translate_markdown(body_md, context=f"{collection}/{item.slug}")
+            if body_md.strip():
+                body_md = self.translator.translate_markdown(body_md, context=f"{collection}/{item.slug}")
             item.frontmatter = frontmatter
         markdown = render_markdown(frontmatter, body_md)
-        if self.translator is not None:
+        if self.translator is not None and body_md.strip():
             frontmatter_block, body = split_frontmatter(markdown)
             markdown = build_document(frontmatter_block, body, marker=TRANSLATION_MARKER)
         path.write_text(markdown, encoding="utf-8")
@@ -522,7 +523,11 @@ class Crawler:
         path = self.page_path(collection, slug)
         if not path.exists():
             return False
-        return is_translated_document(path.read_text(encoding="utf-8", errors="replace"), marker=TRANSLATION_MARKER)
+        text = path.read_text(encoding="utf-8", errors="replace")
+        if not is_translated_document(text, marker=TRANSLATION_MARKER):
+            return False
+        _, body = split_frontmatter(text)
+        return bool(body.strip())
 
     def should_skip_existing_output(self, collection: str, slug: str) -> bool:
         path = self.page_path(collection, slug)

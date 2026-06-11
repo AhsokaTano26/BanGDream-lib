@@ -53,108 +53,76 @@ DEEPSEEK_API_KEY=你的DeepSeek密钥
 
 ---
 
-## 3. 先跑小样本测试
+## 3. 统一入口与交互模式
 
-推荐先做 smoke test，确认解析和落盘流程正常：
+所有脚本均采用**纯交互式**运行，不再使用命令行参数。启动后会逐步询问所需选项。
+
+### 统一入口
 
 ```bash
-python3 scripts/bang_dream_smoke_test.py --skip-images --limit 1
+python3 -m scripts.main
 ```
 
-说明：
+显示菜单，选择要执行的任务即可。每个任务完成后返回菜单，输入 `退出` 退出。
 
-- 每个集合只抓 1 条
-- 默认写入临时目录
-- `--skip-images` 不下载图片，速度最快
+### 单独运行
 
-如果你想保留输出：
+也可以直接运行某个脚本，同样进入交互模式：
 
 ```bash
-python3 scripts/bang_dream_smoke_test.py --skip-images --limit 1 --output ./tmp/bang-dream-smoke
+python3 scripts/bang_dream_crawler.py
+python3 scripts/bang_dream_smoke_test.py
+python3 scripts/upload_markdown_images.py
+python3 scripts/translate_markdown_docs.py
+python3 scripts/migrate_legacy_caches.py
+python3 scripts/build_birthdays.py
 ```
 
 ---
 
-## 4. 全量生成
+## 4. 先跑小样本测试
 
-抓取全部支持的集合：
+推荐先做 smoke test，确认解析和落盘流程正常：
 
 ```bash
-python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs
+python3 scripts/bang_dream_smoke_test.py
 ```
+
+脚本会交互式询问：
+
+- 输出目录（默认临时目录）
+- 是否跳过图片下载
+- 每个集合抓取条数限制
+- 要测试的集合（多选）
+
+如果你想保留输出，选择输出目录时填入 `./tmp/bang-dream-smoke`。
+
+---
+
+## 5. 全量生成
+
+```bash
+python3 scripts/bang_dream_crawler.py
+```
+
+交互式菜单提供以下选择：
+
+- **抓取模式**：选择集合列表 / 单个 URL / 全部集合
+- **网络选项**：超时时间、请求延迟
+- **图片处理**：本地保存 / 上传图床（公共或私有）
+- **翻译**：是否开启 DeepSeek 翻译
+- **断点续抓**：默认开启，可选择强制重跑
 
 脚本默认会把已完成的条目标记到本机缓存里的状态文件，并在下次运行时自动跳过，支持断点继续。
 如果你手动中断，已经写入的内容仍会保留，重跑同一命令即可继续。
 运行时会输出当前集合、分页和条目 slug，便于判断是正常抓取还是卡在某个请求上。
 如果源站内容有更新，脚本会按源站版本号重新生成对应页面；没变的条目会直接跳过。
-如果开启 `--translate`，那么“签名未变但本地文件还不是翻译版”的条目也会重新抓取并写回，避免漏翻。
+如果开启翻译，那么"签名未变但本地文件还不是翻译版"的条目也会重新抓取并写回，避免漏翻。
 如果某张图片已经失效，脚本会保留原始图片地址并继续，不会中断整批抓取。
-
-如果想控制抓取数量：
-
-```bash
-python3 scripts/bang_dream_crawler.py --collections news blog --limit 5
-```
-
-如果暂时不想下载图片：
-
-```bash
-python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs --skip-images
-```
-
-如果想放慢一点：
-
-```bash
-python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs --delay 0.5
-```
-
-如果你要强制重跑某次任务，可以关闭断点续抓：
-
-```bash
-python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs --no-resume
-```
-
-如果站点响应很慢，可以缩短超时：
-
-```bash
-python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs --connect-timeout 8 --read-timeout 15
-```
-
-如果你只想抓某一篇文章，可以直接传 URL：
-
-```bash
-python3 scripts/bang_dream_crawler.py --url "https://bang-dream.com/events/9th-live/"
-```
-
-如果要手动指定写入到哪个集合：
-
-```bash
-python3 scripts/bang_dream_crawler.py --url "https://bang-dream.com/events/9th-live/" --collection blog
-```
-
-脚本还会把抓到的数据写入 `data/contents.sqlite`，方便你本地检查页面、签名和图片失败记录。
-现在爬虫状态、图床缓存和翻译缓存也都统一写进这个数据库，不再依赖独立的 `cache/*.json` 文件。
-仓库里旧的 `cache/*.json` 只作为迁移来源，后续运行不会再写它们。
-
-图片处理默认是**本地保存**：会写入 `public/assets/bang-dream/`，并在 md 中改成站内路径。
-如果你想在抓取阶段直接上传图床，可以加：
-
-```bash
-python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs --image-storage upload --image-upload-visibility private
-```
-
-说明：
-
-- `--image-storage local`：默认值，保存在本地
-- `--image-storage upload`：直接上传到图床并写回远程 URL
-- `--image-upload-visibility private`：私有上传，需要在仓库根目录 `.env` 里配置 `IMG_TANO_API_KEY`
-- `--image-upload-visibility public`：公共上传，不需要 API Key
-
-如果需要覆盖接口地址，可以额外加 `--image-upload-endpoint`。
 
 ---
 
-## 5. 输出结构
+## 6. 输出结构
 
 生成结果会落到类似下面的位置：
 
@@ -176,7 +144,7 @@ Smoke test 和正式生成使用同一套 Markdown 转换逻辑。
 
 ---
 
-## 6. 数据来源说明
+## 7. 数据来源说明
 
 脚本会优先使用 WordPress REST API 抓取：
 
@@ -193,7 +161,22 @@ Smoke test 和正式生成使用同一套 Markdown 转换逻辑。
 
 ---
 
-## 7. 推荐工作流
+## 8. 生日与应援色数据
+
+```bash
+python3 scripts/build_birthdays.py
+```
+
+从原始 JSON 文件生成：
+
+- `app/data/birthdays.json` — 角色与声优生日数据（供 Calendar 和 Birthdays 页面使用）
+- `app/data/colors.json` — 乐队主题色与角色应援色（供 Colors 页面使用）
+
+两个文件始终同步生成，保证数据一致性。`colors.json` 中手动编辑的乐队多色配置会被保留。
+
+---
+
+## 9. 推荐工作流
 
 1. 先跑 smoke test。
 2. 检查生成文件内容是否符合预期。
@@ -203,133 +186,75 @@ Smoke test 和正式生成使用同一套 Markdown 转换逻辑。
 
 ---
 
-## 8. 常见问题
+## 10. 常见问题
 
-### 8.1 为什么只看到临时目录？
+### 10.1 为什么只看到临时目录？
 
-因为 `bang_dream_smoke_test.py` 默认输出到临时目录。想保留结果时请加 `--output`。
+因为 smoke test 默认输出到临时目录。想保留结果时在交互提示中填写输出路径。
 
-### 8.2 图片能不能不下载？
+### 10.2 图片能不能不下载？
 
-可以，给脚本加 `--skip-images`。
+可以，smoke test 交互时选择"跳过图片下载"。
 
-### 8.3 断点续抓怎么控制？
+### 10.3 断点续抓怎么控制？
 
-默认开启，状态文件保存在用户缓存目录。想强制重跑时加 `--no-resume`。
+默认开启，状态文件保存在用户缓存目录。想强制重跑时在爬虫菜单中选择"强制重跑（忽略缓存）"。
 
-### 8.4 为什么不直接覆盖现有内容？
+### 10.4 为什么不直接覆盖现有内容？
 
 为了保留仓库里现有的手工文档，自动生成内容直接放在各集合目录下的独立 `.md` 文件中。
 
-### 8.5 哪些内容不会自动生成？
+### 10.5 哪些内容不会自动生成？
 
 `artist`、`timeline`、`notice`、`personal` 目前仍建议手工维护。
 
-### 8.6 图片下载失败会怎么提示？
+### 10.6 图片下载失败会怎么提示？
 
 脚本结束时会按页面汇总所有失败图片，并打印对应的页面 URL、图片 URL 和错误信息。
 
-### 8.7 本地图片怎么上传到图床？
-
-如果你已经生成了本地图片，但仓库不方便继续保留这些文件，可以用：
+### 10.7 本地图片怎么上传到图床？
 
 ```bash
 python3 scripts/upload_markdown_images.py
 ```
 
-脚本会：
+交互式询问：
 
-- 扫描 `public/assets/bang-dream/`
-- 用私有图床接口上传图片
-- 将 `content/**/*.md` 里的本地图片引用替换成返回的远程 URL
+- 扫描目录（默认 `public/assets/bang-dream/`）
+- 上传模式（公共/私有）
+- 是否预演（dry-run）
+- 是否限制数量
 
-先在仓库根目录 `.env` 里写好 `IMG_TANO_API_KEY`。
-默认是私有上传；如果要公共上传，加 `--visibility public`。
+私有上传需要在仓库根目录 `.env` 里配置 `IMG_TANO_API_KEY`。
 
-如果想先试跑，可以加 `--dry-run`；如果只想测试少量图片，可以加 `--limit 1`。
-如果要改上传接口，可以加 `--endpoint`。
+### 10.8 爬取时怎么自动翻译成中文？
 
-如果你想在爬虫阶段就决定图片存本地还是直接上图床：
-
-```bash
-python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs --image-storage upload --image-upload-visibility private
-```
-
-把 `private` 改成 `public` 就是不带密钥的公共上传。
-
-如果你只想做“本地图片 -> 图床 URL”迁移，而不重新爬站，也可以直接跑上面的 `upload_markdown_images.py`。
-这个脚本会按图片内容做缓存，重复执行不会重复上传同一张图。
-
-如果你只想把旧的 `cache/*.json` 迁移到 SQLite，而不抓取任何内容，可以直接跑：
-
-```bash
-python3 scripts/migrate_legacy_caches.py
-```
-
-默认目标是 `data/contents.sqlite`，如果要换位置可以加 `--db-path`。
-
-### 8.8 爬取时怎么自动翻译成中文？
-
-爬虫支持在生成时直接调用 DeepSeek，把标题、描述和正文翻译成中文：
-
-```bash
-python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs --translate
-```
-
-上面的密钥现在都从根目录 `.env` 读取，不再从命令行传入。
+爬虫启动后在交互菜单中选择"开启翻译"。翻译使用 DeepSeek API，密钥从根目录 `.env` 读取。
 
 默认使用：
 
 - `https://api.deepseek.com`
 - `deepseek-v4-flash`
 
-默认会翻译这些 frontmatter 字段：
+默认会翻译 frontmatter 字段：`title`、`description`、`location`。
 
-- `title`
-- `description`
-- `location`
-
-如果要重试或重新翻译，给批量脚本加 `--force`。如果要改数据库位置，可以改 `--db-path`。
-默认会**直接覆盖原文**；如果只想先看效果，给批量脚本加 `--dry-run`。
-
-### 8.8.1 最小化测试参数
-
-先翻译 1 篇新闻：
+### 10.9 现有 md 怎么批量翻译？
 
 ```bash
-python3 scripts/bang_dream_crawler.py --collections news --limit 1 --translate
+python3 scripts/translate_markdown_docs.py
 ```
 
-只预演一个目录：
+交互式询问：
 
-```bash
-python3 scripts/translate_markdown_docs.py content/news --dry-run
-```
-
-真的原地翻译一个目录：
-
-```bash
-python3 scripts/translate_markdown_docs.py content/news --force
-```
-
-### 8.9 现有 md 怎么批量翻译？
-
-```bash
-python3 scripts/translate_markdown_docs.py content
-```
-
-常用选项：
-
-- `--output-root translated-content`：输出到新目录
-- `--force`：强制重翻
-- `--dry-run`：只看会处理哪些文件
-- `--frontmatter-fields title,description,location`：控制翻译哪些 frontmatter 字段
-- `--db-path ...`：SQLite 数据库位置
-- 密钥统一读取根目录 `.env`
+- 输入目录（默认 `content`）
+- 输出目录（默认原地翻译）
+- 是否强制重翻
+- 是否预演
+- 翻译哪些 frontmatter 字段
 
 翻译时会在终端显示进度条，方便看当前处理到哪一篇了。
 
-### 8.10 `data/contents.sqlite` 的表和字段说明
+### 10.10 `data/contents.sqlite` 的表和字段说明
 
 这个数据库是爬虫、上传、翻译、迁移共用的本地状态库。它主要用来做三件事：记录已抓取内容、缓存图片上传结果、缓存翻译结果。
 
@@ -410,19 +335,33 @@ sqlite3 data/contents.sqlite "SELECT * FROM crawl_state LIMIT 5;"
 
 ---
 
-## 9. 最常用命令
+## 11. 最常用命令
 
 | 场景 | 命令 |
 | --- | --- |
-| 小样本测试 | `python3 scripts/bang_dream_smoke_test.py --skip-images --limit 1` |
-| 全量生成 | `python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs` |
-| 少量抓取 | `python3 scripts/bang_dream_crawler.py --collections news blog --limit 3 --skip-images` |
-| 本地存图抓取 | `python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs --image-storage local` |
-| 爬虫直接上传图床 | `python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs --image-storage upload --image-upload-visibility private` |
-| 图床迁移并改写 md | `python3 scripts/upload_markdown_images.py --visibility private` |
-| 图床公共上传 | `python3 scripts/upload_markdown_images.py --visibility public` |
-| 迁移预演 | `python3 scripts/upload_markdown_images.py --dry-run --limit 1` |
+| 统一入口 | `python3 -m scripts.main` |
+| 小样本测试 | `python3 scripts/bang_dream_smoke_test.py` |
+| 全量爬取 | `python3 scripts/bang_dream_crawler.py` |
+| 上传图片到图床 | `python3 scripts/upload_markdown_images.py` |
 | 仅迁移旧 JSON 到 SQLite | `python3 scripts/migrate_legacy_caches.py` |
-| 爬虫时自动翻译 | `python3 scripts/bang_dream_crawler.py --collections news blog discographies media orgs --translate` |
-| 批量翻译现有 md | `python3 scripts/translate_markdown_docs.py content` |
-| 翻译最小测试 | `python3 scripts/bang_dream_crawler.py --collections news --limit 1 --translate` |
+| 批量翻译现有 md | `python3 scripts/translate_markdown_docs.py` |
+| 生成生日/应援色数据 | `python3 scripts/build_birthdays.py` |
+| 审计与修复内容 | `python3 scripts/repair_content.py` |
+
+所有脚本启动后进入交互模式，按提示操作即可。
+
+### 审计与修复内容
+
+```bash
+python3 scripts/repair_content.py
+```
+
+交互式菜单提供：
+
+- **审计**：扫描所有内容目录，报告空正文、未翻译正文、frontmatter 含日文等分类
+- **修复跳转桩**：对 WP API 返回空内容的页面（跳转桩），移除翻译标记并写入 MD 格式的跳转链接
+- **修复未翻译**：对有翻译标记但正文仍是日文的文件，force 重译正文+frontmatter
+- **修复 frontmatter**：对正文已翻译但 title/description 仍含日文的文件，仅重译 frontmatter
+- **全部修复**：按顺序执行以上所有修复
+
+所有修复操作支持 dry-run 预览模式。

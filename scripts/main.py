@@ -14,6 +14,8 @@ MENU = [
     ("repair_markdown_urls", "修复 Markdown URL"),
     ("migrate_legacy_caches", "迁移旧版缓存"),
     ("bang_dream_smoke_test", "爬虫冒烟测试"),
+    ("build_birthdays", "生成生日/应援色数据"),
+    ("repair_content", "审计与修复内容"),
 ]
 
 
@@ -47,6 +49,10 @@ def main() -> None:
             from scripts.migrate_legacy_caches import main as run
         elif module_name == "bang_dream_smoke_test":
             from scripts.bang_dream_smoke_test import main as run
+        elif module_name == "build_birthdays":
+            from scripts.build_birthdays import main as run
+        elif module_name == "repair_content":
+            from scripts.repair_content import main as run
         else:
             continue
 

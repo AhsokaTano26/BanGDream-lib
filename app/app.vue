@@ -149,13 +149,13 @@ const socialLinks = [
   },
   {
     name: 'Bilibili',
-    url: 'https://space.bilibili.com/',
+    url: 'https://space.bilibili.com/435530511',
     icon: 'ri:bilibili-line'
   },
   {
-    name: 'Weibo',
-    url: 'https://weibo.com/',
-    icon: 'ri:weibo-fill'
+    name: 'Website',
+    url: 'https://www.tano.asia',
+    icon: 'streamline-plump:browser-website-1'
   },
   {
     name: 'RSS',

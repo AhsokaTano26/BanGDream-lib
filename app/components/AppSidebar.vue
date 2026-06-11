@@ -132,6 +132,14 @@ const nav = [
         name: 'Artist',
         path: '/artist/artist'
       },
+      {
+        name: 'Colors',
+        path: '/colors/colors'
+      },
+      {
+        name: 'Birthdays',
+        path: '/birthdays/birthdays'
+      },
     ]
   },
   {
