@@ -46,7 +46,8 @@
 
           <div class="mt-2 flex flex-wrap gap-1">
             <div v-for="ev in day.events" :key="ev.id"
-                 :class="['w-1.5 h-1.5 rounded-full shadow-glow', getIndicatorColor(ev.type)]">
+                 :class="['w-1.5 h-1.5 rounded-full shadow-glow', getIndicatorColor(ev.type)]"
+                 :style="ev.color ? { backgroundColor: ev.color, boxShadow: `0 0 8px ${ev.color}40` } : {}">
             </div>
           </div>
         </div>
@@ -72,6 +73,11 @@
           <span class="flex items-center gap-1.5"><i class="w-2 h-2 rounded-full bg-fuchsia-500"></i> CD</span>
           <span class="flex items-center gap-1.5"><i class="w-2 h-2 rounded-full bg-teal-500"></i> 梦的结唱 MJ</span>
         </div>
+        <div class="hidden md:block w-px h-3 bg-white/20"></div>
+        <div class="flex flex-wrap gap-4 text-[9px] font-black text-white/80 uppercase tracking-[0.15em]">
+          <span class="flex items-center gap-1.5"><i class="w-2 h-2 rounded-full bg-pink-400"></i> 角色生日</span>
+          <span class="flex items-center gap-1.5"><i class="w-2 h-2 rounded-full bg-rose-300"></i> 声优生日</span>
+        </div>
       </div>
     </div>
 
@@ -92,9 +98,31 @@
 
         <div v-if="selectedDay.events.length" class="relative border-l-2 border-white/80 ml-2 pl-6 space-y-8">
           <div v-for="ev in selectedDay.events" :key="ev.id" class="relative group cursor-pointer">
-            <div :class="['absolute -left-[31px] top-1 w-4 h-4 rounded-full border-4 border-[#1a1a1a] shadow-lg transition-transform group-hover:scale-125', getIndicatorColor(ev.type)]"></div>
+            <div :class="['absolute -left-[31px] top-1 w-4 h-4 rounded-full border-4 border-[#1a1a1a] shadow-lg transition-transform group-hover:scale-125', getIndicatorColor(ev.type)]"
+                 :style="ev.color ? { backgroundColor: ev.color } : {}"></div>
 
-            <div class="space-y-1">
+            <!-- 生日事件特殊样式 -->
+            <div v-if="ev.isBirthday" class="space-y-1">
+              <div class="flex items-center gap-2">
+                <span class="text-lg leading-none" aria-hidden="true">
+                  {{ ev.type === 'birthday' ? '🎂' : '🎤' }}
+                </span>
+                <div :class="['text-[10px] font-black uppercase tracking-tighter', (textColors[ev.type] || 'text-gray-200')]"
+                     :style="ev.color ? { color: ev.color } : {}">
+                  {{ labelMap[ev.type] || ev.type }}
+                </div>
+              </div>
+              <div class="text-white/90 font-bold group-hover:text-blue-400 transition-colors">
+                {{ ev.title }}
+              </div>
+              <NuxtLink v-if="ev.id && !ev.id.startsWith('birthday:')" :to="ev.id"
+                        class="text-[10px] text-white/80 hover:text-white/90 transition-colors block mt-1">
+                查看详情 DETAILS →
+              </NuxtLink>
+            </div>
+
+            <!-- 普通事件 -->
+            <div v-else class="space-y-1">
               <div :class="['text-[10px] font-black uppercase tracking-tighter', (textColors[ev.type] || 'text-gray-200')]">
                 {{ labelMap[ev.type] || ev.type }}
               </div>
@@ -118,6 +146,7 @@
 import { computed, onMounted, ref, watchEffect } from 'vue';
 import { Lunar } from 'lunar-javascript';
 import { normalizeContentDateList } from '~~/utils/content-date'
+import birthdays from '~/data/birthdays.json'
 
 const quote = "Stay focused, be present.";
 const monthNamesEn = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
@@ -143,6 +172,8 @@ const labelMap = {
   bp: '唱片',
   music: '音乐配信',
   mj: '梦的结唱',
+  birthday: '角色生日',
+  seiyuu_birthday: '声优生日',
   default: '常规项'
 };
 
@@ -152,6 +183,7 @@ const colors = {
   on_site: 'bg-orange-50', activity: 'bg-blue-50', notice: 'bg-amber-50', publish: 'bg-violet-50', product: 'bg-emerald-50', media: 'bg-sky-50',
   finish: 'bg-green-50', stop: 'bg-rose-50', other: 'bg-slate-100',
   cd: 'bg-fuchsia-50', bd: 'bg-violet-50', bp: 'bg-lime-50', music: 'bg-emerald-50', mj: 'bg-teal-50',
+  birthday: 'bg-pink-50', seiyuu_birthday: 'bg-rose-50',
   default: 'bg-gray-50'
 };
 
@@ -160,6 +192,7 @@ const textColors = {
   on_site: 'text-orange-600', activity: 'text-blue-600', notice: 'text-amber-700', publish: 'text-violet-700', product: 'text-emerald-700', media: 'text-sky-700',
   finish: 'text-green-700', stop: 'text-rose-700', other: 'text-slate-600',
   cd: 'text-fuchsia-600', bd: 'text-violet-600', bp: 'text-lime-700', music: 'text-emerald-600', mj: 'text-teal-600',
+  birthday: 'text-pink-600', seiyuu_birthday: 'text-rose-600',
   default: 'text-gray-600'
 };
 
@@ -244,6 +277,23 @@ const { data: eventMap } = await useAsyncData('calendar-events', async () => {
       });
     });
   });
+
+  // 生日事件：为当前年份 ±1 年生成，确保跨年翻页也有数据
+  const currentYear = new Date().getFullYear();
+  birthdays.forEach(entry => {
+    for (let y = currentYear - 1; y <= currentYear + 1; y++) {
+      const dateKey = `${y}-${entry.mmdd}`;
+      if (!map[dateKey]) map[dateKey] = [];
+      map[dateKey].push({
+        id: entry.link || `birthday:${entry.mmdd}:${entry.kind}:${entry.name}`,
+        title: `${entry.name} 生日`,
+        type: entry.kind === 'character' ? 'birthday' : 'seiyuu_birthday',
+        color: entry.color,
+        isBirthday: true
+      });
+    }
+  });
+
   return map;
 });
 
