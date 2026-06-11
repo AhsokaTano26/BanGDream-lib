@@ -104,9 +104,7 @@
             <!-- 生日事件特殊样式 -->
             <div v-if="ev.isBirthday" class="space-y-1">
               <div class="flex items-center gap-2">
-                <span class="text-lg leading-none" aria-hidden="true">
-                  {{ ev.type === 'birthday' ? '🎂' : '🎤' }}
-                </span>
+                <Icon :name="ev.type === 'birthday' ? 'lucide:cake' : 'lucide:mic'" class="w-4 h-4 shrink-0" :style="{ color: ev.color }" />
                 <div :class="['text-[10px] font-black uppercase tracking-tighter', (textColors[ev.type] || 'text-gray-200')]"
                      :style="ev.color ? { color: ev.color } : {}">
                   {{ labelMap[ev.type] || ev.type }}

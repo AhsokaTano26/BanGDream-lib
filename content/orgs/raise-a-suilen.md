@@ -1,18 +1,21 @@
 ---
-title: "RAISE A SUILEN | 艺术家 | BanG Dream!（バンドリ！）官方网站"
-description: "介绍由Chuchu创建的『奏响最强音乐的最强乐队』、RAISE A SUILEN（レイズ ア スイレン）的成员！"
-date: ""
-author: "BanG Dream! Project"
-org: ["mygo"]
-url: "https://bang-dream.com/artist/raise-a-suilen/"
-founded: ""
+title: "RAISE A SUILEN"
+description: "以压倒性的现场演出实力著称的少女乐队，用最强的音浪席卷一切。"
+org: ["ras"]
 theme:
-  logo: "https://img.tano.asia/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp"
-  bgImage: null
+  primaryColor: "#33CCCC"
 ---
 
-<!-- translated-by: deepseek -->
+# RAISE A SUILEN
 
-[![BanG Dream! 第2季](https://img.tano.asia/i/8048393b-d8c3-4dfb-b626-f7fb3145ff1b.webp)
+RAISE A SUILEN（简称 RAS）是一支以压倒性现场实力著称的乐队。她们的演出充满了力量感和冲击力，以"最强"为目标不断突破自我。从乐队名"举起你的声音"就能感受到她们对音乐的炽热追求。
 
-### BanG Dream! 2nd Season](https://anime.bang-dream.com/2nd/)
+## 成员
+
+| 角色 | 担当 | 应援色 | 声优 |
+|------|------|--------|------|
+| 和奏瑞依 | 主唱 & 吉他 | <span style="color:#CC0000">████</span> #CC0000 | Raychell |
+| 朝日六花 | 吉他 | <span style="color:#AAEE22">████</span> #AAEE22 | 小原莉子 |
+| 佐藤益木 | 鼓 | <span style="color:#EEBB44">████</span> #EEBB44 | 夏芽 |
+| 鳰原令王那 | DJ | <span style="color:#FF99BB">████</span> #FF99BB | 仓知玲凤 |
+| 珠手知由 | 贝斯 | <span style="color:#FF99BB">████</span> #FF99BB | 纺木吏佐 |

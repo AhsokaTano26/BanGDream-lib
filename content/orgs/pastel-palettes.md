@@ -1,17 +1,21 @@
 ---
-title: "Pastel＊Palettes | 艺术家 | BanG Dream!（バンドリ！）官方网站"
-description: "成员全员隶属于演艺事务所的偶像乐队、Pastel＊Palettes（パステル パレット）的成员介绍！"
-date: ""
-author: "BanG Dream! Project"
-org: ["other"]
-url: "https://bang-dream.com/artist/pastel-palettes/"
-founded: ""
+title: "Pastel＊Palettes"
+description: "由偶像事务所打造的少女乐队，在偶像与乐队之间寻找属于自己的色彩。"
+org: ["pp"]
 theme:
-  logo: "https://img.tano.asia/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp"
-  bgImage: null
+  primaryColor: "#33DDAA"
 ---
 
-<!-- translated-by: deepseek -->
+# Pastel＊Palettes
 
-[![BanG Dream! 第二季](https://img.tano.asia/i/8048393b-d8c3-4dfb-b626-f7fb3145ff1b.webp)
-### BanG Dream! 2nd Season](https://anime.bang-dream.com/2nd/)
+Pastel＊Palettes 是由偶像事务所组建的乐队，成员们既是偶像又是乐队成员，经历着两种身份之间的碰撞与融合。她们的音乐色彩缤纷、充满活力，正如乐队名中的"调色板"一般，每一位成员都是不可或缺的一抹色彩。
+
+## 成员
+
+| 角色 | 担当 | 应援色 | 声优 |
+|------|------|--------|------|
+| 丸山彩 | 主唱 | <span style="color:#FF88BB">████</span> #FF88BB | 前岛亚美 |
+| 冰川日菜 | 吉他 | <span style="color:#55DDEE">████</span> #55DDEE | 小泽亚李 |
+| 白鹭千圣 | 键盘 | <span style="color:#FFEEAA">████</span> #FFEEAA | 上坂堇 |
+| 大和麻弥 | 鼓 | <span style="color:#99DD88">████</span> #99DD88 | 中上育实 |
+| 若宫伊芙 | 贝斯 | <span style="color:#DDBBFF">████</span> #DDBBFF | 秦佐和子 |
