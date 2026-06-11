@@ -233,12 +233,14 @@ const getAutoIcon = computed(() => {
 const categoryIcon = computed(() => {
   const col = normalizedCollection.value
   const map = {
-    activities: 'lucide:sparkles',
     blog: 'lucide:pen-tool',
     notice: 'lucide:megaphone',
     timeline: 'lucide:git-branch',
-    project: 'lucide:briefcase',
-    archive: 'lucide:clapperboard',
+    news: 'lucide:newspaper',
+    discographies: 'lucide:disc',
+    media: 'lucide:clapperboard',
+    artist: 'lucide:music',
+    personal: 'lucide:bookmark',
     orgs: 'lucide:network'
   }
   return map[col] || 'lucide:file-text'

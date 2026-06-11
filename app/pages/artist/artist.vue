@@ -2,14 +2,14 @@
   <div class="space-y-12 pb-24">
     <PageHeader
         title="Artist"
-        :count="allBlogs?.length|| 0"
+        :count="allItems?.length|| 0"
         subTitle="角色与灵魂交织的演艺轨迹 · VOICE & SOUL"
         :themeColor="themeConfig.primaryColor"
     />
 
     <div class="space-y-8">
       <GlassArchiveCard
-          v-for="item in paginatedBlogs"
+          v-for="item in paginatedItems"
           :key="item.path"
           :post="item"
       />
@@ -17,7 +17,7 @@
           v-model="currentPage"
           :total="totalPages"
       />
-      <div v-if="!allBlogs?.length" class="text-center py-10 text-gray-200 text-xs tracking-widest uppercase italic">
+      <div v-if="!allItems?.length" class="text-center py-10 text-gray-200 text-xs tracking-widest uppercase italic">
         Protocol: No data records found.
       </div>
     </div>
@@ -31,7 +31,7 @@ const themeConfig = useState('themeConfig')
 const currentPage = ref(1)
 const pageSize = 10
 
-const { data: allBlogs } = await useAsyncData('all-artist', () =>
+const { data: allItems } = await useAsyncData('all-artist', () =>
     queryCollection('artist')
         .order('date', 'DESC') // 按时间倒序
         .all()
@@ -39,15 +39,15 @@ const { data: allBlogs } = await useAsyncData('all-artist', () =>
 
 // 计算总页数
 const totalPages = computed(() =>
-    Math.ceil((allBlogs.value?.length || 0) / pageSize)
+    Math.ceil((allItems.value?.length || 0) / pageSize)
 )
 
 // **核心：根据当前页码，动态切分要显示的文章**
-const paginatedBlogs = computed(() => {
-  if (!allBlogs.value) return []
+const paginatedItems = computed(() => {
+  if (!allItems.value) return []
   const start = (currentPage.value - 1) * pageSize
-  return allBlogs.value.slice(start, start + pageSize)
+  return allItems.value.slice(start, start + pageSize)
 })
 
-useHead({ title: '官方博客' })
+useHead({ title: '角色' })
 </script>

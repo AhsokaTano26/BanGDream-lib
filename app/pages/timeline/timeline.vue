@@ -1,7 +1,7 @@
 <template>
   <div class="space-y-12 pb-24 px-4 py-8">
     <PageHeader
-        title="Milestones"
+        title="Timeline"
         :count="allTimelines?.length || 0"
         subTitle="从零到一的完整开发足迹 · FOOTPRINTS"
         :themeColor="themeConfig.primaryColor"
@@ -107,7 +107,7 @@ const paginatedTimelines = computed(() => {
   return processedTimelines.value.slice(start, start + pageSize)
 })
 
-useHead({ title: '官方进度' })
+useHead({ title: 'Timeline' })
 </script>
 
 <style scoped>

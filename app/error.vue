@@ -55,7 +55,7 @@
             to="/blog/blog"
             class="w-full sm:w-auto px-10 py-4 bg-white border-2 border-gray-100 text-gray-600 font-bold rounded-xl hover:border-blue-200 hover:text-blue-500 transition-all shadow-sm"
         >
-          查看最新日志
+          查看最新活动
         </NuxtLink>
       </div>
     </div>
@@ -72,7 +72,7 @@ const props = defineProps({
 const handleError = () => clearError({ redirect: '/' })
 
 useHead({
-  title: '页面找不到了 - Project Club'
+  title: '页面找不到了'
 })
 </script>
 

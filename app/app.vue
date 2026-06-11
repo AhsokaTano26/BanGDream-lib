@@ -134,7 +134,7 @@ nuxtApp.hook('page:finish', () => {
 
 // --- 5. SEO 配置 ---
 useHead({
-  titleTemplate: (title) => title ? `${title} - Club Archive` : 'Project Club Archive',
+  titleTemplate: (title) => title ? `${title} - BanG Dream! 同好会网站` : 'BanG Dream! 同好会网站',
   link: [
     { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=JetBrains+Mono&display=swap' },
     { rel: 'alternate', type: 'application/rss+xml', title: 'BanG Dream! 同好会网站 Blog RSS', href: '/rss.xml' }

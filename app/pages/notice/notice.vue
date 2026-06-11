@@ -1,7 +1,7 @@
 <template>
   <div class="space-y-12 pb-24">
     <PageHeader
-        title="Notices"
+        title="官方公告"
         :count="notices?.length|| 0"
         subTitle="Official synchronization logs & announcements"
         :themeColor="themeConfig.primaryColor"

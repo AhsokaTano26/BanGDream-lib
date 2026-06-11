@@ -116,7 +116,7 @@ const nav = [
         path: '/media/media'
       },
       {
-        name: '个人存档',
+        name: '个人收藏',
         path: '/personal/personal'
       },
     ]

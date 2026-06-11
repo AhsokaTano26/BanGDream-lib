@@ -50,5 +50,5 @@ const paginatedBlogs = computed(() => {
       .slice(start, start + pageSize)
 })
 
-useHead({ title: '官方博客' })
+useHead({ title: 'Live / Event' })
 </script>

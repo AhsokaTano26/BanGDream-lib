@@ -23,7 +23,7 @@
             致谢与鸣谢
           </h1>
           <p class="text-sm text-gray-200 font-medium leading-relaxed max-w-2xl">
-            本站 <span class="text-gray-700 font-bold underline decoration-blue-100/20">club-web</span>
+            本站 <span class="text-gray-700 font-bold underline decoration-blue-100/20">BanG Dream! 同好会网站</span>
             采用 Nuxt 4 架构开发。感激每一位在代码、内容与基础设施上提供支持的伙伴。
           </p>
         </div>
@@ -222,7 +222,7 @@ const specialThanks = [
 
 
 useHead({
-  title: '致谢 - Club Web',
+  title: '致谢',
   meta: [
     { name: 'description', content: '感谢所有为本站做出贡献的项目与个人。' }
   ]

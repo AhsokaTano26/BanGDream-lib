@@ -120,7 +120,7 @@ onBeforeUnmount(() => {
 })
 
 useSeoMeta({
-  title: () => page.value?.title ? `${page.value.title} - Archive` : 'Archive Decrypting...',
+  title: () => page.value?.title || '乐队',
   description: () => page.value?.description
 })
 </script>

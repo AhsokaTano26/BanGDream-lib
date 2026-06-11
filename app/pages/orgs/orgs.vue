@@ -148,7 +148,7 @@ const paginatedorgs = computed(() => {
   return orgs.value.slice(start, start + pageSize)
 })
 
-useHead({ title: '联协组织' })
+useHead({ title: '乐队' })
 </script>
 
 <style scoped>

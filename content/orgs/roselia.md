@@ -16,6 +16,6 @@ Roselia 是一支以高水准演奏技术和完美演出为目标的乐队。她
 |------|------|--------|------|
 | 凑友希那 | 主唱 | <span style="color:#881188">████</span> #881188 | 相羽爱奈 |
 | 冰川纱夜 | 吉他 | <span style="color:#00AABB">████</span> #00AABB | 工藤晴香 |
-| 今井莉莎 | 贝斯 | <span style="color:#DD2200">████</span> #DD2200 | 远藤祐里香 / 中岛由贵 |
+| 今井莉莎 | 贝斯 | <span style="color:#DD2200">████</span> #DD2200 | 远藤祐里香、中岛由贵 |
 | 宇田川亚子 | 鼓 | <span style="color:#DD0088">████</span> #DD0088 | 樱川惠 |
 | 白金燐子 | 键盘 | <span style="color:#BBBBBB">████</span> #BBBBBB | 明坂聪美 / 志崎桦音 |

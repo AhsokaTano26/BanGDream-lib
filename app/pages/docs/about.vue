@@ -121,6 +121,10 @@
   </div>
 </template>
 
+<script setup>
+useHead({ title: '关于我们' })
+</script>
+
 <style scoped>
 /* 自定义动画：心跳感光晕 */
 @keyframes heartbeat {
