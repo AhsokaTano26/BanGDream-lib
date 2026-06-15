@@ -78,6 +78,13 @@
           <span class="flex items-center gap-1.5"><i class="w-2 h-2 rounded-full bg-pink-400"></i> 角色生日</span>
           <span class="flex items-center gap-1.5"><i class="w-2 h-2 rounded-full bg-rose-300"></i> 声优生日</span>
         </div>
+        <div class="ml-auto">
+          <a href="/calendar.ics" target="_blank"
+             class="flex items-center gap-1.5 text-[10px] font-bold text-white/60 hover:text-white/90 transition-colors">
+            <Icon name="lucide:calendar-plus" class="w-3.5 h-3.5" />
+            订阅日历
+          </a>
+        </div>
       </div>
     </div>
 

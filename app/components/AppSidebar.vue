@@ -92,6 +92,10 @@ const nav = [
         path: '/docs/about'
       },
       {
+        name: '使用帮助',
+        path: '/docs/help'
+      },
+      {
         name: '官方公告',
         path: '/notice/notice'
       },
