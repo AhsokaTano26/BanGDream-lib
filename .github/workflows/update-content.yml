@@ -1,0 +1,95 @@
+name: Update Content
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+    inputs:
+      collections:
+        description: "Collections to crawl (comma-separated)"
+        required: false
+        default: "news,blog,discographies,media,orgs"
+      no_translate:
+        description: "Skip translation"
+        required: false
+        default: "false"
+        type: boolean
+      local_images:
+        description: "Store images locally instead of uploading"
+        required: false
+        default: "false"
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Restore crawl database cache
+        uses: actions/cache@v4
+        with:
+          path: data/contents.sqlite
+          key: crawl-db-${{ github.ref_name }}
+          restore-keys: |
+            crawl-db-
+
+      - name: Run crawler
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          IMG_TANO_API_KEY: ${{ secrets.IMG_TANO_API_KEY }}
+        run: |
+          COLLECTIONS="${{ github.event.inputs.collections || 'news,blog,discographies,media,orgs' }}"
+          NO_TRANSLATE="${{ github.event.inputs.no_translate || 'false' }}"
+          LOCAL_IMAGES="${{ github.event.inputs.local_images || 'false' }}"
+
+          ARGS="--collections $COLLECTIONS --delay 0.5"
+          if [ "$NO_TRANSLATE" = "true" ]; then
+            ARGS="$ARGS --no-translate"
+          fi
+          if [ "$LOCAL_IMAGES" = "true" ]; then
+            ARGS="$ARGS --local-images"
+          fi
+
+          python -m scripts.run_update $ARGS
+
+      - name: Build birthday/color data
+        run: python -m scripts.build_birthdays
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add content/ app/data/birthdays.json app/data/colors.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No content changes detected."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Content changes detected."
+            git diff --cached --stat
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: auto-update content $(date -u '+%Y-%m-%d')"
+          git push
