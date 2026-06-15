@@ -1,6 +1,6 @@
 ---
-title: "バンドリ！TV LIVE 2026 | 媒体 | BanG Dream!（バンドリ！）官方网站"
-description: "BanG Dream!（バンドリ！）官方网站。提供广播、电视、网络配信、直播等的介绍。"
+title: "バンドリ！TV LIVE 2026 | メディア | BanG Dream!（バンドリ！）公式サイト"
+description: "BanG Dream!（バンドリ！）公式サイト。ラジオ、テレビ、配信、生放送等のご案内。"
 date: ""
 author: "BanG Dream! Project"
 org: ["other"]
@@ -9,38 +9,36 @@ type: "online"
 status: "finish"
 ---
 
-<!-- translated-by: deepseek -->
+Media
 
-媒体
+# バンドリ！TV LIVE 2026
 
-# BanG Dream! TV LIVE 2026
+![](/assets/bang-dream/media/bdtvlive/97b3d0a64861a753.png)
 
-![](https://img.tano.asia/i/a3b5af87-2eea-4766-a196-d2fa068eff52.webp)
+## 番組紹介
 
-## 节目介绍
+「バンドリ！TV LIVE 2026」はアニメやゲームに出演しているキャストにより、バンドリ！プロジェクトの最新情報などをお届けする生配信番組です！
+YouTube Live配信いたします。
 
-「BanG Dream! TV LIVE 2026」是由参与动画和游戏的演员带来的，为您传递BanG Dream!项目最新信息的直播节目！
-将在YouTube Live进行直播。
+グッズやイベントなどの最新情報をお伝えするコーナー、 各回のキャストにあわせた特別企画など、
+盛りだくさんの内容となっておりますので、ぜひご覧ください！
 
-介绍周边商品和活动等最新信息的环节，以及配合每期嘉宾的特别企划等，
-内容丰富多彩，敬请收看！
+## 放送情報
 
-## 播出信息
+###### 放送時間
 
-###### 播出时间
+毎週木曜日 22:03ごろ～
 
-每周四 22:03左右～
-
-###### 播出平台
+###### 配信媒体
 
 ・YouTube LIVE
-「[BanG Dream!频道☆https://www.youtube.com/channel/UCN-bFIdJM0gQlgX7h6LKcZA)」
+「[バンドリちゃんねる☆](https://www.youtube.com/channel/UCN-bFIdJM0gQlgX7h6LKcZA)」
 
-## 发布存档
+## 配信アーカイブ
 
-过去发布内容的存档是[こちら](https://youtube.com/playlist?list=PLvRmS87ezZfpnV-KtU1vz--KFUz5zIQYo)可以从以下链接观看！
+過去に配信したもののアーカイブは[こちら](https://youtube.com/playlist?list=PLvRmS87ezZfpnV-KtU1vz--KFUz5zIQYo)からご覧いただけます！
 
 SHARE
 
-- [https://x.com/intent/tweet?url=https://bang-dream.com/media/bdtvlive/&text=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81TV%20LIVE%202026%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88]https://x.com/intent/tweet?url=https://bang-dream.com/media/bdtvlive/&text=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81TV%20LIVE%202026%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88)
+- [https://x.com/intent/tweet?url=https://bang-dream.com/media/bdtvlive/&text=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81TV%20LIVE%202026%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88](https://x.com/intent/tweet?url=https://bang-dream.com/media/bdtvlive/&text=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81TV%20LIVE%202026%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88)
 - [javascript:void(0);](javascript:void(0);)

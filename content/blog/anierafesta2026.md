@@ -1,36 +1,35 @@
 ---
-title: "长野AniElla Festa 2026"
-description: "9月20日(周日) RAISE A SUILEN出演"
+title: "ナガノアニエラフェスタ2026"
+description: "9月20日(日) RAISE A SUILEN出演"
 date: ["2026-09-19", "2026-09-20"]
 status: "on_site"
 author: "BanG Dream! Project"
-location: "长野县佐久市 驹场公园"
+location: "長野県佐久市 駒場公園"
 org: ["RAS"]
 url: "https://bang-dream.com/events/anierafesta2026/"
 ---
 
-<!-- translated-by: deepseek -->
+「ナガノアニエラフェスタ2026」にBanG Dream!プロジェクトより、RAISE A SUILENの出演が決定！
 
-「长野动漫庆典2026」中，BanG Dream! 企划的RAISE A SUILEN确定出演！
+## 公演名
 
-## 演出名称
-
-长野动漫庆典2026
+ナガノアニエラフェスタ2026
 
 ## 日程
 
-2026年9月19日(周六)・9月20日(周日) 开演12:00(预定)
+2026年9月19日(土)・9月20日(日) 開演12:00(予定)
 
-###### 9月20日(周日) RAISE A SUILEN出演
+###### 9月20日(日) RAISE A SUILENが出演
 
-![](https://img.tano.asia/i/2ce5a0be-0321-496d-a1ad-ce8b170f8764.webp)
-※演出时间等详情将于日后公布。
+![](/assets/bang-dream/blog/anierafesta2026/d2ab3765f19f99a9.jpg)
 
-## 会场
+※出演時間などの詳細は後日発表となります。
 
-长野县佐久市 驹场公园
+## 会場
 
-## 门票
+長野県佐久市 駒場公園
 
-详情请确认官方网站。[https://aniera-festa.com](https://aniera-festa.com)
-※请仔细阅读官方网站的注意事项等后再购买门票。
+## チケット
+
+詳細は公式サイトをご確認ください。[https://aniera-festa.com](https://aniera-festa.com)
+※公式HPの注意事項等をご一読の上チケットをご購入ください。

@@ -1,21 +1,16 @@
 ---
-title: "Afterglow"
-description: "由青梅竹马五人组成的少女乐队，以不加修饰的真实感和羁绊为武器，绽放出摇滚之光。"
+title: "Afterglow | アーティスト | BanG Dream!（バンドリ！）公式サイト"
+description: "幼馴染5人組で結成されたガールズバンド、Afterglow（アフターグロウ）のメンバーをご紹介！"
+date: ""
+author: "BanG Dream! Project"
 org: ["a"]
+url: "https://bang-dream.com/artist/afterglow/"
+founded: ""
 theme:
-  primaryColor: "#E53344"
+  logo: "/assets/bang-dream/orgs/907d36544d1fd5a2.webp"
+  bgImage: null
 ---
 
-# Afterglow
+[![BanG Dream! 2nd Season](/assets/bang-dream/orgs/afterglow/86196bf1c73e3003.png)
 
-Afterglow 是由五位从小一起长大的青梅竹马组成的乐队。她们没有华丽的包装，也没有刻意的经营，凭借与生俱来的羁绊和最真实的自我进行演出。正如落日余晖般温暖而强烈，她们的音乐充满了对日常生活的热爱和对友谊的坚持。
-
-## 成员
-
-| 角色 | 担当 | 应援色 | 声优 |
-|------|------|--------|------|
-| 美竹兰 | 主唱 & 吉他 | <span style="color:#EE0022">████</span> #EE0022 | 佐仓绫音 |
-| 青叶摩卡 | 吉他 | <span style="color:#00CCAA">████</span> #00CCAA | 三泽纱千香 |
-| 上原绯玛丽 | 键盘 | <span style="color:#FF9999">████</span> #FF9999 | 加藤英美里 |
-| 宇田川巴 | 鼓 | <span style="color:#BB0033">████</span> #BB0033 | 日笠阳子 |
-| 羽泽鸫 | 贝斯 | <span style="color:#FFEE88">████</span> #FFEE88 | 金元寿子 |
+### BanG Dream! 2nd Season](https://anime.bang-dream.com/2nd/)

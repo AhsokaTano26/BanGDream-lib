@@ -1,6 +1,6 @@
 ---
-title: "バンドリ！TV | 媒体 | BanG Dream!（バンドリ！）官方网站"
-description: "BanG Dream!（バンドリ！）官方网站。提供广播、电视、网络配信、直播等的介绍。"
+title: "バンドリ！TV | メディア | BanG Dream!（バンドリ！）公式サイト"
+description: "BanG Dream!（バンドリ！）公式サイト。ラジオ、テレビ、配信、生放送等のご案内。"
 date: ""
 author: "BanG Dream! Project"
 org: ["other"]
@@ -9,78 +9,75 @@ type: "tv"
 status: "finish"
 ---
 
-<!-- translated-by: deepseek -->
+Media
 
-媒体
+休止中
 
-暂停中
+# バンドリ！TV
 
-# BanG Dream! TV
+![](/assets/bang-dream/media/bang-dream-tv/c2c3ef36aa6fa0dc.jpg)
 
-![](https://img.tano.asia/i/cd4d5d4a-1b0d-499c-a15a-ce8bab469540.webp)
+## 放送・配信情報
 
-## 播出・配信信息
+TOKYO MX 毎週木曜日23:00～（再放送 8月21日より毎週水曜日19:00～）
+サンテレビ 毎週木曜日24:00～
 
-TOKYO MX 每周四23:00～（重播 8月21日起每周三19:00～）
-阳光电视台 每周四24:00～
+YouTube内[「バンドリちゃんねる☆」](https://www.youtube.com/channel/UCN-bFIdJM0gQlgX7h6LKcZA)にて、各回2週間限定公開中！配信は前後編分けての公開！
+前編は毎週水曜日21時、後編は毎週木曜日21時にTV放送に先駆けて配信しちゃいます!!
+見逃さないよう[YouTube「バンドリちゃんねる☆」](https://www.youtube.com/channel/UCN-bFIdJM0gQlgX7h6LKcZA)をチャンネル登録してチェック♪
 
-YouTube内[「BanG Dream!频道☆」](https://www.youtube.com/channel/UCN-bFIdJM0gQlgX7h6LKcZA)在，各回限时公开2周！配信分前后篇公开！
-前篇于每周三21时、后篇于每周四21时领先于TV放送配信！！
-不要错过[YouTube「BanG Dream!频道☆」](https://www.youtube.com/channel/UCN-bFIdJM0gQlgX7h6LKcZA)
-频道订阅并查看♪
+###### 再放送情報
 
-###### 重播信息
+岩手朝日テレビ・テレビ神奈川にて2週遅れでの再放送が決定!!
 
-岩手朝日电视台・神奈川电视台将延迟两周重播!!
+岩手朝日テレビ 8月13日より毎週火曜日25:55～
+テレビ神奈川 8月14日より毎週水曜日25:00～
 
-岩手朝日电视台 8月13日起每周二25:55～
-神奈川电视台 8月14日起每周三25:00～
+※再放送は9月一杯まで
 
-※重播将持续到9月
+## 番組紹介
 
-## 节目介绍
+メディアミックスプロジェクト「BanG Dream!」に登場する戸山香澄役の愛美と丸山彩役の前島亜美がMCを務めるバラエティ番組です。
+2人が楽しいトークと共に、「BanG Dream!」の新商品やイベント情報をたっぷりとお届けします。
 
-这是由多媒体企划「BanG Dream!」中的户山香澄的声优爱美和丸山彩的声优前岛亚美担任主持人的综艺节目。
-两人一边愉快地聊天，一边为大家带来丰富的「BanG Dream!」新商品和活动信息。
+### コーナー
 
-### 环节
+###### ガルパ番長さえチ
 
-###### Garupa番长纱英酱
+ガルパ番長さえチこと大塚紗英さんがフルコンボ目指してガルパに挑戦!!
+クリア出来ればご褒美、失敗したら過酷な罰ゲームが待ち受ける･･･!
+あたいとガルパ勝負したいヤツは、かかってきな！
 
-Garupa番长纱英酱也就是大冢纱英，以全连为目标挑战Garupa!!
-如果通关就有奖励，失败了则有残酷的惩罚游戏等着……！
-想跟我比试Garupa的家伙，放马过来！
+## MC紹介
 
-## MC介绍
-
-- ![](https://img.tano.asia/i/ebfd71f9-7744-4cc3-8041-6babd5b49084.webp)
+- ![](/assets/bang-dream/media/bang-dream-tv/b6f739f764f1ab4d.jpg)
   
-  爱美
+  愛美
   
-  官方博客[爱美官方博客](http://ameblo.jp/aimi-sound/)
+  公式ブログ[愛美オフィシャルブログ](http://ameblo.jp/aimi-sound/)
   X[@aimi_sound](https://x.com/aimi_sound)
   Instagram[@aimin_official](https://www.instagram.com/aimin_official/)
   
-  ![](https://img.tano.asia/i/01b60c7d-c747-49fb-940e-c726225fd0d0.webp)
+  ![](/assets/bang-dream/media/bang-dream-tv/6c617039cea9294b.jpg)
   
-  前岛亚美
+  前島亜美
   
-  [前岛亚美 官方网站](https://maeshima-ami.jp/)
-  官方博客[前岛亚美官方博客](https://ameblo.jp/sg-amita/)
+  [前島亜美 オフィシャルウェブサイト](https://maeshima-ami.jp/)
+  公式ブログ[前島亜美オフィシャルブログ](https://ameblo.jp/sg-amita/)
   X[＠_maeshima_ami](https://x.com/_maeshima_ami)
 
-## 在《月刊Bushiroad》上连载四格漫画！
+## 「月刊ブシロード」で4コマ漫画連載中！
 
-![](https://img.tano.asia/i/691f035b-0153-48c1-8350-aade74d22c97.webp)
+![](/assets/bang-dream/media/bang-dream-tv/c2d94c0491615ea3.jpg)
 
-每月8日发售的杂志《月刊武士道》中，《BanG Dream! TV剧场》正在连载中！
-为您送上MC两人可能在录制现场发生过、也可能没发生过的那些轻松故事！
+毎月8日発売の雑誌「月刊ブシロード」にて、「バンドリ！TV劇場」が連載中！
+MC2人の、収録現場であったかもしれないし、なかったかもしれない。そんなゆるーいお話を、みなさんにお届けします！
 
-###### WEB限定版也不定期更新中！
+###### WEB限定版も不定期で更新中！
 
-[《BanG Dream! TV剧场》](http://gekkan-bushi.com/comics/gbbdtv_gekijou/)
+[「バンドリ！TV劇場」](http://gekkan-bushi.com/comics/gbbdtv_gekijou/)
 
-分享
+SHARE
 
 - [https://x.com/intent/tweet?url=https://bang-dream.com/media/bang-dream-tv/&text=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81TV%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88](https://x.com/intent/tweet?url=https://bang-dream.com/media/bang-dream-tv/&text=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81TV%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88)
-- [javascript:void(0);javascript:void(0);)
+- [javascript:void(0);](javascript:void(0);)

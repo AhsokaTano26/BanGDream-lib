@@ -1,41 +1,45 @@
 ---
-title: "长野阿尼埃拉节2025"
-description: "9月14日(周日) RAISE A SUILEN出演"
+title: "ナガノアニエラフェスタ2025"
+description: "9月14日(日) RAISE A SUILEN出演"
 date: ["2025-09-13", "2025-09-14"]
 status: "on_site"
 author: "BanG Dream! Project"
-location: "长野县佐久市 驹场公园"
+location: "長野県佐久市 駒場公園"
 org: ["other"]
 url: "https://bang-dream.com/events/anierafesta2025/"
 ---
 
-<!-- translated-by: deepseek -->
+「ナガノアニエラフェスタ2025」に、バンドリ！よりRAISE A SUILENの出演が決定！
 
-「长野动漫节2025」中，来自BanG Dream!的RAISE A SUILEN确定出演！
+## 公演名
 
-## 演出名称
-
-长野动漫节2025
+ナガノアニエラフェスタ2025
 
 ## 日程
 
-2025年9月13日（周六）・9月14日（周日） 开演12:00（预定）
+2025年9月13日(土)・9月14日(日) 開演12:00(予定)
 
-###### 9月14日（周日）17:55～ TEMPEST STAGE，RAISE A SUILEN出演！https://img.tano.asia/i/2ce5a0be-0321-496d-a1ad-ce8b170f8764.webp)
+###### 9月14日(日) 17:55～ TEMPEST STAGEに、RAISE A SUILENが出演！
 
-## 时间表
+![](/assets/bang-dream/blog/anierafesta2026/d2ab3765f19f99a9.jpg)
 
-!(https://img.tano.asia/i/74560df9-875d-48fc-b8ac-b236e8666deb.webp)
+## タイムテーブル
 
-## 参演艺术家
+![](/assets/bang-dream/blog/anierafesta2025/4318651537a8f372.png)
 
-!(https://img.tano.asia/i/d8bad279-8f21-434a-8489-fba857ac2b5e.webp)
-## 会场
-长野县佐久市 驹场公园
-## 门票
-详情请查看官方网站。[https://aniera-festa.com](https://aniera-festa.com)
-※请仔细阅读官网的注意事项后再购买门票。
+## 出演アーティスト
 
-## 咨询
+![](/assets/bang-dream/blog/anierafesta2025/cf5b4fbb9c0fa662.png)
+
+## 会場
+
+長野県佐久市 駒場公園
+
+## チケット
+
+詳細は公式サイトをご確認ください。[https://aniera-festa.com](https://aniera-festa.com)
+※公式HPの注意事項等をご一読の上チケットをご購入ください。
+
+## お問合せ
 
 [contact@aniera-festa.com](mailto:contact@aniera-festa.com)

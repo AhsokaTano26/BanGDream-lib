@@ -1,6 +1,6 @@
 ---
-title: "Pastel＊Palettes的しゅわりんTV | 媒体 | BanG Dream!（バンドリ！）官方网站"
-description: "BanG Dream!（バンドリ！）官方网站。提供广播、电视、网络配信、直播等的介绍。"
+title: "Pastel＊PalettesのしゅわりんTV | メディア | BanG Dream!（バンドリ！）公式サイト"
+description: "BanG Dream!（バンドリ！）公式サイト。ラジオ、テレビ、配信、生放送等のご案内。"
 date: ""
 author: "BanG Dream! Project"
 org: ["other"]
@@ -9,32 +9,31 @@ type: "online"
 status: "stop"
 ---
 
-<!-- translated-by: deepseek -->
+Media
 
-媒体
+終了
 
-结束
+# Pastel＊PalettesのしゅわりんTV
 
-# Pastel＊Palettes的しゅわりんTV
+![](/assets/bang-dream/media/pspltv/c6c3ca7f90649652.jpg)
 
-![](https://img.tano.asia/i/fa7ea086-4dc2-48be-ae94-09957a4358d1.webp)
+## 番組情報
 
-## 节目信息
+Pastel＊Palettesのメンバーが、 さまざまな企画に挑戦していく、チャレンジ系動画バラエティ番組です！
 
-Pastel＊Palettes的成员挑战各种企划的挑战型视频综艺节目！
+## 放送情報
 
-## 播出信息
+###### [YouTube「バンドリちゃんねる☆」](https://www.youtube.com/channel/UCN-bFIdJM0gQlgX7h6LKcZA?spfreload=5)
 
-###### [YouTube「BanG Dream!频道☆」](https://www.youtube.com/channel/UCN-bFIdJM0gQlgX7h6LKcZA?spfreload=5)
+毎月第1・3金曜日 21:00～ プレミア公開
 
-每月第1、3个星期五 21:00～ 首播
+## 配信アーカイブ
 
-## 直播存档
-
-###### YouTube播放列表在此！
+###### YouTube再生リストはこちら！
 
 [https://www.youtube.com/playlist?list=PLvRmS87ezZfoCj5wa6C8tIXT_cldgNRIk](https://www.youtube.com/playlist?list=PLvRmS87ezZfoCj5wa6C8tIXT_cldgNRIk)
 
 SHARE
 
-- [https://x.com/intent/tweet?url=https://bang-dream.com/media/pspltv/&text=Pastel%EF%BC%8APalettes%E3%81%AE%E3%81%97%E3%82%85%E3%82%8F%E3%82%8A%E3%82%93TV%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88](https://x.com/intent/tweet?url=https://bang-dream.com/media/pspltv/&text=Pastel%EF%BC%8APalettes%E3%81%AE%E3%81%97%E3%82%85%E3%82%8F%E3%82%8A%E3%82%93TV%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88)https://x.com/intent/tweet?url=https://bang-dream.com/media/pspltv/&text=Pastel%EF%BC%8APalettes%E3%81%AE%E3%81%97%E3%82%85%E3%82%8F%E3%82%8A%E3%82%93TV%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88) - [javascript:void(0);](javascript:void(0);)
+- [https://x.com/intent/tweet?url=https://bang-dream.com/media/pspltv/&text=Pastel%EF%BC%8APalettes%E3%81%AE%E3%81%97%E3%82%85%E3%82%8F%E3%82%8A%E3%82%93TV%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88](https://x.com/intent/tweet?url=https://bang-dream.com/media/pspltv/&text=Pastel%EF%BC%8APalettes%E3%81%AE%E3%81%97%E3%82%85%E3%82%8F%E3%82%8A%E3%82%93TV%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88)
+- [javascript:void(0);](javascript:void(0);)

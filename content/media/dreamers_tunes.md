@@ -1,6 +1,6 @@
 ---
-title: "BanG Dream! presents Dreamer's Tunes | 媒体 | BanG Dream!（バンドリ！）官方网站"
-description: "BanG Dream!（バンドリ！）官方网站。提供广播、电视、网络配信、直播等的介绍。"
+title: "BanG Dream! presents Dreamer's Tunes | メディア | BanG Dream!（バンドリ！）公式サイト"
+description: "BanG Dream!（バンドリ！）公式サイト。ラジオ、テレビ、配信、生放送等のご案内。"
 date: ""
 author: "BanG Dream! Project"
 org: ["other"]
@@ -9,41 +9,40 @@ type: "radio"
 status: "stop"
 ---
 
-<!-- translated-by: deepseek -->
+Media
 
-媒体
+終了
 
-结束
+# BanG Dream! presents Dreamer's Tunes
 
-# BanG Dream! 呈现 Dreamer's Tunes
+![](/assets/bang-dream/media/dreamers_tunes/e7d14aee79e4ad00.jpg)
 
-![](https://img.tano.asia/i/8fba7a4c-23cd-4171-b324-672039774904.webp)
+## 番組情報
 
-## 节目信息
+相羽あいなさん（湊友希那役）、豊田萌絵さん（松原花音役）のお二人がお届けするラジオ番組です！
+ライブ・イベント情報やスマートフォン向けゲーム「バンドリ！ ガールズバンドパーティ！」の情報など、バンドリ！プロジェクトについて幅広くお届けしますよ♪
+ニッポン放送・響 - HiBiKi Radio Station -で配信！
+楽屋裏コーナーは響 - HiBiKi Radio Station -にて配信します！
 
-这是由相羽爱奈（饰演凑友希那）和丰田萌绘（饰演松原花音）两位主持的广播节目！
-为您带来关于BanG Dream!项目的广泛信息，包括演唱会/活动信息以及智能手机游戏《BanG Dream! 少女乐团派对！》等信息♪
-在日本放送・响 - HiBiKi Radio Station - 播出！
-后台花絮环节则在响 - HiBiKi Radio Station - 上播出！
+## 放送情報
 
-## 播出信息
+###### [ニッポン放送](https://www.1242.com/bang_dream/)
 
-###### [日本放送](https://www.1242.com/bang_dream/)
+毎週月曜20:30～配信
 
-每周周一20:30～播出
+###### [響 -HiBiKi Radio Station -](https://hibiki-radio.jp/description/dreamers_tunes/detail)
 
-###### [响 -HiBiKi Radio Station -](https://hibiki-radio.jp/description/dreamers_tunes/detail)
+毎週火曜17:00～配信
 
-每周二17:00～播出
+## 配信アーカイブ
 
-## 播出存档
-
-###### 响 -HiBiKi Radio Station -
+###### 響 -HiBiKi Radio Station -
 
 [https://hibiki-radio.jp/description/ras/detail](https://hibiki-radio.jp/description/dreamers_tunes/detail)
-###### [YouTube「BanG Dream!频道☆」](https://www.youtube.com/channel/UCN-bFIdJM0gQlgX7h6LKcZA)
 
-分享
+###### [YouTube「バンドリちゃんねる☆」](https://www.youtube.com/channel/UCN-bFIdJM0gQlgX7h6LKcZA)
+
+SHARE
 
 - [https://x.com/intent/tweet?url=https://bang-dream.com/media/dreamers_tunes/&text=BanG%20Dream!%20presents%20Dreamer's%20Tunes%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88](https://x.com/intent/tweet?url=https://bang-dream.com/media/dreamers_tunes/&text=BanG%20Dream!%20presents%20Dreamer's%20Tunes%20-%20BanG%20Dream!%EF%BC%88%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%EF%BC%81%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88)
-- [javascript:void(0);javascript:void(0);)
+- [javascript:void(0);](javascript:void(0);)

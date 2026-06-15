@@ -1,21 +1,16 @@
 ---
-title: "夢限大みゅーたいぷ"
-description: "跨越梦境与现实的少女乐队，用充满想象力的音乐描绘无限可能。"
-org: ["mxd"]
+title: "夢限大みゅーたいぷ | アーティスト | BanG Dream!（バンドリ！）公式サイト"
+description: "「夢と現実を飛び越える運命共同体」夢限大みゅーたいぷのメンバーをご紹介！"
+date: ""
+author: "BanG Dream! Project"
+org: ["M"]
+url: "https://bang-dream.com/artist/yumemita/"
+founded: ""
 theme:
-  primaryColor: "#FF7788"
+  logo: "/assets/bang-dream/orgs/907d36544d1fd5a2.webp"
+  bgImage: null
 ---
 
-# 夢限大みゅーたいぷ
+[![バンドリ！ ゆめ∞みた](/assets/bang-dream/orgs/yumemita/6f815db0d27a9551.jpg)
 
-夢限大みゅーたいぷ（梦限大缪泰普）是一支充满梦幻色彩的乐队。乐队名寓意着"梦中无限的缪斯类型"，成员们用各自独特的个性和才华，创造出超越想象的音乐世界。
-
-## 成员
-
-| 角色 | 担当 | 应援色 | 声优 |
-|------|------|--------|------|
-| 仲町阿拉蕾 | - | <span style="color:#FFEE55">████</span> #FFEE55 | - |
-| 宫永野乃花 | - | <span style="color:#FFBBCC">████</span> #FFBBCC | - |
-| 峰月律 | - | <span style="color:#4477CC">████</span> #4477CC | - |
-| 藤都子 | - | <span style="color:#9977CC">████</span> #9977CC | - |
-| 千石由乃 | - | <span style="color:#EE5577">████</span> #EE5577 | - |
+### バンドリ！ ゆめ∞みた](https://anime.bang-dream.com/yumemita/)

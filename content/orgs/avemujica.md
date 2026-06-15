@@ -1,21 +1,16 @@
 ---
-title: "Ave Mujica"
-description: "以面具和神秘世界观为特色的少女乐队，用戏剧性的音乐编织出命运的故事。"
-org: ["ave"]
+title: "Ave Mujica | アーティスト | BanG Dream!（バンドリ！）公式サイト"
+description: "ダークな世界観により周囲を呑み込む5人組ガールズバンド。Ave Mujica（アヴェ ムジカ）のメンバーをご紹介！"
+date: ""
+author: "BanG Dream! Project"
+org: ["mygo"]
+url: "https://bang-dream.com/artist/avemujica/"
+founded: ""
 theme:
-  primaryColor: "#881144"
+  logo: "/assets/bang-dream/orgs/907d36544d1fd5a2.webp"
+  bgImage: null
 ---
 
-# Ave Mujica
+[![映画「BanG Dream! Ave Mujica prima aurora」](/assets/bang-dream/orgs/avemujica/039ab1c7d4704245.jpg)
 
-Ave Mujica 是一支以面具和神秘世界观为标志的乐队。她们的演出充满了戏剧性和仪式感，每位成员都隐藏在面具之下，用音乐讲述命运与宿命的故事。黑暗而华丽的舞台风格，使她们在 BanG Dream 企划中独树一帜。
-
-## 成员
-
-| 角色 | 担当 | 应援色 | 声优 |
-|------|------|--------|------|
-| 三角初华 | 吉他 | <span style="color:#BB9955">████</span> #BB9955 | 佐佐木李子 |
-| 若叶睦 | 吉他 | <span style="color:#779977">████</span> #779977 | 渡濑结月 |
-| 八幡海铃 | 贝斯 | <span style="color:#335566">████</span> #335566 | 冈田梦以 |
-| 祐天寺若麦 | 鼓 | <span style="color:#AA4477">████</span> #AA4477 | 米泽茜 |
-| 丰川祥子 | 键盘 | <span style="color:#7799CC">████</span> #7799CC | 高尾奏音 |
+### 映画「BanG Dream! Ave Mujica prima aurora」](https://avemujica-movie.bang-dream.com/)

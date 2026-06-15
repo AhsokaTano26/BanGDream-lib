@@ -9,27 +9,25 @@ org: ["mxd"]
 url: "https://bang-dream.com/events/bm-echoes-festival-2026/"
 ---
 
-<!-- translated-by: deepseek -->
-
-「BM-ECHOES FESTIVAL 2026」中，来自BanG Dream!项目的梦限大みゅーたいぷ将出演！
+「BM-ECHOES FESTIVAL 2026」にBanG Dream!プロジェクトより、夢限大みゅーたいぷの出演が決定！
 
 ## 公演名
 
 BM-ECHOES FESTIVAL 2026
 
-## 日程・会场
+## 日程・会場
 
-日程：2026年9月5日(周六)
-开场：17:00／开演：18:00（预定）
-会场：Zepp Osaka Bayside
-出演：青木阳菜、梦限大みゅーたいぷ、RealRomantic（开场表演）
+日程：2026年9月5日(土)
+開場：17:00／開演：18:00（予定）
+会場：Zepp Osaka Bayside
+出演：青木陽菜、夢限大みゅーたいぷ、RealRomantic（オープニングアクト）
 
-日程：2026年9月6日(周日)
-开场：16:30／开演：17:30（预定）
-会场：Zepp Nagoya
-出演：青木阳菜、梦限大みゅーたいぷ、and more
+日程：2026年9月6日(日)
+開場：16:30／開演：17:30（予定）
+会場：Zepp Nagoya
+出演：青木陽菜、夢限大みゅーたいぷ、and more
 
-## 官方网站
+## 公式サイト
 
 BM-ECHOES FESTIVAL 2026
 
