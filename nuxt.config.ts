@@ -15,7 +15,7 @@ export default defineNuxtConfig({
   nitro: {
     prerender: {
       crawlLinks: true,
-      routes: ['/', '/rss.xml', '/calendar.ics'],
+      routes: ['/', '/rss.xml', '/calendar.ics', '/calendar-birthday.ics', '/calendar-event.ics'],
       failOnError: false,
     }
   },

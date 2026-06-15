@@ -1,7 +1,7 @@
 import { setResponseHeader } from 'h3'
 
 export default defineEventHandler(async (_event) => {
-  const ics = await buildICS('all')
+  const ics = await buildICS('event')
 
   setResponseHeader(_event, 'Content-Type', 'text/calendar; charset=utf-8')
   setResponseHeader(_event, 'Cache-Control', 'public, max-age=3600')

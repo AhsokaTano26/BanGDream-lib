@@ -91,13 +91,36 @@
               </h5>
               <div class="pl-11 space-y-4">
                 <p class="text-gray-200 text-sm m-0">
-                  可将本站日历订阅到你的日历应用中，自动同步所有事件和生日提醒。
+                  可将本站日历订阅到你的日历应用中，自动同步所有事件和生日提醒。提供三个版本，按需选择：
                 </p>
-                <div class="bg-white/5 border border-white/10 rounded-xl p-4 space-y-3">
-                  <p class="text-[10px] font-black text-white/80 uppercase tracking-widest mb-2">订阅地址</p>
-                  <code class="block text-xs text-emerald-300 bg-black/30 rounded-lg px-3 py-2 break-all">
-                    https://bangdream.tano.asia/calendar.ics
-                  </code>
+                <div class="space-y-3">
+                  <div class="bg-white/5 border border-white/10 rounded-xl p-4 space-y-2">
+                    <div class="flex items-center gap-2">
+                      <Icon name="lucide:globe" class="w-3.5 h-3.5 text-emerald-400" />
+                      <p class="text-[10px] font-black text-white/80 uppercase tracking-widest">完整版（活动 + 生日）</p>
+                    </div>
+                    <code class="block text-xs text-emerald-300 bg-black/30 rounded-lg px-3 py-2 break-all">
+                      https://bangdream.tano.asia/calendar.ics
+                    </code>
+                  </div>
+                  <div class="bg-white/5 border border-white/10 rounded-xl p-4 space-y-2">
+                    <div class="flex items-center gap-2">
+                      <Icon name="lucide:party-popper" class="w-3.5 h-3.5 text-amber-400" />
+                      <p class="text-[10px] font-black text-white/80 uppercase tracking-widest">纯活动版（仅活动，不含生日）</p>
+                    </div>
+                    <code class="block text-xs text-amber-300 bg-black/30 rounded-lg px-3 py-2 break-all">
+                      https://bangdream.tano.asia/calendar-event.ics
+                    </code>
+                  </div>
+                  <div class="bg-white/5 border border-white/10 rounded-xl p-4 space-y-2">
+                    <div class="flex items-center gap-2">
+                      <Icon name="lucide:cake" class="w-3.5 h-3.5 text-pink-400" />
+                      <p class="text-[10px] font-black text-white/80 uppercase tracking-widest">纯生日版（仅角色 / 声优生日）</p>
+                    </div>
+                    <code class="block text-xs text-pink-300 bg-black/30 rounded-lg px-3 py-2 break-all">
+                      https://bangdream.tano.asia/calendar-birthday.ics
+                    </code>
+                  </div>
                 </div>
                 <div class="space-y-3">
                   <p class="text-[10px] font-black text-white/80 uppercase tracking-widest">Apple 设备 (iPhone / iPad / Mac)</p>

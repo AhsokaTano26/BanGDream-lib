@@ -78,11 +78,21 @@
           <span class="flex items-center gap-1.5"><i class="w-2 h-2 rounded-full bg-pink-400"></i> 角色生日</span>
           <span class="flex items-center gap-1.5"><i class="w-2 h-2 rounded-full bg-rose-300"></i> 声优生日</span>
         </div>
-        <div class="ml-auto">
+        <div class="ml-auto flex items-center gap-3">
           <a href="/calendar.ics" target="_blank"
-             class="flex items-center gap-1.5 text-[10px] font-bold text-white/60 hover:text-white/90 transition-colors">
-            <Icon name="lucide:calendar-plus" class="w-3.5 h-3.5" />
-            订阅日历
+             class="flex items-center gap-1 text-[9px] font-bold text-white/60 hover:text-emerald-300 transition-colors">
+            <Icon name="lucide:globe" class="w-3 h-3" />
+            完整
+          </a>
+          <a href="/calendar-event.ics" target="_blank"
+             class="flex items-center gap-1 text-[9px] font-bold text-white/60 hover:text-amber-300 transition-colors">
+            <Icon name="lucide:party-popper" class="w-3 h-3" />
+            活动
+          </a>
+          <a href="/calendar-birthday.ics" target="_blank"
+             class="flex items-center gap-1 text-[9px] font-bold text-white/60 hover:text-pink-300 transition-colors">
+            <Icon name="lucide:cake" class="w-3 h-3" />
+            生日
           </a>
         </div>
       </div>
