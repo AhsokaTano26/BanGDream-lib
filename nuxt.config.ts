@@ -8,8 +8,43 @@ export default defineNuxtConfig({
   modules: [
       '@nuxtjs/tailwindcss',
       '@nuxt/content',
-      '@nuxt/icon'
+      '@nuxt/icon',
+      '@vite-pwa/nuxt',
+      '~/modules/content-translated',
   ],
+
+  pwa: {
+    registerType: 'autoUpdate',
+    manifest: {
+      name: 'BanG Dream! 同好会网站',
+      short_name: 'BanG Dream!',
+      description: 'BanG Dream! 粉丝同好会内容存档网站',
+      theme_color: '#5b92e5',
+      background_color: '#1a1a2e',
+      display: 'standalone',
+      icons: [
+        { src: '/ico/favicon.png', sizes: '192x192', type: 'image/png' },
+        { src: '/ico/favicon.png', sizes: '512x512', type: 'image/png' },
+      ],
+    },
+    workbox: {
+      navigateFallback: '/',
+      globPatterns: ['**/*.{js,css,html,png,svg,ico,woff2}'],
+      runtimeCaching: [
+        {
+          urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,
+          handler: 'CacheFirst',
+          options: { cacheName: 'google-fonts-cache', expiration: { maxEntries: 10, maxAgeSeconds: 60 * 60 * 24 * 365 } },
+        },
+        {
+          urlPattern: /^https:\/\/fonts\.gstatic\.com\/.*/i,
+          handler: 'CacheFirst',
+          options: { cacheName: 'gstatic-fonts-cache', expiration: { maxEntries: 10, maxAgeSeconds: 60 * 60 * 24 * 365 } },
+        },
+      ],
+    },
+    client: { installPrompt: true },
+  },
 
   devtools: { enabled: false },
   nitro: {
@@ -48,7 +83,16 @@ export default defineNuxtConfig({
     },
     experimental: {
       search: {
-        indexed: false
+        indexed: true,
+        filterQuery: {},
+        options: {
+          fields: ['title', 'description', 'body'],
+          storeFields: ['title', 'description'],
+          searchOptions: {
+            fuzzy: 0.2,
+            prefix: true,
+          }
+        }
       }
     }
   },

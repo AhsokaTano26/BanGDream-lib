@@ -1,5 +1,12 @@
 <template>
   <aside class="w-full lg:w-72 p-4 md:p-8">
+    <Countdown
+      v-if="nextEvent"
+      :targetDate="nextEventDate"
+      :targetTitle="nextEvent.title"
+      :targetPath="nextEvent.path"
+    />
+
     <h3 class="text-lg font-bold text-gray-300 uppercase tracking-[0.2em] mb-6 flex items-center gap-3">
       <Icon
           :name="'line-md:cog-loop'"
@@ -92,6 +99,13 @@ const { data: upcomingPosts } = await useAsyncData('upcoming-combined', async ()
 
   // 4. 返回前 10 条结果
   return combined.slice(0, 10)
+})
+
+// 最近事件（用于倒计时）
+const nextEvent = computed(() => upcomingPosts.value?.[0] || null)
+const nextEventDate = computed(() => {
+  if (!nextEvent.value) return null
+  return getPrimaryContentDate(nextEvent.value.date)
 })
 
 // 计算距离天数 (用于显示 "Soon" 标签)

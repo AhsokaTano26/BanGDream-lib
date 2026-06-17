@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@nuxt/icon": "^2.2.1",
+    "@vite-pwa/nuxt": "^1.1.1",
     "better-sqlite3": "^12.8.0",
     "lunar-javascript": "^1.7.7",
     "nuxt": "^4.4.2",

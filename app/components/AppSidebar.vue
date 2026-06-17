@@ -18,6 +18,15 @@
         </NuxtLink>
       </div>
 
+      <button
+        @click="searchOpen = true"
+        class="w-full flex items-center gap-3 py-2.5 px-3 mb-4 rounded-xl text-sm text-gray-400 hover:text-white hover:bg-white/5 border border-white/5 transition-all duration-300 group"
+      >
+        <Icon name="lucide:search" class="w-4 h-4" />
+        <span class="flex-1 text-left">搜索</span>
+        <kbd class="hidden lg:inline-flex items-center gap-0.5 px-1.5 py-0.5 bg-white/5 text-[10px] font-mono rounded text-gray-500 group-hover:text-gray-300">⌘K</kbd>
+      </button>
+
       <nav class="space-y-6">
         <div v-for="group in nav" :key="group.title">
           <h3 class="text-[10px] font-black text-gray-100 mb-4 pb-1 border-b border-white/5 uppercase tracking-[0.2em]">
@@ -42,6 +51,10 @@
           </ul>
         </div>
       </nav>
+
+      <div class="mt-auto pt-6">
+        <ThemeToggle />
+      </div>
     </aside>
 
     <Transition
@@ -75,6 +88,7 @@
  */
 // AppSidebar.vue 的 script setup 中
 const isOpen = useState('sidebar-open') // 自动同步 app.vue 中的值
+const searchOpen = useState('search-open', () => false)
 
 const route = useRoute()
 // 移除这里的 watch，因为 app.vue 已经监听了，避免重复逻辑
@@ -122,6 +136,10 @@ const nav = [
       {
         name: '个人收藏',
         path: '/personal/personal'
+      },
+      {
+        name: '历史上的今天',
+        path: '/on-this-day'
       },
     ]
   },

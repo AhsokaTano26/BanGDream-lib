@@ -116,10 +116,8 @@ def main() -> None:
             skip_slugs: set[str] = set()
             if state is None and (collection_dir := CONTENT_ROOT / collection).exists():
                 for path in collection_dir.glob("*.md"):
-                    if not translator:
-                        skip_slugs.add(path.stem)
-                        continue
-                    if is_translated_document(path.read_text(encoding="utf-8", errors="replace"), marker=TRANSLATION_MARKER):
+                    text = path.read_text(encoding="utf-8", errors="replace")
+                    if is_translated_document(text, marker=TRANSLATION_MARKER):
                         skip_slugs.add(path.stem)
 
             items = collect(collection, crawler, limit=args.limit, skip_slugs=skip_slugs, state=state)

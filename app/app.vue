@@ -18,9 +18,16 @@
     </Transition>
 
     <div
-        class="lg:hidden fixed top-0 left-0 right-0 h-16 flex items-center justify-end px-4 z-[110] bg-transparent"
+        class="lg:hidden fixed top-0 left-0 right-0 h-16 flex items-center justify-end gap-2 px-4 z-[110] bg-transparent"
         :style="{ paddingTop: 'calc(env(safe-area-inset-top) + var(--mobile-menu-offset))' }"
     >
+      <button
+          @click="searchOpen = true"
+          aria-label="Search"
+          class="p-3 text-gray-600 hover:text-blue-500 transition-colors bg-white/75 border border-white/80 backdrop-blur-sm rounded-full shadow-sm"
+      >
+        <Icon name="lucide:search" class="w-5 h-5" />
+      </button>
       <button
           @click="isOpen = !isOpen"
           :aria-label="isOpen ? 'Close navigation menu' : 'Open navigation menu'"
@@ -30,6 +37,8 @@
         <Icon v-else name="lucide:x" class="w-6 h-6" />
       </button>
     </div>
+
+    <AppSearch />
 
     <div class="flex flex-col lg:flex-row min-h-screen">
       <AppSidebar
@@ -97,6 +106,7 @@
 <script setup>
 // app.vue 的 script setup 中
 const isOpen = useState('sidebar-open', () => false)
+const searchOpen = useState('search-open', () => false)
 
 // 路由变化时关闭
 const route = useRoute()
@@ -191,6 +201,59 @@ html {
   --mobile-menu-offset-md: 1rem;
   --mobile-main-offset: var(--mobile-menu-offset);
   --desktop-main-offset: 3rem;
+  --surface-bg: rgba(255, 255, 255, 0.05);
+  --surface-border: rgba(255, 255, 255, 0.08);
+  --text-primary: rgba(255, 255, 255, 0.9);
+  --text-secondary: rgba(255, 255, 255, 0.5);
+  --text-muted: rgba(255, 255, 255, 0.3);
+}
+
+/* Light mode overrides */
+:root:not(.dark) {
+  --surface-bg: rgba(0, 0, 0, 0.03);
+  --surface-border: rgba(0, 0, 0, 0.08);
+  --text-primary: rgba(0, 0, 0, 0.85);
+  --text-secondary: rgba(0, 0, 0, 0.5);
+  --text-muted: rgba(0, 0, 0, 0.3);
+}
+
+:root:not(.dark) body {
+  background-color: #f8fafc;
+  color: #1e293b;
+}
+
+:root:not(.dark) .glass-card,
+:root:not(.dark) .bg-white\/5 {
+  background: rgba(0, 0, 0, 0.03) !important;
+}
+
+:root:not(.dark) .text-white\/90,
+:root:not(.dark) .text-white\/80,
+:root:not(.dark) .text-white {
+  color: #1e293b !important;
+}
+
+:root:not(.dark) .text-white\/50,
+:root:not(.dark) .text-white\/40,
+:root:not(.dark) .text-white\/30 {
+  color: #94a3b8 !important;
+}
+
+:root:not(.dark) .border-white\/10,
+:root:not(.dark) .border-white\/5,
+:root:not(.dark) .border-white\/80 {
+  border-color: rgba(0, 0, 0, 0.1) !important;
+}
+
+:root:not(.dark) .bg-white\/10,
+:root:not(.dark) .bg-white\/5 {
+  background: rgba(0, 0, 0, 0.04) !important;
+}
+
+:root:not(.dark) .text-gray-300,
+:root:not(.dark) .text-gray-200,
+:root:not(.dark) .text-gray-100 {
+  color: #475569 !important;
 }
 /* app.vue */
 .page-enter-active,

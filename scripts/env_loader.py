@@ -1,11 +1,15 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import os
 from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
 ENV_PATH = ROOT / ".env"
+
+# Keys that should fall back to OS environment variables in CI
+_CI_ENV_KEYS = ("DEEPSEEK_API_KEY", "IMG_TANO_API_KEY")
 
 
 def _parse_env_line(line: str) -> tuple[str, str] | None:
@@ -28,13 +32,18 @@ def _parse_env_line(line: str) -> tuple[str, str] | None:
 
 def load_repo_env(path: Path | None = None) -> dict[str, str]:
     env_path = path or ENV_PATH
-    if not env_path.exists():
-        return {}
     loaded: dict[str, str] = {}
-    for raw_line in env_path.read_text(encoding="utf-8").splitlines():
-        parsed = _parse_env_line(raw_line)
-        if parsed is None:
-            continue
-        key, value = parsed
-        loaded[key] = value
+    if env_path.exists():
+        for raw_line in env_path.read_text(encoding="utf-8").splitlines():
+            parsed = _parse_env_line(raw_line)
+            if parsed is None:
+                continue
+            key, value = parsed
+            loaded[key] = value
+    # Fall back to OS environment variables (for CI / GitHub Actions)
+    for key in _CI_ENV_KEYS:
+        if key not in loaded:
+            val = os.environ.get(key, "").strip()
+            if val:
+                loaded[key] = val
     return loaded

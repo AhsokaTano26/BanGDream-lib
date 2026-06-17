@@ -20,6 +20,14 @@
           <Icon :name="statusStyle.icon" class="w-2.5 h-2.5" />
           {{ statusStyle.label }}
         </span>
+
+        <span
+          v-if="translatedStyle"
+          :class="['flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 rounded-sm border transition-colors', translatedStyle.class]"
+        >
+          <Icon :name="translatedStyle.icon" class="w-2.5 h-2.5" />
+          {{ translatedStyle.label }}
+        </span>
       </div>
 
       <time class="flex items-center gap-1 text-[9px] md:text-[10px] font-mono px-1.5 py-0.5 bg-blue-50 text-blue-600 rounded-sm border border-blue-100 font-bold">
@@ -81,6 +89,7 @@
 import { computed } from 'vue'
 import { getTagStyle, mapOrgStyles, getContrastTextColor } from "~~/utils/tag-registry";
 import { formatContentDateList } from '~~/utils/content-date'
+import { isTranslated } from '~~/utils/use-translated-map'
 
 /**
  * 接收来自 Nuxt Content 的内容对象
@@ -96,6 +105,16 @@ const props = defineProps({
  * 计算文章类型样式 (主要针对 Timeline, Media)
  */
 const typeStyle = computed(() => getTagStyle('type', props.post.type))
+
+/**
+ * 计算翻译状态样式
+ */
+const translatedStyle = computed(() => {
+  const path = props.post.path
+  if (!path) return null
+  const translated = isTranslated(path)
+  return getTagStyle('translated', translated ? 'yes' : 'no')
+})
 
 /**
  * 计算文章状态样式 (主要针对 Blog, News, Discographies)

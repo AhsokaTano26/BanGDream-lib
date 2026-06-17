@@ -75,6 +75,10 @@ const REGISTRY = {
         yes: { label: '已储存', icon: 'dashicons:yes', class: 'bg-teal-50 text-teal-600 border-teal-100' },
         no: { label: '未储存', icon: 'dashicons:no', class: 'bg-rose-50 text-rose-600 border-rose-100' },
     },
+    translated: {
+        yes: { label: '已翻译', icon: 'lucide:languages', class: 'bg-emerald-50 text-emerald-600 border-emerald-100' },
+        no: { label: '未翻译', icon: 'lucide:languages', class: 'bg-gray-100 text-gray-500 border-gray-200' },
+    },
     // orgs
     location: {
         regional: { label: '地区性', icon: 'lucide:map-pin', class: 'bg-gray-100 text-gray-500 border-gray-200' },
