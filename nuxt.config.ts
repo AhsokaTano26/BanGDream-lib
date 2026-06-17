@@ -35,6 +35,7 @@ export default defineNuxtConfig({
           urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,
           handler: 'CacheFirst',
           options: { cacheName: 'google-fonts-cache', expiration: { maxEntries: 10, maxAgeSeconds: 60 * 60 * 24 * 365 } },
+           maximumFileSizeToCacheInBytes: 10 * 1024 * 1024,
         },
         {
           urlPattern: /^https:\/\/fonts\.gstatic\.com\/.*/i,
