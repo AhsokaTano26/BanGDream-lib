@@ -142,6 +142,10 @@ def main() -> None:
         store.commit()
         print_failure_summary(crawler.image_failures)
 
+        # 修复空正文文件
+        from scripts.repair_content import fix_empty_body_auto
+        fix_empty_body_auto(store)
+
     except KeyboardInterrupt:
         while failure_cursor < len(crawler.image_failures):
             store.insert_image_failure(crawler.image_failures[failure_cursor])

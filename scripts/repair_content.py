@@ -49,6 +49,17 @@ def get_redirect_url(page_url: str) -> str:
         return ""
 
 
+def _get_body(text: str) -> str:
+    """提取正文（跳过翻译标记）。"""
+    if TRANSLATION_MARKER in text:
+        idx = text.index(TRANSLATION_MARKER) + len(TRANSLATION_MARKER)
+        return text[idx:].strip()
+    fm_match = re.match(r"^---\n[\s\S]*?\n---\n?", text)
+    if fm_match:
+        return text[fm_match.end():].strip()
+    return text.strip()
+
+
 def audit_content() -> dict[str, list[dict]]:
     """扫描所有内容目录，返回分类报告。"""
     result: dict[str, list[dict]] = {
@@ -67,15 +78,14 @@ def audit_content() -> dict[str, list[dict]]:
             text = md_file.read_text(encoding="utf-8", errors="replace")
             info: dict = {"path": str(md_file), "collection": collection, "slug": md_file.stem}
 
-            if TRANSLATION_MARKER not in text:
-                result["good"].append(info)
-                continue
-
-            idx = text.index(TRANSLATION_MARKER) + len(TRANSLATION_MARKER)
-            body = text[idx:].strip()
+            body = _get_body(text)
 
             if not body:
                 result["empty_body"].append(info)
+                continue
+
+            if TRANSLATION_MARKER not in text:
+                result["good"].append(info)
                 continue
 
             kana = len(KANA_RE.findall(body))
@@ -196,6 +206,71 @@ def fix_empty_body_files(dry_run: bool = False) -> int:
     sys.stderr.write("\n")
     sys.stderr.flush()
     print(f"空正文修复完成: {fixed}/{total}")
+    return fixed
+
+
+def fix_empty_body_auto(store: object | None = None) -> int:
+    """非交互式修复空正文文件（供 CI 调用）。
+
+    扫描所有 .md 文件，找出正文为空的（不论有无翻译标记），
+    注入占位内容并重置 crawl_state 以便下次重爬。
+    """
+    fixed = 0
+
+    empty_files: list[tuple[Path, str]] = []
+    for collection in COLLECTIONS:
+        dir_path = CONTENT_ROOT / collection
+        if not dir_path.exists():
+            continue
+        for md_file in sorted(dir_path.glob("*.md")):
+            text = md_file.read_text(encoding="utf-8", errors="replace")
+            body = _get_body(text)
+            if not body:
+                empty_files.append((md_file, collection))
+
+    if not empty_files:
+        return 0
+
+    print(f"\n[repair] 发现 {len(empty_files)} 个空正文文件")
+
+    for md_file, collection in empty_files:
+        text = md_file.read_text(encoding="utf-8", errors="replace")
+        url_match = URL_RE.search(text)
+        page_url = url_match.group(1) if url_match else ""
+        slug = md_file.stem
+
+        # 尝试检测跳转目标
+        redirect = get_redirect_url(page_url) if page_url else ""
+
+        # 构建新正文
+        if redirect:
+            new_body = f"\n\n该内容已跳转至：[{redirect}]({redirect})\n"
+        elif page_url:
+            new_body = f"\n\n该内容暂无正文，[查看原文]({page_url})\n"
+        else:
+            new_body = "\n\n"
+
+        # 移除翻译标记（如有），保留 frontmatter
+        if TRANSLATION_MARKER in text:
+            fm_end = text.index(TRANSLATION_MARKER)
+            new_text = text[:fm_end].rstrip() + new_body
+        else:
+            fm_match = re.match(r"^---\n[\s\S]*?\n---\n?", text)
+            if fm_match:
+                new_text = text[:fm_match.end()].rstrip() + new_body
+            else:
+                continue
+
+        md_file.write_text(new_text, encoding="utf-8")
+
+        # 重置 crawl_state，让下次爬取可重试
+        if store is not None and hasattr(store, "delete_crawl_state"):
+            store.delete_crawl_state(collection, slug)
+
+        fixed += 1
+        print(f"  [repair] {collection}/{slug}")
+
+    print(f"[repair] 空正文修复完成: {fixed}/{len(empty_files)}")
     return fixed
 
 

@@ -777,6 +777,17 @@ class Crawler:
                 "org": unique_keep_order(orgs) or ["other"],
                 "url": item["link"],
             }
+            body_html = item.get("content", {}).get("rendered", "")
+            if not body_html.strip():
+                # WordPress API 无内容，尝试抓取实际页面（内容可能由主题模板渲染）
+                try:
+                    soup = self.fetch_html(item["link"])
+                    content_node = soup.select_one(".c-post-content, .p-page-detail__content, .entry-content")
+                    if content_node:
+                        body_html = str(content_node)
+                except Exception:
+                    pass
+
             result.append(
                 CrawlerItem(
                     title=title,
@@ -785,7 +796,7 @@ class Crawler:
                     signature=signature,
                     frontmatter=frontmatter,
                     body_html=self.rewrite_images(
-                        item.get("content", {}).get("rendered", ""),
+                        body_html,
                         subdir=f"blog/{slug}",
                         collection="blog",
                         page_slug=slug,

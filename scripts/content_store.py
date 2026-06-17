@@ -219,6 +219,13 @@ class ContentStore:
         if commit:
             self.conn.commit()
 
+    def delete_crawl_state(self, collection: str, slug: str) -> None:
+        self.conn.execute(
+            "DELETE FROM crawl_state WHERE collection = ? AND slug = ?",
+            (collection, slug),
+        )
+        self.conn.commit()
+
     def get_translation_cache(self, cache_key: str) -> str | None:
         row = self.conn.execute(
             "SELECT translated_text FROM translation_cache WHERE cache_key = ?",
