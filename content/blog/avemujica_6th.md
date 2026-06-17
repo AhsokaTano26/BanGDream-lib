@@ -8,4 +8,5 @@ location: "东京国际论坛 大厅A、大阪格兰立方体 主厅"
 org: ["Ave"]
 url: "https://bang-dream.com/events/avemujica_6th/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.com/avemujica_6th_osaka](https://bang-dream.com/avemujica_6th_osaka)

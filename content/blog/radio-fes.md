@@ -8,4 +8,5 @@ location: "パシフィコ横浜 国立大ホール"
 org: ["other"]
 url: "https://bang-dream.com/events/radio-fes/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.com/radio-fes](https://bang-dream.com/radio-fes)

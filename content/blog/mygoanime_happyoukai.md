@@ -8,4 +8,5 @@ location: "飞艇剧院"
 org: ["mygo"]
 url: "https://bang-dream.com/events/mygoanime_happyoukai/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.com/news/1562](https://bang-dream.com/news/1562)

@@ -21,7 +21,7 @@ url: "https://bang-dream.com/events/anierafesta2025/"
 
 ###### 9月14日(日) 17:55～ TEMPEST STAGEに、RAISE A SUILENが出演！
 
-![](/assets/bang-dream/blog/anierafesta2026/d2ab3765f19f99a9.jpg)
+![](/assets/bang-dream/blog/anierafesta2025/d2ab3765f19f99a9.jpg)
 
 ## タイムテーブル
 

@@ -8,4 +8,5 @@ location: "PIA ARENA MM"
 org: ["other"]
 url: "https://bang-dream.com/events/choujigen2021/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[http://www.choujigen-ongakusai.jp/index.html](http://www.choujigen-ongakusai.jp/index.html)

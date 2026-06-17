@@ -8,4 +8,5 @@ location: "冲绳县"
 org: ["mxd"]
 url: "https://bang-dream.com/events/yumemita_superposition_yumensore_okinawa/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.com/yumemita_superposition_okinawa](https://bang-dream.com/yumemita_superposition_okinawa)

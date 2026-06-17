@@ -8,4 +8,5 @@ location: "有明体育馆"
 org: ["RAS"]
 url: "https://bang-dream.com/events/ariake_ras/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.com/10th-live](https://bang-dream.com/10th-live)

@@ -8,4 +8,5 @@ location: "大阪城大厅、金元大厅（札幌市民会馆）、爱知县艺
 org: ["R"]
 url: "https://bang-dream.com/events/roselia_rosenchor/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.com/rosenchor-shanghai](https://bang-dream.com/rosenchor-shanghai)

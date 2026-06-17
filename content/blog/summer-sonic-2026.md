@@ -21,7 +21,7 @@ SUMMER SONIC 2026
 
 ###### 8月14日(金)大阪公演・16日(日)東京公演にAve Mujicaが出演
 
-![](/assets/bang-dream/blog/25941/5bf48fdb36da738b.jpg)
+![](/assets/bang-dream/blog/summer-sonic-2026/5bf48fdb36da738b.jpg)
 
 ## 出演アーティスト情報
 

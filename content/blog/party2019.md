@@ -8,4 +8,5 @@ location: "池袋 太阳城"
 org: ["other"]
 url: "https://bang-dream.com/events/party2019/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bushiroad.com/gbp_srl2019](https://bushiroad.com/gbp_srl2019)

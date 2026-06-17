@@ -8,4 +8,5 @@ location: "富士急高地·针叶树林"
 org: ["other"]
 url: "https://bang-dream.com/events/8th-live/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.com/8th-live-aug](https://bang-dream.com/8th-live-aug)

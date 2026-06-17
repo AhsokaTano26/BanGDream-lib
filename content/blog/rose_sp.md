@@ -8,4 +8,5 @@ location: "富士急高地·针叶树林"
 org: ["R"]
 url: "https://bang-dream.com/events/rose_sp/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.com/rose_sp](https://bang-dream.com/rose_sp)

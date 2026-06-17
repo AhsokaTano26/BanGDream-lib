@@ -8,4 +8,5 @@ location: "台北・大佳河濱公園"
 org: ["mygo", "Ave"]
 url: "https://bang-dream.com/events/bsl-taipei2026-day1/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.com/bsl-taipei2026](https://bang-dream.com/bsl-taipei2026)

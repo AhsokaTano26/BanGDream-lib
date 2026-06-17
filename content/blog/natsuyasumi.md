@@ -8,4 +8,5 @@ location: "ベルサール秋葉原"
 org: ["other"]
 url: "https://bang-dream.com/events/natsuyasumi/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.bushimo.jp/natsuyasumi/](https://bang-dream.bushimo.jp/natsuyasumi/)

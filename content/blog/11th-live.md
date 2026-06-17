@@ -8,4 +8,5 @@ location: "有明体育馆"
 org: ["other"]
 url: "https://bang-dream.com/events/11th-live/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.com/11th-live](https://bang-dream.com/11th-live)

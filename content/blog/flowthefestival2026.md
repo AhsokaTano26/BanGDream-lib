@@ -21,7 +21,7 @@ FLOW THE FESTIVAL 2026
 
 ###### 6月6日(土) 16:40～RAISE A SUILENが出演
 
-![](/assets/bang-dream/blog/25941/94d146ed5064f73b.jpg)
+![](/assets/bang-dream/blog/flowthefestival2026/94d146ed5064f73b.jpg)
 
 ## タイムテーブル
 

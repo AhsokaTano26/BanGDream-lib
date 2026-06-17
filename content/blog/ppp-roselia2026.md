@@ -503,7 +503,7 @@ Poppin'Party / Roseliaメンバー1名の直筆サイン入り“DREAMS GO ON”
 お客様よりお送りいただくフラワースタンド等のお祝い花についてのご案内を致します。
 フラワースタンド等の祝花をご手配される際は、以下の点にご注意ください。
 
-![](/assets/bang-dream/blog/mygo_9th/dae6ce8a09545772.jpg)
+![](/assets/bang-dream/blog/yumemita_superposition_spinup_tokyo_final/dae6ce8a09545772.jpg)
 
 ・サイズ
 フラワースタンドについては、底辺(スタンド足部分)が40センチ×40センチ、高さが180センチ、全体の横幅が100センチ以下のものでお願いいたします。

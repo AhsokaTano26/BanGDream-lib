@@ -8,4 +8,5 @@ location: "神户世界纪念厅"
 org: ["RAS"]
 url: "https://bang-dream.com/events/ras_sp/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.com/ras_sp](https://bang-dream.com/ras_sp)

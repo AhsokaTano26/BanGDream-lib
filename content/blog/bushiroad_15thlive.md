@@ -8,4 +8,5 @@ location: "ベルーナドーム"
 org: ["other"]
 url: "https://bang-dream.com/events/bushiroad_15thlive/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://live.bushiroad-music.com/bushiroad_15thlive/](https://live.bushiroad-music.com/bushiroad_15thlive/)

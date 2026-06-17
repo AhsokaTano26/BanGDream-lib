@@ -8,4 +8,5 @@ location: "Galaxy Studio"
 org: ["other"]
 url: "https://bang-dream.com/events/gbp_galaxy/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://www.galaxymobile.jp/explore/event/galaxy-bangdream-note10/?cid=jp_links_bd-official_bangdream_20191101](https://www.galaxymobile.jp/explore/event/galaxy-bangdream-note10/?cid=jp_links_bd-official_bangdream_20191101)

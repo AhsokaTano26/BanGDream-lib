@@ -9,4 +9,4 @@ org: ["RAS"]
 url: "https://bang-dream.com/events/13th-live-day3/"
 ---
 
-
+该内容已跳转至：[https://bang-dream.com/13th-live/](https://bang-dream.com/13th-live/)

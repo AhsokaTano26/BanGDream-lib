@@ -8,4 +8,5 @@ location: "六本木BIGHOUSE"
 org: ["mxd"]
 url: "https://bang-dream.com/events/yumemita_preparation/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.com/yumemita_preparation](https://bang-dream.com/yumemita_preparation)

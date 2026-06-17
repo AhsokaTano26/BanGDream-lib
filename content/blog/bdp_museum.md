@@ -8,4 +8,5 @@ location: "各地方会场"
 org: ["other"]
 url: "https://bang-dream.com/events/bdp_museum/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://www.bang-dream-museum.com/](https://www.bang-dream-museum.com/)

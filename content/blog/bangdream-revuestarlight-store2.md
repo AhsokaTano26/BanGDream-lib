@@ -8,4 +8,5 @@ location: "秋叶原CO画廊"
 org: ["other"]
 url: "https://bang-dream.com/events/bangdream-revuestarlight-store2/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bushiroad.com/bd_starlight_store_vol02](https://bushiroad.com/bd_starlight_store_vol02)

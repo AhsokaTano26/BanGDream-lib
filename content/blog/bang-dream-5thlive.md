@@ -8,4 +8,5 @@ location: "幕张展览中心国际展示场1〜3号展厅"
 org: ["other"]
 url: "https://bang-dream.com/events/bang-dream-5thlive/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.com/bang-dream-5thlive](https://bang-dream.com/bang-dream-5thlive)

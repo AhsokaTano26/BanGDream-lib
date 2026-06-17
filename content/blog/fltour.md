@@ -8,4 +8,5 @@ location: ""
 org: ["other"]
 url: "https://bang-dream.com/events/fltour/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://anime.bang-dream.com/filmlive/news/20190909/post-17](https://anime.bang-dream.com/filmlive/news/20190909/post-17)

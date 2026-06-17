@@ -8,4 +8,5 @@ location: "配信会場 有明アリーナ"
 org: ["other"]
 url: "https://bang-dream.com/events/animax2021online/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://www.animax.co.jp/animaxmusix](https://www.animax.co.jp/animaxmusix)

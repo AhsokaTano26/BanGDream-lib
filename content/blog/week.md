@@ -8,4 +8,5 @@ location: "舞滨圆形剧场、大都会人寿巨蛋"
 org: ["other"]
 url: "https://bang-dream.com/events/week/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.com/bangdreamweek](https://bang-dream.com/bangdreamweek)

@@ -8,4 +8,5 @@ location: "多谢竞技场舞洲・The Star Theatre・KOREA UNIV. TIGER DOME・Z
 org: ["R"]
 url: "https://bang-dream.com/events/neuweltfahrt/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.com/neuweltfahrt-tokyo](https://bang-dream.com/neuweltfahrt-tokyo)

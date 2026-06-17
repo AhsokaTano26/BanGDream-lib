@@ -8,4 +8,5 @@ location: ""
 org: ["other"]
 url: "https://bang-dream.com/events/pa-gbp/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.bushimo.jp/pa-gbp/](https://bang-dream.bushimo.jp/pa-gbp/)

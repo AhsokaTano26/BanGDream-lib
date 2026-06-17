@@ -8,4 +8,5 @@ location: "日本武道馆"
 org: ["other"]
 url: "https://bang-dream.com/events/7thlive/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.com/7th-live](https://bang-dream.com/7th-live)

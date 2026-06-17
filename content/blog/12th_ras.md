@@ -8,4 +8,5 @@ location: "东京花园剧场"
 org: ["RAS"]
 url: "https://bang-dream.com/events/12th_ras/"
 ---
-<!-- translated-by: deepseek -->
+
+该内容已跳转至：[https://bang-dream.com/12th-live](https://bang-dream.com/12th-live)

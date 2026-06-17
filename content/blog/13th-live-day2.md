@@ -9,4 +9,4 @@ org: ["mxd"]
 url: "https://bang-dream.com/events/13th-live-day2/"
 ---
 
-
+该内容已跳转至：[https://bang-dream.com/13th-live/](https://bang-dream.com/13th-live/)
