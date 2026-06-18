@@ -77,7 +77,8 @@
 
 import { formatContentDateList, getPrimaryContentDate } from '~~/utils/content-date'
 
-const today = new Date().toISOString().slice(0, 10)
+const now = new Date()
+const today = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`
 
 const { data: upcomingPosts } = await useAsyncData('upcoming-combined', async () => {
   // 1. 并行获取两个集合的数据
