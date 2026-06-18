@@ -8,7 +8,7 @@ import random
 import re
 import sys
 import time
-from datetime import datetime, timedelta
+from datetime import datetime
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
@@ -187,6 +187,33 @@ class Crawler:
         soup, _ = self.fetch_page(url)
         return soup
 
+    def _fetch_content_from_url(self, url: str) -> tuple[str, str]:
+        """尝试从 URL 获取页面内容（自动跟随重定向）。
+
+        用于处理 WordPress API 返回空 content.rendered 的情况：
+        1. 抓取页面（自动跟随 302 跳转）
+        2. 尝试提取正文区域
+        3. 返回 (HTML, 最终URL) 或 ("", 原始URL)
+        """
+        try:
+            soup, final_url = self.fetch_page(url)
+        except Exception as exc:
+            self.progress(f"[content] failed to fetch {url}: {type(exc).__name__}: {exc}")
+            return "", url
+        content_node = soup.select_one(
+            ".c-post-content, .p-page-detail__content, .entry-content, "
+            ".post-content, article .content, .single-content, main .body"
+        )
+        if content_node:
+            return str(content_node), final_url
+        # 回退：尝试 <main> 或 <article> 标签
+        main = soup.select_one("main, article")
+        if main:
+            text = main.get_text(strip=True)
+            if len(text) > 50:
+                return str(main), final_url
+        return "", final_url
+
     def sleep(self) -> None:
         if self.delay > 0:
             time.sleep(self.delay + random.uniform(0, self.jitter))
@@ -200,7 +227,8 @@ class Crawler:
             if attempt > 0:
                 pause = self.backoff ** attempt + random.uniform(0, self.jitter)
                 time.sleep(pause)
-            self.sleep()
+            else:
+                self.sleep()
             try:
                 response = self.session.request(
                     method,
@@ -334,7 +362,8 @@ class Crawler:
         page_slug: str = "",
         page_url: str = "",
     ) -> str:
-        image_url = sanitize_url_for_mdc(urljoin(BASE_URL, image_url)) or urljoin(BASE_URL, image_url)
+        base = page_url or BASE_URL
+        image_url = sanitize_url_for_mdc(urljoin(base, image_url)) or urljoin(base, image_url)
         if not self.download_images:
             return image_url
         if image_url in self.image_cache:
@@ -361,7 +390,6 @@ class Crawler:
                     error=f"{status}",
                 )
             )
-            self.image_cache[image_url] = image_url
             return image_url
         except requests.RequestException as exc:
             self.progress(f"[image] skipped error: {image_url}")
@@ -374,7 +402,6 @@ class Crawler:
                     error=str(exc),
                 )
             )
-            self.image_cache[image_url] = image_url
             return image_url
 
         content_hash = hashlib.sha256(data).hexdigest()
@@ -394,7 +421,7 @@ class Crawler:
             except PermissionError:
                 raise
             except Exception as exc:
-                self.progress(f"[image] upload failed: {image_url}")
+                self.progress(f"[image] upload failed: {image_url} ({type(exc).__name__}: {exc})")
                 self.image_failures.append(
                     ImageFailure(
                         collection=collection or "unknown",
@@ -404,7 +431,6 @@ class Crawler:
                         error=str(exc),
                     )
                 )
-                self.image_cache[image_url] = image_url
                 return image_url
 
             self.image_cache[image_url] = uploaded_url
@@ -423,6 +449,12 @@ class Crawler:
         self.image_cache[image_url] = web_path
         return web_path
 
+    def _dl(self, url: str, subdir: str, collection: str, page_slug: str, page_url: str) -> str:
+        return self.download_image(url, subdir=subdir, collection=collection, page_slug=page_slug, page_url=page_url)
+
+    def _rs(self, srcset: str, subdir: str, collection: str, page_slug: str, page_url: str) -> str:
+        return self.rewrite_srcset(srcset, subdir=subdir, collection=collection, page_slug=page_slug, page_url=page_url)
+
     def rewrite_images(
         self,
         html_text: str,
@@ -432,44 +464,30 @@ class Crawler:
         page_url: str = "",
     ) -> str:
         soup = BeautifulSoup(html_text or "", "html.parser")
+        dl = lambda url: self._dl(url, subdir, collection, page_slug, page_url)
+        rs = lambda s: self._rs(s, subdir, collection, page_slug, page_url)
+
         for img in soup.find_all("img"):
-            src = img.get("src")
-            if src:
-                img["src"] = self.download_image(
-                    src,
-                    subdir=subdir,
-                    collection=collection,
-                    page_slug=page_slug,
-                    page_url=page_url,
-                )
-            data_src = img.get("data-src")
-            if data_src:
-                img["data-src"] = self.download_image(
-                    data_src,
-                    subdir=subdir,
-                    collection=collection,
-                    page_slug=page_slug,
-                    page_url=page_url,
-                )
-            srcset = img.get("srcset")
-            if srcset:
-                img["srcset"] = self.rewrite_srcset(
-                    srcset,
-                    subdir=subdir,
-                    collection=collection,
-                    page_slug=page_slug,
-                    page_url=page_url,
-                )
+            for attr in ("src", "data-src", "data-lazy-src", "data-original"):
+                val = img.get(attr)
+                if val:
+                    img[attr] = dl(val)
+            for attr in ("srcset", "data-srcset"):
+                val = img.get(attr)
+                if val:
+                    img[attr] = rs(val)
+
         for source in soup.find_all("source"):
-            srcset = source.get("srcset")
-            if srcset:
-                source["srcset"] = self.rewrite_srcset(
-                    srcset,
-                    subdir=subdir,
-                    collection=collection,
-                    page_slug=page_slug,
-                    page_url=page_url,
-                )
+            for attr in ("srcset", "data-srcset"):
+                val = source.get(attr)
+                if val:
+                    source[attr] = rs(val)
+
+        for video in soup.find_all("video"):
+            poster = video.get("poster")
+            if poster:
+                video["poster"] = dl(poster)
+
         return str(soup)
 
     def rewrite_srcset(
@@ -529,22 +547,17 @@ class Crawler:
         _, body = split_frontmatter(text)
         return bool(body.strip())
 
-    def should_skip_existing_output(self, collection: str, slug: str) -> bool:
-        path = self.page_path(collection, slug)
-        if not path.exists():
-            return False
-        if self.translator is None:
-            return True
-        return self.has_translated_page(collection, slug)
-
     def should_skip_unchanged(
         self,
         collection: str,
         slug: str,
         signature: str,
-        state: CrawlState | None,
+        state: ContentStore | None,
     ) -> bool:
         if state is None or not state.should_skip(collection, slug, signature):
+            return False
+        # Reprocess pages that had image upload failures
+        if state.has_image_failures(collection, slug):
             return False
         if self.translator is None:
             return True
@@ -643,7 +656,7 @@ class Crawler:
         self,
         limit: int | None = None,
         skip_slugs: set[str] | None = None,
-        state: CrawlState | None = None,
+        state: ContentStore | None = None,
     ) -> list[CrawlerItem]:
         items = self.paginate("posts", limit=limit)
         result: list[CrawlerItem] = []
@@ -661,6 +674,9 @@ class Crawler:
             title = html.unescape(item["title"]["rendered"])
             excerpt = self.text_from_html(item.get("excerpt", {}).get("rendered", ""))
             content_html = item.get("content", {}).get("rendered", "")
+            page_url = item["link"]
+            if not content_html.strip():
+                content_html, page_url = self._fetch_content_from_url(item["link"])
             if not excerpt:
                 excerpt = truncate_text(self.text_from_html(content_html))
             status = "other"
@@ -688,7 +704,7 @@ class Crawler:
                         subdir=f"news/{slug}",
                         collection="news",
                         page_slug=slug,
-                        page_url=item["link"],
+                        page_url=page_url,
                     ),
                 )
             )
@@ -700,7 +716,7 @@ class Crawler:
         self,
         limit: int | None = None,
         skip_slugs: set[str] | None = None,
-        state: CrawlState | None = None,
+        state: ContentStore | None = None,
     ) -> list[CrawlerItem]:
         items = self.paginate("events", limit=limit)
         result: list[CrawlerItem] = []
@@ -778,15 +794,9 @@ class Crawler:
                 "url": item["link"],
             }
             body_html = item.get("content", {}).get("rendered", "")
+            page_url = item["link"]
             if not body_html.strip():
-                # WordPress API 无内容，尝试抓取实际页面（内容可能由主题模板渲染）
-                try:
-                    soup = self.fetch_html(item["link"])
-                    content_node = soup.select_one(".c-post-content, .p-page-detail__content, .entry-content")
-                    if content_node:
-                        body_html = str(content_node)
-                except Exception:
-                    pass
+                body_html, page_url = self._fetch_content_from_url(item["link"])
 
             result.append(
                 CrawlerItem(
@@ -800,7 +810,7 @@ class Crawler:
                         subdir=f"blog/{slug}",
                         collection="blog",
                         page_slug=slug,
-                        page_url=item["link"],
+                        page_url=page_url,
                     ),
                 )
             )
@@ -812,7 +822,7 @@ class Crawler:
         self,
         limit: int | None = None,
         skip_slugs: set[str] | None = None,
-        state: CrawlState | None = None,
+        state: ContentStore | None = None,
     ) -> list[CrawlerItem]:
         items = self.paginate("discographies", limit=limit)
         result: list[CrawlerItem] = []
@@ -828,9 +838,13 @@ class Crawler:
                 continue
             self.progress(f"[discographies] {index}/{total} {slug} fetching")
             title = html.unescape(item["title"]["rendered"])
+            content_html = item.get("content", {}).get("rendered", "")
+            page_url = item["link"]
+            if not content_html.strip():
+                content_html, page_url = self._fetch_content_from_url(item["link"])
             description = self.text_from_html(item.get("excerpt", {}).get("rendered", ""))
             if not description:
-                description = truncate_text(self.text_from_html(item.get("content", {}).get("rendered", "")))
+                description = truncate_text(self.text_from_html(content_html))
             status = "cd"
             for slug_term in self.extract_terms(item, "tax_disco"):
                 status = DISCO_STATUS_MAP.get(slug_term, status)
@@ -852,11 +866,11 @@ class Crawler:
                         "url": item["link"],
                     },
                     body_html=self.rewrite_images(
-                        item.get("content", {}).get("rendered", ""),
+                        content_html,
                         subdir=f"discographies/{slug}",
                         collection="discographies",
                         page_slug=slug,
-                        page_url=item["link"],
+                        page_url=page_url,
                     ),
                 )
             )
@@ -868,7 +882,7 @@ class Crawler:
         self,
         limit: int | None = None,
         skip_slugs: set[str] | None = None,
-        state: CrawlState | None = None,
+        state: ContentStore | None = None,
     ) -> list[CrawlerItem]:
         self.progress("[media] scanning archive")
         return self.build_archive_collection(
@@ -884,7 +898,7 @@ class Crawler:
         self,
         limit: int | None = None,
         skip_slugs: set[str] | None = None,
-        state: CrawlState | None = None,
+        state: ContentStore | None = None,
     ) -> list[CrawlerItem]:
         self.progress("[orgs] scanning archive")
         return self.build_archive_collection(
@@ -903,7 +917,7 @@ class Crawler:
         type_mapping: dict[str, str] | None,
         limit: int | None = None,
         skip_slugs: set[str] | None = None,
-        state: CrawlState | None = None,
+        state: ContentStore | None = None,
     ) -> list[CrawlerItem]:
         soup = self.fetch_html(archive_url)
         detail_links = [
@@ -1193,31 +1207,6 @@ class Crawler:
         match = re.match(r"^\d{4}-\d{2}-\d{2}", value.strip())
         return match.group(0) if match else value.strip()
 
-    def expand_date_range(self, start: str, end: str) -> list[str]:
-        try:
-            start_dt = datetime.strptime(start[:10], "%Y-%m-%d").date()
-            end_dt = datetime.strptime(end[:10], "%Y-%m-%d").date()
-        except ValueError:
-            return [start[:10]]
-        if end_dt < start_dt:
-            return [start_dt.isoformat()]
-        total_days = (end_dt - start_dt).days
-        return [(start_dt + timedelta(days=offset)).isoformat() for offset in range(total_days + 1)]
-
-    def extract_event_dates(
-        self,
-        title: str,
-        description: str,
-        text: str,
-        fallback: str = "",
-    ) -> tuple[str, str | None]:
-        candidates = [title, description, text]
-        for candidate in candidates:
-            date_value, end_date_value = self.parse_event_date_range(candidate)
-            if date_value:
-                return date_value, end_date_value
-        return fallback, None
-
     def parse_event_date_range(self, text: str) -> tuple[str, str | None]:
         match = EVENT_DATE_RANGE_RE.search(normalize_spaces(text))
         if not match:
@@ -1454,7 +1443,7 @@ def collect(
     crawler: Crawler,
     limit: int | None = None,
     skip_slugs: set[str] | None = None,
-    state: CrawlState | None = None,
+    state: ContentStore | None = None,
 ) -> list[CrawlerItem]:
     if collection == "news":
         return crawler.build_news(limit=limit, skip_slugs=skip_slugs, state=state)
@@ -1589,7 +1578,7 @@ def main() -> None:
             output_path = crawler.save_page(page_collection, item)
             store.upsert_page(page_collection, item, output_path)
             if state is not None:
-                store.set_crawl_state(page_collection, item.slug, item.signature)
+                store.set_crawl_state(page_collection, item.slug, item.signature, commit=False)
             while failure_cursor < len(crawler.image_failures):
                 store.insert_image_failure(crawler.image_failures[failure_cursor])
                 failure_cursor += 1
@@ -1611,7 +1600,7 @@ def main() -> None:
                 output_path = crawler.save_page(collection, item)
                 store.upsert_page(collection, item, output_path)
                 if state is not None:
-                    store.set_crawl_state(collection, item.slug, item.signature)
+                    store.set_crawl_state(collection, item.slug, item.signature, commit=False)
                 while failure_cursor < len(crawler.image_failures):
                     store.insert_image_failure(crawler.image_failures[failure_cursor])
                     failure_cursor += 1
@@ -1631,6 +1620,13 @@ def main() -> None:
         store.commit()
         print_failure_summary(crawler.image_failures)
         print("\nInterrupted; progress saved where possible.")
+    except Exception:
+        while failure_cursor < len(crawler.image_failures):
+            store.insert_image_failure(crawler.image_failures[failure_cursor])
+            failure_cursor += 1
+        store.commit()
+        print_failure_summary(crawler.image_failures)
+        raise
     finally:
         store.close()
 

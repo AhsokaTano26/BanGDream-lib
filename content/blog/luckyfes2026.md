@@ -1,13 +1,15 @@
 ---
-title: "LuckyFes'26"
-description: "8月9日(日) RAISE A SUILEN、MyGO!!!!!出演"
+title: "幸运节'26"
+description: "8月9日(周日) RAISE A SUILEN、MyGO!!!!!出演"
 date: ["2026-08-08", "2026-08-09"]
 status: "on_site"
 author: "BanG Dream! Project"
-location: "国営ひたち海浜公園"
+location: "国营常陆海滨公园"
 org: ["RAS", "mygo"]
 url: "https://bang-dream.com/events/luckyfes2026/"
 ---
+
+<!-- translated-by: deepseek -->
 
 「LuckyFes'26」に、バンドリ！からRAISE A SUILEN・MyGO!!!!!の出演が決定！
 
@@ -21,30 +23,30 @@ LuckyFes'26
 
 ###### 8月9日(日)に、RAISE A SUILEN・MyGO!!!!!が出演！
 
-![](/assets/bang-dream/blog/luckyfes2026/f4867395b1637999.jpg)
+![](https://img.tano.asia/i/2ce5a0be-0321-496d-a1ad-ce8b170f8764.webp)
 
-![](/assets/bang-dream/blog/maj_lisani2026/f0eff69051a724a9.jpg)
+![](https://img.tano.asia/i/4a9d164f-c324-4dd9-ba32-757233d015b6.webp)
 
-## 会場
+## 会场
 
-国営ひたち海浜公園（茨城県ひたちなか市）
+国营常陆海滨公园（茨城县常陆那珂市）
 
-## チケット
+## 门票
 
-詳細は公式サイトをご確認ください。
+详情请确认官方网站。
 
 [https://luckyfes.com/](https://luckyfes.com/)
 
-※公式HPの注意事項等をご一読の上チケットをご購入ください。
+※请仔细阅读官网的注意事项等后再购买门票。
 
-## タイムテーブル
+## 时间表
 
-[![](/assets/bang-dream/blog/luckyfes2026/d038e5606a15c90f.png)](https://bang-dream.com/wordpress/wp-content/uploads/2026/06/10011525/60b79776-300c0ff3-0479264d-99234fdb.png)
+[![](https://img.tano.asia/i/26ec5857-e806-4f59-aa2e-2195b4017d15.webp)](https://bang-dream.com/wordpress/wp-content/uploads/2026/06/10011525/60b79776-300c0ff3-0479264d-99234fdb.png)
 
-## 出演予定
+## 演出预定
 
-![](/assets/bang-dream/blog/luckyfes2026/817a3b70086203a5.jpg)
+![https://img.tano.asia/i/c74a9d5d-2dbd-4c77-a961-497968d825d3.webp)
 
-## お問い合わせ
+## 联系我们
 
 [LuckyFes infomation](https://tayori.com/form/0b7d2ea4a73636a2515c265111c41b96add46184)

@@ -1,6 +1,6 @@
 ---
-title: "小説「BanG Dream! バンドリ」文庫版 | メディア | BanG Dream!（バンドリ！）公式サイト"
-description: "BanG Dream!（バンドリ！）公式サイト。ラジオ、テレビ、配信、生放送等のご案内。"
+title: "小説《BanG Dream! バンドリ》文库版 | 媒体 | BanG Dream!（バンドリ！）官方网站"
+description: "BanG Dream!（バンドリ！）官方网站。提供广播、电视、网络配信、直播等的介绍。"
 date: ""
 author: "BanG Dream! Project"
 org: ["other"]
@@ -9,26 +9,26 @@ type: "article"
 status: "finish"
 ---
 
-Media
+<!-- translated-by: deepseek -->
 
-# 小説「BanG Dream! バンドリ」文庫版
+媒体
 
-![](/assets/bang-dream/media/novel/15002fdb0687407a.jpg)
+# 小说「BanG Dream! バンドリ」文库版https://img.tano.asia/i/92d5a9c0-e706-4d58-9449-bf8fc4c02caf.webp)
 
-「バンドリ！」プロジェクトの原典となる小説「BanG Dream! バンドリ」の文庫化が決定！
-電撃文庫より１月10日(木)に刊行予定です。
+「BanG Dream!」项目原典小说《BanG Dream! バンドリ》决定文库化！
+预计于1月10日（周四）由电击文库刊行。
 
-カバーはひと和先生の描き下ろし！
-単行本ではモノクロだったひと和先生のイラストを一部カラーで収録。
-巻末には、Poppin’Partyキャストからの描き下ろしメッセージも！
+封面由ひと和老师全新绘制！
+收录了单行本中原本黑白的ひと和老师插画的部分彩色版本。
+卷末还收录了Poppin'Party成员亲笔绘制的留言！
 
-単行本をお持ちの方も、まだ読んだことがない方も、ぜひお手にとってみてください！
+无论是已经拥有单行本的读者，还是尚未读过的读者，都请务必一读！
 
-### ご購入はこちら
+### 购买请点击这里
 
 ###### [KADOKAWA](https://store.kadokawa.co.jp/shop/g/g321810000221/)
 
-###### [アマゾン](https://www.amazon.co.jp/dp/4049123371)
+###### [亚马逊](https://www.amazon.co.jp/dp/4049123371)
 
 SHARE
 

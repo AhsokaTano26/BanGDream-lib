@@ -6,6 +6,7 @@ import re
 import subprocess
 import sys
 from pathlib import Path
+from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
@@ -47,6 +48,40 @@ def get_redirect_url(page_url: str) -> str:
         return r.stdout.strip()
     except Exception:
         return ""
+
+
+def try_scrape_content(url: str) -> str:
+    """尝试从 URL 抓取页面正文 HTML。仅限 bang-dream.com 域名。"""
+    parsed = urlparse(url)
+    if "bang-dream.com" not in parsed.netloc:
+        return ""
+    try:
+        import importlib
+        bs4_spec = importlib.util.find_spec("bs4")
+        if bs4_spec is None:
+            return ""
+        from bs4 import BeautifulSoup
+        r = subprocess.run(
+            ["curl", "-sL", "-H", "User-Agent: Mozilla/5.0",
+             "--max-time", "15", url],
+            capture_output=True, text=True, timeout=20,
+        )
+        if r.returncode != 0:
+            return ""
+        soup = BeautifulSoup(r.stdout, "html.parser")
+        for selector in [
+            ".c-post-content", ".p-page-detail__content",
+            ".entry-content", ".post-content", "article .content",
+        ]:
+            node = soup.select_one(selector)
+            if node and node.get_text(strip=True):
+                return str(node)
+        main = soup.select_one("main, article")
+        if main and len(main.get_text(strip=True)) > 50:
+            return str(main)
+    except Exception:
+        pass
+    return ""
 
 
 def _get_body(text: str) -> str:
@@ -157,7 +192,7 @@ def fix_empty_body_files(dry_run: bool = False) -> int:
 
     # 先统计总数
     empty_files = []
-    for collection in ["news", "blog"]:
+    for collection in COLLECTIONS:
         dir_path = CONTENT_ROOT / collection
         if not dir_path.exists():
             continue
@@ -183,10 +218,16 @@ def fix_empty_body_files(dry_run: bool = False) -> int:
         # 获取跳转目标
         redirect = get_redirect_url(page_url) if page_url else ""
 
-        # 构建新正文
-        if redirect:
-            new_body = f"\n\n该内容已跳转至：[{redirect}]({redirect})\n"
-        else:
+        # 构建新正文：先尝试抓取跳转目标页面内容
+        new_body = ""
+        target_url = redirect or page_url
+        if target_url:
+            scraped = try_scrape_content(target_url)
+            if scraped:
+                new_body = f"\n\n{scraped}\n"
+            elif redirect:
+                new_body = f"\n\n该内容已跳转至：[{redirect}]({redirect})\n"
+        if not new_body:
             new_body = "\n\n"
 
         # 移除标记，替换正文
@@ -242,12 +283,18 @@ def fix_empty_body_auto(store: object | None = None) -> int:
         # 尝试检测跳转目标
         redirect = get_redirect_url(page_url) if page_url else ""
 
-        # 构建新正文
-        if redirect:
-            new_body = f"\n\n该内容已跳转至：[{redirect}]({redirect})\n"
-        elif page_url:
-            new_body = f"\n\n该内容暂无正文，[查看原文]({page_url})\n"
-        else:
+        # 构建新正文：先尝试抓取跳转目标页面内容
+        new_body = ""
+        target_url = redirect or page_url
+        if target_url:
+            scraped = try_scrape_content(target_url)
+            if scraped:
+                new_body = f"\n\n{scraped}\n"
+            elif redirect:
+                new_body = f"\n\n该内容已跳转至：[{redirect}]({redirect})\n"
+            elif page_url:
+                new_body = f"\n\n该内容暂无正文，[查看原文]({page_url})\n"
+        if not new_body:
             new_body = "\n\n"
 
         # 移除翻译标记（如有），保留 frontmatter

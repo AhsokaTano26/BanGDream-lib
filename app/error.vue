@@ -5,13 +5,13 @@
     <div class="relative z-10 max-w-2xl w-full text-center">
       <div class="relative flex flex-col items-center">
         <h1 class="text-[12rem] md:text-[16rem] font-black text-gray-100/80 leading-none select-none animate-pulse-slow">
-          404
+          {{ error?.statusCode || 404 }}
         </h1>
 
         <div class="absolute inset-0 flex items-center justify-center pt-8">
           <div class="px-6 py-2 bg-white/40 backdrop-blur-md border border-white/20 shadow-xl rounded-lg transform -rotate-2">
-            <p class="text-2xl md:text-3xl font-bold text-gray-800 tracking-tighter">
-              该页面已进入<span class="text-blue-500 underline decoration-wavy decoration-blue-200 underline-offset-8">“幻想乡”</span>
+            <p class=”text-2xl md:text-3xl font-bold text-gray-800 tracking-tighter”>
+              {{ errorMessage }}
             </p>
           </div>
         </div>
@@ -69,10 +69,17 @@ const props = defineProps({
   error: Object as PropType<NuxtError>
 })
 
+const errorMessage = computed(() => {
+  const code = props.error?.statusCode || 404
+  if (code === 404) return '该页面已进入"幻想乡"'
+  if (code >= 500) return '服务器似乎做了一个错误的决定'
+  return `发生了未知错误 (${code})`
+})
+
 const handleError = () => clearError({ redirect: '/' })
 
 useHead({
-  title: '页面找不到了'
+  title: `错误 ${props.error?.statusCode || 404}`
 })
 </script>
 

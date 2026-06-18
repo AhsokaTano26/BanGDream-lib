@@ -1,16 +1,18 @@
 ---
-title: "Ave Mujica | アーティスト | BanG Dream!（バンドリ！）公式サイト"
-description: "ダークな世界観により周囲を呑み込む5人組ガールズバンド。Ave Mujica（アヴェ ムジカ）のメンバーをご紹介！"
+title: "Ave Mujica | 艺术家 | BanG Dream!（バンドリ！）官方网站"
+description: "以黑暗世界观吞噬周围的五人女子乐队。介绍Ave Mujica（アヴェ ムジカ）的成员！"
 date: ""
 author: "BanG Dream! Project"
 org: ["mygo"]
 url: "https://bang-dream.com/artist/avemujica/"
 founded: ""
 theme:
-  logo: "/assets/bang-dream/orgs/907d36544d1fd5a2.webp"
+  logo: "https://img.tano.asia/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp"
   bgImage: null
 ---
 
-[![映画「BanG Dream! Ave Mujica prima aurora」](/assets/bang-dream/orgs/avemujica/039ab1c7d4704245.jpg)
+<!-- translated-by: deepseek -->
 
-### 映画「BanG Dream! Ave Mujica prima aurora」](https://avemujica-movie.bang-dream.com/)
+[![电影「BanG Dream! Ave Mujica prima aurora」](https://img.tano.asia/i/e9d224f9-8ddf-462a-a774-44747f04f77f.webp)
+
+### 电影「BanG Dream! Ave Mujica prima aurora」](https://avemujica-movie.bang-dream.com/)

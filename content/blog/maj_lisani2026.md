@@ -4,31 +4,33 @@ description: "MyGO!!!!!出演"
 date: ["2026-06-09"]
 status: "on_site"
 author: "BanG Dream! Project"
-location: "TOYOTA ARENA TOKYO"
+location: "丰田东京体育馆"
 org: ["mygo"]
 url: "https://bang-dream.com/events/maj_lisani2026/"
 ---
 
-国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN」授賞式にかけて行われる、「MUSIC AWARDS JAPANアワードウィーク」期間に開催の「MUSIC AWARDS JAPAN WEEK SPECIAL LIVE リスアニ！LIVE on TOKYO ANIME MUSIC HIGHLIGHTS」に、BanG Dream!プロジェクトよりMyGO!!!!!の出演が決定。
+<!-- translated-by: deepseek -->
 
-## 公演名
+国内最大规模的国际音乐奖「MUSIC AWARDS JAPAN」颁奖典礼期间举办的「MUSIC AWARDS JAPAN WEEK SPECIAL LIVE リスアニ！LIVE on TOKYO ANIME MUSIC HIGHLIGHTS」中，已确定由BanG Dream!项目旗下的MyGO!!!!!出演。
+
+## 演出名称
 
 MUSIC AWARDS JAPAN WEEK SPECIAL LIVE
 リスアニ！LIVE on TOKYO ANIME MUSIC HIGHLIGHTS
 
-## 日程
+## 日期
 
-2026年6月9日(火)
+2026年6月9日(星期二)
 
-###### バンドリ！より、MyGO!!!!!が出演！
+###### 来自BanG Dream!，MyGO!!!!!将出演！
 
-![](/assets/bang-dream/blog/maj_lisani2026/f0eff69051a724a9.jpg)
+![](https://img.tano.asia/i/4a9d164f-c324-4dd9-ba32-757233d015b6.webp)
 
-## 会場
+## 会场
 
 TOYOTA ARENA TOKYO
 
-## チケット
+## 门票
 
-チケットの受付情報は公式サイトをご確認ください。
+门票受理信息请确认官方网站。
 [https://lisani.jp/live-tamh/](https://lisani.jp/live-tamh/)

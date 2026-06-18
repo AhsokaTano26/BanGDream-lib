@@ -19,7 +19,7 @@ if str(ROOT) not in sys.path:
 
 from scripts.content_store import ContentStore
 from scripts.env_loader import load_repo_env
-from scripts.interactive import ask_str, ask_int, ask_bool, ask_choice
+from scripts.interactive import ask_str, ask_int, ask_float, ask_bool, ask_choice
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -78,6 +78,7 @@ class ImageUploader:
         visibility: str = "private",
         store: ContentStore | None = None,
         retries: int = 4,
+        upload_delay: float = 0.0,
     ) -> None:
         self.session = session
         self.endpoint = endpoint
@@ -85,6 +86,8 @@ class ImageUploader:
         self.visibility = visibility
         self.store = store
         self.retries = retries
+        self.upload_delay = upload_delay
+        self.cache_hits = 0
 
     def upload_bytes(
         self,
@@ -98,10 +101,12 @@ class ImageUploader:
             if local_path:
                 cached = self.store.get_image_upload_by_path(local_path, self.endpoint, self.visibility)
                 if cached and content_hash and cached[0] == content_hash:
+                    self.cache_hits += 1
                     return normalize_uploaded_url(self.endpoint, cached[1])
             if content_hash:
                 cached_url = self.store.get_image_upload_by_hash(content_hash, self.endpoint, self.visibility)
                 if cached_url:
+                    self.cache_hits += 1
                     if local_path:
                         self.store.set_image_upload_cache(local_path, content_hash, cached_url, self.endpoint, self.visibility, commit=False)
                     return normalize_uploaded_url(self.endpoint, cached_url)
@@ -118,7 +123,7 @@ class ImageUploader:
                     self.endpoint,
                     headers=headers,
                     files=files,
-                    timeout=(15, 60),
+                    timeout=(15, 120),
                 )
             except requests.RequestException as exc:
                 last_error = exc
@@ -149,6 +154,8 @@ class ImageUploader:
             url = normalize_uploaded_url(self.endpoint, str(payload["url"]))
             if self.store is not None and local_path and content_hash:
                 self.store.set_image_upload_cache(local_path, content_hash, url, self.endpoint, self.visibility, commit=False)
+            if self.upload_delay > 0:
+                time.sleep(self.upload_delay)
             return url
 
         if last_error is not None:
@@ -237,6 +244,7 @@ def main() -> None:
     visibility = ask_choice("上传可见性", ["private", "public"], default="private")
     endpoint_override = ask_str("上传 endpoint（留空使用默认）", default="")
     limit_raw = ask_int("上传数量限制（留空不限制）", default=None)
+    upload_delay = ask_float("上传间隔（秒，0 不限速）", default=0.0) or 0.0
     dry_run = ask_bool("仅预览不实际上传？", default=False)
 
     env = load_repo_env()
@@ -265,11 +273,11 @@ def main() -> None:
         api_key=api_key if visibility == "private" else "",
         visibility=visibility,
         store=store,
+        upload_delay=upload_delay,
     )
 
     uploads: dict[str, str] = {}
     uploaded = 0
-    reused = 0
     failed: list[str] = []
 
     image_files = [
@@ -338,7 +346,7 @@ def main() -> None:
     if not dry_run:
         store.commit()
 
-    print(f"done: uploaded={uploaded} reused={reused} rewritten={len(modified_files)}")
+    print(f"done: uploaded={uploaded} reused={uploader.cache_hits} rewritten={len(modified_files)}")
     if failed:
         print("failed uploads:")
         for item in failed:

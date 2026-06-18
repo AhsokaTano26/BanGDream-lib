@@ -1,16 +1,18 @@
 ---
-title: "Poppin'Party | アーティスト | BanG Dream!（バンドリ！）公式サイト"
-description: "ガールズバンド時代にキラキラ輝く5人組女子高生バンド。Poppin'Party（ポッピンパーティ）のメンバーをご紹介！"
+title: "Poppin'Party | 艺术家 | BanG Dream!（バンドリ！）官方网站"
+description: "在女子乐队时代闪闪发光的5人女子高中生乐队。介绍Poppin'Party（ポッピンパーティ）的成员！"
 date: ""
 author: "BanG Dream! Project"
 org: ["R"]
 url: "https://bang-dream.com/artist/poppinparty/"
 founded: ""
 theme:
-  logo: "/assets/bang-dream/orgs/907d36544d1fd5a2.webp"
+  logo: "https://img.tano.asia/i/3d5bc732-0be4-4197-984e-9ce4885565e9.webp"
   bgImage: null
 ---
 
-[![BanG Dream!（バンドリ！）](/assets/bang-dream/orgs/poppinparty/00abb2dd924e8da7.png)
+<!-- translated-by: deepseek -->
 
-### BanG Dream!（バンドリ！）](https://anime.bang-dream.com/1st/)
+[![BanG Dream!（邦多利！）](https://img.tano.asia/i/db46baa1-94fc-42a1-a5df-74d11b2e58d8.webp)
+
+### BanG Dream!（邦多利！）](https://anime.bang-dream.com/1st/)

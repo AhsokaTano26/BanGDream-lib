@@ -105,6 +105,7 @@ class ContentStore:
                     continue
                 self.set_crawl_state(str(collection), str(slug), str(signature), commit=False)
         self.conn.commit()
+        path.unlink(missing_ok=True)
 
     def _migrate_translation_json(self, path: Path) -> None:
         if not path.exists():
@@ -129,6 +130,7 @@ class ContentStore:
                 commit=False,
             )
         self.conn.commit()
+        path.unlink(missing_ok=True)
 
     def _migrate_image_cache_json(self, path: Path) -> None:
         if not path.exists():
@@ -153,6 +155,7 @@ class ContentStore:
                 commit=False,
             )
         self.conn.commit()
+        path.unlink(missing_ok=True)
 
     def upsert_page(self, collection: str, item: Any, content_path: Path) -> None:
         self.conn.execute(
@@ -196,6 +199,19 @@ class ContentStore:
                 failure.image_url,
                 failure.error,
             ),
+        )
+
+    def has_image_failures(self, collection: str, slug: str) -> bool:
+        row = self.conn.execute(
+            "SELECT 1 FROM image_failures WHERE collection = ? AND page_slug = ? LIMIT 1",
+            (collection, slug),
+        ).fetchone()
+        return bool(row)
+
+    def clear_image_failures(self, collection: str, slug: str) -> None:
+        self.conn.execute(
+            "DELETE FROM image_failures WHERE collection = ? AND page_slug = ?",
+            (collection, slug),
         )
 
     def should_skip(self, collection: str, slug: str, signature: str) -> bool:

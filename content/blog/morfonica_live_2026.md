@@ -1,6 +1,6 @@
 ---
 title: "Morfonica LIVE「Movement」"
-description: "公演概要 チケット 注意事項 お問合せ 公演名 Morfonica LIVE「Movement」 日程 2026年9月22日(火・祝) 開場17:00／開演18:00（予定） 会場 TACHIKAWA STAGE GARDEN 出演 Morfonica チケット 料金 アリーナスタンディング Sエリア(特製グッズ付き)：22,000円(税込) アリーナスタン…"
+description: "公演概要 门票 注意事项 咨询 公演名称 Morfonica LIVE「Movement」 日期 2026年9月22日(周二・节假日) 开场17:00／开演18:00（预定） 场馆 TACHIKAWA STAGE GARDEN 出演 Morfonica 门票 票价  arena站立 S区(附赠特制周边)：22,000日元(含税) arena站立…"
 date: ["2026-09-22", "2026-06-04", "2026-07-05", "2026-04-22", "2026-05-24"]
 status: "on_site"
 author: "BanG Dream! Project"
@@ -9,20 +9,22 @@ org: ["M"]
 url: "https://bang-dream.com/events/morfonica_live_2026/"
 ---
 
-- [公演概要](#Performance_overview)
-- [チケット](#Ticket)
-- [注意事項](#Notice)
-- [お問合せ](#Contact)
+<!-- translated-by: deepseek -->
 
-## 公演名
+- [演出概要](#Performance_overview)
+- [门票]#Ticket)
+- [注意事项](#Notice)
+- [咨询](#Contact)
+
+## 公演名称
 
 Morfonica LIVE「Movement」
 
 ## 日程
 
-2026年9月22日(火・祝) 開場17:00／開演18:00（予定）
+2026年9月22日(周二・节假日) 开场17:00／开演18:00（预定）
 
-## 会場
+## 会场
 
 TACHIKAWA STAGE GARDEN
 
@@ -30,56 +32,55 @@ TACHIKAWA STAGE GARDEN
 
 Morfonica
 
-## チケット
+## 门票
 
-### 料金
+### 价格
 
-アリーナスタンディング Sエリア(特製グッズ付き)：22,000円(税込)
-アリーナスタンディング Aエリア(特製グッズ付き)：16,500円(税込)
-スタンド指定席(特製グッズ付き)：14,300円(税込)
-スタンド指定席：9,900円(税込)
+站区站位 S区域(附特制周边)：22,000日元(含税)
+站区站位 A区域(附特制周边)：16,500日元(含税)
+看台指定席(附特制周边)：14,300日元(含税)
+看台指定席：9,900日元(含税)
 
-※会場規定により、3階席最前列は着席でのご観覧をお願いさせていただきます。
+※根据会场规定，3楼前排座位请就座观看。
 
-###### グッズ付きチケット特典
+###### 附周边门票特典
 
-・イロドリコースター＋二重奏グラス
+・色彩杯垫＋二重奏杯
 
-※デザインは後日公開いたします。
+※设计将于日后公开。
 
-###### 会場座席イメージ
+###### 会场座位示意图
 
-![](/assets/bang-dream/blog/morfonica_live_2026/d7e3b4b30db4b013.jpg)
+![](https://img.tano.asia/i/c0e75d98-4b16-411c-a633-8a24b1dfe392.webp)
 
-### 販売情報
+### 销售信息
 
-###### プレイガイド先行
+###### 票务平台先行
 
-受付期間：2026年6月4日(木) 23:00 ～ 7月5日(日) 23:59
-受付URL：[https://eplus.jp/morfonica_movement/](https://eplus.jp/morfonica_movement/)
+受理期间：2026年6月4日(周四) 23:00 ～ 7月5日(周日) 23:59
+受理URL：[https://eplus.jp/morfonica_movement/](https://eplus.jp/morfonica_movement/)
+###### 最速先行抽选（受理结束）
 
-###### 最速先行抽選（受付終了）
+受理期间：2026年4月22日(周三) 10:00～5月24日(周日) 23:59
 
-受付期間：2026年4月22日(水) 10:00～ 5月24日(日) 23:59
+※[Morfonica第9张单曲「Resonant Strings」](https://bang-dream.com/discographies/4176/)初回生产批次中附带的申请券可用于申请。
+※每次最多可申请4张。
 
-※[Morfonica 9th Single「Resonant Strings」](https://bang-dream.com/discographies/4176/)初回生産分に封入の申込券でご応募いただけます。
-※1回につき4枚までお申し込みいただけます。
+## 关于演出的注意事项
 
-## 公演に関する注意事項
+关于Bushiroad Music主办现场演出的注意事项，请务必阅读以下链接并遵守。
+[https://bushiroad-music.com/news/321](https://bushiroad-music.com/news/321)https://bushiroad-music.com/news/321)
 
-ブシロードミュージック主催ライブイベントにおける注意事項につきましては、下記リンク先を必ずご一読の上、遵守いただけますようお願い申し上げます。
-[https://bushiroad-music.com/news/321](https://bushiroad-music.com/news/321)
+※其他注意事项将于日后公开。
 
-※その他の注意事項は後日公開いたします。
+## 咨询处
 
-## お問合せ先
+【关于公演的咨询】
+Creative Man Production
+电话号码：03-3499-6669
+咨询时间：周一、周三、周五 12:00～16:00
+[https://www.creativeman.co.jp/](https://www.creativeman.co.jp/)https://www.creativeman.co.jp/)
 
-【公演に関するお問い合わせ】
-クリエイティブマンプロダクション
-電話番号：03-3499-6669
-お問い合わせ時間：月・水・金曜日 12:00～16:00
-[https://www.creativeman.co.jp/](https://www.creativeman.co.jp/)
-
-【チケットに関するお問い合わせ】
-イープラスお客様サポート
+【关于门票的咨询】
+e+客户支持
 [https://support-qa.eplus.jp/](https://support-qa.eplus.jp/)

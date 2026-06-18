@@ -27,7 +27,7 @@ from scripts.env_loader import load_repo_env
 
 CONTENT_ROOT = ROOT / "content"
 
-ALL_COLLECTIONS = ["news", "blog", "discographies", "media", "orgs"]
+ALL_COLLECTIONS = ["news", "blog", "discographies", "media"]
 
 
 def parse_args() -> argparse.Namespace:
@@ -42,6 +42,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--local-images", action="store_true", help="Store images locally instead of uploading")
     parser.add_argument("--limit", type=int, default=None, help="Max items per collection")
     parser.add_argument("--delay", type=float, default=0.0, help="Request delay in seconds")
+    parser.add_argument("--upload-delay", type=float, default=0.5, help="Delay between image uploads in seconds (default: 0.5)")
     parser.add_argument("--db-path", type=str, default=str(DEFAULT_DB_PATH), help="SQLite database path")
     parser.add_argument("--no-resume", action="store_true", help="Disable resume from previous crawl")
     return parser.parse_args()
@@ -85,8 +86,9 @@ def main() -> None:
                 api_key=api_key,
                 visibility="private",
                 store=store,
+                upload_delay=args.upload_delay,
             )
-            print("[images] Image upload enabled")
+            print(f"[images] Image upload enabled (delay={args.upload_delay}s)")
         else:
             print("[images] WARNING: IMG_TANO_API_KEY not set, falling back to local storage")
             image_storage = "local"
@@ -122,10 +124,12 @@ def main() -> None:
 
             items = collect(collection, crawler, limit=args.limit, skip_slugs=skip_slugs, state=state)
             for item in items:
+                # Clear old image failures before reprocessing
+                store.clear_image_failures(collection, item.slug)
                 output_path = crawler.save_page(collection, item)
                 store.upsert_page(collection, item, output_path)
                 if state is not None:
-                    store.set_crawl_state(collection, item.slug, item.signature)
+                    store.set_crawl_state(collection, item.slug, item.signature, commit=False)
                 while failure_cursor < len(crawler.image_failures):
                     store.insert_image_failure(crawler.image_failures[failure_cursor])
                     failure_cursor += 1
@@ -152,6 +156,13 @@ def main() -> None:
         print_failure_summary(crawler.image_failures)
         print("\nInterrupted; progress saved.")
         sys.exit(130)
+    except Exception:
+        while failure_cursor < len(crawler.image_failures):
+            store.insert_image_failure(crawler.image_failures[failure_cursor])
+            failure_cursor += 1
+        store.commit()
+        print_failure_summary(crawler.image_failures)
+        raise
     finally:
         store.close()
 

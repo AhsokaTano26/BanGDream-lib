@@ -9,7 +9,7 @@ on:
       collections:
         description: "Collections to crawl (comma-separated)"
         required: false
-        default: "news,blog,discographies,media,orgs"
+        default: "news,blog,discographies,media"
       no_translate:
         description: "Skip translation"
         required: false
@@ -56,11 +56,11 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           IMG_TANO_API_KEY: ${{ secrets.IMG_TANO_API_KEY }}
         run: |
-          COLLECTIONS="${{ github.event.inputs.collections || 'news,blog,discographies,media,orgs' }}"
+          COLLECTIONS="${{ github.event.inputs.collections || 'news,blog,discographies,media' }}"
           NO_TRANSLATE="${{ github.event.inputs.no_translate || 'false' }}"
           LOCAL_IMAGES="${{ github.event.inputs.local_images || 'false' }}"
 
-          ARGS="--collections $COLLECTIONS --delay 0.5"
+          ARGS="--collections $COLLECTIONS --delay 0.5 --upload-delay 1.0"
           if [ "$NO_TRANSLATE" = "true" ]; then
             ARGS="$ARGS --no-translate"
           fi
@@ -92,4 +92,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git commit -m "chore: auto-update content $(date -u '+%Y-%m-%d')"
+          git pull --rebase
           git push
