@@ -77,29 +77,32 @@
 
 import { formatContentDateList, getPrimaryContentDate } from '~~/utils/content-date'
 
-const now = new Date()
-const today = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`
-
-const { data: upcomingPosts } = await useAsyncData('upcoming-combined', async () => {
-  // 1. 并行获取两个集合的数据
-  const [blogs, activities] = await Promise.all([
+// 静态获取数据（可 SSR/缓存）
+const { data: allPosts } = await useAsyncData('all-combined-posts', () =>
+  Promise.all([
     queryCollection('blog').all(),
     queryCollection('media').all(),
-  ])
+  ]).then(([blogs, activities]) => [...blogs, ...activities])
+)
 
-  // 2. 合并数组
-  const combined = [...blogs, ...activities]
-      .filter((post) => getPrimaryContentDate(post.date) >= today)
+// 客户端动态日期（SSR 时为空，避免构建时间固化）
+const today = ref('')
+onMounted(() => {
+  const now = new Date()
+  today.value = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`
+})
 
-  // 3. 统一排序（升序：离今天最近的排在前面）
-  combined.sort((a, b) => {
+// 根据当前日期动态过滤和排序
+const upcomingPosts = computed(() => {
+  if (!today.value || !allPosts.value) return []
+  const filtered = allPosts.value
+    .filter((post) => getPrimaryContentDate(post.date) >= today.value)
+  filtered.sort((a, b) => {
     const dateA = new Date(getPrimaryContentDate(a.date)).getTime()
     const dateB = new Date(getPrimaryContentDate(b.date)).getTime()
     return dateA - dateB
   })
-
-  // 4. 返回前 10 条结果
-  return combined.slice(0, 10)
+  return filtered.slice(0, 10)
 })
 
 // 最近事件（用于倒计时）
@@ -112,8 +115,8 @@ const nextEventDate = computed(() => {
 // 计算距离天数 (用于显示 "Soon" 标签)
 const getDaysReady = (targetDate) => {
   const firstDate = getPrimaryContentDate(targetDate)
-  if (!firstDate) return Number.POSITIVE_INFINITY
-  const diffTime = new Date(firstDate) - new Date(today)
+  if (!firstDate || !today.value) return Number.POSITIVE_INFINITY
+  const diffTime = new Date(firstDate) - new Date(today.value)
   return Math.ceil(diffTime / (1000 * 60 * 60 * 24))
 }
 </script>
