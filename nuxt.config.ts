@@ -67,6 +67,7 @@ maximumFileSizeToCacheInBytes: 10 * 1024 * 1024,
         { rel: 'icon', type: 'image/x-icon', href: '/ico/favicon.ico' },
         { rel: 'icon', sizes: '32x32', href: '/ico/favicon.png' },
         { rel: 'apple-touch-icon', type: 'image/png', sizes: '180x180', href: '/ico/apple-touch-icon.png' },
+        { rel: 'stylesheet', href: 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css' },
       ],
     },
     pageTransition: {

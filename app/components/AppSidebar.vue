@@ -162,6 +162,10 @@ const nav = [
         name: 'Birthdays',
         path: '/birthdays/birthdays'
       },
+      {
+        name: '同好会地图',
+        path: '/map/map'
+      },
     ]
   },
   {

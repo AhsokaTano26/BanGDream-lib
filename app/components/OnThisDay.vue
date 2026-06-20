@@ -1,5 +1,5 @@
 <template>
-  <div v-if="events.length" class="glass-card rounded-2xl p-6 space-y-4">
+  <div v-if="events?.length" class="glass-card rounded-2xl p-6 space-y-4">
     <div class="flex items-center justify-between">
       <h3 class="text-sm font-black text-white/80 uppercase tracking-[0.15em] flex items-center gap-2">
         <Icon name="lucide:clock" class="w-4 h-4 text-amber-400" />
