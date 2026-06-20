@@ -42,7 +42,7 @@ export default defineNuxtConfig({
           options: { cacheName: 'gstatic-fonts-cache', expiration: { maxEntries: 10, maxAgeSeconds: 60 * 60 * 24 * 365 } },
         },
       ],
-maximumFileSizeToCacheInBytes: 10 * 1024 * 1024,
+      maximumFileSizeToCacheInBytes: 100 * 1024 * 1024,
     },
     client: { installPrompt: true },
   },
